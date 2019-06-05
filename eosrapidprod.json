@@ -1,0 +1,49 @@
+{
+  "bp-header" : {
+    "owner" : "eosrapidprod",
+    "total_votes" : "376186887860184128.00000000000000000",
+    "producer_key" : "EOS8QEFsgUWj7BscQNkiremtpSoRkzwDqmCPpKKCHYXGNaqxXFQ4h",
+    "is_active" : 1,
+    "url" : "http://www.eosrapid.com/",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-06-04T22:08:42.000",
+    "location" : 0,
+    "prepared-url" : "http://www.eosrapid.com/"
+  },
+  "bp-json-summary" : {
+    "url" : "http://www.eosrapid.com/bp.json",
+    "logo" : "https://www.eosrapid.com/logo_256.png",
+    "code_of_conduct" : "https://www.eosrapid.com/info.html"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 1,
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ "https://bloks.io/account/eosrapidprod" ],
+    "popularity-boosters-count" : 1
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.0070158014908924685,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://www.eosrapid.com/"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "http://www.eosrapid.com/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://www.eosrapid.com/info.html"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 57,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

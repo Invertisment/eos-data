@@ -1,0 +1,46 @@
+{
+  "bp-header" : {
+    "owner" : "blockinsider",
+    "total_votes" : "27735639793836.13671875000000000",
+    "producer_key" : "EOS64vt8QewsCC3pkE2mk4P561Khtz39z1SY8SfmignQnMPKSJDym",
+    "is_active" : 1,
+    "url" : "https://www.blockinsider.info/",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 0,
+    "prepared-url" : "https://www.blockinsider.info/"
+  },
+  "bp-json-summary" : {
+    "read-error" : "read:'https://www.blockinsider.info/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "url" : "https://www.blockinsider.info/bp.json"
+  },
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 5.172634913547909E-7,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://www.blockinsider.info/"
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://www.blockinsider.info/bp.json",
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'https://www.blockinsider.info/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 1,
+    "max" : 3
+  },
+  "place" : 303,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

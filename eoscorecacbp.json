@@ -1,0 +1,49 @@
+{
+  "bp-header" : {
+    "owner" : "eoscorecacbp",
+    "total_votes" : "8737027484255.07226562500000000",
+    "producer_key" : "EOS7gTZNbnfZMNjhdSAYcNdZBKuYymNB2wFaG5J8R5BvVfUcNdiAz",
+    "is_active" : 1,
+    "url" : "https://www.ecac.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 0,
+    "prepared-url" : "https://www.ecac.io"
+  },
+  "bp-json-summary" : {
+    "url" : "https://www.ecac.io/bp.json",
+    "logo" : "https://www.ecac.io/images/ecac_logo_256.png",
+    "code_of_conduct" : "https://steemit.com/eos/@ecac/ecac-block-producer-announcement"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 8,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://medium.com/@ECAC", "https://steemit.com/@ecac", "https://t.me/EOS_ECAC", "https://twitter.com/EOS_ECAC" ],
+    "social-links-count" : 4,
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 1.629436124121033E-7,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://www.ecac.io"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://www.ecac.io/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/eos/@ecac/ecac-block-producer-announcement"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 384,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

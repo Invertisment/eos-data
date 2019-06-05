@@ -1,0 +1,40 @@
+{
+  "bp-header" : {
+    "owner" : "spacelan2333",
+    "total_votes" : "21938990188.04589843750000000",
+    "producer_key" : "EOS5c6Zt85UB65E25oCpWH1GgDV2y8N5NPQ8HDVWe7B6cQvhGhPkN",
+    "is_active" : 1,
+    "url" : "",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 0,
+    "prepared-url" : null
+  },
+  "bp-json-summary" : null,
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 4.091572700619335E-10,
+  "scoring" : {
+    "comp" : [ {
+      "title" : "no-web",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    }, {
+      "title" : "no-bp-json-url",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    }, {
+      "title" : "no-coc",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 506,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

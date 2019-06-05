@@ -1,0 +1,41 @@
+{
+  "bp-header" : {
+    "owner" : "111112222255",
+    "total_votes" : "8042760030870.57910156250000000",
+    "producer_key" : "EOS7sddcgcph8oFYGWyCouSsGUakJDMMZMu5wsWXC3SQhP93cAqQ3",
+    "is_active" : 1,
+    "url" : "https://india.com",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 0,
+    "prepared-url" : "https://india.com"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "connect timed out",
+    "url" : "https://india.com/bp.json"
+  },
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 1.4999567937212086E-7,
+  "scoring" : {
+    "comp" : [ {
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "connect timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://india.com/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "connect timed out"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 389,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

@@ -1,0 +1,50 @@
+{
+  "bp-header" : {
+    "owner" : "atticlabeosb",
+    "total_votes" : "919958477628090112.00000000000000000",
+    "producer_key" : "EOS7PfA3A4UdfMu2wKbuXdbHn8EWAxbMnFoFWui4X2zsr2oPwdQJP",
+    "is_active" : 1,
+    "url" : "https://atticlab.net",
+    "unpaid_blocks" : 3823,
+    "last_claim_time" : "2019-06-05T09:00:02.500",
+    "location" : 804,
+    "prepared-url" : "https://atticlab.net"
+  },
+  "bp-json-summary" : {
+    "url" : "https://atticlab.net/bp.json",
+    "logo" : "https://atticlab.net/atticlab-logo-256.png",
+    "code_of_conduct" : "https://steemit.com/eos/@attic-lab/attic-lab-eos-block-producer-candidate"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 15,
+    "duplicate-urls" : null,
+    "social-links" : [ " https://www.reddit.com/user/atticlab_it", "https://github.com/atticlab/", "https://medium.com/eosatticlab", "https://steemit.com/@attic-lab", "https://t.me/atticlabeosb", "https://twitter.com/atticlab_it", "https://www.facebook.com/atticlab/", "https://www.linkedin.com/in/attic-lab-5ab9a2129/", "https://www.reddit.com/user/atticlab_it" ],
+    "social-links-count" : 9,
+    "popularity-boosters" : [ "http://everstake.one/" ],
+    "popularity-boosters-count" : 1
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.017157020266217102,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://atticlab.net"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://atticlab.net/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/eos/@attic-lab/attic-lab-eos-block-producer-candidate"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 5,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

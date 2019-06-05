@@ -1,0 +1,48 @@
+{
+  "bp-header" : {
+    "owner" : "lamboandmoon",
+    "total_votes" : "39170563446901.18750000000000000",
+    "producer_key" : "EOS8UiM8S94i5adQBMq349ggsn4jq6B6izv8eiFY62hyY8VbqETFp",
+    "is_active" : 1,
+    "url" : "http://lamboandmoon.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 0,
+    "prepared-url" : "http://lamboandmoon.io"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "clj-http: status 404",
+    "url" : "http://lamboandmoon.io/bp.json"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 1,
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ "http://httpd.apache.org/docs/2.4/mod/mod_userdir.html", "http://manpages.debian.org/cgi-bin/man.cgi?query=a2disconf", "http://manpages.debian.org/cgi-bin/man.cgi?query=a2dismod", "http://manpages.debian.org/cgi-bin/man.cgi?query=a2dissite", "http://manpages.debian.org/cgi-bin/man.cgi?query=a2enconf", "http://manpages.debian.org/cgi-bin/man.cgi?query=a2enmod", "http://manpages.debian.org/cgi-bin/man.cgi?query=a2ensite", "http://validator.w3.org/check?uri=referer", "https://bugs.launchpad.net/ubuntu/+source/apache2" ],
+    "popularity-boosters-count" : 9
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 7.305222651247908E-7,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://lamboandmoon.io"
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://lamboandmoon.io/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 1,
+    "max" : 3
+  },
+  "place" : 286,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

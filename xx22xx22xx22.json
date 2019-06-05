@@ -1,0 +1,47 @@
+{
+  "bp-header" : {
+    "owner" : "xx22xx22xx22",
+    "total_votes" : "0.00000000000000000",
+    "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
+    "is_active" : 0,
+    "url" : "https://baidu.com",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 0,
+    "prepared-url" : "https://baidu.com"
+  },
+  "bp-json-summary" : {
+    "read-error" : "read:'https://baidu.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "url" : "https://baidu.com/bp.json"
+  },
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ "http://www.hao123.com" ],
+    "popularity-boosters-count" : 1
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.0,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://baidu.com"
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://baidu.com/bp.json",
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'https://baidu.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 1,
+    "max" : 3
+  },
+  "place" : 531,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

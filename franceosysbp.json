@@ -1,0 +1,50 @@
+{
+  "bp-header" : {
+    "owner" : "franceosysbp",
+    "total_votes" : "4634260946470442.00000000000000000",
+    "producer_key" : "EOS7FurktbYTCLzwVpjckHxC2Wx1zuWysUzyjWXhG9fm9E2geV6ZA",
+    "is_active" : 1,
+    "url" : "https://www.franceos.fr",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2018-06-20T18:58:33.500",
+    "location" : 250,
+    "prepared-url" : "https://www.franceos.fr"
+  },
+  "bp-json-summary" : {
+    "url" : "https://www.franceos.fr/bp.json",
+    "logo" : "https://www.franceos.fr/wp-content/uploads/2018/07/franceos-logo-256x256.png",
+    "code_of_conduct" : "https://www.franceos.fr/en/code-of-conduct/"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 3,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://forums.eosgo.io/categories/eos-governance-economics-philosophy", "https://fr.linkedin.com/in/morganphuc", "https://github.com/franceos", "https://steemit.com/@franceos", "https://t.me/franceos", "https://twitter.com/Ben_BitConseil", "https://twitter.com/Cryptosamee/", "https://twitter.com/Er_Tho", "https://twitter.com/LucasErm_", "https://twitter.com/MorganPhuc", "https://twitter.com/franceos__", "https://twitter.com/monsieur_nazim", "https://twitter.com/olinkloo", "https://www.linkedin.com/in/Benoit-Huguet-BitConseil", "https://www.linkedin.com/in/adrien-b-a239b963/", "https://www.linkedin.com/in/adrien-jund-82ab9232/", "https://www.linkedin.com/in/ertho", "https://www.linkedin.com/in/lucas-ermisse-801618134/", "https://www.linkedin.com/in/nazim-morera/", "https://www.linkedin.com/in/romain-didierlaurent-817b02152/", "https://www.linkedin.com/in/sami-benyakoub-816b70163/" ],
+    "social-links-count" : 21,
+    "popularity-boosters" : [ "https://bitconseil.fr", "https://bitconseil.fr/", "https://eosreport.franceos.fr", "https://journalducoin.com", "https://journalducoin.com/", "https://tools.franceos.fr/fr/", "https://www.adapp.tech" ],
+    "popularity-boosters-count" : 7
+  },
+  "p-ram-amounts" : [ "RAM", "384Go de RAM", "256 Go de RAM" ],
+  "vote-percentage" : 8.642793225030231E-5,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://www.franceos.fr"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://www.franceos.fr/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://www.franceos.fr/en/code-of-conduct/"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 131,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

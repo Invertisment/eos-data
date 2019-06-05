@@ -1,0 +1,40 @@
+{
+  "bp-header" : {
+    "owner" : "g44tomzugige",
+    "total_votes" : "694915779149.83593750000000000",
+    "producer_key" : "EOS8Q1hiecGHZy7iGCpyzHYeutNj1g2tKBTxaHhxTe2sBr3eAR11c",
+    "is_active" : 1,
+    "url" : "",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 0,
+    "prepared-url" : null
+  },
+  "bp-json-summary" : null,
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 1.2960024170794962E-8,
+  "scoring" : {
+    "comp" : [ {
+      "title" : "no-web",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    }, {
+      "title" : "no-bp-json-url",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    }, {
+      "title" : "no-coc",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 450,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

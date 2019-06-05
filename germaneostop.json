@@ -1,0 +1,49 @@
+{
+  "bp-header" : {
+    "owner" : "germaneostop",
+    "total_votes" : "875133187782317.37500000000000000",
+    "producer_key" : "EOS83SYvZgxFZxugkzjy1n5cxNr4xYL27wGxDY4yvszDxXWwx9RnW",
+    "is_active" : 1,
+    "url" : "http://www.germaneos.de",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 49,
+    "prepared-url" : "http://www.germaneos.de"
+  },
+  "bp-json-summary" : {
+    "url" : "http://www.germaneos.de/bp.json",
+    "logo" : "http://www.germaneos.de/img/logo-middle.png",
+    "code_of_conduct" : "https://steemit.com/germaneos/@germaneos/germaneos-the-eos-block-producer-candidate-made-in-germany-update-25-05-2018"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 5,
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ "https://snax.one" ],
+    "popularity-boosters-count" : 1
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 1.6321038615930178E-5,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://www.germaneos.de"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "http://www.germaneos.de/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/germaneos/@germaneos/germaneos-the-eos-block-producer-candidate-made-in-germany-update-25-05-2018"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 192,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

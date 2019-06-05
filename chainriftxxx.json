@@ -1,0 +1,50 @@
+{
+  "bp-header" : {
+    "owner" : "chainriftxxx",
+    "total_votes" : "193599763109264576.00000000000000000",
+    "producer_key" : "EOS7RQ6fJTDzZTSoL6tmzXwfs9FLZTUPWDe6pNAhqqWHvcAxG7qdN",
+    "is_active" : 1,
+    "url" : "https://eos.chainrift.com",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-03-07T16:49:44.500",
+    "location" : 705,
+    "prepared-url" : "https://eos.chainrift.com"
+  },
+  "bp-json-summary" : {
+    "url" : "https://eos.chainrift.com/bp.json",
+    "logo" : "https://www.chainrift.com/images/chainrifteos_256.png",
+    "code_of_conduct" : "https://en.wikipedia.org/wiki/Golden_Rule"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 6,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://medium.com/chainrift/chainrift-eos-team-rewarded-with-bounty-for-discovering-eos-ram-exploit-bc3bdb13b1a5", "https://medium.com/chainrift/find-out-which-block-producers-to-vote-for-in-under-a-minute-9703cee079da", "https://t.me/ChainRiftEOS", "https://twitter.com/ChainRiftEOS" ],
+    "social-links-count" : 4,
+    "popularity-boosters" : [ "http://eosboot.chainrift.com:9876", "http://ramtoken.io/", "http://wbiboot.chainrift.com:39876", "https://angel.co/chainrift", "https://docs.google.com/document/d/1YlLogVU5NHfFg5_ysNDJKgkVKyTdalZ_uUXogMhzGCI/edit", "https://eostitan.com/poll/decaf", "https://whichbpstovotefor.com/" ],
+    "popularity-boosters-count" : 7
+  },
+  "p-ram-amounts" : [ "RAM" ],
+  "vote-percentage" : 0.0036105923690865726,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eos.chainrift.com"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eos.chainrift.com/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://en.wikipedia.org/wiki/Golden_Rule"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 92,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

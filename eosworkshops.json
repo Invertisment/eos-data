@@ -1,0 +1,40 @@
+{
+  "bp-header" : {
+    "owner" : "eosworkshops",
+    "total_votes" : "160662119372633.75000000000000000",
+    "producer_key" : "EOS5hxLxSwUXfvoJP2xKr5K3PYDGkWtf6c8dzNEf9ZiHF2jKFW8Md",
+    "is_active" : 1,
+    "url" : "",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 0,
+    "prepared-url" : null
+  },
+  "bp-json-summary" : null,
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 2.9963126653244747E-6,
+  "scoring" : {
+    "comp" : [ {
+      "title" : "no-web",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    }, {
+      "title" : "no-bp-json-url",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    }, {
+      "title" : "no-coc",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 250,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

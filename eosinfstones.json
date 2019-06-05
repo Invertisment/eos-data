@@ -1,0 +1,50 @@
+{
+  "bp-header" : {
+    "owner" : "eosinfstones",
+    "total_votes" : "897825779455547776.00000000000000000",
+    "producer_key" : "EOS6CSvGzNhNxVYbcnWSuheNcfzjGeGBY9trR4YAJ4Yvakq4oCh6y",
+    "is_active" : 1,
+    "url" : "http://infinitystones.io",
+    "unpaid_blocks" : 3564,
+    "last_claim_time" : "2019-06-05T09:43:11.500",
+    "location" : 1,
+    "prepared-url" : "http://infinitystones.io"
+  },
+  "bp-json-summary" : {
+    "url" : "http://infinitystones.io/bp.json",
+    "logo" : "https://infinitystones.io/bp_info/image/logo_256.png",
+    "code_of_conduct" : "https://infinitystones.io/eos"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 2,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://t.me/infstones", "https://twitter.com/infstones" ],
+    "social-links-count" : 2,
+    "popularity-boosters" : [ "https://fb.me/infinity.stones.12327", "https://infstones.io/cloud/", "https://infstones.io/staking/" ],
+    "popularity-boosters-count" : 3
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.016744250385481368,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://infinitystones.io"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "http://infinitystones.io/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://infinitystones.io/eos"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 12,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

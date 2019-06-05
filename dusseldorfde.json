@@ -1,0 +1,48 @@
+{
+  "bp-header" : {
+    "owner" : "dusseldorfde",
+    "total_votes" : "184674134472078.87500000000000000",
+    "producer_key" : "EOS6ybPEYreyyUjwKBq5EA4zVxGQRxRRskk6pxTAbFFS3Gtt3ezJn",
+    "is_active" : 1,
+    "url" : "https://www.eosdusseldorf.de",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2018-11-03T18:05:20.500",
+    "location" : 276,
+    "prepared-url" : "https://www.eosdusseldorf.de"
+  },
+  "bp-json-summary" : {
+    "url" : "https://www.eosdusseldorf.de/bp.json",
+    "logo" : "https://www.eosdusseldorf.de/images/logo/logo-256.png",
+    "code_of_conduct" : "https://www.eosdusseldorf.de/#Disclosures"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 6,
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 3.4441313872694876E-6,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://www.eosdusseldorf.de"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://www.eosdusseldorf.de/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://www.eosdusseldorf.de/#Disclosures"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 245,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

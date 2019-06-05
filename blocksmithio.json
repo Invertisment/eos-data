@@ -1,0 +1,54 @@
+{
+  "bp-header" : {
+    "owner" : "blocksmithio",
+    "total_votes" : "380629092125054016.00000000000000000",
+    "producer_key" : "EOS6XVaKPQNJeyCdKXG3VbLD7VZZbah8jNQBafCySPgzEtnNiM7L8",
+    "is_active" : 1,
+    "url" : "https://eosblocksmith.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-06-05T07:41:01.500",
+    "location" : 840,
+    "prepared-url" : "https://eosblocksmith.io"
+  },
+  "bp-json-summary" : {
+    "url" : "https://eosblocksmith.io/bp.json",
+    "logo" : "https://eosblocksmith.io/images/logos/eosblocksmith_256.jpg",
+    "code_of_conduct" : "https://medium.com/@eosBlockSmith/block-producer-independence-and-integrity-pledge-119f72b49131"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 6,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://github.com/eosBlockSmith", "https://medium.com/@eosBlockSmith", "https://medium.com/@eosBlockSmith/block-producer-independence-and-integrity-pledge-119f72b49131", "https://medium.com/@eosBlockSmith/eos-blocksmith-an-introduction-24f79d3d47a5", "https://medium.com/@eosBlockSmith/eos-blocksmith-disclosure-of-ownership-fcfc57fe3613", "https://steemit.com/@eosblocksmith", "https://t.me/joinchat/FwtiV0tU_Tl-orBNr-uQlw", "https://twitter.com/eosBlockSmith", "https://www.facebook.com/eosblocksmith/", "https://www.youtube.com/channel/UC0UaoraKSMrjBQ7OH-i_XPw" ],
+    "social-links-count" : 10,
+    "popularity-boosters" : [ "http://html5up.net", "https://bitbucket.org/eosblocksmith" ],
+    "popularity-boosters-count" : 2
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.007098647608899394,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eosblocksmith.io"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eosblocksmith.io/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://medium.com/@eosBlockSmith/block-producer-independence-and-integrity-pledge-119f72b49131"
+    }, {
+      "mood" : "warn",
+      "title" : "t-coc-social",
+      "paragraphs" : [ "p-coc-social" ]
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 56,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

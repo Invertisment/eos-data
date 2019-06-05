@@ -1,0 +1,48 @@
+{
+  "bp-header" : {
+    "owner" : "sanfranc1sco",
+    "total_votes" : "36506641453540744.00000000000000000",
+    "producer_key" : "EOS8PmeRSohoVV1ZbGZDk263RDGJVu5H2erYNVxo2dvJ8ZMd4AMjp",
+    "is_active" : 1,
+    "url" : "http://bp.eossf.net",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-01-17T02:15:06.500",
+    "location" : 184,
+    "prepared-url" : "http://bp.eossf.net"
+  },
+  "bp-json-summary" : {
+    "url" : "http://bp.eossf.net/bp.json",
+    "logo" : "https://static1.squarespace.com/static/5be30e2f45776e36f9b82adc/t/5bfb8725352f534626e2818c/1543210845059/branding_256x256.png",
+    "code_of_conduct" : "https://www.eossf.net/coc"
+  },
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ "https://eossf.net", "https://eossf.net/coc", "https://www.eossf.net/owners" ],
+    "popularity-boosters-count" : 3
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 6.808407145557404E-4,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://bp.eossf.net"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "http://bp.eossf.net/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://www.eossf.net/coc"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 106,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

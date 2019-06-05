@@ -1,0 +1,49 @@
+{
+  "bp-header" : {
+    "owner" : "eoshexagonbp",
+    "total_votes" : "223125058023.72241210937500000",
+    "producer_key" : "EOS7TSsuMf5oTg6LvJRNwND8wneHKaS3Z4yXfNLyugN1hHantjQ9L",
+    "is_active" : 1,
+    "url" : "https://eoshexagon.com",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-01-12T04:18:47.000",
+    "location" : 158,
+    "prepared-url" : "https://eoshexagon.com"
+  },
+  "bp-json-summary" : {
+    "url" : "https://eoshexagon.com/bp.json",
+    "logo" : "https://eoshexagon.com/image/logo256.png",
+    "code_of_conduct" : "https://eoshexagon.com/code_of_conduct"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 6,
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ "https://eospark.com/wallet/vote/producers" ],
+    "popularity-boosters-count" : 1
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 4.161232528976678E-9,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eoshexagon.com"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eoshexagon.com/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://eoshexagon.com/code_of_conduct"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 458,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

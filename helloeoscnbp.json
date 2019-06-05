@@ -1,0 +1,50 @@
+{
+  "bp-header" : {
+    "owner" : "helloeoscnbp",
+    "total_votes" : "919539485320064768.00000000000000000",
+    "producer_key" : "EOS79cHpaEittzgJWgj79tdRhgzLEWy8wXmmQ3fL7kkDjmYYiGNet",
+    "is_active" : 1,
+    "url" : "https://www.helloeos.com.cn",
+    "unpaid_blocks" : 564,
+    "last_claim_time" : "2019-06-05T18:29:24.000",
+    "location" : 156,
+    "prepared-url" : "https://www.helloeos.com.cn"
+  },
+  "bp-json-summary" : {
+    "url" : "https://www.helloeos.com.cn/bp.json",
+    "logo" : "https://www.helloeos.com.cn/images/helloeos_256.png",
+    "code_of_conduct" : "https://steemit.com/eos/@helloeos/helloeos-code-of-conduct"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 8,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://eosio.github.io/eos/", "https://github.com/eosio", "https://t.me/helloeos123", "https://twitter.com/helloEOS ", "https://weibo.com/helloEOS123" ],
+    "social-links-count" : 5,
+    "popularity-boosters" : [ "en/", "https://fibos.io/", "https://www.biask.com/", "https://www.chainnode.com/", "https://www.eos.io/", "https://www.helloeos.one/" ],
+    "popularity-boosters-count" : 6
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.017149206153194617,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://www.helloeos.com.cn"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://www.helloeos.com.cn/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/eos/@helloeos/helloeos-code-of-conduct"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 6,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

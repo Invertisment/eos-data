@@ -1,0 +1,50 @@
+{
+  "bp-header" : {
+    "owner" : "aus1genereos",
+    "total_votes" : "331391005279515776.00000000000000000",
+    "producer_key" : "EOS57ZyzVjoEG2bvzmYmmeiH8YnYtRudxNKxppx17q7Hg29F8tW4t",
+    "is_active" : 1,
+    "url" : "https://www.genereos.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-06-05T00:41:45.000",
+    "location" : 36,
+    "prepared-url" : "https://www.genereos.io"
+  },
+  "bp-json-summary" : {
+    "url" : "https://www.genereos.io/bp.json",
+    "logo" : "https://www.genereos.io/wp-content/uploads/2018/07/genereos_256.png",
+    "code_of_conduct" : "https://www.genereos.io/index.php/code-of-conduct"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 10,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://medium.com/@generEOS", "https://steemit.com/@genereos", "https://t.me/generEOS", "https://twitter.com/GenerEOSAus", "https://www.facebook.com/generEOS/", "https://www.linkedin.com/company/genereos/", "https://www.reddit.com/r/GenerEOS/", "https://www.youtube.com/channel/UCFHa6AJmcZBjXGILF2EZnHQ" ],
+    "social-links-count" : 8,
+    "popularity-boosters" : [ "https://eostoolkit.io/" ],
+    "popularity-boosters-count" : 1
+  },
+  "p-ram-amounts" : [ "4TB RAM" ],
+  "vote-percentage" : 0.00618036827953582,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://www.genereos.io"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://www.genereos.io/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://www.genereos.io/index.php/code-of-conduct"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 66,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

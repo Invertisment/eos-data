@@ -1,0 +1,49 @@
+{
+  "bp-header" : {
+    "owner" : "eosswedenorg",
+    "total_votes" : "754432728022016896.00000000000000000",
+    "producer_key" : "EOS7SGSBsWhSob6TEric6u3TGodcc1uXFcqSrquJ3Etuqcbb3VnNY",
+    "is_active" : 1,
+    "url" : "https://eossweden.org",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-06-04T22:36:15.500",
+    "location" : 752,
+    "prepared-url" : "https://eossweden.org"
+  },
+  "bp-json-summary" : {
+    "url" : "https://eossweden.org/bp.json",
+    "logo" : "https://eossweden.org/logo/logo-256.png",
+    "code_of_conduct" : "https://eossweden.org/code-of-conduct/"
+  },
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ "https://steemit.com/@eos.sw-eden", "https://t.me/eossweden", "https://twitter.com/eossweden", "https://www.facebook.com/EOS-sweden-554084258304426/" ],
+    "social-links-count" : 4,
+    "popularity-boosters" : [ "https://bihu.com/people/98843" ],
+    "popularity-boosters-count" : 1
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.01407000198263728,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eossweden.org"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eossweden.org/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://eossweden.org/code-of-conduct/"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 29,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

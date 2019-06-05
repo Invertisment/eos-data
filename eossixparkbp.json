@@ -1,0 +1,41 @@
+{
+  "bp-header" : {
+    "owner" : "eossixparkbp",
+    "total_votes" : "132839784867743.67187500000000000",
+    "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
+    "is_active" : 0,
+    "url" : "http://sixpark.club/",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2018-09-09T17:00:17.000",
+    "location" : 0,
+    "prepared-url" : "http://sixpark.club/"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "connect timed out",
+    "url" : "http://sixpark.club/bp.json"
+  },
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 2.4774323369594293E-6,
+  "scoring" : {
+    "comp" : [ {
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "connect timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://sixpark.club/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "connect timed out"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 254,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

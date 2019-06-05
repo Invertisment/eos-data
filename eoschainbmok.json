@@ -1,0 +1,42 @@
+{
+  "bp-header" : {
+    "owner" : "eoschainbmok",
+    "total_votes" : "45922493073378.93750000000000000",
+    "producer_key" : "EOS6dQ4BGsiDUJeGxbd6ZBjY7WTpWNNBPSa5RKCPp3URdSNTtHR7u",
+    "is_active" : 1,
+    "url" : "http://www.aibilink.com",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 852,
+    "prepared-url" : "http://www.aibilink.com"
+  },
+  "bp-json-summary" : {
+    "url" : "http://www.aibilink.com/bp.json",
+    "logo" : "http://www.aibilink.com/static/imagesg/256.jpg",
+    "code_of_conduct" : " "
+  },
+  "webpage-error" : "www.aibilink.com:443 failed to respond",
+  "vote-percentage" : 8.564442455778935E-7,
+  "scoring" : {
+    "comp" : [ {
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "www.aibilink.com:443 failed to respond",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "http://www.aibilink.com/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : " "
+    } ],
+    "score" : 2,
+    "max" : 3
+  },
+  "place" : 280,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

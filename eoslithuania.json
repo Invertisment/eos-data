@@ -1,0 +1,50 @@
+{
+  "bp-header" : {
+    "owner" : "eoslithuania",
+    "total_votes" : "1706916537882466.50000000000000000",
+    "producer_key" : "EOS8EhBDNGiqHtwhmPyxFqsqAZfirZUzhqvaErbFVbQem7i5QrNXk",
+    "is_active" : 1,
+    "url" : "https://eosio.lt/",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2018-06-27T20:33:30.000",
+    "location" : 0,
+    "prepared-url" : "https://eosio.lt/"
+  },
+  "bp-json-summary" : {
+    "url" : "https://eosio.lt/bp.json",
+    "logo" : "https://eosio.lt/wp-content/uploads/2018/05/cropped-LOGO-W-1.png",
+    "code_of_conduct" : "https://steemit.com/eos/@eoslithuania/eos-lithuania-code-of-conduct"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 1,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://steemit.com/@eoslithuania/", "https://steemit.com/eos/@eoslithuania/eos-lithuania-bp-registration-agreement", "https://steemit.com/eos/@eoslithuania/eos-lithuania-code-of-conduct", "https://steemit.com/eos/@eoslithuania/eos-lithuania-disclosures-and-ownership", "https://youtu.be/Bj6JnVSfPsg" ],
+    "social-links-count" : 5,
+    "popularity-boosters" : [ "http://thenuclearbunker.com", "https://bcgateway.eu/", "https://cryptoeconomy.world", "https://tsociety.io/ " ],
+    "popularity-boosters-count" : 4
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 3.1833612435092804E-5,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eosio.lt/"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eosio.lt/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/eos/@eoslithuania/eos-lithuania-code-of-conduct"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 167,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

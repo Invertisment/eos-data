@@ -1,0 +1,40 @@
+{
+  "bp-header" : {
+    "owner" : "globalappdac",
+    "total_votes" : "13812798320984.60156250000000000",
+    "producer_key" : "EOS8B5HUoLWpnyBY4nWP4VZBehJi2zurFP7dSvYVGSoJbqsTiWokm",
+    "is_active" : 1,
+    "url" : "",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-03-27T05:13:50.500",
+    "location" : 584,
+    "prepared-url" : null
+  },
+  "bp-json-summary" : null,
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 2.576056055674596E-7,
+  "scoring" : {
+    "comp" : [ {
+      "title" : "no-web",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    }, {
+      "title" : "no-bp-json-url",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    }, {
+      "title" : "no-coc",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 362,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

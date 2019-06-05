@@ -1,0 +1,47 @@
+{
+  "bp-header" : {
+    "owner" : "eosarabiaone",
+    "total_votes" : "245331994.11328125000000000",
+    "producer_key" : "EOS6HYaYHMDP52vZi3g4K5aPd2tAEd4m4LseMnm1JHGLm8y8ChiEe",
+    "is_active" : 1,
+    "url" : "https://eosarabia.one",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-05-06T09:44:29.000",
+    "location" : 0,
+    "prepared-url" : "https://eosarabia.one"
+  },
+  "bp-json-summary" : {
+    "url" : "https://eosarabia.one/bp.json",
+    "logo" : "https://eosarabia.one/EOSArabia-Logo256.png",
+    "code_of_conduct" : "https://eosarabia.one/code-of-conduct"
+  },
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 4.5753869302943184E-12,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eosarabia.one"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eosarabia.one/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://eosarabia.one/code-of-conduct"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 527,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

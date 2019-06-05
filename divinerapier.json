@@ -1,0 +1,46 @@
+{
+  "bp-header" : {
+    "owner" : "divinerapier",
+    "total_votes" : "1286854934751.72241210937500000",
+    "producer_key" : "EOS6NZyTuG3NK6APApHhgDkykZrYoeFm1xcSTcpjw4ESXG9DCRrQn",
+    "is_active" : 1,
+    "url" : "http://www.divinerapier.com",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 0,
+    "prepared-url" : "http://www.divinerapier.com"
+  },
+  "bp-json-summary" : {
+    "read-error" : "read:'http://www.divinerapier.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "url" : "http://www.divinerapier.com/bp.json"
+  },
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 2.399955729756584E-8,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://www.divinerapier.com"
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://www.divinerapier.com/bp.json",
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'http://www.divinerapier.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 1,
+    "max" : 3
+  },
+  "place" : 439,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

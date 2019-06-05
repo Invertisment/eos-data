@@ -1,0 +1,48 @@
+{
+  "bp-header" : {
+    "owner" : "cochainworld",
+    "total_votes" : "910026249598663040.00000000000000000",
+    "producer_key" : "EOS5QDSQyh96SmktA28dteEchc1QCVdqKYG4YVDHGGATMYxqy33wi",
+    "is_active" : 1,
+    "url" : "https://eoscochain.io",
+    "unpaid_blocks" : 5890,
+    "last_claim_time" : "2019-06-05T02:56:34.500",
+    "location" : 156,
+    "prepared-url" : "https://eoscochain.io"
+  },
+  "bp-json-summary" : {
+    "url" : "https://eoscochain.io/bp.json",
+    "logo" : "https://eoscochain.io/images/eoscochain-logo-256x256.png",
+    "code_of_conduct" : "https://steemit.com/blockchain/@eoscochain/cochainworld-block-producer-announcement"
+  },
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ "https://t.me/EOSCochainProject" ],
+    "social-links-count" : 1,
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.016971786430415157,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eoscochain.io"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eoscochain.io/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/blockchain/@eoscochain/cochainworld-block-producer-announcement"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 7,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

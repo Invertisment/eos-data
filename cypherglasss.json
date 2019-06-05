@@ -1,0 +1,50 @@
+{
+  "bp-header" : {
+    "owner" : "cypherglasss",
+    "total_votes" : "717427424491478656.00000000000000000",
+    "producer_key" : "EOS54cMjZnzAHdGgoyutVvZ2AtS79wUYZf8oe39DqLB99772r7MbN",
+    "is_active" : 1,
+    "url" : "https://www.cypherglass.com",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-06-05T12:30:02.000",
+    "location" : 840,
+    "prepared-url" : "https://www.cypherglass.com"
+  },
+  "bp-json-summary" : {
+    "url" : "https://www.cypherglass.com/bp.json",
+    "logo" : "https://www.cypherglass.com/Cypherglass_symbol_256.png",
+    "code_of_conduct" : "https://steemit.com/eos/@cypherglass/cypherglass-ownership-and-code-of-conduct"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 12,
+    "duplicate-urls" : null,
+    "social-links" : [ " https://www.youtube.com/channel/UCnXofUeO5w1dO9JGWWDdqPQ", "https://steemit.com/@cypherglass", "https://t.me/cypherglass", "https://twitter.com/cypherglassbp", "https://www.facebook.com/CypherglassBP/", "https://www.linkedin.com/company/cypherglass/", "https://www.youtube.com/watch?v=uw-cLozYUok" ],
+    "social-links-count" : 7,
+    "popularity-boosters" : [ "http://lanp.co/", "https://app.termly.io/document/privacy-policy/2c101891-acca-4078-997f-cb916ce96983", "https://app.termly.io/document/terms-of-use-for-website/c8041f6d-636d-43df-bc62-be331628d81c", "https://glass.cypherglass.com/map/main/top50", "https://windshield.cypherglass.com/" ],
+    "popularity-boosters-count" : 5
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.013379861331650604,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://www.cypherglass.com"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://www.cypherglass.com/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/eos/@cypherglass/cypherglass-ownership-and-code-of-conduct"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 32,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

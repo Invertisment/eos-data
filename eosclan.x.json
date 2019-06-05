@@ -1,0 +1,41 @@
+{
+  "bp-header" : {
+    "owner" : "eosclan.x",
+    "total_votes" : "31972050126130.60937500000000000",
+    "producer_key" : "EOS51cHTZ9AQh6xp4v5LYyM6xWx6CNPkVUzwJZcFjozNmKuvU1Qee",
+    "is_active" : 1,
+    "url" : "https://eosclan.dev",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-02-19T23:39:48.500",
+    "location" : 0,
+    "prepared-url" : "https://eosclan.dev"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "connect timed out",
+    "url" : "https://eosclan.dev/bp.json"
+  },
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 5.962715984539155E-7,
+  "scoring" : {
+    "comp" : [ {
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "connect timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eosclan.dev/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "connect timed out"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 296,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

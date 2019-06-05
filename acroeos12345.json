@@ -1,0 +1,47 @@
+{
+  "bp-header" : {
+    "owner" : "acroeos12345",
+    "total_votes" : "144074388214666784.00000000000000000",
+    "producer_key" : "EOS56PyKoHXwyRkwDzr2uNhgDRioPoq5TwdN8Pm2hQGko7jrup2W5",
+    "is_active" : 1,
+    "url" : "https://acroeos.one",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-03-07T13:44:02.000",
+    "location" : 410,
+    "prepared-url" : "https://acroeos.one"
+  },
+  "bp-json-summary" : {
+    "url" : "https://acroeos.one/bp.json",
+    "logo" : "https://acroeos.one/acroeos_logo_256.jpg",
+    "code_of_conduct" : "https://steemit.com/eos/@acroeos/acroeos-an-eos-block-producer-candidate"
+  },
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.0026869551817328583,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://acroeos.one"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://acroeos.one/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/eos/@acroeos/acroeos-an-eos-block-producer-candidate"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 96,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

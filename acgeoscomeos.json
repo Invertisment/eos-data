@@ -1,0 +1,50 @@
+{
+  "bp-header" : {
+    "owner" : "acgeoscomeos",
+    "total_votes" : "7974933526246.78417968750000000",
+    "producer_key" : "EOS4yrdVJfRDD2jfxV2pNT8UcgaXmZEoa84kuKFJeTsJbZFLtdpVJ",
+    "is_active" : 1,
+    "url" : "https://www.acgeos.com",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-06-02T06:40:54.000",
+    "location" : 840,
+    "prepared-url" : "https://www.acgeos.com"
+  },
+  "bp-json-summary" : {
+    "url" : "https://www.acgeos.com/bp.json",
+    "logo" : "https://meet.one/meetone-256.png",
+    "code_of_conduct" : "https://steemit.com/eos/@meetone/revenue-distribution-of-meet-one"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 2,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://github.com/eosio", "https://twitter.com/acgeos" ],
+    "social-links-count" : 2,
+    "popularity-boosters" : [ "https://www.eos.io/", "https://www.eos.io/resources", "https://www.eosx.io/tools/vote?voteTo=acgeoscomeos" ],
+    "popularity-boosters-count" : 3
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 1.4873073020026533E-7,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://www.acgeos.com"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://www.acgeos.com/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/eos/@meetone/revenue-distribution-of-meet-one"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 396,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

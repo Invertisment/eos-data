@@ -1,0 +1,50 @@
+{
+  "bp-header" : {
+    "owner" : "eosimperabpi",
+    "total_votes" : "1690190979360026.25000000000000000",
+    "producer_key" : "EOS63rCidUQkvk4e4YABXMRzHoPdUYKuSBG38ra8KFnK2vWgHkPf3",
+    "is_active" : 1,
+    "url" : "https://eosimpera.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2018-07-18T08:32:22.500",
+    "location" : 380,
+    "prepared-url" : "https://eosimpera.io"
+  },
+  "bp-json-summary" : {
+    "url" : "https://eosimpera.io/bp.json",
+    "logo" : "https://eosimpera.io/LogoI_256.jpg",
+    "code_of_conduct" : "https://steemit.com/eos/@eosimperabpi/eos-impera-code-of-conduct"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 3,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://github.com/eosimperabpi", "https://github.com/greymass/eos-voter", "https://steemit.com/@eosimperabpi", "https://steemit.com/eos/@eosimperabpi/eos-impera-code-of-conduct", "https://steemit.com/eos/@eosimperabpi/eos-impera-ownership-disclosure", "https://t.me/Imperabp", "https://t.me/eosimpera", "https://t.me/joinchat/AAAAAFJIWcbQIPdDksJvhQ", "https://twitter.com/EOS_Italy", "https://www.youtube.com/channel/UCoSjOxM7ycy2fW7nicEutsg" ],
+    "social-links-count" : 10,
+    "popularity-boosters" : [ "https://discordapp.com/invite/a7TUdNE", "https://monitor.telosfoundation.io/", "https://telostracker.io/monitor", "https://www.eosx.io/account/eosimperabpi" ],
+    "popularity-boosters-count" : 4
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 3.1521684501917846E-5,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eosimpera.io"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eosimpera.io/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/eos/@eosimperabpi/eos-impera-code-of-conduct"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 168,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

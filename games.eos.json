@@ -1,0 +1,40 @@
+{
+  "bp-header" : {
+    "owner" : "games.eos",
+    "total_votes" : "546455279354400832.00000000000000000",
+    "producer_key" : "EOS8RPaLn29zeBcjFfQzS1Pb1VoyJkGY7ePATzFbfgWvf9LJkTmvC",
+    "is_active" : 1,
+    "url" : "",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-06-05T06:10:30.000",
+    "location" : 0,
+    "prepared-url" : null
+  },
+  "bp-json-summary" : null,
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.010191268987093369,
+  "scoring" : {
+    "comp" : [ {
+      "title" : "no-web",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    }, {
+      "title" : "no-bp-json-url",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    }, {
+      "title" : "no-coc",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 41,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

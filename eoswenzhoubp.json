@@ -1,0 +1,41 @@
+{
+  "bp-header" : {
+    "owner" : "eoswenzhoubp",
+    "total_votes" : "1961007378440265.50000000000000000",
+    "producer_key" : "EOS5SQjv1G8uaxqkXh6Z5nWbKqumhGj91NMq7qkYuvT9YS45QcZsA",
+    "is_active" : 1,
+    "url" : "http://eoswz.com",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2018-07-08T09:25:08.000",
+    "location" : 0,
+    "prepared-url" : "http://eoswz.com"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "Connection refused (Connection refused)",
+    "url" : "http://eoswz.com/bp.json"
+  },
+  "webpage-error" : "Connection refused (Connection refused)",
+  "vote-percentage" : 3.657234989653797E-5,
+  "scoring" : {
+    "comp" : [ {
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Connection refused (Connection refused)",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://eoswz.com/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "Connection refused (Connection refused)"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 155,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

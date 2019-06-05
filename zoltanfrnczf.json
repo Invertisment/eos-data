@@ -1,0 +1,41 @@
+{
+  "bp-header" : {
+    "owner" : "zoltanfrnczf",
+    "total_votes" : "26214428448812.83984375000000000",
+    "producer_key" : "EOS7CjQE88nHLrUBFpHjJnEhgcaXyQUk4qm7DH3Gu2rfHyqz2qV3X",
+    "is_active" : 1,
+    "url" : "http://zoltaneos.ddns.net",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 0,
+    "prepared-url" : "http://zoltaneos.ddns.net"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "zoltaneos.ddns.net",
+    "url" : "http://zoltaneos.ddns.net/bp.json"
+  },
+  "webpage-error" : "zoltaneos.ddns.net: No address associated with hostname",
+  "vote-percentage" : 4.888932393157469E-7,
+  "scoring" : {
+    "comp" : [ {
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "zoltaneos.ddns.net: No address associated with hostname",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://zoltaneos.ddns.net/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "zoltaneos.ddns.net"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 306,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

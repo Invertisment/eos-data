@@ -1,0 +1,41 @@
+{
+  "bp-header" : {
+    "owner" : "eoseafricabp",
+    "total_votes" : "881855966351499.75000000000000000",
+    "producer_key" : "EOS6jaMmqFUAtt4mc3uLmd6cZDbsKbrNqbm3vZV5Ruh9d4X2FBjha",
+    "is_active" : 1,
+    "url" : "https://www.eoseafrica.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2018-07-17T08:57:49.000",
+    "location" : 0,
+    "prepared-url" : "https://www.eoseafrica.io"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "www.eoseafrica.io",
+    "url" : "https://www.eoseafrica.io/bp.json"
+  },
+  "webpage-error" : "www.eoseafrica.io: Name or service not known",
+  "vote-percentage" : 1.6446416935671455E-5,
+  "scoring" : {
+    "comp" : [ {
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "www.eoseafrica.io: Name or service not known",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://www.eoseafrica.io/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "www.eoseafrica.io"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 191,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

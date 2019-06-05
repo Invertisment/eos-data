@@ -1,0 +1,47 @@
+{
+  "bp-header" : {
+    "owner" : "eoscleanerbp",
+    "total_votes" : "296703345351678976.00000000000000000",
+    "producer_key" : "EOS78TFJoRhhQBbAwvdknietfteVYt4GW8bdKSPnw3t3eWHfLrKG4",
+    "is_active" : 1,
+    "url" : "https://eoscleaner.com",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-06-05T08:25:49.500",
+    "location" : 392,
+    "prepared-url" : "https://eoscleaner.com"
+  },
+  "bp-json-summary" : {
+    "url" : "https://eoscleaner.com/bp.json",
+    "logo" : "https://eoscleaner.com/images/eoscleaner-256.jpg"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 7,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://github.com/eoscleaner", "https://steemit.com/@eoscleanerbp", "https://twitter.com/eoscleaner" ],
+    "social-links-count" : 3,
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.0055334511644243075,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eoscleaner.com"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eoscleaner.com/bp.json"
+    }, {
+      "title" : "no-coc",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    } ],
+    "score" : 2,
+    "max" : 3
+  },
+  "place" : 72,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

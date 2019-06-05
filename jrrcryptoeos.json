@@ -1,0 +1,41 @@
+{
+  "bp-header" : {
+    "owner" : "jrrcryptoeos",
+    "total_votes" : "194020045417599168.00000000000000000",
+    "producer_key" : "EOS7JR4vL3P2qgPwfMagZDqAtRLjB38qQCe6xw87gefVV73x85bsw",
+    "is_active" : 1,
+    "url" : "http://www.eosjrr.io/",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-06-05T10:22:32.000",
+    "location" : 0,
+    "prepared-url" : "http://www.eosjrr.io/"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "www.eosjrr.io",
+    "url" : "http://www.eosjrr.io/bp.json"
+  },
+  "webpage-error" : "www.eosjrr.io: Name or service not known",
+  "vote-percentage" : 0.0036184305403268884,
+  "scoring" : {
+    "comp" : [ {
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "www.eosjrr.io: Name or service not known",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://www.eosjrr.io/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "www.eosjrr.io"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 91,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

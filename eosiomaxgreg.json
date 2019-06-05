@@ -1,0 +1,41 @@
+{
+  "bp-header" : {
+    "owner" : "eosiomaxgreg",
+    "total_votes" : "14930949778256.33593750000000000",
+    "producer_key" : "EOS8EuhRZqdtdBUGeDYNqHEJKyDRnEFih67cS3goHfqGMW32kdshw",
+    "is_active" : 1,
+    "url" : "/",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 0,
+    "prepared-url" : "http:///"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "no protocol: /bp.json",
+    "url" : "/bp.json"
+  },
+  "webpage-error" : "URI does not specify a valid host name: http:///",
+  "vote-percentage" : 2.7845888066588953E-7,
+  "scoring" : {
+    "comp" : [ {
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "URI does not specify a valid host name: http:///",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "no protocol: /bp.json"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 344,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

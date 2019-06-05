@@ -1,0 +1,47 @@
+{
+  "bp-header" : {
+    "owner" : "icekkkkkkkkk",
+    "total_votes" : "44971733215.01153564453125000",
+    "producer_key" : "EOS6H39Xn9BNxaLHH9ssPHuJd7QPhFXTydfXLm26Zcka4sB4AKsPG",
+    "is_active" : 1,
+    "url" : "http://bp.kristjanmik.is/bp.json",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 0,
+    "prepared-url" : "http://bp.kristjanmik.is"
+  },
+  "bp-json-summary" : {
+    "url" : "http://bp.kristjanmik.is/bp.json",
+    "logo" : "https://www.eoscanada.com/hubfs/eos-canada-logo-square-256px.png",
+    "code_of_conduct" : "https://www.bp.kristjanmik.is/coc.html"
+  },
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 8.387127864359845E-10,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://bp.kristjanmik.is/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "http://bp.kristjanmik.is/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://www.bp.kristjanmik.is/coc.html"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 489,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

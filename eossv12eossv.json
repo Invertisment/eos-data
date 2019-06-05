@@ -1,0 +1,49 @@
+{
+  "bp-header" : {
+    "owner" : "eossv12eossv",
+    "total_votes" : "895023142206336000.00000000000000000",
+    "producer_key" : "EOS7fv6nadePJBdCiWyR2Ldz5YWyzJGMBkEo47zUSWFttduQhHHaa",
+    "is_active" : 1,
+    "url" : "https://eossiliconvalley.io",
+    "unpaid_blocks" : 504,
+    "last_claim_time" : "2019-06-05T18:40:19.500",
+    "location" : 840,
+    "prepared-url" : "https://eossiliconvalley.io"
+  },
+  "bp-json-summary" : {
+    "url" : "https://eossiliconvalley.io/bp.json",
+    "logo" : "https://www.eossiliconvalley.io/eossv_logo_256.jpg",
+    "code_of_conduct" : "https://steemit.com/eos/@eossv/eos-silicon-valley-block-producer-candidate-roadmap-and-position-on-dividends"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 7,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://medium.com/@eossiliconvalley", "https://steemit.com/@eossv", "https://steemit.com/eos/@eossv/eos-silicon-valley-block-producer-candidate-roadmap-and-position-on-dividends", "https://steemit.com/eos/@eossv/eos-silicon-valley-ownership-disclosure", "https://t.me/eossv", "https://twitter.com/EOS_SV", "https://www.facebook.com/EOS-Silicon-Valley-168362600677072/", "https://www.meetup.com/EOS-Silicon-Valley-Community/", "https://www.reddit.com/user/EOS_SV", "https://www.youtube.com/channel/UCxcXyUzH5Vmcg2iUl3o0NhA", "https://youtu.be/XjFhmlmGqGo" ],
+    "social-links-count" : 11,
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.016691981826352963,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eossiliconvalley.io"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eossiliconvalley.io/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/eos/@eossv/eos-silicon-valley-block-producer-candidate-roadmap-and-position-on-dividends"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 15,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

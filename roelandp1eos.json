@@ -1,0 +1,47 @@
+{
+  "bp-header" : {
+    "owner" : "roelandp1eos",
+    "total_votes" : "1784068413298831.00000000000000000",
+    "producer_key" : "EOS5XRWPRrffCsdkyNeq5mZoaFNA2JTKPLx8x3rkPsCAUmR4wqhUx",
+    "is_active" : 1,
+    "url" : "https://roelandp.nl/eos",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2018-06-19T11:24:39.500",
+    "location" : 0,
+    "prepared-url" : "https://roelandp.nl/eos"
+  },
+  "bp-json-summary" : {
+    "url" : "https://roelandp.nl/eos/bp.json",
+    "logo" : "https://avatars0.githubusercontent.com/u/248064"
+  },
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ "https://github.com/EOSIO/eos/issues/2016", "https://github.com/roelandp", "https://keybase.io/roelandp", "https://steemit.com/introduceyourself/@roelandp/my-proper-introduceyourself-hello-i-m-roelandp" ],
+    "social-links-count" : 4,
+    "popularity-boosters" : [ "Streamed", "http://eosslc.com/arrowhead/", "http://jungle.cryptolions.io:9898/monitor3/", "https://EOS.io", "https://shoudio.com" ],
+    "popularity-boosters-count" : 5
+  },
+  "p-ram-amounts" : [ "RAM" ],
+  "vote-percentage" : 3.327247769073791E-5,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://roelandp.nl/eos"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://roelandp.nl/eos/bp.json"
+    }, {
+      "title" : "no-coc",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    } ],
+    "score" : 2,
+    "max" : 3
+  },
+  "place" : 166,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

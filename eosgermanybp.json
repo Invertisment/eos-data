@@ -1,0 +1,50 @@
+{
+  "bp-header" : {
+    "owner" : "eosgermanybp",
+    "total_votes" : "9430223997003348.00000000000000000",
+    "producer_key" : "EOS6KTbE5ktt6snuTGoQYFibvC3w86T7NVpYLhUFamNNPNJxgUSZ8",
+    "is_active" : 1,
+    "url" : "https://eosgermany.one",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2018-06-18T13:50:03.000",
+    "location" : 0,
+    "prepared-url" : "https://eosgermany.one"
+  },
+  "bp-json-summary" : {
+    "url" : "https://eosgermany.one/bp.json",
+    "logo" : "https://eosgermanybp.keybase.pub/branding/logo_256.png",
+    "code_of_conduct" : "https://steemit.com/eosgermany/@eosgermany/code-of-conduct-eos-germany"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 14,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://steemit.com/@eosgermany", "https://telegram.me/share/url?url=https%3A%2F%2Feosgermany.one%2F&text=Home", "https://twitter.com/EOSGermany1", "https://twitter.com/share?url=https%3A%2F%2Feosgermany.one%2F&text=Home", "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Feosgermany.one%2F", "https://www.linkedin.com/company/eos-germany/", "https://www.pinterest.com/pin/create/link/?url=https%3A%2F%2Feosgermany.one%2F&media=https%3A%2F%2Feosgermany.one%2Fwp-content%2Fplugins%2Fshariff%2Fimages%2FdefaultHint.png&description=Home" ],
+    "social-links-count" : 7,
+    "popularity-boosters" : [ "?s=", "http://ct.de/-2467514", "https://wa.me/?text=Home%20https%3A%2F%2Feosgermany.one%2F", "https://www.xing.com/spi/shares/new?url=https%3A%2F%2Feosgermany.one%2F", "sms:?&body=https%3A%2F%2Feosgermany.one%2F" ],
+    "popularity-boosters-count" : 5
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 1.7587157264826214E-4,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eosgermany.one"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eosgermany.one/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/eosgermany/@eosgermany/code-of-conduct-eos-germany"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 119,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

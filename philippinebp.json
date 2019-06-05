@@ -1,0 +1,50 @@
+{
+  "bp-header" : {
+    "owner" : "philippinebp",
+    "total_votes" : "42514657247329472.00000000000000000",
+    "producer_key" : "EOS76UAdwK6qUcYH7BkxczdQn1KykW6ujKkF6dmJw6HiCx8Sp3sMb",
+    "is_active" : 1,
+    "url" : "https://eosph.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-05-15T14:14:06.000",
+    "location" : 8,
+    "prepared-url" : "https://eosph.io"
+  },
+  "bp-json-summary" : {
+    "url" : "https://eosph.io/bp.json",
+    "logo" : "https://www.eosph.io/eos256x256PNG.png",
+    "code_of_conduct" : "https://www.eosph.io/#roadmap"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 2,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md", "https://t.me/eos_ph", "https://www.facebook.com/eospages2019?modal=admin_todo_tour", "https://www.facebook.com/eospages2019?view_public_for=648105902290164" ],
+    "social-links-count" : 4,
+    "popularity-boosters" : [ "https://extendthemes.com/go/built-with-highlight/", "https://snax.one/", "https://www.infinitowallet.io/", "https://www.infinitowallet.io/download/" ],
+    "popularity-boosters-count" : 4
+  },
+  "p-ram-amounts" : [ "RAM" ],
+  "vote-percentage" : 7.928888680762708E-4,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eosph.io"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eosph.io/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://www.eosph.io/#roadmap"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 105,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

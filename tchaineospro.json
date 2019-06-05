@@ -1,0 +1,48 @@
+{
+  "bp-header" : {
+    "owner" : "tchaineospro",
+    "total_votes" : "17954306928840.05468750000000000",
+    "producer_key" : "EOS8eW7gGhAwB3nxAPLvhWbtSipUN2SogtZsiLErJ981grPoLLFon",
+    "is_active" : 1,
+    "url" : "http://thetchain.com/eos",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2018-06-14T23:10:47.500",
+    "location" : 0,
+    "prepared-url" : "http://thetchain.com/eos"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "clj-http: status 404",
+    "url" : "http://thetchain.com/eos/bp.json"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 6,
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ "http://deepcybe.com", "http://yeswici.com/ui/w/p/", "https://aws.amazon.com/marketplace/pp/B01JJ31R8C", "https://docs.google.com/forms/d/e/1FAIpQLSeVF97R890_1McAmUvlHAbes25C_7T76-Uzvaf5QrVZktYGwA/viewform", "https://en.wikipedia.org/wiki/KodakCoin", "https://onlinelibrary.wiley.com/doi/book/10.1002/9781119201724" ],
+    "popularity-boosters-count" : 6
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 3.348438166885644E-7,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://thetchain.com/eos"
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://thetchain.com/eos/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 1,
+    "max" : 3
+  },
+  "place" : 330,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

@@ -1,0 +1,50 @@
+{
+  "bp-header" : {
+    "owner" : "eosukblocpro",
+    "total_votes" : "112357344517164688.00000000000000000",
+    "producer_key" : "EOS7SQTW7Mz3zQwTrq1KTeVzWx7bHjqR3HffTCCRxRRzvrJFS2qjs",
+    "is_active" : 1,
+    "url" : "https://eosuk.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2018-12-02T23:51:26.500",
+    "location" : 826,
+    "prepared-url" : "https://eosuk.io"
+  },
+  "bp-json-summary" : {
+    "url" : "https://eosuk.io/bp.json",
+    "logo" : "https://eosuk.io/eos-uk-logo-256.png",
+    "code_of_conduct" : "https://steemit.com/eos/@bodget/eos-uk-block-producer-agreed-code-of-conduct"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 4,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://github.com/eos-uk", "https://medium.com/@rogerdavies_2315", "https://steemit.com/@bodget", "https://steemit.com/eos/@bodget/eos-uk-block-producer-agreed-code-of-conduct", "https://steemit.com/eos/@bodget/eos-uk-statement-of-ownership", "https://t.me/joinchat/GefimxBKTqvrKPX9ZA4zGg", "https://t.me/joinchat/GefimxBKTqvrKPX9ZA4zGg/", "https://twitter.com/eosukbp", "https://www.facebook.com/eosukbp", "https://www.facebook.com/eosukbp/", "https://www.youtube.com/channel/UCGxatJjuafURvxMDKXwi8WA" ],
+    "social-links-count" : 11,
+    "popularity-boosters" : [ "https://telosuk.io" ],
+    "popularity-boosters-count" : 1
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.002095439396253541,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eosuk.io"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eosuk.io/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/eos/@bodget/eos-uk-block-producer-agreed-code-of-conduct"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 98,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

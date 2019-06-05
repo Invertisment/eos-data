@@ -1,0 +1,49 @@
+{
+  "bp-header" : {
+    "owner" : "eoszhizhutop",
+    "total_votes" : "348680806221055808.00000000000000000",
+    "producer_key" : "EOS5rmsDiYCtEgsEpZvcxNvLcxStufWALs4Lmfy85pnJKTdPjcpuT",
+    "is_active" : 1,
+    "url" : "https://eos.zhizhu.top/",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-06-05T12:45:43.000",
+    "location" : 0,
+    "prepared-url" : "https://eos.zhizhu.top/"
+  },
+  "bp-json-summary" : {
+    "url" : "https://eos.zhizhu.top/bp.json",
+    "logo" : "https://eos.zhizhu.top/logo_256.png",
+    "code_of_conduct" : "https://eos.zhizhu.top/eos-zhizhu-pool-block-producer-candidate-introduction.html"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 5,
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ "BP.Json", "https://eosflare.io/account/eoszhizhutop" ],
+    "popularity-boosters-count" : 2
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.0065028192078838976,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eos.zhizhu.top/"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eos.zhizhu.top/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://eos.zhizhu.top/eos-zhizhu-pool-block-producer-candidate-introduction.html"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 62,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

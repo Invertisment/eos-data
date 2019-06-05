@@ -1,0 +1,48 @@
+{
+  "bp-header" : {
+    "owner" : "slowmistiobp",
+    "total_votes" : "98866029817036.20312500000000000",
+    "producer_key" : "EOS7NdMCuD4r6BSfkEjLHY3eHCGwRGgFJBMuRc2dNAH5Mza8fVmbw",
+    "is_active" : 1,
+    "url" : "https://slowmist.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 0,
+    "prepared-url" : "https://slowmist.io"
+  },
+  "bp-json-summary" : {
+    "url" : "https://slowmist.io/bp.json",
+    "logo" : "https://cdn.slowmist.com/smz/images/smz256.png"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 10,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://github.com/slowmist/blockchain-threat-intelligence/?from=slowmistzone", "https://t.me/slowmistzone" ],
+    "social-links-count" : 2,
+    "popularity-boosters" : [ "bos/index.html?utm_source=index&utm_medium=cpc&utm_campaign=bos", "box/index.html?utm_source=index&utm_medium=cpc&utm_campaign=box", "bug-bounty.html?utm_source=index&utm_medium=cpc&utm_campaign=bug-bounty-form", "bytom/index.html?utm_source=index&utm_medium=cpc&utm_campaign=bytom", "chaince/index.html?utm_source=index&utm_medium=cpc&utm_campaign=chaince", "cryptocurrency.html?utm_source=index&utm_medium=cpc&utm_campaign=cryptocurrency-form", "fibos/index.html?utm_source=index&utm_medium=cpc&utm_campaign=fibos", "gxchain/index.html?utm_source=index&utm_medium=cpc&utm_campaign=gxchain", "hoo/index.html?utm_source=index&utm_medium=cpc&utm_campaign=hoo", "https://aml.slowmist.com/", "https://beback.io/?from=slowmistzone", "https://bos.eosx.io/account/slowmistiobp", "https://explorer.yoyow.org/u/379239797", "https://firewallx.io/", "https://member.iotex.io/delegate/5c764d8e0005683cdc150cf5", "https://mixin.one/codes/859b412c-288b-41fc-b188-4a4fd3cb3267", "https://mooz.space/?from=slowmistzone", "https://t.zsxq.com/Q3zNvvF", "https://wutui.pro/?from=slowmistzone", "https://www.eosx.io/account/slowmistiobp", "https://www.mintscan.io/validators/cosmosvaloper1p7n5agmrptr43t9te27tz7c4tnpw2dj3s4p6jm", "https://www.slowlightspeed.io/?from=slowmistzone", "https://www.slowmist.com/", "https://www.slowmist.com/service-threat-intelligence.html", "imtoken/index.html?utm_source=index&utm_medium=cpc&utm_campaign=imtoken", "intchain/index.html?utm_source=index&utm_medium=cpc&utm_campaign=intchain", "magnachain/index.html?utm_source=index&utm_medium=cpc&utm_campaign=magnachain", "malicious-wallet.html?utm_source=index&utm_medium=cpc&utm_campaign=malicious-wallet-form", "mykey/index.html?utm_source=index&utm_medium=cpc&utm_campaign=mykey", "oceanone/index.html?utm_source=index&utm_medium=cpc&utm_campaign=oceanone", "ontology/index.html?utm_source=index&utm_medium=cpc&utm_campaign=ontology", "otcbtc/index.html?utm_source=index&utm_medium=cpc&utm_campaign=otcbtc", "qtum/index.html?utm_source=index&utm_medium=cpc&utm_campaign=qtum", "renrenbit/index.html?utm_source=index&utm_medium=cpc&utm_campaign=renrenbit", "threat-intelligence.html?utm_source=index&utm_medium=cpc&utm_campaign=threat-intelligence-form", "topone/index.html?utm_source=index&utm_medium=cpc&utm_campaign=topone", "vechain/index.html?utm_source=index&utm_medium=cpc&utm_campaign=vechain", "yoyow/index.html?utm_source=index&utm_medium=cpc&utm_campaign=yoyow" ],
+    "popularity-boosters-count" : 38
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 1.8438293884575222E-6,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://slowmist.io"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://slowmist.io/bp.json"
+    }, {
+      "title" : "no-coc",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    } ],
+    "score" : 2,
+    "max" : 3
+  },
+  "place" : 261,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

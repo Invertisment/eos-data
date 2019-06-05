@@ -1,0 +1,41 @@
+{
+  "bp-header" : {
+    "owner" : "csxcommunity",
+    "total_votes" : "597761447996020.87500000000000000",
+    "producer_key" : "EOS8HsrWJ9omjmwt26fieagCM95f2dsT2CyWuFQSFbp4jR7KyrZPF",
+    "is_active" : 1,
+    "url" : "https://eos.csx.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-06-04T10:00:03.000",
+    "location" : 276,
+    "prepared-url" : "https://eos.csx.io"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "unable to find valid certification path to requested target",
+    "url" : "https://eos.csx.io/bp.json"
+  },
+  "webpage-error" : "unable to find valid certification path to requested target",
+  "vote-percentage" : 1.1148117580342693E-5,
+  "scoring" : {
+    "comp" : [ {
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "unable to find valid certification path to requested target",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eos.csx.io/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "unable to find valid certification path to requested target"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 209,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

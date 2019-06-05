@@ -1,0 +1,47 @@
+{
+  "bp-header" : {
+    "owner" : "eosfengwocom",
+    "total_votes" : "447806818025610048.00000000000000000",
+    "producer_key" : "EOS7qfQTT4xsPHmS8ywD9beppViEQ2TdejpLUcgXir5ofzn6qr1dW",
+    "is_active" : 1,
+    "url" : "https://eosfengwo.com",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-06-05T02:30:36.500",
+    "location" : 0,
+    "prepared-url" : "https://eosfengwo.com"
+  },
+  "bp-json-summary" : {
+    "url" : "https://eosfengwo.com/bp.json",
+    "logo" : "https://eosfengwo.com/img/logo_256.png"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 6,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://t.me/eosfengwo", "https://twitter.com/eosfengwo" ],
+    "social-links-count" : 2,
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.008351497202378726,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eosfengwo.com"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eosfengwo.com/bp.json"
+    }, {
+      "title" : "no-coc",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    } ],
+    "score" : 2,
+    "max" : 3
+  },
+  "place" : 48,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

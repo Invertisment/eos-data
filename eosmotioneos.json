@@ -1,0 +1,41 @@
+{
+  "bp-header" : {
+    "owner" : "eosmotioneos",
+    "total_votes" : "280183575049254656.00000000000000000",
+    "producer_key" : "EOS5JEphcJgHbvVqnKwz93Buq5SUCkkZkgwdiTbXfgF8steHpJuj4",
+    "is_active" : 1,
+    "url" : "https://project.motion.one",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-06-05T14:04:57.500",
+    "location" : 0,
+    "prepared-url" : "https://project.motion.one"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "project.motion.one",
+    "url" : "https://project.motion.one/bp.json"
+  },
+  "webpage-error" : "project.motion.one: Name or service not known",
+  "vote-percentage" : 0.005225361135619195,
+  "scoring" : {
+    "comp" : [ {
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "project.motion.one: Name or service not known",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://project.motion.one/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "project.motion.one"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 80,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

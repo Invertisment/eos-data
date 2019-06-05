@@ -1,0 +1,50 @@
+{
+  "bp-header" : {
+    "owner" : "blockmachin3",
+    "total_votes" : "11633247422802.00781250000000000",
+    "producer_key" : "EOS8fjUbfts4RAAUE4NM91dLVJm3LTscR21hbxoLck6bpwzV4y9Cw",
+    "is_active" : 1,
+    "url" : "https://blockmachine.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-01-29T21:58:13.500",
+    "location" : 840,
+    "prepared-url" : "https://blockmachine.io"
+  },
+  "bp-json-summary" : {
+    "url" : "https://blockmachine.io/bp.json",
+    "logo" : "https://blockmachine.io/blockmachine-logo-256.jpg",
+    "code_of_conduct" : "https://blockmachine.io#services"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 5,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://github.com/blockmachine", "https://t.me/EOSUSDcom", "https://www.linkedin.com/in/andrewbryan/", "https://www.meetup.com/EOS-blockchain-project-eosUSD" ],
+    "social-links-count" : 4,
+    "popularity-boosters" : [ "http://startbootstrap.com", "https://eosusd.com" ],
+    "popularity-boosters-count" : 2
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 2.1695746780825967E-7,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://blockmachine.io"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://blockmachine.io/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://blockmachine.io#services"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 374,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

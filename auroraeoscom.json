@@ -1,0 +1,50 @@
+{
+  "bp-header" : {
+    "owner" : "auroraeoscom",
+    "total_votes" : "14774023044880608.00000000000000000",
+    "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
+    "is_active" : 0,
+    "url" : "https://www.auroraeos.com/",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 840,
+    "prepared-url" : "https://www.auroraeos.com/"
+  },
+  "bp-json-summary" : {
+    "url" : "https://www.auroraeos.com/bp.json",
+    "logo" : "https://www.auroraeos.com/aurora-256.png",
+    "code_of_conduct" : "https://auroraeos.com/ethics-and-compliance/"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 8,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://medium.com/@auroraeos", "https://steemit.com/@auroraeos", "https://t.me/aurora_eos", "https://twitter.com/auroraeosbp" ],
+    "social-links-count" : 4,
+    "popularity-boosters" : [ "https://eosvoter.transistor.fm/" ],
+    "popularity-boosters-count" : 1
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 2.755322321156415E-4,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://www.auroraeos.com/"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://www.auroraeos.com/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://auroraeos.com/ethics-and-compliance/"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 115,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

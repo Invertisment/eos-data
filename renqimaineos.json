@@ -1,0 +1,40 @@
+{
+  "bp-header" : {
+    "owner" : "renqimaineos",
+    "total_votes" : "13812547113225.31640625000000000",
+    "producer_key" : "EOS5J4ZmNe5bXvVgn6L88zjnssPRJJ4FdP3WxuV3UqUdZaaUDmwkn",
+    "is_active" : 1,
+    "url" : "",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-04-23T03:48:10.000",
+    "location" : 0,
+    "prepared-url" : null
+  },
+  "bp-json-summary" : null,
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 2.5760092059882035E-7,
+  "scoring" : {
+    "comp" : [ {
+      "title" : "no-web",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    }, {
+      "title" : "no-bp-json-url",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    }, {
+      "title" : "no-coc",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 364,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

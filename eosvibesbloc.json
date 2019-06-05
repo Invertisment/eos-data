@@ -1,0 +1,54 @@
+{
+  "bp-header" : {
+    "owner" : "eosvibesbloc",
+    "total_votes" : "144576028212459328.00000000000000000",
+    "producer_key" : "EOS5wjoLzkppkupmajDM59StKoFSR9AZugfnRSkuBZKDgTrBHP6ZZ",
+    "is_active" : 1,
+    "url" : "https://eosvibes.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2018-08-17T10:52:57.000",
+    "location" : 250,
+    "prepared-url" : "https://eosvibes.io"
+  },
+  "bp-json-summary" : {
+    "url" : "https://eosvibes.io/bp.json",
+    "logo" : "https://eosvibes.io/assets/ev-256.png",
+    "code_of_conduct" : "https://github.com/EOSVibes/docs/blob/master/constitution/v0.1.md"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 7,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://github.com/EOSVibes/docs/blob/master/constitution/v0.1.md", "https://steemit.com/@eosvibes", "https://t.me/eosvibes_bp", "https://twitter.com/eosvibes_bp", "https://www.youtube.com/channel/UCphVYR2CHULYHf59ZSQMEag" ],
+    "social-links-count" : 5,
+    "popularity-boosters" : [ "https://eos.io" ],
+    "popularity-boosters-count" : 1
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.002696310655721926,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eosvibes.io"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eosvibes.io/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://github.com/EOSVibes/docs/blob/master/constitution/v0.1.md"
+    }, {
+      "mood" : "warn",
+      "title" : "t-coc-social",
+      "paragraphs" : [ "p-coc-social" ]
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 95,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

@@ -1,0 +1,45 @@
+{
+  "bp-header" : {
+    "owner" : "dposclubprod",
+    "total_votes" : "15015761494832874.00000000000000000",
+    "producer_key" : "EOS8AJ1rum6Z8k4sfHe9JM6PkJ2UTi8RDxp5WTy6qCd4mkfMCv5gy",
+    "is_active" : 1,
+    "url" : "https://about.dpos.club",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2018-06-17T14:55:36.000",
+    "location" : 0,
+    "prepared-url" : "https://about.dpos.club"
+  },
+  "bp-json-summary" : {
+    "url" : "https://about.dpos.club/bp.json"
+  },
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ "https://github.com/dpos-club", "https://t.me/DPoSClub", "https://twitter.com/DPoS_CLUB", "https://weibo.com/dposclub" ],
+    "social-links-count" : 4,
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 2.8004060024943854E-4,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://about.dpos.club"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://about.dpos.club/bp.json"
+    }, {
+      "title" : "no-coc",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    } ],
+    "score" : 2,
+    "max" : 3
+  },
+  "place" : 114,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

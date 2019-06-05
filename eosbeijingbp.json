@@ -1,0 +1,50 @@
+{
+  "bp-header" : {
+    "owner" : "eosbeijingbp",
+    "total_votes" : "894419871336624000.00000000000000000",
+    "producer_key" : "EOS5dGpcEhwB4VEhhXEcqtZs9EQj5HeetuXDnsAGVHMXHAFdMjbdj",
+    "is_active" : 1,
+    "url" : "https://www.eosbeijing.one",
+    "unpaid_blocks" : 2352,
+    "last_claim_time" : "2019-06-05T13:16:16.000",
+    "location" : 392,
+    "prepared-url" : "https://www.eosbeijing.one"
+  },
+  "bp-json-summary" : {
+    "url" : "https://www.eosbeijing.one/bp.json",
+    "logo" : "https://www.eosbeijing.one/logo_256.png",
+    "code_of_conduct" : "https://steemit.com/eos/@eosbeijing/eos-beijing-block-producer-candidate-introduction"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 1,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://steemit.com/eos/@eosbeijing/79lqkq-eos-beijing-ownership-disclosure", "https://twitter.com/eosbeijing" ],
+    "social-links-count" : 2,
+    "popularity-boosters" : [ "http://ipads.se.sjtu.edu.cn/", "http://three.modern.themerella.com/", "http://three.modern.themerella.com/about/", "http://three.modern.themerella.com/contact/", "https://teex.io", "https://www.atoken.com/", "https://www.bituniverse.org/", "https://www.shensi.com" ],
+    "popularity-boosters-count" : 8
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.016680730959287363,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://www.eosbeijing.one"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://www.eosbeijing.one/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/eos/@eosbeijing/eos-beijing-block-producer-candidate-introduction"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 17,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

@@ -1,0 +1,48 @@
+{
+  "bp-header" : {
+    "owner" : "ha4daobxg4ge",
+    "total_votes" : "1490708760894850.75000000000000000",
+    "producer_key" : "EOS5ewbBCj3ZrAy5yJnCqBM6Y6X9nCLzJ4DR8rphbqMhapeT3S5eJ",
+    "is_active" : 1,
+    "url" : "http://eos.medishares.org",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 702,
+    "prepared-url" : "http://eos.medishares.org"
+  },
+  "bp-json-summary" : {
+    "url" : "http://eos.medishares.org/bp.json",
+    "logo" : "http://eos.medishares.org/images/logo256.png"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 8,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://github.com/MediShares", "https://github.com/MediShares/eos-medishares-testnet", "https://steemit.com/@ericfish", "https://t.me/eosmedishares" ],
+    "social-links-count" : 4,
+    "popularity-boosters" : [ "http://www.medishares.org", "https://www.mathwallet.org" ],
+    "popularity-boosters-count" : 2
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 2.7801385653451147E-5,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://eos.medishares.org"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "http://eos.medishares.org/bp.json"
+    }, {
+      "title" : "no-coc",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    } ],
+    "score" : 2,
+    "max" : 3
+  },
+  "place" : 175,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

@@ -1,0 +1,49 @@
+{
+  "bp-header" : {
+    "owner" : "eosnigeriago",
+    "total_votes" : "1182240544238636.25000000000000000",
+    "producer_key" : "EOS6YuQtg2ZGrPZm6pdqCuuUmsNiuLkUajFM7n9KzTtXoeAEVWLfg",
+    "is_active" : 1,
+    "url" : "https://eosnigeria.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 566,
+    "prepared-url" : "https://eosnigeria.io"
+  },
+  "bp-json-summary" : {
+    "url" : "https://eosnigeria.io/bp.json",
+    "logo" : "https://eosnigeria.io/wp-content/uploads/2018/07/cropped-eoslogo-01.png",
+    "code_of_conduct" : "https://eosnigeria.io/code-of-conduct/"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 1,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://m.facebook.com/samstickkz?pn_ref=ec_friends_card_unseen", "https://mobile.twitter.com/Freyadhaizy", "https://mobile.twitter.com/samstickkz", "https://steemit.com/@eosng", "https://twitter.com/ashinimesh", "https://twitter.com/ben_onomor", "https://web.facebook.com/meshach.ishaya.1", "https://www.instagram.com/miz_dais", "https://www.linkedin.com/in/eseoghene-onomor-043a34b7", "https://www.linkedin.com/in/meshach-ishaya-4b986815a", "https://www.linkedin.com/in/samuel-joseph-8696b682", "https://www.linkedin.com/mwlite/me" ],
+    "social-links-count" : 12,
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ "64GB RAM" ],
+  "vote-percentage" : 2.2048522265203672E-5,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eosnigeria.io"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eosnigeria.io/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://eosnigeria.io/code-of-conduct/"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 181,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

@@ -1,0 +1,41 @@
+{
+  "bp-header" : {
+    "owner" : "jaydeneos222",
+    "total_votes" : "20479951268306.33593750000000000",
+    "producer_key" : "EOS52o1dFDZPHv8wMLVAGYDcKWiN4hDjKTmFGw4XyaMru6pe9eDdY",
+    "is_active" : 1,
+    "url" : "https://0.0.0.0",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 410,
+    "prepared-url" : "https://0.0.0.0"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "Connection refused (Connection refused)",
+    "url" : "https://0.0.0.0/bp.json"
+  },
+  "webpage-error" : "Connection refused (Connection refused)",
+  "vote-percentage" : 3.8194651987708533E-7,
+  "scoring" : {
+    "comp" : [ {
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Connection refused (Connection refused)",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://0.0.0.0/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "Connection refused (Connection refused)"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 322,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

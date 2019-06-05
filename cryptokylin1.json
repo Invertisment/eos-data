@@ -1,0 +1,49 @@
+{
+  "bp-header" : {
+    "owner" : "cryptokylin1",
+    "total_votes" : "280143448699124.65625000000000000",
+    "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
+    "is_active" : 0,
+    "url" : "https://cryptokylin.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 0,
+    "prepared-url" : "https://cryptokylin.io"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "clj-http: status 404",
+    "url" : "https://cryptokylin.io/bp.json"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 13,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://github.com/cryptokylin", "https://github.com/cryptokylin/CryptoKylin-Testnet", "https://github.com/cryptokylin/CryptoKylin-Testnet/issues", "https://github.com/cryptokylin/Cryptokylin-Doc", "https://github.com/cryptokylin/KEEP", "https://t.me/cryptokylin", "https://t.me/joinchat/BwCM5kbuUJlkeWvtuBbScw" ],
+    "social-links-count" : 7,
+    "popularity-boosters" : [ "https://kylin.bloks.io%C2%A0", "https://kylin.eosx.io", "https://osshkbk01.oss-cn-hongkong.aliyuncs.com/cryptokylin/docker-20180712.tar.bz2", "https://s3-ap-northeast-1.amazonaws.com/cryptokylin/index.html", "https://trello.com/b/u4cpl00f/cryptokylin" ],
+    "popularity-boosters-count" : 5
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 5.2246127881457694E-6,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://cryptokylin.io"
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://cryptokylin.io/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 1,
+    "max" : 3
+  },
+  "place" : 232,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

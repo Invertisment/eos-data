@@ -1,0 +1,46 @@
+{
+  "bp-header" : {
+    "owner" : "top111111111",
+    "total_votes" : "362164015454818.00000000000000000",
+    "producer_key" : "EOS4yetL39jMqJpuVrnmuhRsFNnhzXWNZSJT2HqdsDdsqS7dB1AQE",
+    "is_active" : 1,
+    "url" : "https://top.one/bp_info.json/",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 0,
+    "prepared-url" : "https://top.one"
+  },
+  "bp-json-summary" : {
+    "read-error" : "read:'https://top.one/bp_info.json/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "url" : "https://top.one/bp_info.json/bp.json"
+  },
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 6.754278050541385E-6,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://top.one/bp_info.json/"
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://top.one/bp_info.json/bp.json",
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'https://top.one/bp_info.json/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 1,
+    "max" : 3
+  },
+  "place" : 225,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

@@ -1,0 +1,50 @@
+{
+  "bp-header" : {
+    "owner" : "teamgreymass",
+    "total_votes" : "629145064124343936.00000000000000000",
+    "producer_key" : "EOS4xurP5oZk4WvMUp9neKkw94DJ2iq48GtMD5Dff3GKe6krh2ctR",
+    "is_active" : 1,
+    "url" : "https://greymass.com",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-06-05T06:30:34.000",
+    "location" : 124,
+    "prepared-url" : "https://greymass.com"
+  },
+  "bp-json-summary" : {
+    "url" : "https://greymass.com/bp.json",
+    "logo" : "https://greymass.com/greymass_logo_256X256.png",
+    "code_of_conduct" : "https://greymass.com/code_of_conduct"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 11,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://github.com/aaroncox", "https://github.com/aaroncox/anchor", "https://github.com/aaroncox/chainbb", "https://github.com/aaroncox/chainsync", "https://github.com/aaroncox/reprint", "https://github.com/greymass", "https://github.com/greymass/customtokens", "https://github.com/greymass/eos", "https://github.com/greymass/eos-voter", "https://github.com/greymass/eosio-api-ext", "https://github.com/greymass/producerjson", "https://github.com/greymass/smart_account_creator", "https://steemit.com/@anyx", "https://steemit.com/@greymass", "https://steemit.com/@jesta", "https://steemit.com/cheetah/@cheetah/faq-about-cheetah", "https://steemit.com/steemcleaners/@anyx/introducing-guard-a-proactive-measure-to-limit-phishing-on-steemit", "https://steemit.com/steemcleaners/@steemcleaners/announcing-steemcleaners-the-steemit-abuse-fighting-team", "https://t.me/eoswalletgreymass", "https://twitter.com/greymass", "https://www.reddit.com/r/eos/comments/bjop0u/rex_support_released_in_077_of_eosvoter_aka/", "https://www.reddit.com/r/eos/comments/brcr6z/the_future_of_the_greymass_wallet_beta_version/" ],
+    "social-links-count" : 22,
+    "popularity-boosters" : [ "https://steemdb.com/" ],
+    "popularity-boosters-count" : 1
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.011733415016080325,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://greymass.com"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://greymass.com/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://greymass.com/code_of_conduct"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 37,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

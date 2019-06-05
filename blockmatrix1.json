@@ -1,0 +1,50 @@
+{
+  "bp-header" : {
+    "owner" : "blockmatrix1",
+    "total_votes" : "232921346281420384.00000000000000000",
+    "producer_key" : "EOS6oNSm6QKnMBzJDHiA32KsEjSgKKt1nGdPYfc2wZU34HA9GjP9q",
+    "is_active" : 1,
+    "url" : "https://blockmatrix.network",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-06-04T20:35:02.500",
+    "location" : 826,
+    "prepared-url" : "https://blockmatrix.network"
+  },
+  "bp-json-summary" : {
+    "url" : "https://blockmatrix.network/bp.json",
+    "logo" : "https://blockmatrix.network/images/logos/block_matrix_logo_white_bg_256.png",
+    "code_of_conduct" : "https://blockmatrix.network#validators-#codeOfConduct"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 17,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://github.com/BlockMatrixNetwork", "https://steemit.com/@blockmatrix", "https://t.me/eosinfra", "https://twitter.com/block_matrix", "https://www.linkedin.com/in/joshua-welsh-735190131/", "https://www.linkedin.com/in/joshuagedwards/", "https://www.linkedin.com/in/petercheyne/" ],
+    "social-links-count" : 7,
+    "popularity-boosters" : [ "https://beta.companieshouse.gov.uk/company/11266919", "https://eosinfra.io", "https://eosnode.tools", "https://eosnode.tools/", "https://www.eosinfra.io/" ],
+    "popularity-boosters-count" : 5
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.004343931118378641,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://blockmatrix.network"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://blockmatrix.network/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://blockmatrix.network#validators-#codeOfConduct"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 89,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

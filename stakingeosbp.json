@@ -1,0 +1,41 @@
+{
+  "bp-header" : {
+    "owner" : "stakingeosbp",
+    "total_votes" : "264387271688555648.00000000000000000",
+    "producer_key" : "EOS5qRrHJsVLU1ZvG6A3Em35n9hZzt8JBCDaBScz3EodTbgejMUR9",
+    "is_active" : 1,
+    "url" : "https://www.stakingbp.com",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-06-05T02:38:20.000",
+    "location" : 392,
+    "prepared-url" : "https://www.stakingbp.com"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "connect timed out",
+    "url" : "https://www.stakingbp.com/bp.json"
+  },
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 0.004930763603794079,
+  "scoring" : {
+    "comp" : [ {
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "connect timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://www.stakingbp.com/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "connect timed out"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 81,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

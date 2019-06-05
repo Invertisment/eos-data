@@ -1,0 +1,48 @@
+{
+  "bp-header" : {
+    "owner" : "blockcceosio",
+    "total_votes" : "97470278683453.90625000000000000",
+    "producer_key" : "EOS8VYW1mptsVYiy9GUQzfrM7AbCENKazjrDvv88cvKZuaoSAnR29",
+    "is_active" : 1,
+    "url" : "https://eos.block.cc/",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 0,
+    "prepared-url" : "https://eos.block.cc/"
+  },
+  "bp-json-summary" : {
+    "url" : "https://eos.block.cc/bp.json",
+    "logo" : ""
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 6,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://steemit.com/@blockcc", "https://twitter.com/block_cc" ],
+    "social-links-count" : 2,
+    "popularity-boosters" : [ "https://block.cc/" ],
+    "popularity-boosters-count" : 1
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 1.8177989413582046E-6,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eos.block.cc/"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eos.block.cc/bp.json"
+    }, {
+      "title" : "no-coc",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    } ],
+    "score" : 2,
+    "max" : 3
+  },
+  "place" : 262,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

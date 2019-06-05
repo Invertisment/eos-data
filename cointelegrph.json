@@ -1,0 +1,41 @@
+{
+  "bp-header" : {
+    "owner" : "cointelegrph",
+    "total_votes" : "15029483225870.93164062500000000",
+    "producer_key" : "EOS5xyFXfxn8zVDe7PHUbB9ecnXhFviEnqTbg8JBfh9CEtVXYmHtu",
+    "is_active" : 1,
+    "url" : "https://eosuperman.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-04-10T11:07:36.000",
+    "location" : 528,
+    "prepared-url" : "https://eosuperman.io"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "connect timed out",
+    "url" : "https://eosuperman.io/bp.json"
+  },
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 2.8029650747050634E-7,
+  "scoring" : {
+    "comp" : [ {
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "connect timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eosuperman.io/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "connect timed out"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 343,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

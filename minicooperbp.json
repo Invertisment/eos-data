@@ -1,0 +1,48 @@
+{
+  "bp-header" : {
+    "owner" : "minicooperbp",
+    "total_votes" : "39244151505818.79687500000000000",
+    "producer_key" : "EOS4yJfXfBWf36XmevMsqutnuiaU6iPN8mes6D61bwtHpjwuWxdc9",
+    "is_active" : 1,
+    "url" : "http://www.serviceuptime.net",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2018-07-04T07:40:10.000",
+    "location" : 0,
+    "prepared-url" : "http://www.serviceuptime.net"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "clj-http: status 404",
+    "url" : "http://www.serviceuptime.net/bp.json"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 3,
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ "http://serviceuptime.net/admin/login.php", "http://serviceuptime.net/index.php/2014/11/", "http://serviceuptime.net/index.php/archives/1/", "http://serviceuptime.net/index.php/author/1/", "http://serviceuptime.net/index.php/category/default/", "http://serviceuptime.net/index.php/feed/", "http://serviceuptime.net/index.php/feed/comments/", "http://serviceuptime.net/index.php/start-page.html", "http://www.typecho.org" ],
+    "popularity-boosters-count" : 9
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 7.318946659982044E-7,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://www.serviceuptime.net"
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://www.serviceuptime.net/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 1,
+    "max" : 3
+  },
+  "place" : 285,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

@@ -1,0 +1,41 @@
+{
+  "bp-header" : {
+    "owner" : "eosuniconeos",
+    "total_votes" : "171125358866817.43750000000000000",
+    "producer_key" : "EOS7xxiLSWHVpxRPxpzdBC9QbnxBH2A1yx8NahL9P1Q18aWVJZzzb",
+    "is_active" : 1,
+    "url" : "https://unicon.one",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-06-05T08:16:04.500",
+    "location" : 0,
+    "prepared-url" : "https://unicon.one"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "Certificate for <unicon.one> doesn't match any of the subject alternative names: [*.transip.nl, transip.nl]",
+    "url" : "https://unicon.one/bp.json"
+  },
+  "webpage-error" : "Certificate for <unicon.one> doesn't match any of the subject alternative names: [*.transip.nl, transip.nl]",
+  "vote-percentage" : 3.1914497464184392E-6,
+  "scoring" : {
+    "comp" : [ {
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Certificate for <unicon.one> doesn't match any of the subject alternative names: [*.transip.nl, transip.nl]",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://unicon.one/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "Certificate for <unicon.one> doesn't match any of the subject alternative names: [*.transip.nl, transip.nl]"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 249,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

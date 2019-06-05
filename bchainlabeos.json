@@ -1,0 +1,50 @@
+{
+  "bp-header" : {
+    "owner" : "bchainlabeos",
+    "total_votes" : "1962910100029137.75000000000000000",
+    "producer_key" : "EOS6n6RZi6EXHKBX53HyuXgzMw5sUzWWQomwDLYLc1PcjZY3CCzzE",
+    "is_active" : 1,
+    "url" : "https://blockchainlab.me",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 0,
+    "prepared-url" : "https://blockchainlab.me"
+  },
+  "bp-json-summary" : {
+    "url" : "https://blockchainlab.me/bp.json",
+    "logo" : "",
+    "code_of_conduct" : "https://steemit.com/eos/@blockchainlabme/presenting-blockchainlab-as-an-eos-block-producer-candidate"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 8,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://steemit.com/eos/@blockchainlabme/presenting-blockchainlab-as-an-eos-block-producer-candidate" ],
+    "social-links-count" : 1,
+    "popularity-boosters" : [ "https://blockchainart.io/", "https://btcu.ua", "https://cointelegram.news/", "https://cryptowhisky.io", "https://dep.exchange/", "https://icokit.me/", "https://litego.io" ],
+    "popularity-boosters-count" : 7
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 3.6607835229468884E-5,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://blockchainlab.me"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://blockchainlab.me/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/eos/@blockchainlabme/presenting-blockchainlab-as-an-eos-block-producer-candidate"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 154,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

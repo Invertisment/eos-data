@@ -1,0 +1,49 @@
+{
+  "bp-header" : {
+    "owner" : "eosicelandbp",
+    "total_votes" : "975649675003371.25000000000000000",
+    "producer_key" : "EOS816tGGuqYWDTwdLFGGTx2SsD7xbzkhbVgFZQB9bLjvxs7gwoFD",
+    "is_active" : 1,
+    "url" : "https://eosiceland.is",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-01-24T21:34:15.500",
+    "location" : 0,
+    "prepared-url" : "https://eosiceland.is"
+  },
+  "bp-json-summary" : {
+    "url" : "https://eosiceland.is/bp.json",
+    "logo" : "https://secure-assets.eosiceland.is/logo_256.jpg",
+    "code_of_conduct" : "https://eosiceland.is/code-of-conduct"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 10,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://medium.com/eos-iceland", "https://t.me/eos_iceland", "https://twitter.com/eos_iceland", "https://www.facebook.com/eosiceland", "https://www.linkedin.com/company/eos-iceland/" ],
+    "social-links-count" : 5,
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 1.819564866657831E-5,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eosiceland.is"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eosiceland.is/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://eosiceland.is/code-of-conduct"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 185,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

@@ -1,0 +1,50 @@
+{
+  "bp-header" : {
+    "owner" : "geosoneforbp",
+    "total_votes" : "281304025801217920.00000000000000000",
+    "producer_key" : "EOS7CjPeMYUj2Ydmw667JJNsQA5mige9YE4FVxMCT81Jst3SRVbX3",
+    "is_active" : 1,
+    "url" : "https://www.geos.one",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-06-05T16:32:11.000",
+    "location" : 0,
+    "prepared-url" : "https://www.geos.one"
+  },
+  "bp-json-summary" : {
+    "url" : "https://www.geos.one/bp.json",
+    "logo" : "https://www.geos.one/images/logo-256.png",
+    "code_of_conduct" : "https://steemit.com/eos/@geos.one/geos-announce-to-join-eos-node-campaign"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 9,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://steemit.com/@geos.one", "https://twitter.com/geos_team", "https://weibo.com/u/6539654198" ],
+    "social-links-count" : 3,
+    "popularity-boosters" : [ "https://jq.qq.com/?_wv=1027&k=5XTF3SA" ],
+    "popularity-boosters-count" : 1
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.005246257292050403,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://www.geos.one"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://www.geos.one/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/eos/@geos.one/geos-announce-to-join-eos-node-campaign"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 78,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

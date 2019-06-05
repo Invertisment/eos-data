@@ -1,0 +1,46 @@
+{
+  "bp-header" : {
+    "owner" : "123singapore",
+    "total_votes" : "2115984149807541.00000000000000000",
+    "producer_key" : "EOS71UbkZzuz55WNBpsEVQzkXrZAJ2XyLoQiEcS9WKwbYambhFxWb",
+    "is_active" : 1,
+    "url" : "http://eos.vote",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2018-06-20T01:57:42.000",
+    "location" : 0,
+    "prepared-url" : "http://eos.vote"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "clj-http: status 404",
+    "url" : "http://eos.vote/bp.json"
+  },
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 3.94626320905743E-5,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://eos.vote"
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://eos.vote/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 1,
+    "max" : 3
+  },
+  "place" : 152,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

@@ -1,0 +1,41 @@
+{
+  "bp-header" : {
+    "owner" : "eosrussiaone",
+    "total_votes" : "64976855760175.66406250000000000",
+    "producer_key" : "EOS7yJKWhvQ1J4xG4tLzwun5PAgmUUGUAJQNmyryib9WaY9Sf7PSR",
+    "is_active" : 1,
+    "url" : "http://eosrussia.one/",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 0,
+    "prepared-url" : "http://eosrussia.one/"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "eosrussia.one",
+    "url" : "http://eosrussia.one/bp.json"
+  },
+  "webpage-error" : "eosrussia.one: Temporary failure in name resolution",
+  "vote-percentage" : 1.211803856611756E-6,
+  "scoring" : {
+    "comp" : [ {
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "eosrussia.one: Temporary failure in name resolution",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://eosrussia.one/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "eosrussia.one"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 273,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

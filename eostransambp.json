@@ -1,0 +1,41 @@
+{
+  "bp-header" : {
+    "owner" : "eostransambp",
+    "total_votes" : "14182525179193.19531250000000000",
+    "producer_key" : "EOS7fbLJSB4455UVJ3VLxMccEJo5D2BjyLNri2ebnzKKsK1dcv6GA",
+    "is_active" : 1,
+    "url" : "transam.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 0,
+    "prepared-url" : "http://transam.io"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "no protocol: transam.io/bp.json",
+    "url" : "transam.io/bp.json"
+  },
+  "webpage-error" : "clj-http: status 403",
+  "vote-percentage" : 2.645009289472764E-7,
+  "scoring" : {
+    "comp" : [ {
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "clj-http: status 403",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "transam.io/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "no protocol: transam.io/bp.json"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 352,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

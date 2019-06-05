@@ -1,0 +1,50 @@
+{
+  "bp-header" : {
+    "owner" : "marketcapone",
+    "total_votes" : "45161998574552.98437500000000000",
+    "producer_key" : "EOS6Hj46A6Vcdn6msU1pVk4qWf8mbygkFUv5ZSvuBh9tYMjPMvono",
+    "is_active" : 1,
+    "url" : "https://marketcap.one",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-04-10T06:44:55.500",
+    "location" : 1,
+    "prepared-url" : "https://marketcap.one"
+  },
+  "bp-json-summary" : {
+    "url" : "https://marketcap.one/bp.json",
+    "logo" : "https://vote.marketcap.one/bp/png-256-logo.png",
+    "code_of_conduct" : "https://marketcap.one"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 87,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://medium.com/@marketcapone/eos-token-supply-explained-whats-the-difference-between-circulating-supply-total-supply-and-max-e97d4931e7d4", "https://t.me/marketcapone", "https://twitter.com/marketcapone" ],
+    "social-links-count" : 3,
+    "popularity-boosters" : [ "https://en.wikipedia.org/wiki/Volume-weighted_average_price", "https://everipedia.org/wiki/lang_en/marketcapone/", "https://goo.gl/forms/FI476qabXJRYfE8c2" ],
+    "popularity-boosters-count" : 3
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 8.422611929227949E-7,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://marketcap.one"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://marketcap.one/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://marketcap.one"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 281,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

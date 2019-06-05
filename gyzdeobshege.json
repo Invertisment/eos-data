@@ -1,0 +1,47 @@
+{
+  "bp-header" : {
+    "owner" : "gyzdeobshege",
+    "total_votes" : "361703970717.88977050781250000",
+    "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
+    "is_active" : 0,
+    "url" : "https://mainnet.eoscanada.com",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 0,
+    "prepared-url" : "https://mainnet.eoscanada.com"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "clj-http: status 404",
+    "url" : "https://mainnet.eoscanada.com/bp.json"
+  },
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ "https://www.eoscanada.com" ],
+    "popularity-boosters-count" : 1
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 6.745698318883066E-9,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://mainnet.eoscanada.com"
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://mainnet.eoscanada.com/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 1,
+    "max" : 3
+  },
+  "place" : 453,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

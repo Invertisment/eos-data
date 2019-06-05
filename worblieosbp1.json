@@ -1,0 +1,41 @@
+{
+  "bp-header" : {
+    "owner" : "worblieosbp1",
+    "total_votes" : "74415776945717.50000000000000000",
+    "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
+    "is_active" : 0,
+    "url" : "https://eos.worbli.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 0,
+    "prepared-url" : "https://eos.worbli.io"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "eos.worbli.io",
+    "url" : "https://eos.worbli.io/bp.json"
+  },
+  "webpage-error" : "eos.worbli.io: Name or service not known",
+  "vote-percentage" : 1.387837629884984E-6,
+  "scoring" : {
+    "comp" : [ {
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "eos.worbli.io: Name or service not known",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eos.worbli.io/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "eos.worbli.io"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 271,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

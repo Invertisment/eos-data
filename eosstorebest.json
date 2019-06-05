@@ -1,0 +1,49 @@
+{
+  "bp-header" : {
+    "owner" : "eosstorebest",
+    "total_votes" : "324149244988683072.00000000000000000",
+    "producer_key" : "EOS857vKqpcN7Tt7zCab47CCpjvGcaKbf7MpTwN3ktGsDToynSuTA",
+    "is_active" : 1,
+    "url" : "https://www.eosstore.co",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-06-05T17:00:57.500",
+    "location" : 156,
+    "prepared-url" : "https://www.eosstore.co"
+  },
+  "bp-json-summary" : {
+    "url" : "https://www.eosstore.co/bp.json",
+    "logo" : "https://www.eosstore.co/images/eosstore-256.png",
+    "code_of_conduct" : "https://steemit.com/roadmap/@eos.store/eos-store-block-producer-report"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 1,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://github.com/eosstore", "https://steemit.com/@eos.store", "https://twitter.com/StoreEos", "https://weibo.com/5164489277/profile?topnav=1&wvr=6", "https://www.facebook.com/profile.php?id=100025882476842" ],
+    "social-links-count" : 5,
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.00604531106652633,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://www.eosstore.co"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://www.eosstore.co/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/roadmap/@eos.store/eos-store-block-producer-report"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 67,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

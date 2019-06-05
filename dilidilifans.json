@@ -1,0 +1,49 @@
+{
+  "bp-header" : {
+    "owner" : "dilidilifans",
+    "total_votes" : "791833520790513408.00000000000000000",
+    "producer_key" : "EOS7b3KnyRNxu4jVVnroB7T54gquXD5wYfcPnovDz2DjYuGBUwehq",
+    "is_active" : 1,
+    "url" : "www.dilidili.name",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-06-05T03:35:40.000",
+    "location" : 702,
+    "prepared-url" : "http://www.dilidili.name"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "no protocol: www.dilidili.name/bp.json",
+    "url" : "www.dilidili.name/bp.json"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 94,
+    "duplicate-urls" : null,
+    "social-links" : [ "http://usr.005.tv/User/loginout.html?refurl=http%3A%2F%2Fwww.dilidili.name%2F", "http://usr.005.tv/User/register.html?refurl=http%3A%2F%2Fwww.dilidili.name%2F", "http://www.005.tv/2017/63720.html", "http://www.005.tv/2019/77997.html" ],
+    "social-links-count" : 4,
+    "popularity-boosters" : [ "http://45.126.120.132:2000/upload.html", "http://bbs.005.tv/", "http://dilidili.name/jump.html?url=http%3A%2F%2Fch615.wx.11h5.com%2F%3Fchid%3D615%26gameid%3D541%26trial%3D1", "http://dilidili.name/kt.html", "http://lol.te5.com/", "http://usr.005.tv", "http://usr.005.tv/", "http://usr.005.tv?refurl=http%3A%2F%2Fwww.dilidili.name%2F", "http://www.1kkk.com/", "http://www.3h3.com/", "http://www.87g.com/", "http://www.kan300.com/", "http://www.kanman.com/", "http://www.ktkkt.com/", "http://www.moe123.net/", "http://www.pc841.com/", "http://www.zimuzu.io", "https://c1ass.com", "https://meet.one", "https://ningmoe.com", "https://www.manhuatai.com/", "https://www.mkzhan.com/" ],
+    "popularity-boosters-count" : 22
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.014767518419635747,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "www.dilidili.name"
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "www.dilidili.name/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "no protocol: www.dilidili.name/bp.json"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 1,
+    "max" : 3
+  },
+  "place" : 26,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

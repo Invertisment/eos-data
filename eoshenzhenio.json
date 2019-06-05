@@ -1,0 +1,41 @@
+{
+  "bp-header" : {
+    "owner" : "eoshenzhenio",
+    "total_votes" : "280878965398544544.00000000000000000",
+    "producer_key" : "EOS8EJrMphgHJx5EkHQ4ryodbvnocZEC1xp5T1FnRsT7XtzYA1FE7",
+    "is_active" : 1,
+    "url" : "https://eoshenzhen.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-06-05T03:54:07.000",
+    "location" : 156,
+    "prepared-url" : "https://eoshenzhen.io"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "Certificate for <eoshenzhen.io> doesn't match any of the subject alternative names: [shortener.secureserver.net, www.shortener.secureserver.net]",
+    "url" : "https://eoshenzhen.io/bp.json"
+  },
+  "webpage-error" : "Certificate for <eoshenzhen.io> doesn't match any of the subject alternative names: [shortener.secureserver.net, www.shortener.secureserver.net]",
+  "vote-percentage" : 0.005238330010417174,
+  "scoring" : {
+    "comp" : [ {
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Certificate for <eoshenzhen.io> doesn't match any of the subject alternative names: [shortener.secureserver.net, www.shortener.secureserver.net]",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eoshenzhen.io/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "Certificate for <eoshenzhen.io> doesn't match any of the subject alternative names: [shortener.secureserver.net, www.shortener.secureserver.net]"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 79,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

@@ -1,0 +1,47 @@
+{
+  "bp-header" : {
+    "owner" : "argentinaeos",
+    "total_votes" : "766604195420232576.00000000000000000",
+    "producer_key" : "EOS7jq4FHrFrtCXxpRQ39dBeDMa5AjM4VaRbqBECkSa5aZnizJzrx",
+    "is_active" : 1,
+    "url" : "https://www.eosargentina.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-06-04T23:06:37.000",
+    "location" : 32,
+    "prepared-url" : "https://www.eosargentina.io"
+  },
+  "bp-json-summary" : {
+    "url" : "https://www.eosargentina.io/bp.json",
+    "logo" : "https://www.eosargentina.io/assets/img/eosar_logo_256.png",
+    "code_of_conduct" : "https://www.eosargentina.io/disclosures.html#codeofconduct"
+  },
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.014296997132852318,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://www.eosargentina.io"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://www.eosargentina.io/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://www.eosargentina.io/disclosures.html#codeofconduct"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 28,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

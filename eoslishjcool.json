@@ -1,0 +1,40 @@
+{
+  "bp-header" : {
+    "owner" : "eoslishjcool",
+    "total_votes" : "29410778266646.07421875000000000",
+    "producer_key" : "EOS4wR643E9R62vMUJ1Vx4imivsu38ifxmjvPodLiPajKFU5DN2da",
+    "is_active" : 1,
+    "url" : "",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2018-11-01T10:29:52.500",
+    "location" : 0,
+    "prepared-url" : null
+  },
+  "bp-json-summary" : null,
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 5.485044499693806E-7,
+  "scoring" : {
+    "comp" : [ {
+      "title" : "no-web",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    }, {
+      "title" : "no-bp-json-url",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    }, {
+      "title" : "no-coc",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 298,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

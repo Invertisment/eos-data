@@ -1,0 +1,41 @@
+{
+  "bp-header" : {
+    "owner" : "kunablockprd",
+    "total_votes" : "96024191938637.65625000000000000",
+    "producer_key" : "EOS7taVmQv5ScZhE2AFTSTDHbafj5fNS8VgT7zkLHUawvqQ47ekLL",
+    "is_active" : 1,
+    "url" : "https://eos.kuna.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 804,
+    "prepared-url" : "https://eos.kuna.io"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "eos.kuna.io",
+    "url" : "https://eos.kuna.io/bp.json"
+  },
+  "webpage-error" : "eos.kuna.io: Name or service not known",
+  "vote-percentage" : 1.7908297463446547E-6,
+  "scoring" : {
+    "comp" : [ {
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "eos.kuna.io: Name or service not known",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eos.kuna.io/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "eos.kuna.io"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 264,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

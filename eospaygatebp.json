@@ -1,0 +1,41 @@
+{
+  "bp-header" : {
+    "owner" : "eospaygatebp",
+    "total_votes" : "5405106671318538.00000000000000000",
+    "producer_key" : "EOS6An3xHstoTrAjhALB4R5LzTgwvcXZL5hTNtFeNyFRXutJiq1WJ",
+    "is_active" : 1,
+    "url" : "https://bp.eospay.host",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2018-07-04T17:14:36.500",
+    "location" : 0,
+    "prepared-url" : "https://bp.eospay.host"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "connect timed out",
+    "url" : "https://bp.eospay.host/bp.json"
+  },
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 1.008040329602435E-4,
+  "scoring" : {
+    "comp" : [ {
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "connect timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://bp.eospay.host/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "connect timed out"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 126,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

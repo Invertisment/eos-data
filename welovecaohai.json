@@ -1,0 +1,47 @@
+{
+  "bp-header" : {
+    "owner" : "welovecaohai",
+    "total_votes" : "251946267025715.71875000000000000",
+    "producer_key" : "EOS8ZiR9D92FiKtMjdrwCZWbq945YTxSionppGBS39Kynri859CTk",
+    "is_active" : 1,
+    "url" : "http://www.zran.org",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2018-06-30T12:19:24.000",
+    "location" : 0,
+    "prepared-url" : "http://www.zran.org"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "clj-http: status 404",
+    "url" : "http://www.zran.org/bp.json"
+  },
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ "http://cn.wordpress.org/", "http://zran.org/", "http://zran.org/%e5%85%b3%e4%ba%8e/", "http://zran.org/%e5%8d%9a%e5%ae%a2/", "http://zran.org/comments/feed/", "http://zran.org/feed/", "http://zran.org/wp-content/uploads/2018/06/Amazing_Grace_Declan_Galbraith.mp3", "http://zran.org/wp-login.php", "https://cn.wordpress.org/", "https://themeisle.com/themes/flat/" ],
+    "popularity-boosters-count" : 10
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 4.698741643756512E-6,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://www.zran.org"
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://www.zran.org/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 1,
+    "max" : 3
+  },
+  "place" : 235,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

@@ -1,0 +1,50 @@
+{
+  "bp-header" : {
+    "owner" : "dutcheosxxxx",
+    "total_votes" : "7248182716735586.00000000000000000",
+    "producer_key" : "EOS7zv7RMS5SuSRDfBzv7DUbS9ovf3MRvDyAkBum6AitpDs5NtMmT",
+    "is_active" : 1,
+    "url" : "https://dutcheos.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 528,
+    "prepared-url" : "https://dutcheos.io"
+  },
+  "bp-json-summary" : {
+    "url" : "https://dutcheos.io/bp.json",
+    "logo" : "https://dutcheos.io/assets/dutcheos_256.png",
+    "code_of_conduct" : "https://dutcheos.io/code-of-conduct/"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 5,
+    "duplicate-urls" : null,
+    "social-links" : [ "http://t.me/DutchEOS", "https://steemit.com/@eos-nl", "https://twitter.com/DutchEOS", "https://www.reddit.com/user/dutcheos" ],
+    "social-links-count" : 4,
+    "popularity-boosters" : [ "https://telosfoundation.io/", "https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fdutcheos.io%2F&linkname=DutchEOS%20%E2%80%93%20A%20Block%20Producer%20in%20the%20Netherlands", "https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fdutcheos.io%2F&linkname=DutchEOS%20%E2%80%93%20A%20Block%20Producer%20in%20the%20Netherlands", "https://www.addtoany.com/add_to/pocket?linkurl=https%3A%2F%2Fdutcheos.io%2F&linkname=DutchEOS%20%E2%80%93%20A%20Block%20Producer%20in%20the%20Netherlands", "https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fdutcheos.io%2F&linkname=DutchEOS%20%E2%80%93%20A%20Block%20Producer%20in%20the%20Netherlands", "https://www.addtoany.com/add_to/telegram?linkurl=https%3A%2F%2Fdutcheos.io%2F&linkname=DutchEOS%20%E2%80%93%20A%20Block%20Producer%20in%20the%20Netherlands", "https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fdutcheos.io%2F&linkname=DutchEOS%20%E2%80%93%20A%20Block%20Producer%20in%20the%20Netherlands" ],
+    "popularity-boosters-count" : 7
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 1.3517698981904556E-4,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://dutcheos.io"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://dutcheos.io/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://dutcheos.io/code-of-conduct/"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 122,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

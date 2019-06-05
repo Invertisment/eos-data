@@ -1,0 +1,47 @@
+{
+  "bp-header" : {
+    "owner" : "eosflareiobp",
+    "total_votes" : "260193277166485344.00000000000000000",
+    "producer_key" : "EOS6FLARENUBrQSqSRWk4BZG6oyUcepnTb1T6j3LgrExpJaL4gk89",
+    "is_active" : 1,
+    "url" : "https://eosflare.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-06-05T00:56:43.500",
+    "location" : 840,
+    "prepared-url" : "https://eosflare.io"
+  },
+  "bp-json-summary" : {
+    "url" : "https://eosflare.io/bp.json",
+    "logo" : "https://eosflare.io/static/img/icons/eosflare-256.png",
+    "code_of_conduct" : "https://node.eosflare.io/eosflare-code-of-conduct.html"
+  },
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.004852546542088112,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eosflare.io"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eosflare.io/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://node.eosflare.io/eosflare-code-of-conduct.html"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 84,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

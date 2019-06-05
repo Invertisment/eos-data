@@ -1,0 +1,48 @@
+{
+  "bp-header" : {
+    "owner" : "eosriobrazil",
+    "total_votes" : "770773585620943232.00000000000000000",
+    "producer_key" : "EOS62VTMkGDMWpK3ECNegVLt92UYQQMXC3uzcx5zjW64hrMCaL1rx",
+    "is_active" : 1,
+    "url" : "https://eosrio.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-06-04T21:59:24.500",
+    "location" : 76,
+    "prepared-url" : "https://eosrio.io"
+  },
+  "bp-json-summary" : {
+    "url" : "https://eosrio.io/bp.json",
+    "logo" : "https://eosrio.io/wp-content/uploads/2018/06/logo-eosrio-square-bgblack-1.jpg",
+    "code_of_conduct" : "https://eosrio.io/code-of-conduct/"
+  },
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ "https://github.com/eosrio", "https://medium.com/eos-rio", "https://steemit.com/@eosrio", "https://t.me/eosrio", "https://twitter.com/eosriobrazil", "https://www.meetup.com/pt-BR/EOS-Rio/" ],
+    "social-links-count" : 6,
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.014374755329456795,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eosrio.io"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eosrio.io/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://eosrio.io/code-of-conduct/"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 27,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

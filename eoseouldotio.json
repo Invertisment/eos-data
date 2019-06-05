@@ -1,0 +1,50 @@
+{
+  "bp-header" : {
+    "owner" : "eoseouldotio",
+    "total_votes" : "164300197676777760.00000000000000000",
+    "producer_key" : "EOS6SSA4gYCSZ3q9NWpxGsYDv5MWjSwKseyq25RRZexwj8EM6YHDa",
+    "is_active" : 1,
+    "url" : "https://www.eoseoul.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-05-08T08:46:17.500",
+    "location" : 410,
+    "prepared-url" : "https://www.eoseoul.io"
+  },
+  "bp-json-summary" : {
+    "url" : "https://www.eoseoul.io/bp.json",
+    "logo" : "https://cdn.steemitimages.com/DQmeiC8NPvLrVWi9nv9fvZceYqQjHJmCG36i6nNzspUuBBs/EOSeoul_logo_256.png",
+    "code_of_conduct" : "https://eoseoul.io/conduct_disclosure.html"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 11,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://github.com/SeolChoonSik", "https://github.com/eoseoul", "https://github.com/mrmsm", "https://github.com/pesl0523", "https://github.com/redjade", "https://github.com/toypresent81", "https://github.com/wwforever", "https://github.com/yepp4you", "https://medium.com/eoseoul", "https://medium.com/eoseoul/announcing-the-eoseoul-financial-information-8c9428285d78", "https://medium.com/eoseoul/codeos-essential-knowledge-in-eos-contact-development-9c9b1bf26d0c", "https://medium.com/eoseoul/eos-tapsonic-vr-the-worlds-first-eos-vr-game-launches-today-d6a999035169", "https://medium.com/eoseoul/eoseoul-the-path-to-mass-adoption-b63dde7afc3b", "https://steemit.com/@eoseoul", "https://t.me/eoseoul", "https://twitter.com/eoseoul_kor", "https://www.facebook.com/EOSeoul.io/", "https://www.linkedin.com/in/boram-k-b2530669/", "https://www.linkedin.com/in/daesung-lim-07895856/", "https://www.linkedin.com/in/eliotshin/", "https://www.linkedin.com/in/hyunhee-kim-b49484128/", "https://www.linkedin.com/in/minji-lee-832858106", "https://www.linkedin.com/in/taegeun-bae-8830246a/", "https://www.linkedin.com/in/yongkilkwon/", "https://www.youtube.com/c/EOSeoul" ],
+    "social-links-count" : 25,
+    "popularity-boosters" : [ "http://publyto.io/", "https://bihu.com/people/457572", "https://contentsprotocol.io/", "https://cosmochain.io/en/", "https://dexeos.io/", "https://portal.eoseoul.io/", "https://portal.eoseoul.io/votelogin", "https://sentinelprotocol.io/", "https://terra.money/", "https://www.klaytn.com/", "https://www.producthunt.com/@bkim9324", "https://www.ttc.eco/", "img/photos/dongwon_wc.png", "img/photos/inyong_wc.png" ],
+    "popularity-boosters-count" : 14
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.0030641620136507342,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://www.eoseoul.io"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://www.eoseoul.io/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://eoseoul.io/conduct_disclosure.html"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 93,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

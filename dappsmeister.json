@@ -1,0 +1,41 @@
+{
+  "bp-header" : {
+    "owner" : "dappsmeister",
+    "total_votes" : "766579465133.75000000000000000",
+    "producer_key" : "EOS8SSdcCcfQgX7vx59hr5i3HqKFwPVRgEfy29niGrpFztdxRHGtR",
+    "is_active" : 1,
+    "url" : "https://dappsmeister.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-04-24T12:52:56.000",
+    "location" : 52,
+    "prepared-url" : "https://dappsmeister.io"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "dappsmeister.io",
+    "url" : "https://dappsmeister.io/bp.json"
+  },
+  "webpage-error" : "dappsmeister.io: Name or service not known",
+  "vote-percentage" : 1.4296535918529401E-8,
+  "scoring" : {
+    "comp" : [ {
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "dappsmeister.io: Name or service not known",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://dappsmeister.io/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "dappsmeister.io"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 449,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

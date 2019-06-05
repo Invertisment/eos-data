@@ -1,0 +1,48 @@
+{
+  "bp-header" : {
+    "owner" : "eosadddddddd",
+    "total_votes" : "4846571768407564.00000000000000000",
+    "producer_key" : "EOS8RBVQtaZRWNq5iRoKK3b5nnWHPmqoLgUZbK3TfAtyvucy4QR65",
+    "is_active" : 1,
+    "url" : "http://eosadd.com",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2018-06-23T15:12:41.000",
+    "location" : 0,
+    "prepared-url" : "http://eosadd.com"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "clj-http: status 404",
+    "url" : "http://eosadd.com/bp.json"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 7,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://github.com/EOSADD/EOSADD.github.io/raw/master/" ],
+    "social-links-count" : 1,
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 9.03874816900815E-5,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://eosadd.com"
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://eosadd.com/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 1,
+    "max" : 3
+  },
+  "place" : 130,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

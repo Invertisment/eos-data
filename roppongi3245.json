@@ -1,0 +1,49 @@
+{
+  "bp-header" : {
+    "owner" : "roppongi3245",
+    "total_votes" : "77220814571.03222656250000000",
+    "producer_key" : "EOS8cwg7j2jbCzHeoarrAxqsxXVWMgA5gjFXV38D3TJEDSXPiyypF",
+    "is_active" : 1,
+    "url" : "“https://www.eosdocs.io/resources/apiendpoints/”",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 0,
+    "prepared-url" : "https://www.eosdocs.io/resources/apiendpoints/"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "no protocol: “https://www.eosdocs.io/resources/apiendpoints/”/bp.json",
+    "url" : "“https://www.eosdocs.io/resources/apiendpoints/”/bp.json"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 34,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://github.com/eosnewyork/eosdocs.io/tree/master/PublicWebsite/content/Resources/apiendpoints/_index.md" ],
+    "social-links-count" : 1,
+    "popularity-boosters" : [ "http://eosnetworkmonitor.io/", "https://blockmatrix.network/", "https://eosnode.tools/blocks", "https://eostracker.io/producers" ],
+    "popularity-boosters-count" : 4
+  },
+  "p-ram-amounts" : [ "16GB or ram" ],
+  "vote-percentage" : 1.4401509554919275E-9,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "“https://www.eosdocs.io/resources/apiendpoints/”"
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "“https://www.eosdocs.io/resources/apiendpoints/”/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "no protocol: “https://www.eosdocs.io/resources/apiendpoints/”/bp.json"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 1,
+    "max" : 3
+  },
+  "place" : 464,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

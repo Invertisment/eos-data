@@ -1,0 +1,50 @@
+{
+  "bp-header" : {
+    "owner" : "libertyblock",
+    "total_votes" : "541837579465763328.00000000000000000",
+    "producer_key" : "EOS7TqVs7LpMzJwikiWkGTG9UGSwcQVhxP2ZKBM7FCbUwcrryNgHP",
+    "is_active" : 1,
+    "url" : "https://libertyblock.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-06-05T06:03:02.000",
+    "location" : 124,
+    "prepared-url" : "https://libertyblock.io"
+  },
+  "bp-json-summary" : {
+    "url" : "https://libertyblock.io/bp.json",
+    "logo" : "https://www.libertyblock.io/png-256-logo.png",
+    "code_of_conduct" : "https://libertyblock.io/codeofconduct"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 2,
+    "duplicate-urls" : null,
+    "social-links" : [ "http://twitter.com/teddef", "https://github.com/Byzantine-Works/EOS-Community/tree/master/airdrop", "https://github.com/LibertyBlock", "https://medium.com/@bensig/enterprise-grade-eos-api-service-and-other-tools-by-libertyblock-byzantine-fdc694d9cc9e", "https://t.me/eoslibertyblock", "https://twitter.com/BlockLiberty", "https://twitter.com/Travis_Kling", "https://twitter.com/anthony_emtman", "https://twitter.com/samkazemian", "https://twitter.com/sunshineincabo", "https://twitter.com/travismo123", "https://www.facebook.com/groups/1818056141549615/about/", "https://www.linkedin.com/in/anthonyemtman/", "https://www.linkedin.com/in/kedar-iyer-47552649/", "https://www.linkedin.com/in/romiezzo/", "https://www.linkedin.com/in/teddef/", "https://www.linkedin.com/in/timothytlewis", "https://www.linkedin.com/in/travis-kling-ikigai/", "https://www.linkedin.com/in/travis-moore-0a74a4135/", "https://www.reddit.com/user/libertyblock" ],
+    "social-links-count" : 20,
+    "popularity-boosters" : [ "http://byzantine.works/community", "https://avonetwork.com/lb/wp-content/uploads/2017/03/iStock-938569966.mp4", "https://www.kanaandkatana.com/eos-town-hall" ],
+    "popularity-boosters-count" : 3
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.0101051499148751,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://libertyblock.io"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://libertyblock.io/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://libertyblock.io/codeofconduct"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 42,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

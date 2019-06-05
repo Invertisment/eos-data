@@ -1,0 +1,47 @@
+{
+  "bp-header" : {
+    "owner" : "gy3dqnjtgyge",
+    "total_votes" : "404592345598250.18750000000000000",
+    "producer_key" : "EOS6o9DdrLKio11s1WBsMfu1nbEiTw6Sq4APV1HcfYr3bLugEBTY3",
+    "is_active" : 1,
+    "url" : "http://eosbattles.com",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 643,
+    "prepared-url" : "http://eosbattles.com"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "clj-http: status 404",
+    "url" : "http://eosbattles.com/bp.json"
+  },
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ "https://www.reg.ru" ],
+    "popularity-boosters-count" : 1
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 7.5455569373988206E-6,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://eosbattles.com"
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://eosbattles.com/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 1,
+    "max" : 3
+  },
+  "place" : 222,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

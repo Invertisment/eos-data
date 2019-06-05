@@ -1,0 +1,48 @@
+{
+  "bp-header" : {
+    "owner" : "bitcoineosfu",
+    "total_votes" : "19060843561031.39453125000000000",
+    "producer_key" : "EOS5KvXdnwJV4YGcv7XL3K4UKsDSZxA13gmubYLTvE14g9vrMf7iT",
+    "is_active" : 1,
+    "url" : "http://bitcoineos.fun",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2018-08-21T16:41:09.500",
+    "location" : 0,
+    "prepared-url" : "http://bitcoineos.fun"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "clj-http: status 404",
+    "url" : "http://bitcoineos.fun/bp.json"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 1,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://t.me/joinchat/Fuo_mUvFgHN241Xhut-mMA", "https://twitter.com/bitcoineos" ],
+    "social-links-count" : 2,
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 3.5548047789175993E-7,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://bitcoineos.fun"
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://bitcoineos.fun/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 1,
+    "max" : 3
+  },
+  "place" : 328,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

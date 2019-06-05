@@ -1,0 +1,49 @@
+{
+  "bp-header" : {
+    "owner" : "miamixtrella",
+    "total_votes" : "57495714782903.41406250000000000",
+    "producer_key" : "EOS5bWzbSnVEmw2964ptwy5zpt8UdnHj5PBghUS8Yk8qVFCwgPqe2",
+    "is_active" : 1,
+    "url" : "https://xtrella.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 0,
+    "prepared-url" : "https://xtrella.io"
+  },
+  "bp-json-summary" : {
+    "url" : "https://xtrella.io/bp.json",
+    "logo" : "https://xtrella.io/bp-info/logo-256.png",
+    "code_of_conduct" : "https://xtrella.io/transparency/"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 1,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://medium.com/coinmonks/a-step-by-step-guide-to-eos-block-producer-voting-using-the-scatter-browser-extension-fd93e75e86ed", "https://t.me/xtrellabp" ],
+    "social-links-count" : 2,
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 1.072282247231711E-6,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://xtrella.io"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://xtrella.io/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://xtrella.io/transparency/"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 275,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

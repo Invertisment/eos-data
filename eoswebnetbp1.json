@@ -1,0 +1,45 @@
+{
+  "bp-header" : {
+    "owner" : "eoswebnetbp1",
+    "total_votes" : "231107755958712.62500000000000000",
+    "producer_key" : "EOS5sT6mdCkTBLZM8vZnwqmBpA6gjtbdSTEeGL2k26JQFnjaCg6j2",
+    "is_active" : 1,
+    "url" : "https://eosweb.net",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 0,
+    "prepared-url" : "https://eosweb.net"
+  },
+  "bp-json-summary" : {
+    "url" : "https://eosweb.net/bp.json",
+    "logo" : "https://secure.gravatar.com/avatar/b7e0f18f9621ed4f2d54be1bb89de0d8.jpg?s=80&r=g&d=mm"
+  },
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 4.310108063666936E-6,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eosweb.net"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eosweb.net/bp.json"
+    }, {
+      "title" : "no-coc",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    } ],
+    "score" : 2,
+    "max" : 3
+  },
+  "place" : 238,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

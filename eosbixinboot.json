@@ -1,0 +1,42 @@
+{
+  "bp-header" : {
+    "owner" : "eosbixinboot",
+    "total_votes" : "657299930401576576.00000000000000000",
+    "producer_key" : "EOS7QC1XfAtkYeLjbHQjcDWVqUsxuSJ3YRhNyG93VAv2u3uHopGVp",
+    "is_active" : 1,
+    "url" : "https://en.eosbixin.com",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-06-05T08:27:02.500",
+    "location" : 7,
+    "prepared-url" : "https://en.eosbixin.com"
+  },
+  "bp-json-summary" : {
+    "url" : "https://en.eosbixin.com/bp.json",
+    "logo" : "https://raw.githubusercontent.com/EOSBIXIN/eostoolkit/master/logo/eosbixinlogo_256.png",
+    "code_of_conduct" : "https://steemit.com/eos/@tuitui/eosbixin-code-of-conduct"
+  },
+  "webpage-error" : "clj-http: status 404",
+  "vote-percentage" : 0.012258496987776004,
+  "scoring" : {
+    "comp" : [ {
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "clj-http: status 404",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://en.eosbixin.com/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/eos/@tuitui/eosbixin-code-of-conduct"
+    } ],
+    "score" : 2,
+    "max" : 3
+  },
+  "place" : 34,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

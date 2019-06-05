@@ -1,0 +1,46 @@
+{
+  "bp-header" : {
+    "owner" : "halo4develop",
+    "total_votes" : "20181774408169.05859375000000000",
+    "producer_key" : "EOS5XDZRdmH778EuAFNGpwgyLE8DMWcdLke8BKZ6uhiNF5zV2eJn1",
+    "is_active" : 1,
+    "url" : "https://halowallet.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 0,
+    "prepared-url" : "https://halowallet.io"
+  },
+  "bp-json-summary" : {
+    "read-error" : "read:'https://halowallet.io/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "url" : "https://halowallet.io/bp.json"
+  },
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 3.7638558799080904E-7,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://halowallet.io"
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://halowallet.io/bp.json",
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'https://halowallet.io/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 1,
+    "max" : 3
+  },
+  "place" : 324,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

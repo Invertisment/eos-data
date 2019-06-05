@@ -1,0 +1,50 @@
+{
+  "bp-header" : {
+    "owner" : "buildteameos",
+    "total_votes" : "1280503919772155.00000000000000000",
+    "producer_key" : "EOS69v4LRsujLS4pdJ2rk91gUaiKzWWkHNDBiRqxLAr1snJLM8QXH",
+    "is_active" : 1,
+    "url" : "https://buildteam.io/",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 0,
+    "prepared-url" : "https://buildteam.io/"
+  },
+  "bp-json-summary" : {
+    "url" : "https://buildteam.io/bp.json",
+    "logo" : "https://steemitimages.com/u/buildteam/avatar",
+    "code_of_conduct" : "https://steemit.com/eos/@buildteam/buildteam-eos-block-producer-candidacy-announcement"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 11,
+    "duplicate-urls" : null,
+    "social-links" : [ "http://steemit.com/@himshweta", "http://steemit.com/@lavokad", "http://steemit.com/@maya7", "https://github.com/BuildTeamDev", "https://steemit.com/@BuildTeam", "https://steemit.com/@BuildTeam/", "https://steemit.com/@btuniverse", "https://steemit.com/@dlease", "https://steemit.com/@ginabot", "https://steemit.com/@minnowbooster", "https://steemit.com/@steemvoter", "https://steemit.com/@tokenbb", "https://steemit.com/buildteam/@buildteam/announcement-buildteam-token-now-listed-on-coingecko-com", "https://steemit.com/buildteam/@buildteam/buildteam-ceo-update-2019-roadmap", "https://steemit.com/buildteam/@buildteam/buildteam-staking-performance-review-of-the-buildteam-token", "https://steemit.com/buildteam/@buildteam/buildteam-token-announcement", "https://steemit.com/buildteam/@buildteam/introducing-quicksteem-create-steem-accounts-with-ease", "https://steemit.com/ginabot/@ginabot/the-new-look-of-gina", "https://steemit.com/introduceyourself/@dlease/introducing-dlease-io-a-digital-asset-leasing-platform-for-the-masses", "https://steemit.com/steemvoter/@steemvoter/introducing-a-brand-new-steemvoter", "https://steemit.com/tokenbb/@tokenbb/tokenbb-is-now-officially-powered-by-buildteam", "https://t.me/BuildTeam", "https://t.me/joinchat/C5aYWgwuaGRuRsPKciHVWQ", "https://www.linkedin.com/company/18237732/", "https://www.youtube.com/channel/UC6QLlL_OTr02jRyjDraPSdg", "https://www.youtube.com/channel/UCgYRM9vXStNGPouX480gq7A", "https://www.youtube.com/channel/UCrRw_yqDWwX9ZmTYc7m89TA" ],
+    "social-links-count" : 27,
+    "popularity-boosters" : [ "http://steemsports.com", "http://www.bitshares.org", "https://beta.steemvoter.com", "https://dlease.io", "https://duncancotterill.com", "https://minnowbooster.net", "https://paycent.com", "https://paytomat.com", "https://privex.io?r=buildteam", "https://quicksteem.com", "https://techinvestor.io", "https://tokenbb.io" ],
+    "popularity-boosters-count" : 12
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 2.3881112285790496E-5,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://buildteam.io/"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://buildteam.io/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/eos/@buildteam/buildteam-eos-block-producer-candidacy-announcement"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 178,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

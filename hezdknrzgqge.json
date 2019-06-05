@@ -1,0 +1,49 @@
+{
+  "bp-header" : {
+    "owner" : "hezdknrzgqge",
+    "total_votes" : "15133619312976.95312500000000000",
+    "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
+    "is_active" : 0,
+    "url" : "http://eosarabia.org/",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 0,
+    "prepared-url" : "http://eosarabia.org/"
+  },
+  "bp-json-summary" : {
+    "read-error" : "read:'http://eosarabia.org/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "url" : "http://eosarabia.org/bp.json"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 2,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://github.com/EOS-Mainnet/governance/blob/master/eosio.system/eosio.system-regproducer-rc.md", "https://medium.com/eos-arabia-official", "https://t.me/EOS_Arabia", "https://twitter.com/EOS_Arabia" ],
+    "social-links-count" : 4,
+    "popularity-boosters" : [ "http://eosarabia.net/code-of-conduct/", "http://eosarabia.net/ownership-disclosure/", "https://caramellaapp.com/EOS_Arabia", "https://eosarabia.net/", "https://eosarabia.net/about/", "https://eosarabia.net/all-things-eos/", "https://eosarabia.net/category/eos/", "https://eosarabia.net/why-vote-for-eos-arabia/", "https://eosauthority.com", "https://eosauthority.com/green/", "https://meet.one/", "https://snax.one", "https://www.Bloks.io/", "https://www.eoscafeblock.com/", "https://www.infinitowallet.io/" ],
+    "popularity-boosters-count" : 15
+  },
+  "p-ram-amounts" : [ "RAM" ],
+  "vote-percentage" : 2.822386222510876E-7,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://eosarabia.org/"
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://eosarabia.org/bp.json",
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'http://eosarabia.org/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 1,
+    "max" : 3
+  },
+  "place" : 341,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

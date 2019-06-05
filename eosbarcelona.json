@@ -1,0 +1,50 @@
+{
+  "bp-header" : {
+    "owner" : "eosbarcelona",
+    "total_votes" : "22131614392319820.00000000000000000",
+    "producer_key" : "EOS7o7ZUH8bZBkLNCKCK3BgFNAqtXPrr337CGsbxT2juaXoVnUfkr",
+    "is_active" : 1,
+    "url" : "https://eos.barcelona",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 0,
+    "prepared-url" : "https://eos.barcelona"
+  },
+  "bp-json-summary" : {
+    "url" : "https://eos.barcelona/bp.json",
+    "logo" : "https://eos.barcelona/eosLogo-256.png",
+    "code_of_conduct" : "https://steemit.com/eos/@jrosich/introducing-eosbarcelona"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 8,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://github.com/jrosich?tab=repositories", "https://medium.com/@teloslogical/telos-block-producer-infrastructure-requirements-9a93b59dc7d5", "https://medium.com/eosbarcelona", "https://medium.com/eosbarcelona/esobarcelona-november-2018-update-a921191b2aec", "https://t.me/eosbarcelona", "https://twitter.com/eosbarcelona" ],
+    "social-links-count" : 6,
+    "popularity-boosters" : [ "http://dev.cryptolions.io/", "https://docs.google.com/presentation/d/14JEkLc5AW6hrgspQUFe91ItuAcizMms70Pq_xc9z7p4/edit?usp=sharing", "https://docs.google.com/presentation/d/1Ec-7MsMX-OBdGT3Lx1W7vPidKTTw-RYE-ny-Dikl_70/edit?usp=sharing", "https://docs.google.com/presentation/d/1HPsK5PDoeYL-iLW6fPzFQUwFXmdVxbdD7_NUcesOimg/edit?usp=sharing", "https://docs.google.com/presentation/d/1ONHSb86Ih_uduBQ4PRxTvYOZipAwK2yneoDfW6hgUig/edit?usp=sharing", "https://docs.google.com/presentation/d/1RncUlnWO03eBilcQ3mTfP5DhLRx59pYQejlEiw4tRCo/edit?usp=sharing", "https://docs.google.com/presentation/d/1SE5nzJ5QcrynJASEmWiCJHWa_1FZZgGoCNiEOk2z6Ks/edit?usp=sharing", "https://docs.google.com/presentation/d/1UP1yzh402Mf3iX5l9GQ2PgQZ1iCt0iyzzNNADqZR1uo/edit?usp=sharing", "https://docs.google.com/presentation/d/1mHfrlw3HtKdBiR3_zy7McQilLwecEnCNwZsQEiMKgls/edit?usp=sharing", "https://docs.google.com/presentation/d/1y6NNJA00tafD3D1WSr6Tr0cMX-w4WfkVeWapTRiYghY/edit?usp=sharing", "https://docs.google.com/presentation/d/1zJQHKaC2OMrfYUF0_T8GQljUyMxAQvYyZTG_ghxFsOM/edit?usp=sharing" ],
+    "popularity-boosters-count" : 11
+  },
+  "p-ram-amounts" : [ "32GiB of RAM", "64 GiB of RAM", "64GiB of RAM" ],
+  "vote-percentage" : 4.1274966847649287E-4,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eos.barcelona"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eos.barcelona/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/eos/@jrosich/introducing-eosbarcelona"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 110,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

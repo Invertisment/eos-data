@@ -1,0 +1,50 @@
+{
+  "bp-header" : {
+    "owner" : "eoscanadacom",
+    "total_votes" : "736925493584809472.00000000000000000",
+    "producer_key" : "EOS7eycxAbCtKyfoJc8uRZcmt1AmArjXcz8aonLUTzahk5rHc18NJ",
+    "is_active" : 1,
+    "url" : "https://eoscanada.com",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-06-05T17:56:59.000",
+    "location" : 0,
+    "prepared-url" : "https://eoscanada.com"
+  },
+  "bp-json-summary" : {
+    "url" : "https://eoscanada.com/bp.json",
+    "logo" : "https://www.eoscanada.com/hubfs/eos-canada-logo-square-256px.png",
+    "code_of_conduct" : "https://www.eoscanada.com/en/code-of-conduct"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 4,
+    "duplicate-urls" : null,
+    "social-links" : [ "http://i.youku.com/eoscanada", "https://github.com/eoscanada", "https://github.com/eoscanada/", "https://github.com/eoscanada/eosio.forum", "https://steemit.com/@eos-canada", "https://t.me/eoscanada", "https://twitter.com/EOS_Canada", "https://www.facebook.com/eoscanadacom", "https://www.linkedin.com/company/eoscanada/", "https://www.reddit.com/user/EOSCanada/", "https://www.weibo.com/eoscanada", "https://www.youtube.com/channel/UCoTHlEOVdeN9NOc5b5C1-vQ" ],
+    "social-links-count" : 12,
+    "popularity-boosters" : [ "https://bihu.com/people/460474", "https://dfuse.io", "https://dfuse.io/", "https://eosc.app", "https://eosq.app" ],
+    "popularity-boosters-count" : 5
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.01374349596812777,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eoscanada.com"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eoscanada.com/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://www.eoscanada.com/en/code-of-conduct"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 31,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

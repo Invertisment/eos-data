@@ -1,0 +1,46 @@
+{
+  "bp-header" : {
+    "owner" : "eosgamesboot",
+    "total_votes" : "553425470908972.37500000000000000",
+    "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
+    "is_active" : 0,
+    "url" : "http://eos.games",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2018-11-24T21:23:42.500",
+    "location" : 0,
+    "prepared-url" : "http://eos.games"
+  },
+  "bp-json-summary" : {
+    "read-error" : "read:'http://eos.games/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "url" : "http://eos.games/bp.json"
+  },
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 1.0321261503787742E-5,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://eos.games"
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://eos.games/bp.json",
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'http://eos.games/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 1,
+    "max" : 3
+  },
+  "place" : 213,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

@@ -1,0 +1,41 @@
+{
+  "bp-header" : {
+    "owner" : "eoshorizon11",
+    "total_votes" : "564380876224059.37500000000000000",
+    "producer_key" : "EOS7tH9RE8UN3kD8d4F3PJxMHCu7UW4RoQmuCcQe3wqFLm8hrJW1L",
+    "is_active" : 1,
+    "url" : "https://eoshorizon.ca",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2018-08-13T01:59:50.500",
+    "location" : 0,
+    "prepared-url" : "https://eoshorizon.ca"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "clj-http: status 404",
+    "url" : "https://eoshorizon.ca/bp.json"
+  },
+  "webpage-error" : "clj-http: status 403",
+  "vote-percentage" : 1.0525577367586497E-5,
+  "scoring" : {
+    "comp" : [ {
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "clj-http: status 403",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eoshorizon.ca/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 212,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

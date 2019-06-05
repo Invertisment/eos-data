@@ -1,0 +1,45 @@
+{
+  "bp-header" : {
+    "owner" : "eoshcchealth",
+    "total_votes" : "545757739069314.87500000000000000",
+    "producer_key" : "EOS7qQrBczoy9B892tRY9eir21eBh6S1nUMjZGyJaVY1EDLe7TdvL",
+    "is_active" : 1,
+    "url" : "https://eoshcc.keybase.pub",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2018-06-18T08:48:03.000",
+    "location" : 0,
+    "prepared-url" : "https://eoshcc.keybase.pub"
+  },
+  "bp-json-summary" : {
+    "url" : "https://eoshcc.keybase.pub/bp.json",
+    "logo" : "https://eoshcc.keybase.pub/logo_256.png"
+  },
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 1.0178260016472674E-5,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eoshcc.keybase.pub"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eoshcc.keybase.pub/bp.json"
+    }, {
+      "title" : "no-coc",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    } ],
+    "score" : 2,
+    "max" : 3
+  },
+  "place" : 214,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

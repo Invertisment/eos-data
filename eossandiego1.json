@@ -1,0 +1,45 @@
+{
+  "bp-header" : {
+    "owner" : "eossandiego1",
+    "total_votes" : "7848841367808350.00000000000000000",
+    "producer_key" : "EOS5uvviewoQV5z1afft5Pk11GYa7W16EgFNnvEDo5Ayr3TBmznaN",
+    "is_active" : 1,
+    "url" : "https://eossandiego.com/",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-01-04T22:37:38.500",
+    "location" : 0,
+    "prepared-url" : "https://eossandiego.com/"
+  },
+  "bp-json-summary" : {
+    "url" : "https://eossandiego.com/bp.json",
+    "logo" : ""
+  },
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 1.4637913959009234E-4,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eossandiego.com/"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eossandiego.com/bp.json"
+    }, {
+      "title" : "no-coc",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    } ],
+    "score" : 2,
+    "max" : 3
+  },
+  "place" : 121,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

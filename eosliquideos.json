@@ -1,0 +1,50 @@
+{
+  "bp-header" : {
+    "owner" : "eosliquideos",
+    "total_votes" : "840191764759123072.00000000000000000",
+    "producer_key" : "EOS4v1n2j5kXbCum8LLEc8zQLpeLK9rKVFmsUgLCWgMDN38P6PcrW",
+    "is_active" : 1,
+    "url" : "http://vote.liquideos.com",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-06-05T01:59:02.500",
+    "location" : 376,
+    "prepared-url" : "http://vote.liquideos.com"
+  },
+  "bp-json-summary" : {
+    "url" : "http://vote.liquideos.com/bp.json",
+    "logo" : "https://vote.liquideos.com/LiquidEOS%20256x256.jpg",
+    "code_of_conduct" : "https://steemit.com/bancor/@bancor-network/announcing-bancor-as-an-eos-block-producer-candidate"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 1,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://github.com/bancorprotocol/liquideos-voting-app" ],
+    "social-links-count" : 1,
+    "popularity-boosters" : [ "https://liquideos.com", "https://scatter-eos.com/", "https://storage.googleapis.com/liquideos/voting-app/builds/liquideos-vote-macos-1.0.0.zip", "https://storage.googleapis.com/liquideos/voting-app/builds/liquideos-vote-windows-1.0.0.zip", "https://www.liquideos.com/" ],
+    "popularity-boosters-count" : 5
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.015669388875732052,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://vote.liquideos.com"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "http://vote.liquideos.com/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/bancor/@bancor-network/announcing-bancor-as-an-eos-block-producer-candidate"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 22,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

@@ -1,0 +1,50 @@
+{
+  "bp-header" : {
+    "owner" : "sheos21sheos",
+    "total_votes" : "304643218469638272.00000000000000000",
+    "producer_key" : "EOS5nUybopuNRPp4Lgpt3BCxT3j2Zw3BftJha8gLbJFvMQBMC3ToL",
+    "is_active" : 1,
+    "url" : "https://sheos.org",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-06-05T14:23:03.000",
+    "location" : 724,
+    "prepared-url" : "https://sheos.org"
+  },
+  "bp-json-summary" : {
+    "url" : "https://sheos.org/bp.json",
+    "logo" : "https://sheos.org/img/sheos-256.png",
+    "code_of_conduct" : "https://sheos.org#CODEOFCONDUCT"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 8,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://medium.com/@bensig/eos-block-producer-compliance-40888be3116", "https://medium.com/@liquideos/increasing-stability-of-the-eos-blockchain-11921477549e", "https://steemit.com/eos/@sheos/announcing-sheos-an-all-female-block-producer-candidate", "https://steemit.com/eos/@sheos/sheos-mission-statement-principles-and-code-of-conduct", "https://www.linkedin.com/company/sheos/", "https://www.weibo.com/sheos", "https://www.youtube.com/channel/UCRLYpKGNrxac7yTKmpzamvg" ],
+    "social-links-count" : 7,
+    "popularity-boosters" : [ "https://docs.google.com/document/d/1jIjJvTrIBwqhgyfsMpCKaSrExbmoCSLW2ggYMMy8lxE", "https://tinyletter.com", "https://www.diverseeos.com/" ],
+    "popularity-boosters-count" : 3
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.0056815280258357545,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://sheos.org"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://sheos.org/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://sheos.org#CODEOFCONDUCT"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 70,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

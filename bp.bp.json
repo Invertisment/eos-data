@@ -1,0 +1,48 @@
+{
+  "bp-header" : {
+    "owner" : "bp.bp",
+    "total_votes" : "41298572428477.09375000000000000",
+    "producer_key" : "EOS8gNuZCsqBnvaLacA6WinmUy73nDJYD3gmYWTc5n7aGfB2Csnpc",
+    "is_active" : 1,
+    "url" : "https://www.bitportal.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 0,
+    "prepared-url" : "https://www.bitportal.io"
+  },
+  "bp-json-summary" : {
+    "url" : "https://www.bitportal.io/bp.json",
+    "logo" : "https://cdn.bitportal.io/bp/bitportal_256.png"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 4,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://bitportal.github.io/bitportal-release-notes/", "https://github.com/BitPortal", "https://t.me/BitPortal_official_EN", "https://twitter.com/BitPortal_IO" ],
+    "social-links-count" : 4,
+    "popularity-boosters" : [ "http://cointegra.io/", "http://s.bitportal.io/4DUnz", "http://s.bitportal.io/6cHwC", "http://www.ratio.fund/", "https://btccpooleos.com/", "https://dapp.pub/", "https://discordapp.com/invite/ZRUvfxV", "https://fir.im/bitportal", "https://imeos.one/", "https://itunes.apple.com/hk/app/dexlize-bitportal/id1438712581?mt=8", "https://kyubey.network/", "https://slowmist.io/", "https://spider.store/ranking/eos/hot", "https://www.dexlize.org/", "https://www.ihuoqiu.com/" ],
+    "popularity-boosters-count" : 15
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 7.702091576438136E-7,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://www.bitportal.io"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://www.bitportal.io/bp.json"
+    }, {
+      "title" : "no-coc",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    } ],
+    "score" : 2,
+    "max" : 3
+  },
+  "place" : 282,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

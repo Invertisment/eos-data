@@ -1,0 +1,41 @@
+{
+  "bp-header" : {
+    "owner" : "eosmesodotio",
+    "total_votes" : "24285224118839664.00000000000000000",
+    "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
+    "is_active" : 0,
+    "url" : "https://eosmeso.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2018-10-07T23:25:04.500",
+    "location" : 320,
+    "prepared-url" : "https://eosmeso.io"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "Connection refused (Connection refused)",
+    "url" : "https://eosmeso.io/bp.json"
+  },
+  "webpage-error" : "Connection refused (Connection refused)",
+  "vote-percentage" : 4.529140091744442E-4,
+  "scoring" : {
+    "comp" : [ {
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Connection refused (Connection refused)",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eosmeso.io/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "Connection refused (Connection refused)"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 109,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

@@ -1,0 +1,50 @@
+{
+  "bp-header" : {
+    "owner" : "eoswingdotio",
+    "total_votes" : "2154798547130763.75000000000000000",
+    "producer_key" : "EOS5o4BNMCy6Sh3BvstKytJS5TnXrxEW5oF7Wh3wBJTnaoQbLpwFh",
+    "is_active" : 1,
+    "url" : "https://eoswing.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-06-05T01:59:14.000",
+    "location" : 0,
+    "prepared-url" : "https://eoswing.io"
+  },
+  "bp-json-summary" : {
+    "url" : "https://eoswing.io/bp.json",
+    "logo" : "https://eoswing.io/images/eoswing-logo-256.png",
+    "code_of_conduct" : "https://steemit.com/blockchain/@eoswing/eoswing-block-producer-announcement"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 6,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://github.com/eoswing", "https://steemit.com/@eoswing", "https://t.me/eoswing", "https://twitter.com/eoswing" ],
+    "social-links-count" : 4,
+    "popularity-boosters" : [ "https://mp.weixin.qq.com/s/6vq3PS7NTb3QvRxzUxK5iA", "https://www.myeoskit.com/tools/vote/?voteTo=eoswingdotio" ],
+    "popularity-boosters-count" : 2
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 4.0186511936991406E-5,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eoswing.io"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eoswing.io/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/blockchain/@eoswing/eoswing-block-producer-announcement"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 151,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

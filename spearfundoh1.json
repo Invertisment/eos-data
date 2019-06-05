@@ -1,0 +1,41 @@
+{
+  "bp-header" : {
+    "owner" : "spearfundoh1",
+    "total_votes" : "13777802473145.77734375000000000",
+    "producer_key" : "EOS692z8EWu1bg15q8P5aV4zKWzzEHYokfZctcaoCmq8PArmM4Zyu",
+    "is_active" : 1,
+    "url" : "http://spear.fund",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2018-06-14T18:28:47.000",
+    "location" : 0,
+    "prepared-url" : "http://spear.fund"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "clj-http: status 404",
+    "url" : "http://spear.fund/bp.json"
+  },
+  "webpage-error" : "clj-http: status 404",
+  "vote-percentage" : 2.56952940816598E-7,
+  "scoring" : {
+    "comp" : [ {
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "clj-http: status 404",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://spear.fund/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 365,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

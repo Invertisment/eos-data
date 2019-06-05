@@ -1,0 +1,50 @@
+{
+  "bp-header" : {
+    "owner" : "hitbtcproduc",
+    "total_votes" : "46104834536760.35937500000000000",
+    "producer_key" : "EOS8Z9vaREuaXGUiGBRCdq6RXdzGxPUfM9MELfYGYrKKupu2uSXVi",
+    "is_active" : 1,
+    "url" : "https://hitblockproducer.com",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-01-21T13:45:27.500",
+    "location" : 826,
+    "prepared-url" : "https://hitblockproducer.com"
+  },
+  "bp-json-summary" : {
+    "url" : "https://hitblockproducer.com/bp.json",
+    "logo" : "https://hitblockproducer.com/logo/logo-256.png",
+    "code_of_conduct" : "https://hitblockproducer.com/code/"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 6,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://github.com/hitbtc-com/hitbtc-api", "https://twitter.com/hitbtc", "https://www.facebook.com/hit.btc", "https://www.reddit.com/r/hitbtc/" ],
+    "social-links-count" : 4,
+    "popularity-boosters" : [ "https://hitbtc.com", "https://www.eosx.io/tools/vote?voteTo=hitbtcproduc" ],
+    "popularity-boosters-count" : 2
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 8.598448731699916E-7,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://hitblockproducer.com"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://hitblockproducer.com/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://hitblockproducer.com/code/"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 279,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

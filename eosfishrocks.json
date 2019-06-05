@@ -1,0 +1,49 @@
+{
+  "bp-header" : {
+    "owner" : "eosfishrocks",
+    "total_votes" : "150416834236548320.00000000000000000",
+    "producer_key" : "EOS4xAhqjLs5fsCzw7QsGYJtRDVo3t2xRFCHd7amGEWwhjSb5DPZT",
+    "is_active" : 1,
+    "url" : "https://bp.fish",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-05-17T09:01:02.500",
+    "location" : 84,
+    "prepared-url" : "https://bp.fish"
+  },
+  "bp-json-summary" : {
+    "url" : "https://bp.fish/bp.json",
+    "logo" : "https://bp.fish/bpfish256.jpg",
+    "code_of_conduct" : "https://steemit.com/eos/@hibitfish/eos-fish-code-of-conduct"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 1,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://steemit.com/@hibitfish", "https://t.me/eosfish_en", "https://twitter.com/eosfish" ],
+    "social-links-count" : 3,
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.0028052403843600157,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://bp.fish"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://bp.fish/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/eos/@hibitfish/eos-fish-code-of-conduct"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 94,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

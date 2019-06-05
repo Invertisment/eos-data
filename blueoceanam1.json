@@ -1,0 +1,41 @@
+{
+  "bp-header" : {
+    "owner" : "blueoceanam1",
+    "total_votes" : "1077401500258.87207031250000000",
+    "producer_key" : "EOS65PLXEBAsX61gtfcNDbHugP7AN785RY7B2L4aAg76aUgTYUBD7",
+    "is_active" : 1,
+    "url" : "http://eosnode.daketech.net",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 0,
+    "prepared-url" : "http://eosnode.daketech.net"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "clj-http: status 404",
+    "url" : "http://eosnode.daketech.net/bp.json"
+  },
+  "webpage-error" : "NotAfter: Mon Mar 27 19:51:38 UTC 2017",
+  "vote-percentage" : 2.009329749583228E-8,
+  "scoring" : {
+    "comp" : [ {
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "NotAfter: Mon Mar 27 19:51:38 UTC 2017",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://eosnode.daketech.net/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 443,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

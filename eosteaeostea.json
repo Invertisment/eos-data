@@ -1,0 +1,49 @@
+{
+  "bp-header" : {
+    "owner" : "eosteaeostea",
+    "total_votes" : "1981410243071361.00000000000000000",
+    "producer_key" : "EOS5B7V5TxdZPNiBeDUJSdoovg4Unp3CCbUy4KDiuWJXEWcctXLZN",
+    "is_active" : 1,
+    "url" : "https://eostea.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2018-09-23T16:55:03.000",
+    "location" : 0,
+    "prepared-url" : "https://eostea.io"
+  },
+  "bp-json-summary" : {
+    "url" : "https://eostea.io/bp.json",
+    "code_of_conduct" : "https://steemit.com/eosgo/@eostea/eostea-block-producer-candidate-information"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 2,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://github.com/eostea/eos-wallet" ],
+    "social-links-count" : 1,
+    "popularity-boosters" : [ "https://eosfans.io", "https://eosmeta.io", "https://eosmonitor.io" ],
+    "popularity-boosters-count" : 3
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 3.695285876783738E-5,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eostea.io"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eostea.io/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/eosgo/@eostea/eostea-block-producer-candidate-information"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 153,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

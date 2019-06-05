@@ -1,0 +1,46 @@
+{
+  "bp-header" : {
+    "owner" : "foodtokeneos",
+    "total_votes" : "114232057235577.28125000000000000",
+    "producer_key" : "EOS6aaVtZhb9Yx3vWLm1EQ9XMnvuZs22cmu2xKg3WJNnF7mHSoRyW",
+    "is_active" : 1,
+    "url" : "https://foodtoken.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2018-09-09T18:20:19.500",
+    "location" : 840,
+    "prepared-url" : "https://foodtoken.io"
+  },
+  "bp-json-summary" : {
+    "read-error" : "read:'https://foodtoken.io/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "url" : "https://foodtoken.io/bp.json"
+  },
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 2.13040237000217E-6,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://foodtoken.io"
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://foodtoken.io/bp.json",
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'https://foodtoken.io/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 1,
+    "max" : 3
+  },
+  "place" : 256,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

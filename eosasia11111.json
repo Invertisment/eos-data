@@ -1,0 +1,50 @@
+{
+  "bp-header" : {
+    "owner" : "eosasia11111",
+    "total_votes" : "907006273887298048.00000000000000000",
+    "producer_key" : "EOS76gG6ATpqfVf5KrVjh3f4JAa4EKzAwWabTucNQ4Xv2TmVAj9bN",
+    "is_active" : 1,
+    "url" : "https://www.eosasia.one",
+    "unpaid_blocks" : 3261,
+    "last_claim_time" : "2019-06-05T10:35:07.500",
+    "location" : 344,
+    "prepared-url" : "https://www.eosasia.one"
+  },
+  "bp-json-summary" : {
+    "url" : "https://www.eosasia.one/bp.json",
+    "logo" : "https://www.eosasia.one/bp/logo-256.png",
+    "code_of_conduct" : "https://steemit.com/eos-blockproducers/@eos-asia/eos-asia-s-roadmap-and-views-on-dividends"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 4,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://github.com/eos-asia", "https://github.com/eosasia", "https://medium.com/@eosasia", "https://reddit.com/u/eos-asia", "https://steemit.com/@eos-asia", "https://steemit.com/eos-blockproducers/@eos-asia/eos-asia-block-producer-candidacy", "https://steemit.com/eos-blockproducers/@eos-asia/eos-asia-s-roadmap-and-views-on-dividends", "https://t.me/EOSAsia", "https://twitter.com/eosasia_one" ],
+    "social-links-count" : 9,
+    "popularity-boosters" : [ "http://thelink.one/", "https://bp.eosgo.io", "https://eos.io", "https://segmentfault.com/hackathon-2018", "https://www.eosgems.io", "https://www.eospixels.io", "https://www.myeoskit.com", "https://www.myeoskit.com/tools/vote", "https://www.txtnet.io" ],
+    "popularity-boosters-count" : 9
+  },
+  "p-ram-amounts" : [ "RAM" ],
+  "vote-percentage" : 0.01691546455747915,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://www.eosasia.one"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://www.eosasia.one/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/eos-blockproducers/@eos-asia/eos-asia-s-roadmap-and-views-on-dividends"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 9,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

@@ -1,0 +1,49 @@
+{
+  "bp-header" : {
+    "owner" : "cadeosiocode",
+    "total_votes" : "5054105467190.95996093750000000",
+    "producer_key" : "EOS6bGfucpLq6P9iVPuPNLoGXusekbHjWLWbFeHvxYFEp9gXyhyks",
+    "is_active" : 1,
+    "url" : "https://cadeos.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-02-27T19:57:33.000",
+    "location" : 0,
+    "prepared-url" : "https://cadeos.io"
+  },
+  "bp-json-summary" : {
+    "read-error" : "read:'https://cadeos.io/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 2, column: 2]",
+    "url" : "https://cadeos.io/bp.json"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 1,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://github.com/CADEOS", "https://github.com/HeckJiggers", "https://t.me/cadeos", "https://twitter.com/CadeosI", "https://www.linkedin.com/in/asiniscalchi/", "https://www.linkedin.com/in/guillermo-galindo-saeta-749a2557", "https://www.youtube.com/watch?v=b23p4E3pDvM" ],
+    "social-links-count" : 7,
+    "popularity-boosters" : [ "https://get-scatter.com/", "https://play.google.com/store/apps/details?id=io.cadeos.cadeos&hl=es" ],
+    "popularity-boosters-count" : 2
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 9.425793884933297E-8,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://cadeos.io"
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://cadeos.io/bp.json",
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'https://cadeos.io/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 2, column: 2]"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 1,
+    "max" : 3
+  },
+  "place" : 427,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

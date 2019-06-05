@@ -1,0 +1,41 @@
+{
+  "bp-header" : {
+    "owner" : "voldemorteos",
+    "total_votes" : "85639256996254.54687500000000000",
+    "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
+    "is_active" : 0,
+    "url" : "http://voldemorteos.com",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2018-09-09T15:34:53.000",
+    "location" : 0,
+    "prepared-url" : "http://voldemorteos.com"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "voldemorteos.com",
+    "url" : "http://voldemorteos.com/bp.json"
+  },
+  "webpage-error" : "voldemorteos.com: Name or service not known",
+  "vote-percentage" : 1.597153027663615E-6,
+  "scoring" : {
+    "comp" : [ {
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "voldemorteos.com: Name or service not known",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://voldemorteos.com/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "voldemorteos.com"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 267,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

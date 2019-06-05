@@ -1,0 +1,41 @@
+{
+  "bp-header" : {
+    "owner" : "qxeosqxeosbp",
+    "total_votes" : "5803555992879389.00000000000000000",
+    "producer_key" : "EOS6BSNQfe3t1Q13L4kVfWipzjvYa9aHQLhLyg1UzxNZLiGKVwKMu",
+    "is_active" : 1,
+    "url" : "https://www.blockpin.net/eos",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-01-11T15:42:32.500",
+    "location" : 0,
+    "prepared-url" : "https://www.blockpin.net/eos"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "connect timed out",
+    "url" : "https://www.blockpin.net/eos/bp.json"
+  },
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 1.082350238705133E-4,
+  "scoring" : {
+    "comp" : [ {
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "connect timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://www.blockpin.net/eos/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "connect timed out"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 124,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

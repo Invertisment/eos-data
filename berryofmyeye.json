@@ -1,0 +1,41 @@
+{
+  "bp-header" : {
+    "owner" : "berryofmyeye",
+    "total_votes" : "8029023653798.13183593750000000",
+    "producer_key" : "EOS7sFWT7XyywiDH9QUrLAcfBNz9sVL5LdVAVUxmDdXJUoXZm9NVs",
+    "is_active" : 1,
+    "url" : "berryofmyeye.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 86,
+    "prepared-url" : "http://berryofmyeye.io"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "no protocol: berryofmyeye.io/bp.json",
+    "url" : "berryofmyeye.io/bp.json"
+  },
+  "webpage-error" : "berryofmyeye.io: Name or service not known",
+  "vote-percentage" : 1.4973949900578084E-7,
+  "scoring" : {
+    "comp" : [ {
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "berryofmyeye.io: Name or service not known",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "berryofmyeye.io/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "no protocol: berryofmyeye.io/bp.json"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 393,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

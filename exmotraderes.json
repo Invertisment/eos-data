@@ -1,0 +1,46 @@
+{
+  "bp-header" : {
+    "owner" : "exmotraderes",
+    "total_votes" : "30053825876584.96875000000000000",
+    "producer_key" : "EOS69iw5fUNPRxXobBUiy3NN2a5bZinq1fT275p6zHUixGGxqjkPJ",
+    "is_active" : 1,
+    "url" : "http://goeoslottery.cn",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 804,
+    "prepared-url" : "http://goeoslottery.cn"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "clj-http: status 404",
+    "url" : "http://goeoslottery.cn/bp.json"
+  },
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 5.60497144361751E-7,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://goeoslottery.cn"
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://goeoslottery.cn/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 1,
+    "max" : 3
+  },
+  "place" : 297,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

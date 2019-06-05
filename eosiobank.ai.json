@@ -1,0 +1,40 @@
+{
+  "bp-header" : {
+    "owner" : "eosiobank.ai",
+    "total_votes" : "33785755120488.39062500000000000",
+    "producer_key" : "EOS6id6dM9eZbYinbP4Sk5zbEkZmSEhozHQrhvnyqrhzJJP6gCi2d",
+    "is_active" : 1,
+    "url" : "",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-05-17T14:13:37.500",
+    "location" : 0,
+    "prepared-url" : null
+  },
+  "bp-json-summary" : null,
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 6.300967917662984E-7,
+  "scoring" : {
+    "comp" : [ {
+      "title" : "no-web",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    }, {
+      "title" : "no-bp-json-url",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    }, {
+      "title" : "no-coc",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 292,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

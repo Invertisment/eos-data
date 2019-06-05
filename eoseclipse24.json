@@ -1,0 +1,41 @@
+{
+  "bp-header" : {
+    "owner" : "eoseclipse24",
+    "total_votes" : "281681110412.44342041015625000",
+    "producer_key" : "EOS72Jh5Hev5rbbPjGWLt4jYVb9dsD4tH7zmxc5VxR1R9FQKS8Vem",
+    "is_active" : 1,
+    "url" : "https://eos.eclipse24.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-01-10T11:32:19.500",
+    "location" : 0,
+    "prepared-url" : "https://eos.eclipse24.io"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "eos.eclipse24.io",
+    "url" : "https://eos.eclipse24.io/bp.json"
+  },
+  "webpage-error" : "eos.eclipse24.io: Name or service not known",
+  "vote-percentage" : 5.253289835881679E-9,
+  "scoring" : {
+    "comp" : [ {
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "eos.eclipse24.io: Name or service not known",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eos.eclipse24.io/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "eos.eclipse24.io"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 457,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

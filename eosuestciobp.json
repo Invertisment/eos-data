@@ -1,0 +1,41 @@
+{
+  "bp-header" : {
+    "owner" : "eosuestciobp",
+    "total_votes" : "6452133557012706.00000000000000000",
+    "producer_key" : "EOS6oYd5Zj5d12aXKFS8xCY8cPgtkfCvbEo1v1dWK6ein1eAqcExS",
+    "is_active" : 1,
+    "url" : "http://www.eosuesct.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-06-05T08:14:19.000",
+    "location" : 0,
+    "prepared-url" : "http://www.eosuesct.io"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "www.eosuesct.io",
+    "url" : "http://www.eosuesct.io/bp.json"
+  },
+  "webpage-error" : "www.eosuesct.io: Temporary failure in name resolution",
+  "vote-percentage" : 1.2033085067428302E-4,
+  "scoring" : {
+    "comp" : [ {
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "www.eosuesct.io: Temporary failure in name resolution",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://www.eosuesct.io/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "www.eosuesct.io"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 123,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

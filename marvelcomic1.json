@@ -1,0 +1,40 @@
+{
+  "bp-header" : {
+    "owner" : "marvelcomic1",
+    "total_votes" : "13812592065257.45312500000000000",
+    "producer_key" : "EOS5DZLSBruzLCdcCpNcsWBFwVWA6iVZK7eCnBJkZcd7K5VysHT5b",
+    "is_active" : 1,
+    "url" : "",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-05-01T05:42:07.500",
+    "location" : 0,
+    "prepared-url" : null
+  },
+  "bp-json-summary" : null,
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 2.576017589441861E-7,
+  "scoring" : {
+    "comp" : [ {
+      "title" : "no-web",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    }, {
+      "title" : "no-bp-json-url",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    }, {
+      "title" : "no-coc",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 363,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

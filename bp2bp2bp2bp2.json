@@ -1,0 +1,41 @@
+{
+  "bp-header" : {
+    "owner" : "bp2bp2bp2bp2",
+    "total_votes" : "1134319732575355.00000000000000000",
+    "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
+    "is_active" : 0,
+    "url" : "https://bp2.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2018-08-16T09:42:34.500",
+    "location" : 630,
+    "prepared-url" : "https://bp2.io"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "bp2.io",
+    "url" : "https://bp2.io/bp.json"
+  },
+  "webpage-error" : "bp2.io: Name or service not known",
+  "vote-percentage" : 2.1154809823963613E-5,
+  "scoring" : {
+    "comp" : [ {
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "bp2.io: Name or service not known",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://bp2.io/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "bp2.io"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 184,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

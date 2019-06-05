@@ -1,0 +1,47 @@
+{
+  "bp-header" : {
+    "owner" : "eoscandyone1",
+    "total_votes" : "107041289847603184.00000000000000000",
+    "producer_key" : "EOS8SZrDZ6s1H9wrJrzeUqqm4QFXFgUZ9515osJsAbsgth4RknaeP",
+    "is_active" : 1,
+    "url" : "https://candy.one/",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2018-12-10T22:15:02.500",
+    "location" : 0,
+    "prepared-url" : "https://candy.one/"
+  },
+  "bp-json-summary" : {
+    "url" : "https://candy.one/bp.json",
+    "logo" : "https://o3pvuu23u.qnssl.com/candy/images/logo-256.png"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 78,
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ "https://itunes.apple.com/cn/app/id1436459129", "https://shorty.tinfinite.com/BJTQ" ],
+    "popularity-boosters-count" : 2
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.0019962961632489997,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://candy.one/"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://candy.one/bp.json"
+    }, {
+      "title" : "no-coc",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    } ],
+    "score" : 2,
+    "max" : 3
+  },
+  "place" : 99,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

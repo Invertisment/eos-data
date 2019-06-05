@@ -1,0 +1,50 @@
+{
+  "bp-header" : {
+    "owner" : "eoscafeblock",
+    "total_votes" : "617249024475619328.00000000000000000",
+    "producer_key" : "EOS7MAPWVuYcxNtc2n9e6WaEedEZd9thGVHn2Wpu2PoMhNiteTTqL",
+    "is_active" : 1,
+    "url" : "https://www.eoscafeblock.com/",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-06-05T03:39:11.500",
+    "location" : 124,
+    "prepared-url" : "https://www.eoscafeblock.com/"
+  },
+  "bp-json-summary" : {
+    "url" : "https://www.eoscafeblock.com/bp.json",
+    "logo" : "https://eoscafeblock.com/cafe_logo_256.png",
+    "code_of_conduct" : "https://steemit.com/blockproducer/@eoscafe/eos-cafe-calgary-code-of-conduct-roadmap-finances-and-voting"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 5,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://medium.com/@eoscafeblock", "https://steemit.com/@eoscafeblock", "https://steemit.com/blockproducer/@eoscafe/eos-cafe-calgary-code-of-conduct-roadmap-finances-and-voting", "https://t.me/eoscafeblock", "https://twitter.com/eoscafeblock", "https://www.youtube.com/channel/UCvcdjggvJLe5gxM3hm7Fkvw" ],
+    "social-links-count" : 6,
+    "popularity-boosters" : [ "http://dabble.cafe", "https://bihu.com/people/379276", "https://bloks.io/vote", "https://karmaapp.io", "https://ndax.io", "https://raw.githubusercontent.com/eoscafe/ownership-disclosure/master/README.md", "https://unico.global" ],
+    "popularity-boosters-count" : 7
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.01151155653191578,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://www.eoscafeblock.com/"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://www.eoscafeblock.com/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/blockproducer/@eoscafe/eos-cafe-calgary-code-of-conduct-roadmap-finances-and-voting"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 38,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

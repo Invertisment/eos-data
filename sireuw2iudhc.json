@@ -1,0 +1,40 @@
+{
+  "bp-header" : {
+    "owner" : "sireuw2iudhc",
+    "total_votes" : "6297754340.23046875000000000",
+    "producer_key" : "EOS6561yPsKcD1f91sb6kGDKzkXx4uNuidPt4pWZfnAUo8ZgpkVF7",
+    "is_active" : 1,
+    "url" : "",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-03-22T18:40:59.500",
+    "location" : 0,
+    "prepared-url" : null
+  },
+  "bp-json-summary" : null,
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 1.1745171273987904E-10,
+  "scoring" : {
+    "comp" : [ {
+      "title" : "no-web",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    }, {
+      "title" : "no-bp-json-url",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    }, {
+      "title" : "no-coc",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 522,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

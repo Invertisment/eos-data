@@ -1,0 +1,50 @@
+{
+  "bp-header" : {
+    "owner" : "stakedstaked",
+    "total_votes" : "2513843735128743.00000000000000000",
+    "producer_key" : "EOS8mqUDLnCjeXQpqTWzSjcr3FoXNDKrXo7W5qJGPrgpxjEH2KLUm",
+    "is_active" : 1,
+    "url" : "https://staked.us",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 0,
+    "prepared-url" : "https://staked.us"
+  },
+  "bp-json-summary" : {
+    "url" : "https://staked.us/bp.json",
+    "logo" : "https://staked.us/static/i/fav/logo_256.png",
+    "code_of_conduct" : "https://staked.us/eos-code-of-conduct/"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 12,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://github.com/stakedllc/" ],
+    "social-links-count" : 1,
+    "popularity-boosters" : [ "https://calendly.com/staked/staked-intro-call", "https://staked.zendesk.com/hc/en-us/sections/360003636772-FAQ" ],
+    "popularity-boosters-count" : 2
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 4.688262455160814E-5,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://staked.us"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://staked.us/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://staked.us/eos-code-of-conduct/"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 146,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

@@ -1,0 +1,50 @@
+{
+  "bp-header" : {
+    "owner" : "blockgenesys",
+    "total_votes" : "861730861986874.62500000000000000",
+    "producer_key" : "EOS5hBDfPQFDsQbCdadT9W82YcSJPdYJwVhQnvCLfepa3qL1oBpHz",
+    "is_active" : 1,
+    "url" : "https://www.blockgenesys.com",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 826,
+    "prepared-url" : "https://www.blockgenesys.com"
+  },
+  "bp-json-summary" : {
+    "url" : "https://www.blockgenesys.com/bp.json",
+    "logo" : "https://www.blockgenesys.com/logo_256.png",
+    "code_of_conduct" : "https://www.blockgenesys.com/conduct/"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 2,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://steemit.com/@blockgenesys", "https://twitter.com/blockgenesys", "https://www.linkedin.com/company/block-genesys/" ],
+    "social-links-count" : 3,
+    "popularity-boosters" : [ "https://explorer.blockstack.org/name/blockgenesys.id" ],
+    "popularity-boosters-count" : 1
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 1.6071088231343566E-5,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://www.blockgenesys.com"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://www.blockgenesys.com/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://www.blockgenesys.com/conduct/"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 193,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

@@ -1,0 +1,50 @@
+{
+  "bp-header" : {
+    "owner" : "eostaipeieos",
+    "total_votes" : "31882122704884436.00000000000000000",
+    "producer_key" : "EOS7Dt2HCR6BeNAiQPqtC51NWEfaQYkqSQGG6Q2AVYSxSXhbL5Do4",
+    "is_active" : 1,
+    "url" : "https://eostaipei.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2018-12-24T07:56:38.000",
+    "location" : 0,
+    "prepared-url" : "https://eostaipei.io"
+  },
+  "bp-json-summary" : {
+    "url" : "https://eostaipei.io/bp.json",
+    "logo" : "https://eostaipei.io/images/logo_256.png",
+    "code_of_conduct" : "https://eostaipei.io#codeofconduct"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 6,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://github.com/yhuag", "https://line.me/ti/g/nlQQUnUZ0r", "https://t.me/EOSTaipeiDev", "https://twitter.com/johnleeeos", "https://www.facebook.com/felipeinkueitan", "https://www.facebook.com/groups/250917915571119/", "https://www.facebook.com/hu.yao.chieh", "https://www.facebook.com/lee.ting.ting.tina", "https://www.facebook.com/patrickshihtw", "https://www.linkedin.com/in/felipetan", "https://www.linkedin.com/in/leetingting" ],
+    "social-links-count" : 11,
+    "popularity-boosters" : [ "http://boxdapp.io", "http://cybavo.com", "https://beedapp.org/", "https://imeos.one", "https://slowmist.com", "https://www.eoslaomao.com", "https://www.helloeos.one/", "https://www.starteos.io" ],
+    "popularity-boosters-count" : 8
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 5.94594472120141E-4,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eostaipei.io"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eostaipei.io/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://eostaipei.io#codeofconduct"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 107,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

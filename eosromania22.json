@@ -1,0 +1,41 @@
+{
+  "bp-header" : {
+    "owner" : "eosromania22",
+    "total_votes" : "533510492933791.93750000000000000",
+    "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
+    "is_active" : 0,
+    "url" : "http://eos.romania22.com",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2018-11-26T19:20:02.500",
+    "location" : 642,
+    "prepared-url" : "http://eos.romania22.com"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "Connection refused (Connection refused)",
+    "url" : "http://eos.romania22.com/bp.json"
+  },
+  "webpage-error" : "Connection refused (Connection refused)",
+  "vote-percentage" : 9.949851609721231E-6,
+  "scoring" : {
+    "comp" : [ {
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Connection refused (Connection refused)",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://eos.romania22.com/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "Connection refused (Connection refused)"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 216,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

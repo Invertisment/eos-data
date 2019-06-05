@@ -1,0 +1,50 @@
+{
+  "bp-header" : {
+    "owner" : "eosnodeonebp",
+    "total_votes" : "351577662164815744.00000000000000000",
+    "producer_key" : "EOS5jc4oQrKhKazEHVb1pdrhuzURDUVY4yXXv93tyZ2XdNik44VGD",
+    "is_active" : 1,
+    "url" : "https://eosnodeone.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-06-05T18:43:10.500",
+    "location" : 7,
+    "prepared-url" : "https://eosnodeone.io"
+  },
+  "bp-json-summary" : {
+    "url" : "https://eosnodeone.io/bp.json",
+    "logo" : "https://eosnodeone.io/resources/images/eosnodeone_logo_256.png",
+    "code_of_conduct" : "https://steemit.com/eos/@eosnodeone/eos-nodeone-roadmap-and-stance-on-vote-buying"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 9,
+    "duplicate-urls" : null,
+    "social-links" : [ "http://t.me/NodeOne_EOSnews", "http://t.me/eosnodeone_kr", "https://github.com/greymass/eos-voter", "https://steemit.com/bp/@eosnodeone/eos-go-block-producer-report-eos-nodeone", "https://steemit.com/eos/@eosnodeone/a-thought-on-ram-squatting-problem", "https://steemit.com/eos/@eosnodeone/eos-nodeone-roadmap-and-stance-on-vote-buying", "https://steemit.com/eos/@eosnodeone/suggestion-contributing-airdrop-method", "https://steemit.com/kr/@eosnodeone/eos-bp-eos-node-one-eos", "https://steemit.com/nodeone/@eosnodeone/eosnodeone-ownership-disclosure", "https://www.steemit.com/@eosnodeone", "https://www.twitter.com/eosnodeone" ],
+    "social-links-count" : 11,
+    "popularity-boosters" : [ "https://goo.gl/B5jx8S" ],
+    "popularity-boosters-count" : 1
+  },
+  "p-ram-amounts" : [ "RAM" ],
+  "vote-percentage" : 0.006556844924635315,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eosnodeone.io"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eosnodeone.io/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/eos/@eosnodeone/eos-nodeone-roadmap-and-stance-on-vote-buying"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 59,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

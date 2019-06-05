@@ -1,0 +1,47 @@
+{
+  "bp-header" : {
+    "owner" : "eoslaomaocom",
+    "total_votes" : "1046508108557360896.00000000000000000",
+    "producer_key" : "EOS8QgURqo875qu3a8vgZ58qBeu2cTehe9zAWRfpdCXAQipicu1Fi",
+    "is_active" : 1,
+    "url" : "https://eoslaomao.com",
+    "unpaid_blocks" : 2064,
+    "last_claim_time" : "2019-06-05T14:07:08.000",
+    "location" : 392,
+    "prepared-url" : "https://eoslaomao.com"
+  },
+  "bp-json-summary" : {
+    "url" : "https://eoslaomao.com/bp.json",
+    "logo" : "https://eoslaomao.com/static/media/img/eoslaomaologo_256.png",
+    "code_of_conduct" : "https://steemit.com/blockchain/@eoslaomao/eoslaomao-block-producer-announcement"
+  },
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.019517142636232967,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eoslaomao.com"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eoslaomao.com/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/blockchain/@eoslaomao/eoslaomao-block-producer-announcement"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 2,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

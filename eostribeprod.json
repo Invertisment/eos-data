@@ -1,0 +1,50 @@
+{
+  "bp-header" : {
+    "owner" : "eostribeprod",
+    "total_votes" : "468979096991715968.00000000000000000",
+    "producer_key" : "EOS7gD4EXA96SEQ9RQrLfbU19tLHmGPcJXSPXdkrQh4bCkUghg6QE",
+    "is_active" : 1,
+    "url" : "https://eostribe.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-06-05T05:50:02.000",
+    "location" : 840,
+    "prepared-url" : "https://eostribe.io"
+  },
+  "bp-json-summary" : {
+    "url" : "https://eostribe.io/bp.json",
+    "logo" : "https://eostribe.io/images/eos-tribe-logo-square-256px.png",
+    "code_of_conduct" : "https://steemit.com/cryptocurrency/@eostribe/eos-tribe-code-of-conduct"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 6,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://steemit.com/@eostribe/", "https://steemit.com/boscore/@eostribe/eos-tribe-joins-bos-as-a-block-producer", "https://steemit.com/eos/@eostribe/eos-history-api-with-date-ranges", "https://steemit.com/eos/@eostribe/eos-tribe-infrastructure-upgrade", "https://steemit.com/eos/@eostribe/eos-tribe-is-a-carbon-neutral-block-producer-for-the-eos-mainnet", "https://steemit.com/eos/@eostribe/introducing-new-history-findactions-endpoint", "https://steemit.com/eos/@eostribe/the-one-api-to-rule-them", "https://steemit.com/eosio/@eostribe/eos-tribe-support-meet-one-chain", "https://steemit.com/eostribe/@eostribe/eos-tribe-joins-telos-as-block-producer", "https://steemit.com/eostribe/@eostribe/eos-tribe-new-team-announcement", "https://twitter.com/EOStribe" ],
+    "social-links-count" : 11,
+    "popularity-boosters" : [ "https://bos.bloks.io/", "https://eosnetworkmonitor.io/", "https://meetone.eosx.io/", "https://monitor.telosfoundation.io/", "https://worbli.bloks.io/", "https://www.cryptofinance.no/" ],
+    "popularity-boosters-count" : 6
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.008746355479287102,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eostribe.io"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eostribe.io/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/cryptocurrency/@eostribe/eos-tribe-code-of-conduct"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 46,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

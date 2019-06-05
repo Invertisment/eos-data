@@ -1,0 +1,45 @@
+{
+  "bp-header" : {
+    "owner" : "eosmatrixeos",
+    "total_votes" : "291677414496686656.00000000000000000",
+    "producer_key" : "EOS7bXYArQpZTji97zpQK8CvUyef3fanEQuWHTSdiTNfZeacCi3wn",
+    "is_active" : 1,
+    "url" : "https://eosmatrix.co",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-06-05T05:24:43.500",
+    "location" : 356,
+    "prepared-url" : "https://eosmatrix.co"
+  },
+  "bp-json-summary" : {
+    "url" : "https://eosmatrix.co/bp.json",
+    "logo" : ""
+  },
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.005439718675803697,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eosmatrix.co"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eosmatrix.co/bp.json"
+    }, {
+      "title" : "no-coc",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    } ],
+    "score" : 2,
+    "max" : 3
+  },
+  "place" : 75,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

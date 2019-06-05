@@ -1,0 +1,48 @@
+{
+  "bp-header" : {
+    "owner" : "nasdaqnasdaq",
+    "total_votes" : "33698806385777.28906250000000000",
+    "producer_key" : "EOS6N5AVXChMbgf8qi3R5zU9xEUVR79we4hUrRZndcSwRVKDcKz3G",
+    "is_active" : 1,
+    "url" : "http://www.cybchain.com",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2018-09-26T23:17:17.500",
+    "location" : 0,
+    "prepared-url" : "http://www.cybchain.com"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "clj-http: status 403",
+    "url" : "http://www.cybchain.com/bp.json"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 3,
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ "http://flash.cybeye.com/test/cybchain-release.apk", "http://live.cybchain.com/", "http://wdoc.io/en/Index.html", "http://web.cybchain.com/", "http://www.adrolling.com", "http://www.livegram.net", "http://www.trendscape.com", "https://mobirise.com", "https://mobirise.info/v", "https://play.google.com/store/apps/details?id=com.cybeye.cybchain", "https://testflight.apple.com/join/fnzUQB9i" ],
+    "popularity-boosters-count" : 11
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 6.28475217271538E-7,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://www.cybchain.com"
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://www.cybchain.com/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 403"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 1,
+    "max" : 3
+  },
+  "place" : 294,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

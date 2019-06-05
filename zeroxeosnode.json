@@ -1,0 +1,50 @@
+{
+  "bp-header" : {
+    "owner" : "zeroxeosnode",
+    "total_votes" : "28515346755607.96484375000000000",
+    "producer_key" : "EOS7EkrrDTncTMka9n3VJDZomH49Zm82MHnzsLPc4gYayRcKqKpkw",
+    "is_active" : 1,
+    "url" : "https://zeroxeos.com",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-01-31T16:20:59.500",
+    "location" : 250,
+    "prepared-url" : "https://zeroxeos.com"
+  },
+  "bp-json-summary" : {
+    "url" : "https://zeroxeos.com/bp.json",
+    "logo" : "https://zeroxeos.com/static/img/logo-black_256.png",
+    "code_of_conduct" : "https://zeroxeos.com/conduct.html"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 21,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://medium.com/@zeroxeos", "https://steemit.com/@zeroxeos ", "https://twitter.com/zeroxeos", "https://www.reddit.com/user/zeroxeos" ],
+    "social-links-count" : 4,
+    "popularity-boosters" : [ "https://0x.games", "https://0x.games/", "https://0xuniverse.com/", "https://get-scatter.com/" ],
+    "popularity-boosters-count" : 4
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 5.31804852155466E-7,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://zeroxeos.com"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://zeroxeos.com/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://zeroxeos.com/conduct.html"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 299,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

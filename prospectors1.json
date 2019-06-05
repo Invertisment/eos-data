@@ -1,0 +1,49 @@
+{
+  "bp-header" : {
+    "owner" : "prospectors1",
+    "total_votes" : "1958968331433454.50000000000000000",
+    "producer_key" : "EOS51wbzGLokeQX9CmDeRv6Lj8pubmexWSCGXgQAY7hQPLZ7RTfto",
+    "is_active" : 1,
+    "url" : "https://prospectors.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 0,
+    "prepared-url" : "https://prospectors.io"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "clj-http: status 500",
+    "url" : "https://prospectors.io/bp.json"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 9,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://bitcointalk.org/index.php?topic=1877080.0", "https://discord.gg/ZVyHncP", "https://medium.com/@prospectorsgame", "https://t.me/prospectors", "https://t.me/prospectorsgame", "https://twitter.com/prospectorsgame", "https://www.reddit.com/r/Prospectorsio/" ],
+    "social-links-count" : 7,
+    "popularity-boosters" : [ "http://eosnova.io/", "https://bihu.com/article/1994742535", "https://bitpie.com/", "https://bloks.io", "https://cryptolions.io/", "https://eos.io/", "https://eos.live/", "https://eosdaq.com/exchange/PGL_EOS", "https://eospark.com/", "https://get-scatter.com/", "https://meet.one/", "https://newdex.io/trade/PGL_EOS", "https://www.chaince.com/trade/pgleos", "https://www.genereos.io/", "https://www.mathwallet.org/en/", "https://www.mytokenpocket.vip/" ],
+    "popularity-boosters-count" : 16
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 3.653432212499134E-5,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://prospectors.io"
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://prospectors.io/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 500"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 1,
+    "max" : 3
+  },
+  "place" : 156,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

@@ -1,0 +1,48 @@
+{
+  "bp-header" : {
+    "owner" : "eosiomyanmar",
+    "total_votes" : "256120351702607.40625000000000000",
+    "producer_key" : "EOS7i1ZLdGtB6wa5PJmRDpc5piG6bbkybumLryrG3DsTR9PJa1bMm",
+    "is_active" : 1,
+    "url" : "http://moa.com.mm",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 0,
+    "prepared-url" : "http://moa.com.mm"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "clj-http: status 404",
+    "url" : "http://moa.com.mm/bp.json"
+  },
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ "https://twitter.com/mmonlineads" ],
+    "social-links-count" : 1,
+    "popularity-boosters" : [ "http://grab.com", "http://jovago.net", "http://ooredoo.com.mm", "http://phibious.com", "http://shop.com.mm", "http://wavemoney.com.mm", "http://yomabank.com", "https://www.i-kbz.com" ],
+    "popularity-boosters-count" : 8
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 4.776587391293923E-6,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://moa.com.mm"
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://moa.com.mm/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 1,
+    "max" : 3
+  },
+  "place" : 234,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

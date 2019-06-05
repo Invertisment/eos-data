@@ -1,0 +1,40 @@
+{
+  "bp-header" : {
+    "owner" : "btctothemoon",
+    "total_votes" : "1541286908298.75000000000000000",
+    "producer_key" : "EOS8UzNwi22mMSayvGR2emoDgjbc5Jc3TUYskqzZ8Fu7nGvXb2Sya",
+    "is_active" : 1,
+    "url" : "",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2018-07-20T06:01:37.000",
+    "location" : 0,
+    "prepared-url" : null
+  },
+  "bp-json-summary" : null,
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 2.874465681311671E-8,
+  "scoring" : {
+    "comp" : [ {
+      "title" : "no-web",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    }, {
+      "title" : "no-bp-json-url",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    }, {
+      "title" : "no-coc",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 438,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

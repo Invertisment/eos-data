@@ -1,0 +1,50 @@
+{
+  "bp-header" : {
+    "owner" : "bitfinexeos1",
+    "total_votes" : "888870452357705856.00000000000000000",
+    "producer_key" : "EOS4tkw7LgtURT3dvG3kQ4D1sg3aAtPDymmoatpuFkQMc7wzZdKxc",
+    "is_active" : 1,
+    "url" : "https://www.bitfinex.com",
+    "unpaid_blocks" : 6296,
+    "last_claim_time" : "2019-06-05T01:43:25.500",
+    "location" : 0,
+    "prepared-url" : "https://www.bitfinex.com"
+  },
+  "bp-json-summary" : {
+    "url" : "https://www.bitfinex.com/bp.json",
+    "logo" : "https://www.bitfinex.com/assets/bp_symbol_256.png",
+    "code_of_conduct" : "https://steemit.com/eos/@bfx/bitfinex-block-producer-disclosure"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 34,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://t.me/bfxtelegram", "https://twitter.com/bitfinex", "https://www.facebook.com/bitfinex", "https://www.facebook.com/bitfinex1", "https://www.linkedin.com/company/bitfinex-limited/", "https://www.youtube.com/channel/UCxOndh75c7-4Zlw42BGXQkQ" ],
+    "social-links-count" : 6,
+    "popularity-boosters" : [ "colocation", "demo", "http://blog.bitfinex.com", "http://blog.bitfinex.com/", "http://blog.bitfinex.com/category/changelogs/", "http://blog.bitfinex.com/newsletter/", "http://docs.bitfinex.com/", "https://bitfinex.statuspage.io/", "https://itunes.apple.com/us/app/bitfinex/id1436383182?ls=1&mt=8", "https://play.google.com/store/apps/details?id=com.bitfinex.mobileapp&hl=en", "https://support.bitfinex.com/", "https://support.bitfinex.com/hc/en-us/articles/360021286193", "https://support.bitfinex.com/hc/en-us/sections/115001039645-Currencies-Tokens", "https://tokinex.ethfinex.com/token-sales", "pro" ],
+    "popularity-boosters-count" : 15
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.01657723553400196,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://www.bitfinex.com"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://www.bitfinex.com/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/eos/@bfx/bitfinex-block-producer-disclosure"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 18,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

@@ -1,0 +1,46 @@
+{
+  "bp-header" : {
+    "owner" : "nodextecheos",
+    "total_votes" : "34961159470986.10546875000000000",
+    "producer_key" : "EOS55VyQKxF1jUjGLaJnMNc1pzz9sbnjkJ9mShpX2WPzWHJweCHyv",
+    "is_active" : 1,
+    "url" : "https://dexnode.net",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2018-09-08T19:26:33.000",
+    "location" : 0,
+    "prepared-url" : "https://dexnode.net"
+  },
+  "bp-json-summary" : {
+    "read-error" : "read:'https://dexnode.net/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "url" : "https://dexnode.net/bp.json"
+  },
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 6.52017820544123E-7,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://dexnode.net"
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://dexnode.net/bp.json",
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'https://dexnode.net/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 1,
+    "max" : 3
+  },
+  "place" : 291,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

@@ -1,0 +1,49 @@
+{
+  "bp-header" : {
+    "owner" : "eosholdings1",
+    "total_votes" : "5056036538088596.00000000000000000",
+    "producer_key" : "EOS4uLtAMBg8QyeMKYMVxQfrurQqfKLRnCpwWq9c8MPMk2cmdWZ8y",
+    "is_active" : 1,
+    "url" : "http://eos.holdings",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2018-06-25T18:34:09.500",
+    "location" : 0,
+    "prepared-url" : "http://eos.holdings"
+  },
+  "bp-json-summary" : {
+    "read-error" : "read:'http://eos.holdings/bp.json': Unexpected character ('“' (code 8220 / 0x201c)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 38, column: 23]",
+    "url" : "http://eos.holdings/bp.json"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 12,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://twitter.com/EOSHoldingsCA", "https://www.linkedin.com/in/sshi100/" ],
+    "social-links-count" : 2,
+    "popularity-boosters" : [ "http://ece.ubc.ca/~weicai/", "http://www.cs.sfu.ca/~jcliu/", "http://www.ece.ubc.ca/~vleung/" ],
+    "popularity-boosters-count" : 3
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 9.429395289054455E-5,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://eos.holdings"
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://eos.holdings/bp.json",
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'http://eos.holdings/bp.json': Unexpected character ('“' (code 8220 / 0x201c)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 38, column: 23]"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 1,
+    "max" : 3
+  },
+  "place" : 128,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

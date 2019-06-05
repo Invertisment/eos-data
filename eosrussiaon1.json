@@ -1,0 +1,48 @@
+{
+  "bp-header" : {
+    "owner" : "eosrussiaon1",
+    "total_votes" : "0.00000000000000000",
+    "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
+    "is_active" : 0,
+    "url" : "https://keybase.pub/eosrussia/BP_info.json",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 0,
+    "prepared-url" : "https://keybase.pub/eosrussia"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "clj-http: status 404",
+    "url" : "https://keybase.pub/eosrussia/BP_info.json/bp.json"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 1,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://keybase.io/docs/the_app/install_linux", "https://keybase.io/docs/the_app/install_macos", "https://keybase.io/docs/the_app/install_windows", "https://keybase.io/download", "https://keybase.io/eosrussia", "https://keybase.io/introducing-the-keybase-filesystem" ],
+    "social-links-count" : 6,
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.0,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://keybase.pub/eosrussia/BP_info.json"
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://keybase.pub/eosrussia/BP_info.json/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 1,
+    "max" : 3
+  },
+  "place" : 547,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

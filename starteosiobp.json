@@ -1,0 +1,49 @@
+{
+  "bp-header" : {
+    "owner" : "starteosiobp",
+    "total_votes" : "1052231084820728192.00000000000000000",
+    "producer_key" : "EOS4wZZXm994byKANLuwHD6tV3R3Mu3ktc41aSVXCBaGnXJZJ4pwF",
+    "is_active" : 1,
+    "url" : "https://www.starteos.io",
+    "unpaid_blocks" : 1164,
+    "last_claim_time" : "2019-06-05T16:44:10.500",
+    "location" : 156,
+    "prepared-url" : "https://www.starteos.io"
+  },
+  "bp-json-summary" : {
+    "url" : "https://www.starteos.io/bp.json",
+    "logo" : "https://www.starteos.io/logo/starteos-logo-256.png",
+    "code_of_conduct" : "https://steemit.com/starteos/@starteos/starteos-roadmap-and-position-on-dividends"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 1,
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ "http://diverseeos.com/", "https://eosdac.io/", "https://imeos.one/", "https://slowmist.io/" ],
+    "popularity-boosters-count" : 4
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.019623874866134074,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://www.starteos.io"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://www.starteos.io/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/starteos/@starteos/starteos-roadmap-and-position-on-dividends"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 1,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

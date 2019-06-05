@@ -1,0 +1,50 @@
+{
+  "bp-header" : {
+    "owner" : "jedaaaaaaaaa",
+    "total_votes" : "838209523250793472.00000000000000000",
+    "producer_key" : "EOS6nB9Ar5sghWjqk27bszCiA9zxQtXZCaAaEkf2nwUm9iP5MEJTT",
+    "is_active" : 1,
+    "url" : "https://www.eosjapan.org",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-06-05T03:38:15.000",
+    "location" : 392,
+    "prepared-url" : "https://www.eosjapan.org"
+  },
+  "bp-json-summary" : {
+    "url" : "https://www.eosjapan.org/bp.json",
+    "logo" : "https://www.eosjapan.org/jeda-logo-256.jpg",
+    "code_of_conduct" : "https://steemit.com/eos/@eosjapan/jeda-statement-of-ownership-disclosure-and-code-of-conduct"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 5,
+    "duplicate-urls" : null,
+    "social-links" : [ "http://t.me/eosjapan", "http://twitter.com/eosjapan_jeda", "https://line.me/R/ti/p/@xnk8984e", "https://www.facebook.com/andes.good.history", "https://www.facebook.com/eosjapan/", "https://www.instagram.com/eosjapan/" ],
+    "social-links-count" : 6,
+    "popularity-boosters" : [ "http://japanfintech.org", "https://bitcoin-news.tokyo/profile/", "https://coin-otaku.com", "https://www.infinitowallet.io", "https://www.tokenpocket.pro" ],
+    "popularity-boosters-count" : 5
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.01563242051405269,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://www.eosjapan.org"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://www.eosjapan.org/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/eos/@eosjapan/jeda-statement-of-ownership-disclosure-and-code-of-conduct"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 23,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

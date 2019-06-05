@@ -1,0 +1,46 @@
+{
+  "bp-header" : {
+    "owner" : "eosmoonorgbp",
+    "total_votes" : "1174576950745631.25000000000000000",
+    "producer_key" : "EOS5YAzQHLKs5m8Hk2hFV8cG4d8z6f1E2UpPiYycf5htQ3ZWncmR8",
+    "is_active" : 1,
+    "url" : "http://eosmoon.org",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2018-11-16T05:51:31.000",
+    "location" : 0,
+    "prepared-url" : "http://eosmoon.org"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "clj-http: status 404",
+    "url" : "http://eosmoon.org/bp.json"
+  },
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 2.1905597957129965E-5,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://eosmoon.org"
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://eosmoon.org/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 1,
+    "max" : 3
+  },
+  "place" : 182,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

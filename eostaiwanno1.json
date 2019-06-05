@@ -1,0 +1,41 @@
+{
+  "bp-header" : {
+    "owner" : "eostaiwanno1",
+    "total_votes" : "14380127605432.07617187500000000",
+    "producer_key" : "EOS726V9tdPG6UPMRSDtbKgjBV8tXv4gQUkSkMzbZB3TqkWbppcJg",
+    "is_active" : 1,
+    "url" : "https://eosio.tw",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 158,
+    "prepared-url" : "https://eosio.tw"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "eosio.tw",
+    "url" : "https://eosio.tw/bp.json"
+  },
+  "webpage-error" : "eosio.tw: Name or service not known",
+  "vote-percentage" : 2.6818617009030626E-7,
+  "scoring" : {
+    "comp" : [ {
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "eosio.tw: Name or service not known",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eosio.tw/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "eosio.tw"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 348,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

@@ -1,0 +1,47 @@
+{
+  "bp-header" : {
+    "owner" : "bp.vip",
+    "total_votes" : "26318081562864.73437500000000000",
+    "producer_key" : "EOS5i1bAKwG3rAnN8vLCdUkmvAPweAjCgKcCWcie5Vy733vozwADS",
+    "is_active" : 1,
+    "url" : "http://eosteam.org/",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 86,
+    "prepared-url" : "http://eosteam.org/"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "clj-http: status 404",
+    "url" : "http://eosteam.org/bp.json"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 2,
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 4.908263467566719E-7,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://eosteam.org/"
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://eosteam.org/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 1,
+    "max" : 3
+  },
+  "place" : 305,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

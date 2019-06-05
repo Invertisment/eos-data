@@ -1,0 +1,49 @@
+{
+  "bp-header" : {
+    "owner" : "xx11xx11xx11",
+    "total_votes" : "25310769587995.60156250000000000",
+    "producer_key" : "EOS7BNmHJyiVNPh23WdZ9DjESThTaKpcyBPmcKdZFoeRXGkTsyYRb",
+    "is_active" : 1,
+    "url" : "https://tata.com",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "location" : 0,
+    "prepared-url" : "https://tata.com"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "clj-http: status 404",
+    "url" : "https://tata.com/bp.json"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 50,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://facebook.com/TataGroup", "https://twitter.com/TataCompanies", "https://twitter.com/tatacompanies", "https://www.facebook.com/tatagroup", "https://www.instagram.com/tatacompanies/", "https://www.linkedin.com/company/tata-companies/", "https://www.youtube.com/user/TataCompanies" ],
+    "social-links-count" : 7,
+    "popularity-boosters" : [ "http://jaagore.com", "http://tatachemicals.com/Asia/Products/Consumer-products/Pulses/tata-sampann-dals", "http://tataglobalbeverages.com/careers/join-us", "https://airvistara.com", "https://careers.titan.co.in/Recruiting/candidates/candidates_home.aspx?rms=titan", "https://croma.com", "https://harrier.tatamotors.com/", "https://ibegin.tcs.com/", "https://nexon.tatamotors.com/", "https://tatacliq.com", "https://vivanta.tajhotels.com/en-in/", "https://www.airasia.com/flights/india", "https://www.airvistara.com/trip/careers/commercial", "https://www.jaguar.in/jaguar-range/f-type/index.html", "https://www.landrover.in/vehicles/new-range-rover/svautobiography-dynamic/index.html", "https://www.naukri.com/search?xz=7_0_5&qp=TATASTEELNAUK&tem=tatasteel", "https://www.tajhotels.com", "https://www.tanishq.co.in", "https://www.tatasalt.com", "https://www.tetley.in/", "https://www.theindianhotels.com/careers/apply-now/", "https://www.voltasbeko.com/" ],
+    "popularity-boosters-count" : 22
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 4.72040203264857E-7,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://tata.com"
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://tata.com/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 1,
+    "max" : 3
+  },
+  "place" : 311,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

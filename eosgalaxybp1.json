@@ -1,0 +1,41 @@
+{
+  "bp-header" : {
+    "owner" : "eosgalaxybp1",
+    "total_votes" : "1566293747032251.00000000000000000",
+    "producer_key" : "EOS6yVYyJd5nrGG86FbM3BM7eV91pdykxqvbnHPWoYzCsMy2Uc16r",
+    "is_active" : 1,
+    "url" : "http://www.eosgalaxy.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2018-07-13T15:35:27.000",
+    "location" : 0,
+    "prepared-url" : "http://www.eosgalaxy.io"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "www.eosgalaxy.io",
+    "url" : "http://www.eosgalaxy.io/bp.json"
+  },
+  "webpage-error" : "www.eosgalaxy.io: Name or service not known",
+  "vote-percentage" : 2.921102877378486E-5,
+  "scoring" : {
+    "comp" : [ {
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "www.eosgalaxy.io: Name or service not known",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://www.eosgalaxy.io/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "www.eosgalaxy.io"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 172,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

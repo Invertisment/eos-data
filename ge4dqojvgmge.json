@@ -1,0 +1,41 @@
+{
+  "bp-header" : {
+    "owner" : "ge4dqojvgmge",
+    "total_votes" : "2056176896295.63574218750000000",
+    "producer_key" : "EOS7BXoCBmEs4Cu91nqDEQ7GrRBNJys6HWpeZ7w8p5TXf9zxieynW",
+    "is_active" : 1,
+    "url" : "http://tortugomachines.com",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2018-07-18T11:52:42.000",
+    "location" : 0,
+    "prepared-url" : "http://tortugomachines.com"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "tortugomachines.com",
+    "url" : "http://tortugomachines.com/bp.json"
+  },
+  "webpage-error" : "tortugomachines.com: Name or service not known",
+  "vote-percentage" : 3.8347240161999276E-8,
+  "scoring" : {
+    "comp" : [ {
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "tortugomachines.com: Name or service not known",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://tortugomachines.com/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "tortugomachines.com"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 436,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

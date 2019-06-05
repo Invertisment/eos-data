@@ -1,0 +1,49 @@
+{
+  "bp-header" : {
+    "owner" : "eosvolgabpru",
+    "total_votes" : "392001939948139712.00000000000000000",
+    "producer_key" : "EOS57GDRS9QJWBJie9yQAxvrDKw9p6wiiQ9B8Sv2uJ7WazowB4pkK",
+    "is_active" : 1,
+    "url" : "https://eosvolga.one",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-06-04T20:55:02.500",
+    "location" : 643,
+    "prepared-url" : "https://eosvolga.one"
+  },
+  "bp-json-summary" : {
+    "url" : "https://eosvolga.one/bp.json",
+    "logo" : "https://eosvolga.one/eosvolga-logo-256.png",
+    "code_of_conduct" : "https://steemit.com/eos/@eosvolgaone/eos-volga-eos-block-producer-candidate"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 1,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://steemit.com/@eosvolgaone", "https://t.me/eosvolga", "https://twitter.com/eosvolgabpru" ],
+    "social-links-count" : 3,
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.007310748682296064,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eosvolga.one"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eosvolga.one/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/eos/@eosvolgaone/eos-volga-eos-block-producer-candidate"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 54,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}

@@ -1,0 +1,48 @@
+{
+  "bp-header" : {
+    "owner" : "1teamcanada1",
+    "total_votes" : "96141167415613.62500000000000000",
+    "producer_key" : "EOS7gBHpJMaWo8uzcXRfBAhN9yLfVTLTbH4L2xA64B5HNMnZpVuKJ",
+    "is_active" : 1,
+    "url" : "http://can-play.ca",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2018-07-19T17:34:58.000",
+    "location" : 1,
+    "prepared-url" : "http://can-play.ca"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "clj-http: status 404",
+    "url" : "http://can-play.ca/bp.json"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 2,
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ "http://www.rebel.com" ],
+    "popularity-boosters-count" : 1
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 1.7930113128804636E-6,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://can-play.ca"
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://can-play.ca/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 1,
+    "max" : 3
+  },
+  "place" : 263,
+  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+}
