@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosmetaliobp",
-    "total_votes" : "251897307179835264.00000000000000000",
+    "total_votes" : "251827858994403456.00000000000000000",
     "producer_key" : "EOS6nTwVt2xXPqj49crMpFRpe6ooMi8od5RMSS763Rvfv7Hh2SQNT",
     "is_active" : 1,
     "url" : "https://eosmetal.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-06-04T21:19:02.500",
+    "last_claim_time" : "2019-06-05T21:19:04.000",
     "location" : 352,
     "prepared-url" : "https://eosmetal.io"
   },
@@ -23,7 +23,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ "64GB of Ram" ],
-  "vote-percentage" : 0.004697828553559042,
+  "vote-percentage" : 0.004674668198576877,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -44,6 +44,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 87,
-  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+  "place" : 88,
+  "snapshot-date" : "2019-06-06T01:27:25.110Z"
 }

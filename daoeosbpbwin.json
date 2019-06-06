@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "daoeosbpbwin",
-    "total_votes" : "372636040204446.56250000000000000",
+    "total_votes" : "372640428565363.00000000000000000",
     "producer_key" : "EOS8TGpHjsGHoHHwthYjFatWSivyX29WZgiYfV4Nn92bwyNSWR981",
     "is_active" : 1,
     "url" : "http://www.daoeos.io",
@@ -11,11 +11,11 @@
     "prepared-url" : "http://www.daoeos.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 403",
+    "dl-error" : "Read timed out",
     "url" : "http://www.daoeos.io/bp.json"
   },
   "webpage-error" : "Read timed out",
-  "vote-percentage" : 6.949578974688462E-6,
+  "vote-percentage" : 6.917306003690696E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -27,7 +27,7 @@
       "mood" : "warn",
       "url" : "http://www.daoeos.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 403"
+      "error" : "Read timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 223,
-  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+  "snapshot-date" : "2019-06-06T01:27:25.110Z"
 }

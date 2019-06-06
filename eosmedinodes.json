@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosmedinodes",
-    "total_votes" : "3701547757626669.00000000000000000",
+    "total_votes" : "3701549768822352.50000000000000000",
     "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
     "is_active" : 0,
     "url" : "http://eosmedi.com",
@@ -14,13 +14,13 @@
     "dl-error" : "clj-http: status 403",
     "url" : "http://eosmedi.com/bp.json"
   },
-  "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 6.903303946685875E-5,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 6.871168685966547E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "clj-http: status 403",
+      "error" : "Read timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 138,
-  "snapshot-date" : "2019-06-05T20:14:03.570Z"
+  "snapshot-date" : "2019-06-06T01:27:25.110Z"
 }
