@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosninecatbp",
-    "total_votes" : "116398633789625.07812500000000000",
+    "total_votes" : "111916306182477.39062500000000000",
     "producer_key" : "EOS6hxwo2hLwC4QfA778C8g7v6fn9n1uir4gc17K4BLKoCTxgXyhu",
     "is_active" : 1,
     "url" : "http://www.eos9cat.com",
@@ -15,7 +15,7 @@
     "url" : "http://www.eos9cat.com/bp.json"
   },
   "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 2.160702131634486E-6,
+  "vote-percentage" : 2.0725624939326477E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 255,
-  "snapshot-date" : "2019-06-06T01:27:25.110Z"
+  "snapshot-date" : "2019-06-07T01:27:23.715Z"
 }
