@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "csxcommunity",
-    "total_votes" : "593320656173732.50000000000000000",
+    "total_votes" : "815619649229985.87500000000000000",
     "producer_key" : "EOS8HsrWJ9omjmwt26fieagCM95f2dsT2CyWuFQSFbp4jR7KyrZPF",
     "is_active" : 1,
     "url" : "https://eos.csx.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-06-05T22:00:03.000",
+    "last_claim_time" : "2019-06-07T10:00:03.000",
     "location" : 276,
     "prepared-url" : "https://eos.csx.io"
   },
@@ -15,7 +15,7 @@
     "url" : "https://eos.csx.io/bp.json"
   },
   "webpage-error" : "unable to find valid certification path to requested target",
-  "vote-percentage" : 1.0987622633436393E-5,
+  "vote-percentage" : 1.506416921417511E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 210,
-  "snapshot-date" : "2019-06-07T01:27:23.715Z"
+  "place" : 196,
+  "snapshot-date" : "2019-06-08T01:26:46.723Z"
 }

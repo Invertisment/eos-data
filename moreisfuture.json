@@ -1,46 +1,41 @@
 {
   "bp-header" : {
     "owner" : "moreisfuture",
-    "total_votes" : "257713138669075680.00000000000000000",
+    "total_votes" : "257828302124324032.00000000000000000",
     "producer_key" : "EOS671RDSn2embqDJhFHKWZqqCfVgNAmi2p3vQZfQBX77GypcGoF2",
     "is_active" : 1,
     "url" : "https://more.top",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-06-06T19:53:45.500",
+    "last_claim_time" : "2019-06-07T19:54:08.000",
     "location" : 156,
     "prepared-url" : "https://more.top"
   },
   "bp-json-summary" : {
-    "url" : "https://more.top/bp.json",
-    "logo" : "https://walletstatic.more.top/bp/icons/256.png"
+    "dl-error" : "connect timed out",
+    "url" : "https://more.top/bp.json"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "http://www.cocosbcx.io", "http://www.edapp.io/", "http://www.eosdevcon.io", "http://www.hoo.com", "https://chaince.com", "https://horuspay.io", "https://mixin.one/", "https://scaneos.io/", "https://www.biask.com", "https://www.slowmist.com/", "https://www.starteos.io" ],
-    "popularity-boosters-count" : 11
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.0047725537378646736,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 0.004761985779855938,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://more.top"
-    }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://more.top/bp.json"
-    }, {
-      "title" : "no-coc",
       "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "title" : "no-web",
+      "error" : "connect timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://more.top/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "connect timed out"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 85,
-  "snapshot-date" : "2019-06-07T01:27:23.715Z"
+  "place" : 84,
+  "snapshot-date" : "2019-06-08T01:26:46.723Z"
 }

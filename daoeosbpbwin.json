@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "daoeosbpbwin",
-    "total_votes" : "372646789420616.00000000000000000",
+    "total_votes" : "372012061286979.43750000000000000",
     "producer_key" : "EOS8TGpHjsGHoHHwthYjFatWSivyX29WZgiYfV4Nn92bwyNSWR981",
     "is_active" : 1,
     "url" : "http://www.daoeos.io",
@@ -11,23 +11,23 @@
     "prepared-url" : "http://www.daoeos.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 403",
+    "dl-error" : "www.daoeos.io",
     "url" : "http://www.daoeos.io/bp.json"
   },
-  "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 6.9009940158167E-6,
+  "webpage-error" : "www.daoeos.io: Name or service not known",
+  "vote-percentage" : 6.87091421379051E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "clj-http: status 403",
+      "error" : "www.daoeos.io: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://www.daoeos.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 403"
+      "error" : "www.daoeos.io"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 224,
-  "snapshot-date" : "2019-06-07T01:27:23.715Z"
+  "snapshot-date" : "2019-06-08T01:26:46.723Z"
 }

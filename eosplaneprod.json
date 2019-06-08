@@ -14,13 +14,13 @@
     "dl-error" : "Connection refused (Connection refused)",
     "url" : "https://eosplane.top/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 2.7171651313489147E-6,
+  "webpage-error" : "Connection refused (Connection refused)",
+  "vote-percentage" : 2.709937478877177E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "Connection refused (Connection refused)",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 252,
-  "snapshot-date" : "2019-06-07T01:27:23.715Z"
+  "snapshot-date" : "2019-06-08T01:26:46.723Z"
 }

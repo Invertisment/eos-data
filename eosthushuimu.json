@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosthushuimu",
-    "total_votes" : "15454226555440682.00000000000000000",
+    "total_votes" : "15458169578601594.00000000000000000",
     "producer_key" : "EOS7mawmWYTjzjt2riNSHKQhA8E86r3L8eXhcotuskGPJU6RNzUZs",
     "is_active" : 1,
     "url" : "http://www.eosthu.com",
@@ -11,23 +11,23 @@
     "prepared-url" : "http://www.eosthu.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 403",
+    "dl-error" : "Read timed out",
     "url" : "http://www.eosthu.com/bp.json"
   },
-  "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 2.8619467014324285E-4,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 2.8550621909772796E-4,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "clj-http: status 403",
+      "error" : "Read timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://www.eosthu.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 403"
+      "error" : "Read timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 113,
-  "snapshot-date" : "2019-06-07T01:27:23.715Z"
+  "snapshot-date" : "2019-06-08T01:26:46.723Z"
 }
