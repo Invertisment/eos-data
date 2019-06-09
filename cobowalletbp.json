@@ -11,7 +11,7 @@
     "prepared-url" : "https://cobo.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "cobo.com:443 failed to respond",
+    "dl-error" : "clj-http: status 404",
     "url" : "https://cobo.com/bp.json"
   },
   "analyzed-urls" : {
@@ -23,7 +23,7 @@
     "popularity-boosters-count" : 27
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.1616998202545239E-6,
+  "vote-percentage" : 1.1586334186107464E-6,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -35,7 +35,7 @@
       "mood" : "warn",
       "url" : "https://cobo.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "cobo.com:443 failed to respond"
+      "error" : "clj-http: status 404"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -44,6 +44,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 273,
-  "snapshot-date" : "2019-06-08T01:26:46.723Z"
+  "place" : 265,
+  "snapshot-date" : "2019-06-09T01:26:49.462Z"
 }

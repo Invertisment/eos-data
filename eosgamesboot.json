@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosgamesboot",
-    "total_votes" : "554175829157248.43750000000000000",
+    "total_votes" : "555608439405735.43750000000000000",
     "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
     "is_active" : 0,
     "url" : "http://eos.games",
@@ -11,36 +11,31 @@
     "prepared-url" : "http://eos.games"
   },
   "bp-json-summary" : {
-    "read-error" : "read:'http://eos.games/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "dl-error" : "eos.games",
     "url" : "http://eos.games/bp.json"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.0235406261622062E-5,
+  "webpage-error" : "eos.games: Name or service not known",
+  "vote-percentage" : 1.0234778966607215E-5,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "http://eos.games"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "eos.games: Name or service not known",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://eos.games/bp.json",
-      "paragraphs" : [ "bp-json-invalid" ],
-      "error" : "read:'http://eos.games/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "eos.games"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 213,
-  "snapshot-date" : "2019-06-08T01:26:46.723Z"
+  "place" : 204,
+  "snapshot-date" : "2019-06-09T01:26:49.462Z"
 }

@@ -1,41 +1,50 @@
 {
   "bp-header" : {
     "owner" : "csxcommunity",
-    "total_votes" : "815619649229985.87500000000000000",
+    "total_votes" : "816425973573776.50000000000000000",
     "producer_key" : "EOS8HsrWJ9omjmwt26fieagCM95f2dsT2CyWuFQSFbp4jR7KyrZPF",
     "is_active" : 1,
     "url" : "https://eos.csx.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-06-07T10:00:03.000",
+    "last_claim_time" : "2019-06-08T22:00:02.500",
     "location" : 276,
     "prepared-url" : "https://eos.csx.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "unable to find valid certification path to requested target",
-    "url" : "https://eos.csx.io/bp.json"
+    "url" : "https://eos.csx.io/bp.json",
+    "logo" : "https://www.eosc.sx/images/eos_csx_logo256.png",
+    "code_of_conduct" : "https://www.csx.io/constitution"
   },
-  "webpage-error" : "unable to find valid certification path to requested target",
-  "vote-percentage" : 1.506416921417511E-5,
+  "analyzed-urls" : {
+    "relative-links-count" : 21,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://keybase.io/csx_corp", "https://steemit.com/@csx-eos", "https://t.me/joinchat/Had_iBJnNccT1hjdlV3edw", "https://twitter.com/CSXcorp", "https://www.facebook.com/CSXCorp/", "https://www.linkedin.com/company/csx-corp/", "https://www.youtube.com/channel/UCNjucUvoiMqbVMc28-3BIMg?view_as=subscriber" ],
+    "social-links-count" : 7,
+    "popularity-boosters" : [ "855-9-CSX.COM", "https://www.yellowpages.com/cheyenne-wy/mip/csx-corp-503916229", "https://wyobiz.wy.gov/Business/FilingDetails.aspx?eFNum=049075178157217104243064092010142191132183135056" ],
+    "popularity-boosters-count" : 3
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 1.5039259286741584E-5,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "unable to find valid certification path to requested target",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eos.csx.io"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://eos.csx.io/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "unable to find valid certification path to requested target"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eos.csx.io/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://www.csx.io/constitution"
     } ],
-    "score" : 0,
+    "score" : 3,
     "max" : 3
   },
-  "place" : 196,
-  "snapshot-date" : "2019-06-08T01:26:46.723Z"
+  "place" : 189,
+  "snapshot-date" : "2019-06-09T01:26:49.462Z"
 }

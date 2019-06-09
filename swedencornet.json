@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "swedencornet",
-    "total_votes" : "2862449634177132.50000000000000000",
+    "total_votes" : "2585523646394628.50000000000000000",
     "producer_key" : "EOS55RGDuvrXjDaijB7ixYtJ1U7EnWDe16X9aWxAPQ64jrYCrsbCQ",
     "is_active" : 1,
     "url" : "https://eossweden.eu",
@@ -11,31 +11,39 @@
     "prepared-url" : "https://eossweden.eu"
   },
   "bp-json-summary" : {
-    "dl-error" : "NotAfter: Mon Jun 03 15:52:59 UTC 2019",
-    "url" : "https://eossweden.eu/bp.json"
+    "url" : "https://eossweden.eu/bp.json",
+    "logo" : "https://eossweden.eu/logo/swedencornet-logo_256.png",
+    "code_of_conduct" : "https://eossweden.eu/core-values"
   },
-  "webpage-error" : "NotAfter: Mon Jun 03 15:52:59 UTC 2019",
-  "vote-percentage" : 5.286830166120606E-5,
+  "analyzed-urls" : {
+    "relative-links-count" : 4,
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ "https://eosforce.io/", "https://icon.foundation", "https://snax.one/" ],
+    "popularity-boosters-count" : 3
+  },
+  "p-ram-amounts" : [ "RAM" ],
+  "vote-percentage" : 4.762753975099567E-5,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "NotAfter: Mon Jun 03 15:52:59 UTC 2019",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eossweden.eu"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://eossweden.eu/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "NotAfter: Mon Jun 03 15:52:59 UTC 2019"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eossweden.eu/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://eossweden.eu/core-values"
     } ],
-    "score" : 0,
+    "score" : 3,
     "max" : 3
   },
-  "place" : 139,
-  "snapshot-date" : "2019-06-08T01:26:46.723Z"
+  "place" : 141,
+  "snapshot-date" : "2019-06-09T01:26:49.462Z"
 }
