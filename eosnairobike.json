@@ -1,30 +1,26 @@
 {
   "bp-header" : {
     "owner" : "eosnairobike",
-    "total_votes" : "297891835771760000.00000000000000000",
+    "total_votes" : "298470924810179264.00000000000000000",
     "producer_key" : "EOS8AUQK2XQo9StudQqDFn1riSHKaDwXiUjDPNGtDad6hLd2PnDGc",
     "is_active" : 1,
     "url" : "https://www.eosnairobi.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-06-08T18:36:38.000",
+    "last_claim_time" : "2019-06-09T19:33:13.500",
     "location" : 404,
     "prepared-url" : "https://www.eosnairobi.io"
   },
   "bp-json-summary" : {
-    "url" : "https://www.eosnairobi.io/bp.json",
-    "logo" : "https://www.eosnairobi.io/eosnairobi256.png",
-    "code_of_conduct" : "https://steemit.com/eos/@eosnairobi/eosnairobi-block-producer-code-of-conduct-v1-0"
+    "dl-error" : "clj-http: status 404",
+    "url" : "https://www.eosnairobi.io/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 7,
     "duplicate-urls" : null,
-    "social-links" : [ "https://medium.com/@eosnairobi/eos-nairobi-ownership-structure-and-disclosure-edd05ac4a07f", "https://t.me/eosnairobi", "https://twitter.com/EosNairobii", "https://twitter.com/eosnairobi", "https://www.medium.com/eosnairobi", "https://www.youtube.com/results?search_query=eos+nairobi", "https://www.youtube.com/watch?v=VIKD-spcC-U" ],
-    "social-links-count" : 7,
-    "popularity-boosters" : [ "https://bit.ly/2FAHvOD", "https://blog.usejournal.com/why-i-think-eos-will-transform-the-african-continent-623b9e00d76", "https://eosnairobi.io", "https://github.com/", "https://www.eosstudio.io/", "https://www.techbullion.com/snax-launches-an-innovative-blockchain-social-overlay-cryptocurrency-system/" ],
-    "popularity-boosters-count" : 6
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.005487420418490763,
+  "vote-percentage" : 0.005481059081033877,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -32,19 +28,19 @@
       "title" : "web",
       "url" : "https://www.eosnairobi.io"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://www.eosnairobi.io/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://www.eosnairobi.io/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://steemit.com/eos/@eosnairobi/eosnairobi-block-producer-code-of-conduct-v1-0"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 73,
-  "snapshot-date" : "2019-06-09T01:26:49.462Z"
+  "place" : 74,
+  "snapshot-date" : "2019-06-10T01:27:24.688Z"
 }
