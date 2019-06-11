@@ -11,23 +11,23 @@
     "prepared-url" : "https://eospublic.chainrift.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "dl-error" : "Read timed out",
     "url" : "https://eospublic.chainrift.com/bp.json"
   },
-  "webpage-error" : "clj-http: status 404",
+  "webpage-error" : "clj-http: status 523",
   "vote-percentage" : 0.0,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "clj-http: status 404",
+      "error" : "clj-http: status 523",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eospublic.chainrift.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "error" : "Read timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 554,
-  "snapshot-date" : "2019-06-10T01:27:24.688Z"
+  "place" : 547,
+  "snapshot-date" : "2019-06-11T01:26:03.966Z"
 }

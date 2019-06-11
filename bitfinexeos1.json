@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "bitfinexeos1",
-    "total_votes" : "909999796696580608.00000000000000000",
+    "total_votes" : "905473755148770944.00000000000000000",
     "producer_key" : "EOS4tkw7LgtURT3dvG3kQ4D1sg3aAtPDymmoatpuFkQMc7wzZdKxc",
     "is_active" : 1,
     "url" : "https://www.bitfinex.com",
-    "unpaid_blocks" : 7493,
-    "last_claim_time" : "2019-06-09T03:29:25.000",
+    "unpaid_blocks" : 3801,
+    "last_claim_time" : "2019-06-10T03:58:25.000",
     "location" : 0,
     "prepared-url" : "https://www.bitfinex.com"
   },
@@ -24,7 +24,7 @@
     "popularity-boosters-count" : 15
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.01671105033964323,
+  "vote-percentage" : 0.0167624958351057,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +45,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 12,
-  "snapshot-date" : "2019-06-10T01:27:24.688Z"
+  "place" : 20,
+  "snapshot-date" : "2019-06-11T01:26:03.966Z"
 }

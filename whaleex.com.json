@@ -1,18 +1,19 @@
 {
   "bp-header" : {
     "owner" : "whaleex.com",
-    "total_votes" : "896262280540614656.00000000000000000",
+    "total_votes" : "913847438001959168.00000000000000000",
     "producer_key" : "EOS88EGcFghfQJER1mDaEe4kDJ7MGDoPmXQfA7q2QMTLLqiYP1UQR",
     "is_active" : 1,
     "url" : "https://www.whaleex.com",
-    "unpaid_blocks" : 7380,
-    "last_claim_time" : "2019-06-09T03:49:51.500",
+    "unpaid_blocks" : 7379,
+    "last_claim_time" : "2019-06-10T03:49:52.000",
     "location" : 410,
     "prepared-url" : "https://www.whaleex.com"
   },
   "bp-json-summary" : {
     "url" : "https://www.whaleex.com/bp.json",
-    "logo" : "https://static.whaleex.com/logo/256-05.png"
+    "logo" : "https://static.whaleex.com/logo/256-05.png",
+    "code_of_conduct" : "https://www.whaleex.com/bp.html"
   },
   "analyzed-urls" : {
     "duplicate-urls" : null,
@@ -22,7 +23,7 @@
     "popularity-boosters-count" : 7
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.016458777399739975,
+  "vote-percentage" : 0.016917512833834726,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -35,13 +36,14 @@
       "title" : "bp-json",
       "url" : "https://www.whaleex.com/bp.json"
     }, {
-      "title" : "no-coc",
-      "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://www.whaleex.com/bp.html"
     } ],
-    "score" : 2,
+    "score" : 3,
     "max" : 3
   },
-  "place" : 18,
-  "snapshot-date" : "2019-06-10T01:27:24.688Z"
+  "place" : 13,
+  "snapshot-date" : "2019-06-11T01:26:03.966Z"
 }

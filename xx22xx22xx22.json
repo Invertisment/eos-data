@@ -11,31 +11,37 @@
     "prepared-url" : "https://baidu.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "read-error" : "read:'https://baidu.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
     "url" : "https://baidu.com/bp.json"
   },
-  "webpage-error" : "connect timed out",
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ "http://www.hao123.com" ],
+    "popularity-boosters-count" : 1
+  },
+  "p-ram-amounts" : [ ],
   "vote-percentage" : 0.0,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "connect timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://baidu.com"
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://baidu.com/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'https://baidu.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 0,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 531,
-  "snapshot-date" : "2019-06-10T01:27:24.688Z"
+  "place" : 524,
+  "snapshot-date" : "2019-06-11T01:26:03.966Z"
 }

@@ -1,41 +1,46 @@
 {
   "bp-header" : {
     "owner" : "moreisfuture",
-    "total_votes" : "259273777717644032.00000000000000000",
+    "total_votes" : "279258343114230304.00000000000000000",
     "producer_key" : "EOS671RDSn2embqDJhFHKWZqqCfVgNAmi2p3vQZfQBX77GypcGoF2",
     "is_active" : 1,
     "url" : "https://more.top",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-06-09T20:39:46.000",
+    "last_claim_time" : "2019-06-10T20:40:09.500",
     "location" : 156,
     "prepared-url" : "https://more.top"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
-    "url" : "https://more.top/bp.json"
+    "url" : "https://more.top/bp.json",
+    "logo" : "https://walletstatic.more.top/bp/icons/256.png"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 0.0047612506804039145,
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ "http://www.cocosbcx.io", "http://www.edapp.io/", "http://www.eosdevcon.io", "http://www.hoo.com", "https://chaince.com", "https://horuspay.io", "https://mixin.one/", "https://scaneos.io/", "https://www.biask.com", "https://www.slowmist.com/", "https://www.starteos.io" ],
+    "popularity-boosters-count" : 11
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.005169743227512648,
   "scoring" : {
     "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://more.top"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://more.top/bp.json"
+    }, {
+      "title" : "no-coc",
       "mood" : "bad",
-      "title" : "no-web",
-      "error" : "connect timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
-    }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://more.top/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
-    }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "paragraphs" : [ "value-empty" ]
     } ],
-    "score" : 0,
+    "score" : 2,
     "max" : 3
   },
-  "place" : 84,
-  "snapshot-date" : "2019-06-10T01:27:24.688Z"
+  "place" : 81,
+  "snapshot-date" : "2019-06-11T01:26:03.966Z"
 }

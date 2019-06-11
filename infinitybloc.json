@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "infinitybloc",
-    "total_votes" : "2462027767485413.50000000000000000",
+    "total_votes" : "2476142721742156.00000000000000000",
     "producer_key" : "EOS6rocMVe62FVRjZZMCpFQREVbwBFrm5taNHKpYWmdQR4vuqeZsx",
     "is_active" : 1,
     "url" : "https://eos.infinitybloc.io",
@@ -11,9 +11,8 @@
     "prepared-url" : "https://eos.infinitybloc.io"
   },
   "bp-json-summary" : {
-    "url" : "https://eos.infinitybloc.io/bp.json",
-    "logo" : "https://eos.infinitybloc.io/infinity-logo-black-256.png",
-    "code_of_conduct" : "https://infinitybloc.io/code_of_conduct"
+    "dl-error" : "Read timed out",
+    "url" : "https://eos.infinitybloc.io/bp.json"
   },
   "analyzed-urls" : {
     "relative-links-count" : 23,
@@ -24,7 +23,7 @@
     "popularity-boosters-count" : 1
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 4.5212174892129594E-5,
+  "vote-percentage" : 4.58393540666572E-5,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -32,19 +31,19 @@
       "title" : "web",
       "url" : "https://eos.infinitybloc.io"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://eos.infinitybloc.io/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eos.infinitybloc.io/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "Read timed out"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://infinitybloc.io/code_of_conduct"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 145,
-  "snapshot-date" : "2019-06-10T01:27:24.688Z"
+  "place" : 143,
+  "snapshot-date" : "2019-06-11T01:26:03.966Z"
 }

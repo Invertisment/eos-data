@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosbixinboot",
-    "total_votes" : "604375788341489920.00000000000000000",
+    "total_votes" : "610010038965065472.00000000000000000",
     "producer_key" : "EOS7QC1XfAtkYeLjbHQjcDWVqUsxuSJ3YRhNyG93VAv2u3uHopGVp",
     "is_active" : 1,
     "url" : "https://en.eosbixin.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-06-09T08:39:02.500",
+    "last_claim_time" : "2019-06-10T08:42:02.500",
     "location" : 7,
     "prepared-url" : "https://en.eosbixin.com"
   },
@@ -15,13 +15,13 @@
     "logo" : "https://raw.githubusercontent.com/EOSBIXIN/eostoolkit/master/logo/eosbixinlogo_256.png",
     "code_of_conduct" : "https://steemit.com/eos/@tuitui/eosbixin-code-of-conduct"
   },
-  "webpage-error" : "Read timed out",
-  "vote-percentage" : 0.011098633493875097,
+  "webpage-error" : "clj-http: status 404",
+  "vote-percentage" : 0.011292752196715565,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Read timed out",
+      "error" : "clj-http: status 404",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "score" : "positive",
@@ -37,6 +37,6 @@
     "score" : 2,
     "max" : 3
   },
-  "place" : 40,
-  "snapshot-date" : "2019-06-10T01:27:24.688Z"
+  "place" : 38,
+  "snapshot-date" : "2019-06-11T01:26:03.966Z"
 }
