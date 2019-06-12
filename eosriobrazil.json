@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosriobrazil",
-    "total_votes" : "779618014578985600.00000000000000000",
+    "total_votes" : "778728550264428800.00000000000000000",
     "producer_key" : "EOS62VTMkGDMWpK3ECNegVLt92UYQQMXC3uzcx5zjW64hrMCaL1rx",
     "is_active" : 1,
     "url" : "https://eosrio.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-06-10T21:59:41.000",
+    "last_claim_time" : "2019-06-11T21:59:43.500",
     "location" : 76,
     "prepared-url" : "https://eosrio.io"
   },
@@ -15,20 +15,14 @@
     "logo" : "https://eosrio.io/wp-content/uploads/2018/06/logo-eosrio-square-bgblack-1.jpg",
     "code_of_conduct" : "https://eosrio.io/code-of-conduct/"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/eosrio", "https://medium.com/eos-rio", "https://steemit.com/@eosrio", "https://t.me/eosrio", "https://twitter.com/eosriobrazil", "https://www.meetup.com/pt-BR/EOS-Rio/" ],
-    "social-links-count" : 6,
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.014432603538251054,
+  "webpage-error" : "clj-http: status 403",
+  "vote-percentage" : 0.01429537189359362,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eosrio.io"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "clj-http: status 403",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -40,9 +34,9 @@
       "title" : "coc",
       "url" : "https://eosrio.io/code-of-conduct/"
     } ],
-    "score" : 3,
+    "score" : 2,
     "max" : 3
   },
-  "place" : 27,
-  "snapshot-date" : "2019-06-11T01:26:03.966Z"
+  "place" : 28,
+  "snapshot-date" : "2019-06-12T01:25:49.687Z"
 }

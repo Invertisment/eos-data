@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosgamesbest",
-    "total_votes" : "842893657271.21655273437500000",
+    "total_votes" : "835957167925.33569335937500000",
     "producer_key" : "EOS7TeFxjuPUxoNL4ncdjQXd1N1GG6PE2q9Ai1FgkRmvYoQLMAk4x",
     "is_active" : 1,
     "url" : "http://eos.games",
@@ -14,13 +14,13 @@
     "dl-error" : "eos.games",
     "url" : "http://eos.games/bp.json"
   },
-  "webpage-error" : "eos.games: Name or service not known",
-  "vote-percentage" : 1.560398778993253E-8,
+  "webpage-error" : "eos.games",
+  "vote-percentage" : 1.5345936139814134E-8,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "eos.games: Name or service not known",
+      "error" : "eos.games",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 444,
-  "snapshot-date" : "2019-06-11T01:26:03.966Z"
+  "place" : 448,
+  "snapshot-date" : "2019-06-12T01:25:49.687Z"
 }

@@ -15,12 +15,15 @@
     "url" : "http://mixbytes.io/bp.json"
   },
   "analyzed-urls" : {
+    "relative-links-count" : 14,
     "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
+    "social-links" : [ "https://github.com/mixbytes", "https://github.com/mixbytes/audits_public/blob/master/solidity/PoA%20Consensus/audit_en.md", "https://github.com/mixbytes/storiqa_ico", "https://github.com/smartzplatform", "https://medium.com/mixbytes", "https://t.me/MixBytes", "https://t.me/vadimbuyanov", "https://twitter.com/MixBytes", "https://www.facebook.com/mixbyteslabs/", "https://www.linkedin.com/company/mixbytes/", "https://www.linkedin.com/in/aleksey-makeyev-98471884/", "https://www.linkedin.com/in/sergey-prilutskiy-2a619951/", "https://www.linkedin.com/in/vadim-buyanov/" ],
+    "social-links-count" : 13,
+    "popularity-boosters" : [ "blog", "https://smartz.io/", "https://www.goodfirms.co/companies/view/12506/mixbytes" ],
+    "popularity-boosters-count" : 3
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 9.044411530506327E-7,
+  "vote-percentage" : 8.968645529625273E-7,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -41,6 +44,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 268,
-  "snapshot-date" : "2019-06-11T01:26:03.966Z"
+  "place" : 269,
+  "snapshot-date" : "2019-06-12T01:25:49.687Z"
 }

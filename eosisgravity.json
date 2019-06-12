@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosisgravity",
-    "total_votes" : "347130681822981440.00000000000000000",
+    "total_votes" : "347032946697890368.00000000000000000",
     "producer_key" : "EOS8UFLCQ8n2PzbKFv8CU87fQKXeyNXr3fn2oMwFayEYyCpkFG3YF",
     "is_active" : 1,
     "url" : "http://eosgravity.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-06-10T07:26:18.500",
+    "last_claim_time" : "2019-06-11T07:26:20.500",
     "location" : 702,
     "prepared-url" : "http://eosgravity.com"
   },
@@ -15,14 +15,22 @@
     "logo" : "http://eosgravity.com/wp-content/uploads/2018/06/logo1_eosgravity_256.png",
     "code_of_conduct" : "https://steemit.com/eosgravity/@eosgravity/eos-gravity-code-of-conduct"
   },
-  "webpage-error" : "Read timed out",
-  "vote-percentage" : 0.00642622337224903,
+  "analyzed-urls" : {
+    "relative-links-count" : 5,
+    "duplicate-urls" : null,
+    "social-links" : [ "http://www.facebook.com/share.php?u=http%3A%2F%2Feosgravity.com%2F", "https://plus.google.com/share?url=http%3A%2F%2Feosgravity.com%2F", "https://steemit.com/eosgravity/@eosgravity/dividend-statement-and-investor-disclaimer-eos-gravity" ],
+    "social-links-count" : 3,
+    "popularity-boosters" : [ "http://facebook.com", "http://linkedin.com", "https://www.bishijie.com", "https://www.coinness.com", "https://www.shenliancaijing.com" ],
+    "popularity-boosters-count" : 5
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.0063705960577552035,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "Read timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://eosgravity.com"
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -34,9 +42,9 @@
       "title" : "coc",
       "url" : "https://steemit.com/eosgravity/@eosgravity/eos-gravity-code-of-conduct"
     } ],
-    "score" : 2,
+    "score" : 3,
     "max" : 3
   },
-  "place" : 62,
-  "snapshot-date" : "2019-06-11T01:26:03.966Z"
+  "place" : 63,
+  "snapshot-date" : "2019-06-12T01:25:49.687Z"
 }

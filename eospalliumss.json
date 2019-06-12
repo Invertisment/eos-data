@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eospalliumss",
-    "total_votes" : "482555783389095.25000000000000000",
+    "total_votes" : "482565950367273.31250000000000000",
     "producer_key" : "EOS62ThFzb79uGUSedeE2rCLucFAKBoEEmfNyhfd7Y8Qcr9EvCYny",
     "is_active" : 1,
     "url" : "http://eospalliums.org",
@@ -15,7 +15,7 @@
     "url" : "http://eospalliums.org/bp.json"
   },
   "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 8.933267544498699E-6,
+  "vote-percentage" : 8.85861924716018E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 208,
-  "snapshot-date" : "2019-06-11T01:26:03.966Z"
+  "place" : 209,
+  "snapshot-date" : "2019-06-12T01:25:49.687Z"
 }

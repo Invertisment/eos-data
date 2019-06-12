@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "divinerapier",
-    "total_votes" : "1286854934751.72241210937500000",
+    "total_votes" : "1279918445405.84179687500000000",
     "producer_key" : "EOS6NZyTuG3NK6APApHhgDkykZrYoeFm1xcSTcpjw4ESXG9DCRrQn",
     "is_active" : 1,
     "url" : "http://www.divinerapier.com",
@@ -11,36 +11,31 @@
     "prepared-url" : "http://www.divinerapier.com"
   },
   "bp-json-summary" : {
-    "read-error" : "read:'http://www.divinerapier.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "dl-error" : "www.divinerapier.com",
     "url" : "http://www.divinerapier.com/bp.json"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.3822778254480524E-8,
+  "webpage-error" : "www.divinerapier.com: No address associated with hostname",
+  "vote-percentage" : 2.3495876919285577E-8,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "http://www.divinerapier.com"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "www.divinerapier.com: No address associated with hostname",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://www.divinerapier.com/bp.json",
-      "paragraphs" : [ "bp-json-invalid" ],
-      "error" : "read:'http://www.divinerapier.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "www.divinerapier.com"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 437,
-  "snapshot-date" : "2019-06-11T01:26:03.966Z"
+  "place" : 440,
+  "snapshot-date" : "2019-06-12T01:25:49.687Z"
 }

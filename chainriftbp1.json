@@ -11,7 +11,7 @@
     "prepared-url" : "https://eospublic.chainrift.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "Read timed out",
+    "dl-error" : "clj-http: status 523",
     "url" : "https://eospublic.chainrift.com/bp.json"
   },
   "webpage-error" : "clj-http: status 523",
@@ -27,7 +27,7 @@
       "mood" : "warn",
       "url" : "https://eospublic.chainrift.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Read timed out"
+      "error" : "clj-http: status 523"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 547,
-  "snapshot-date" : "2019-06-11T01:26:03.966Z"
+  "place" : 555,
+  "snapshot-date" : "2019-06-12T01:25:49.687Z"
 }
