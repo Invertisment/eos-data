@@ -1,49 +1,41 @@
 {
   "bp-header" : {
     "owner" : "eoszhizhutop",
-    "total_votes" : "348883259968091968.00000000000000000",
+    "total_votes" : "349074945929756736.00000000000000000",
     "producer_key" : "EOS5rmsDiYCtEgsEpZvcxNvLcxStufWALs4Lmfy85pnJKTdPjcpuT",
     "is_active" : 1,
     "url" : "https://eos.zhizhu.top/",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-06-12T12:48:49.500",
+    "last_claim_time" : "2019-06-13T12:49:16.500",
     "location" : 0,
     "prepared-url" : "https://eos.zhizhu.top/"
   },
   "bp-json-summary" : {
-    "url" : "https://eos.zhizhu.top/bp.json",
-    "logo" : "https://eos.zhizhu.top/logo_256.png",
-    "code_of_conduct" : "https://eos.zhizhu.top/eos-zhizhu-pool-block-producer-candidate-introduction.html"
+    "dl-error" : "Read timed out",
+    "url" : "https://eos.zhizhu.top/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 5,
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "BP.Json", "https://eosflare.io/account/eoszhizhutop" ],
-    "popularity-boosters-count" : 2
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.006771151872113548,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 0.0063526021372061125,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eos.zhizhu.top/"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://eos.zhizhu.top/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eos.zhizhu.top/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "Read timed out"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://eos.zhizhu.top/eos-zhizhu-pool-block-producer-candidate-introduction.html"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 58,
-  "snapshot-date" : "2019-06-13T01:25:28.546Z"
+  "place" : 62,
+  "snapshot-date" : "2019-06-14T01:26:05.359Z"
 }

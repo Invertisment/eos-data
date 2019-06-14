@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eospalliumss",
-    "total_votes" : "482565950367273.31250000000000000",
+    "total_votes" : "483116143140122.18750000000000000",
     "producer_key" : "EOS62ThFzb79uGUSedeE2rCLucFAKBoEEmfNyhfd7Y8Qcr9EvCYny",
     "is_active" : 1,
     "url" : "http://eospalliums.org",
@@ -11,23 +11,23 @@
     "prepared-url" : "http://eospalliums.org"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 403",
+    "dl-error" : "eospalliums.org",
     "url" : "http://eospalliums.org/bp.json"
   },
-  "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 9.365675322302527E-6,
+  "webpage-error" : "eospalliums.org: Name or service not known",
+  "vote-percentage" : 8.791936170773736E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "clj-http: status 403",
+      "error" : "eospalliums.org: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://eospalliums.org/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 403"
+      "error" : "eospalliums.org"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 197,
-  "snapshot-date" : "2019-06-13T01:25:28.546Z"
+  "place" : 208,
+  "snapshot-date" : "2019-06-14T01:26:05.359Z"
 }

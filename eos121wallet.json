@@ -11,23 +11,23 @@
     "prepared-url" : "http://eos121dac.io/"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 403",
+    "dl-error" : "Read timed out",
     "url" : "http://eos121dac.io/bp.json"
   },
-  "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 4.538907684446604E-6,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 4.256002787210972E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "clj-http: status 403",
+      "error" : "Read timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://eos121dac.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 403"
+      "error" : "Read timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 215,
-  "snapshot-date" : "2019-06-13T01:25:28.546Z"
+  "place" : 230,
+  "snapshot-date" : "2019-06-14T01:26:05.359Z"
 }

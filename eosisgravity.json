@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosisgravity",
-    "total_votes" : "346225189625702464.00000000000000000",
+    "total_votes" : "345865643559265472.00000000000000000",
     "producer_key" : "EOS8UFLCQ8n2PzbKFv8CU87fQKXeyNXr3fn2oMwFayEYyCpkFG3YF",
     "is_active" : 1,
     "url" : "http://eosgravity.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-06-12T07:26:22.000",
+    "last_claim_time" : "2019-06-13T07:26:24.000",
     "location" : 702,
     "prepared-url" : "http://eosgravity.com"
   },
@@ -24,7 +24,7 @@
     "popularity-boosters-count" : 5
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.006719563848151818,
+  "vote-percentage" : 0.006294197999826897,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +45,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 59,
-  "snapshot-date" : "2019-06-13T01:25:28.546Z"
+  "place" : 63,
+  "snapshot-date" : "2019-06-14T01:26:05.359Z"
 }

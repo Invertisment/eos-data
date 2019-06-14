@@ -11,7 +11,7 @@
     "prepared-url" : "http://www.eoslegendpku.top"
   },
   "bp-json-summary" : {
-    "read-error" : "read:'http://www.eoslegendpku.top/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "dl-error" : "clj-http: status 404",
     "url" : "http://www.eoslegendpku.top/bp.json"
   },
   "analyzed-urls" : {
@@ -21,7 +21,7 @@
     "popularity-boosters-count" : 2
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.7787859460247694E-7,
+  "vote-percentage" : 2.605587412995824E-7,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -32,8 +32,8 @@
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://www.eoslegendpku.top/bp.json",
-      "paragraphs" : [ "bp-json-invalid" ],
-      "error" : "read:'http://www.eoslegendpku.top/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -42,6 +42,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 318,
-  "snapshot-date" : "2019-06-13T01:25:28.546Z"
+  "place" : 346,
+  "snapshot-date" : "2019-06-14T01:26:05.359Z"
 }

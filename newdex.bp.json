@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "newdex.bp",
-    "total_votes" : "278744869843867968.00000000000000000",
+    "total_votes" : "277319933736057632.00000000000000000",
     "producer_key" : "EOS7eygG47yodHQpMTFSzutDci8EAXQC9H5B3NWGZE8V7HjBybaC5",
     "is_active" : 1,
     "url" : "https://newdex.one",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-06-13T01:00:03.000",
+    "last_claim_time" : "2019-06-14T01:01:02.500",
     "location" : 0,
     "prepared-url" : "https://newdex.one"
   },
@@ -15,7 +15,7 @@
     "url" : "https://newdex.one/bp.json"
   },
   "webpage-error" : "unable to find valid certification path to requested target",
-  "vote-percentage" : 0.005409900857547516,
+  "vote-percentage" : 0.0050467764137276105,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 78,
-  "snapshot-date" : "2019-06-13T01:25:28.546Z"
+  "place" : 83,
+  "snapshot-date" : "2019-06-14T01:26:05.359Z"
 }
