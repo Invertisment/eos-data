@@ -1,49 +1,41 @@
 {
   "bp-header" : {
     "owner" : "eosrapidprod",
-    "total_votes" : "375573508651842112.00000000000000000",
+    "total_votes" : "374713527900447744.00000000000000000",
     "producer_key" : "EOS8QEFsgUWj7BscQNkiremtpSoRkzwDqmCPpKKCHYXGNaqxXFQ4h",
     "is_active" : 1,
     "url" : "http://www.eosrapid.com/",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-06-13T22:08:59.500",
+    "last_claim_time" : "2019-06-14T22:09:01.500",
     "location" : 0,
     "prepared-url" : "http://www.eosrapid.com/"
   },
   "bp-json-summary" : {
-    "url" : "http://www.eosrapid.com/bp.json",
-    "logo" : "https://www.eosrapid.com/logo_256.png",
-    "code_of_conduct" : "https://www.eosrapid.com/info.html"
+    "dl-error" : "clj-http: status 404",
+    "url" : "http://www.eosrapid.com/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 1,
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "https://bloks.io/account/eosrapidprod" ],
-    "popularity-boosters-count" : 1
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.006834833326078324,
+  "webpage-error" : "clj-http: status 404",
+  "vote-percentage" : 0.006768967928941342,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "http://www.eosrapid.com/"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "clj-http: status 404",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "http://www.eosrapid.com/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://www.eosrapid.com/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://www.eosrapid.com/info.html"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 0,
     "max" : 3
   },
   "place" : 59,
-  "snapshot-date" : "2019-06-14T01:26:05.359Z"
+  "snapshot-date" : "2019-06-15T01:25:51.527Z"
 }

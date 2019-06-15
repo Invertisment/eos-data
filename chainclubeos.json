@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "chainclubeos",
-    "total_votes" : "2592043691297725.00000000000000000",
+    "total_votes" : "2615042236941484.50000000000000000",
     "producer_key" : "EOS6bTR5gkBdGQhbM6uFYMYdc2kugU2FUA3XD5soHSCt1pXbGjHjn",
     "is_active" : 1,
     "url" : "http://eosio.university/",
@@ -14,13 +14,13 @@
     "dl-error" : "clj-http: status 403",
     "url" : "http://eosio.university/bp.json"
   },
-  "webpage-error" : "Read timed out",
-  "vote-percentage" : 4.717102297104701E-5,
+  "webpage-error" : "clj-http: status 403",
+  "vote-percentage" : 4.723911926496205E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Read timed out",
+      "error" : "clj-http: status 403",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 140,
-  "snapshot-date" : "2019-06-14T01:26:05.359Z"
+  "snapshot-date" : "2019-06-15T01:25:51.527Z"
 }

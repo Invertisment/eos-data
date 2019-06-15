@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosdublinwow",
-    "total_votes" : "317559889525562240.00000000000000000",
+    "total_votes" : "317709077173096000.00000000000000000",
     "producer_key" : "EOS5bjub7pm8H9WLMYW5ETSwfFKrEJpVWwiwK5knvGAqLVUjEpLxx",
     "is_active" : 1,
     "url" : "https://www.eosdublin.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-06-13T02:42:38.500",
+    "last_claim_time" : "2019-06-14T02:43:39.000",
     "location" : 372,
     "prepared-url" : "https://www.eosdublin.com"
   },
@@ -18,13 +18,13 @@
   "analyzed-urls" : {
     "relative-links-count" : 9,
     "duplicate-urls" : null,
-    "social-links" : [ "http://eosportal.io/chain/12/producers", "https://github.com/eosdublin/eosdublin/tree/master/images", "https://medium.com/@coachbjork/my-top-16-candidates-for-eos-block-producer-f0c7886bf085", "https://medium.com/@eosdublin/", "https://medium.com/@eosdublin/airdrop-for-eos-token-holders-957c249c73fd", "https://steemit.com/@eosdublin", "https://steemit.com/eos/@datajunky/eos-watchdogs-proxy-vote-with-the-wisdom-of-the-crowd", "https://steemit.com/eos/@eos42/30-block-producers-who-have-put-in-thousands-of-hours-for-eos", "https://steemit.com/eos/@eosnewyork/your-vote-matters-5-examples-of-good-block-producers", "https://t.me/eosdublin", "https://twitter.com/eosdublin", "https://www.meetup.com/EOS-Dublin/" ],
-    "social-links-count" : 12,
-    "popularity-boosters" : [ "http://sonatasys.com/sonataHome.shtml", "https://airdropsforeos.com/", "https://eosbootcamp.com/", "https://everipedia.org/wiki/eos-dublin/", "https://ignition.zone/", "https://telosfoundation.io/", "https://trybe.one/who-to-vote-for-in-the-eos-block-producer-candidacy-election/", "https://worbli.io", "https://www.chintai.io/" ],
-    "popularity-boosters-count" : 9
+    "social-links" : [ "https://github.com/eosdublin/eosdublin/tree/master/images", "https://medium.com/@coachbjork/my-top-16-candidates-for-eos-block-producer-f0c7886bf085", "https://medium.com/@eosdublin/", "https://medium.com/@eosdublin/airdrop-for-eos-token-holders-957c249c73fd", "https://steemit.com/@eosdublin", "https://steemit.com/eos/@datajunky/eos-watchdogs-proxy-vote-with-the-wisdom-of-the-crowd", "https://steemit.com/eos/@eos42/30-block-producers-who-have-put-in-thousands-of-hours-for-eos", "https://steemit.com/eos/@eosnewyork/your-vote-matters-5-examples-of-good-block-producers", "https://t.me/eosdublin", "https://twitter.com/eosdublin", "https://www.meetup.com/EOS-Dublin/" ],
+    "social-links-count" : 11,
+    "popularity-boosters" : [ "http://sonatasys.com/sonataHome.shtml", "https://airdropsforeos.com/", "https://eosbootcamp.com/", "https://everipedia.org/wiki/eos-dublin/", "https://ignition.zone/", "https://telosfoundation.io/", "https://trybe.one/who-to-vote-for-in-the-eos-block-producer-candidacy-election/", "https://worbli.io", "https://www.chintai.io/", "https://www.eosx.io/tools/vote?voteTo=eosdublinwow" ],
+    "popularity-boosters-count" : 10
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.005779078837978149,
+  "vote-percentage" : 0.005739217813053146,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -46,5 +46,5 @@
     "max" : 3
   },
   "place" : 69,
-  "snapshot-date" : "2019-06-14T01:26:05.359Z"
+  "snapshot-date" : "2019-06-15T01:25:51.527Z"
 }

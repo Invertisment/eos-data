@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosbluchain1",
-    "total_votes" : "24192411867856.73828125000000000",
+    "total_votes" : "25142966808206.61718750000000000",
     "producer_key" : "EOS7xw7WLbXtzLmg79gss72fpSjSgkpCxxSCCVRYACas3a1c9cfy2",
     "is_active" : 1,
     "url" : "https://bluchain.tech",
@@ -15,7 +15,7 @@
     "url" : "https://bluchain.tech/bp.json"
   },
   "webpage-error" : "Certificate for <bluchain.tech> doesn't match any of the subject alternative names: [bluchain.com.br]",
-  "vote-percentage" : 4.4026295535642005E-7,
+  "vote-percentage" : 4.5419213156457776E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 304,
-  "snapshot-date" : "2019-06-14T01:26:05.359Z"
+  "place" : 303,
+  "snapshot-date" : "2019-06-15T01:25:51.527Z"
 }

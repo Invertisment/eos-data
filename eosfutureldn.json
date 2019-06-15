@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosfutureldn",
-    "total_votes" : "922683841307543.87500000000000000",
+    "total_votes" : "926047332690751.62500000000000000",
     "producer_key" : "EOS72rHyQowVgP6EaT9ebnfdbKFvwgSHJsmuv8Nhi8KMWiJ5kRv2h",
     "is_active" : 1,
     "url" : "http://eosfuture.io/",
@@ -11,40 +11,31 @@
     "prepared-url" : "http://eosfuture.io/"
   },
   "bp-json-summary" : {
-    "url" : "http://eosfuture.io/bp.json",
-    "logo" : "http://eosfuture.io/eosf_std.png",
-    "code_of_conduct" : "http://eosfuture.io/about/code-of-conduct/"
+    "dl-error" : "clj-http: status 403",
+    "url" : "http://eosfuture.io/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 3,
-    "duplicate-urls" : null,
-    "social-links" : [ "http://t.me/EOSfuturenews", "http://twitter.com/EOSfutureio", "https://discord.gg/bPyM9sJ", "https://eosportal.io/chain/12/producers/eosfutureldn", "https://www.reddit.com/r/EOSfuture/new/" ],
-    "social-links-count" : 5,
-    "popularity-boosters" : [ "http://wordpress.org/", "https://automattic.com/cookies/", "https://colorlib.com/" ],
-    "popularity-boosters-count" : 3
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.679136073957977E-5,
+  "webpage-error" : "clj-http: status 403",
+  "vote-percentage" : 1.6728471829633886E-5,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "http://eosfuture.io/"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "clj-http: status 403",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "http://eosfuture.io/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://eosfuture.io/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 403"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "http://eosfuture.io/about/code-of-conduct/"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 0,
     "max" : 3
   },
   "place" : 181,
-  "snapshot-date" : "2019-06-14T01:26:05.359Z"
+  "snapshot-date" : "2019-06-15T01:25:51.527Z"
 }

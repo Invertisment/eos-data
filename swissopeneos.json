@@ -1,0 +1,40 @@
+{
+  "bp-header" : {
+    "owner" : "swissopeneos",
+    "total_votes" : "276761499664.32128906250000000",
+    "producer_key" : "EOS6UvhtgBMAq32MjCRYYxQtwLtBajcvqAU6Rpkvwn9v2RSSn7vPR",
+    "is_active" : 1,
+    "url" : "https://swisseos.com",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-06-14T21:20:35.500",
+    "location" : 0,
+    "prepared-url" : "https://swisseos.com"
+  },
+  "bp-json-summary" : {
+    "url" : "https://swisseos.com/bp.json",
+    "logo" : ""
+  },
+  "webpage-error" : "clj-http: status 503",
+  "vote-percentage" : 4.999525172443773E-9,
+  "scoring" : {
+    "comp" : [ {
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "clj-http: status 503",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://swisseos.com/bp.json"
+    }, {
+      "title" : "no-coc",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    } ],
+    "score" : 1,
+    "max" : 3
+  },
+  "place" : 458,
+  "snapshot-date" : "2019-06-15T01:25:51.527Z"
+}
