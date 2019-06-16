@@ -15,22 +15,14 @@
     "logo" : "http://www.aibilink.com/static/imagesg/256.jpg",
     "code_of_conduct" : " "
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 7,
-    "duplicate-urls" : null,
-    "social-links" : [ "http://weibo.com/aibilink", "http://www.facebook.com/aibilink", "https://twitter.com/AiBiLink", "https://www.linkedin.com/company/aibilink" ],
-    "social-links-count" : 4,
-    "popularity-boosters" : [ "http://baike.baidu.com/item/%E5%8C%97%E4%BA%AC%E4%BA%91%E7%81%B5%E7%BD%91%E7%BB%9C%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8", "http://www.beian.gov.cn", "http://www.miibeian.gov.cn" ],
-    "popularity-boosters-count" : 3
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 4.894421185347036E-7,
+  "webpage-error" : "www.aibilink.com:443 failed to respond",
+  "vote-percentage" : 4.851977547939352E-7,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "http://www.aibilink.com"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "www.aibilink.com:443 failed to respond",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -42,9 +34,9 @@
       "title" : "coc",
       "url" : " "
     } ],
-    "score" : 3,
+    "score" : 2,
     "max" : 3
   },
-  "place" : 294,
-  "snapshot-date" : "2019-06-15T01:25:51.527Z"
+  "place" : 292,
+  "snapshot-date" : "2019-06-16T01:25:57.824Z"
 }

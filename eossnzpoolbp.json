@@ -1,17 +1,17 @@
 {
   "bp-header" : {
     "owner" : "eossnzpoolbp",
-    "total_votes" : "404413514714064576.00000000000000000",
+    "total_votes" : "405056460918793600.00000000000000000",
     "producer_key" : "EOS6gQeftj3V2yuGdxAJcNfNAw2PpsjftYK4PrmW6uob6xgYcQHKw",
     "is_active" : 1,
     "url" : "http://snzholding.com/",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-06-14T17:59:31.500",
+    "last_claim_time" : "2019-06-15T18:00:34.500",
     "location" : 1,
     "prepared-url" : "http://snzholding.com/"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "read-error" : "read:'http://snzholding.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
     "url" : "http://snzholding.com/bp.json"
   },
   "analyzed-urls" : {
@@ -21,7 +21,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.007305479806048603,
+  "vote-percentage" : 0.007253641560812998,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -32,8 +32,8 @@
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://snzholding.com/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'http://snzholding.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -43,5 +43,5 @@
     "max" : 3
   },
   "place" : 52,
-  "snapshot-date" : "2019-06-15T01:25:51.527Z"
+  "snapshot-date" : "2019-06-16T01:25:57.824Z"
 }

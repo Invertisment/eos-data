@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eos121wallet",
-    "total_votes" : "233866990366244.15625000000000000",
+    "total_votes" : "231719675849207.03125000000000000",
     "producer_key" : "EOS56LNfiPH2Ab4yApVKFst6yFKM8k91pTSgXmEQNbHhqfAvPBDSf",
     "is_active" : 1,
     "url" : "http://eos121dac.io/",
@@ -15,7 +15,7 @@
     "url" : "http://eos121dac.io/bp.json"
   },
   "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 4.224662414236924E-6,
+  "vote-percentage" : 4.149573290067569E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 231,
-  "snapshot-date" : "2019-06-15T01:25:51.527Z"
+  "snapshot-date" : "2019-06-16T01:25:57.824Z"
 }

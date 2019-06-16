@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosadddddddd",
-    "total_votes" : "4611703611383679.00000000000000000",
+    "total_votes" : "4644756932497806.00000000000000000",
     "producer_key" : "EOS8RBVQtaZRWNq5iRoKK3b5nnWHPmqoLgUZbK3TfAtyvucy4QR65",
     "is_active" : 1,
     "url" : "http://eosadd.com",
@@ -11,31 +11,38 @@
     "prepared-url" : "http://eosadd.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "clj-http: status 404",
     "url" : "http://eosadd.com/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 8.330757103472534E-5,
+  "analyzed-urls" : {
+    "relative-links-count" : 7,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://github.com/EOSADD/EOSADD.github.io/raw/master/" ],
+    "social-links-count" : 1,
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 8.317705104374298E-5,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "connect timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://eosadd.com"
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://eosadd.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "clj-http: status 404"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 0,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 124,
-  "snapshot-date" : "2019-06-15T01:25:51.527Z"
+  "place" : 125,
+  "snapshot-date" : "2019-06-16T01:25:57.824Z"
 }
