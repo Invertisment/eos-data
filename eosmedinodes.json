@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosmedinodes",
-    "total_votes" : "3592143868291649.50000000000000000",
+    "total_votes" : "3592067650348189.00000000000000000",
     "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
     "is_active" : 0,
     "url" : "http://eosmedi.com",
@@ -15,7 +15,7 @@
     "url" : "http://eosmedi.com/bp.json"
   },
   "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 6.432714095303286E-5,
+  "vote-percentage" : 6.425356369594796E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 135,
-  "snapshot-date" : "2019-06-16T01:25:57.824Z"
+  "snapshot-date" : "2019-06-17T01:25:53.076Z"
 }

@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "hoo.com",
-    "total_votes" : "953901122033428224.00000000000000000",
+    "total_votes" : "955410493554153216.00000000000000000",
     "producer_key" : "EOS7Ef2ReXFWYmp1SB1ZzhnhDMfY8NnMZnvo4c51ZxiDf2UE7nCNR",
     "is_active" : 1,
     "url" : "https://hoo.com",
-    "unpaid_blocks" : 3132,
-    "last_claim_time" : "2019-06-15T16:13:00.500",
+    "unpaid_blocks" : 3120,
+    "last_claim_time" : "2019-06-16T16:14:00.500",
     "location" : 0,
     "prepared-url" : "https://hoo.com"
   },
@@ -20,7 +20,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.01708220332541495,
+  "vote-percentage" : 0.017090025851102305,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -40,6 +40,6 @@
     "score" : 2,
     "max" : 3
   },
-  "place" : 6,
-  "snapshot-date" : "2019-06-16T01:25:57.824Z"
+  "place" : 7,
+  "snapshot-date" : "2019-06-17T01:25:53.076Z"
 }
