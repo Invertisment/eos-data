@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosnetworkio",
-    "total_votes" : "1160160818900551.00000000000000000",
+    "total_votes" : "1105224605171559.87500000000000000",
     "producer_key" : "EOS7GpcMsDge5fWhhJrzXVzzg5CKtMHxgV8bESMkyGknezuoUMh6T",
     "is_active" : 1,
     "url" : "http://www.eosnetwork.io",
@@ -15,7 +15,7 @@
     "url" : "http://www.eosnetwork.io/bp.json"
   },
   "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 2.075252315126746E-5,
+  "vote-percentage" : 2.1748246300366962E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 172,
-  "snapshot-date" : "2019-06-17T01:25:53.076Z"
+  "place" : 157,
+  "snapshot-date" : "2019-06-18T01:25:15.841Z"
 }

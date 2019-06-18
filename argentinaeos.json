@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "argentinaeos",
-    "total_votes" : "779792824235536000.00000000000000000",
+    "total_votes" : "779456511167127040.00000000000000000",
     "producer_key" : "EOS7jq4FHrFrtCXxpRQ39dBeDMa5AjM4VaRbqBECkSa5aZnizJzrx",
     "is_active" : 1,
     "url" : "https://www.eosargentina.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-06-16T23:07:39.000",
+    "last_claim_time" : "2019-06-17T23:07:43.500",
     "location" : 32,
     "prepared-url" : "https://www.eosargentina.io"
   },
@@ -21,7 +21,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.013948642614457553,
+  "vote-percentage" : 0.015337888883369588,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -42,6 +42,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 28,
-  "snapshot-date" : "2019-06-17T01:25:53.076Z"
+  "place" : 25,
+  "snapshot-date" : "2019-06-18T01:25:15.841Z"
 }
