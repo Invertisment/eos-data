@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "bpacbpacbpac",
-    "total_votes" : "2549755550275345.50000000000000000",
+    "total_votes" : "2550062972754800.50000000000000000",
     "producer_key" : "EOS55W5m6Rh6x3eCPvEZzPBAgqaahZTjL2y3Sb1VTreNkd9Ns55n3",
     "is_active" : 1,
     "url" : "https://bpac.io",
@@ -11,23 +11,23 @@
     "prepared-url" : "https://bpac.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "Connection refused (Connection refused)",
+    "dl-error" : "bpac.io",
     "url" : "https://bpac.io/bp.json"
   },
-  "webpage-error" : "Connection refused (Connection refused)",
-  "vote-percentage" : 5.017325116871443E-5,
+  "webpage-error" : "bpac.io: Name or service not known",
+  "vote-percentage" : 4.6625830977030684E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Connection refused (Connection refused)",
+      "error" : "bpac.io: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://bpac.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Connection refused (Connection refused)"
+      "error" : "bpac.io"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 129,
-  "snapshot-date" : "2019-06-18T01:25:15.841Z"
+  "place" : 142,
+  "snapshot-date" : "2019-06-19T01:25:57.056Z"
 }

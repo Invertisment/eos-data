@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eostransambp",
-    "total_votes" : "15175859703718.66015625000000000",
+    "total_votes" : "15159212129288.54687500000000000",
     "producer_key" : "EOS7fbLJSB4455UVJ3VLxMccEJo5D2BjyLNri2ebnzKKsK1dcv6GA",
     "is_active" : 1,
     "url" : "transam.io",
@@ -15,7 +15,7 @@
     "url" : "transam.io/bp.json"
   },
   "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 2.9862557629637213E-7,
+  "vote-percentage" : 2.771738855223651E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 303,
-  "snapshot-date" : "2019-06-18T01:25:15.841Z"
+  "place" : 333,
+  "snapshot-date" : "2019-06-19T01:25:57.056Z"
 }

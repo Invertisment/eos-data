@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eos.fish",
-    "total_votes" : "861014525159961344.00000000000000000",
+    "total_votes" : "854524996075876992.00000000000000000",
     "producer_key" : "EOS6iCr1dq6yerKRJe3rL3WCewHEcBS6haBEA8HgWDevmDXEkC2Bt",
     "is_active" : 1,
     "url" : "http://eos.fish",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-06-17T18:09:06.000",
+    "last_claim_time" : "2019-06-18T18:10:06.500",
     "location" : 0,
     "prepared-url" : "http://eos.fish"
   },
@@ -24,7 +24,7 @@
     "popularity-boosters-count" : 1
   },
   "p-ram-amounts" : [ "RAM" ],
-  "vote-percentage" : 0.016942760660368802,
+  "vote-percentage" : 0.015624295736367573,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +45,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 22,
-  "snapshot-date" : "2019-06-18T01:25:15.841Z"
+  "place" : 24,
+  "snapshot-date" : "2019-06-19T01:25:57.056Z"
 }

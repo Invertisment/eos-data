@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "infinitybloc",
-    "total_votes" : "2467993859330698.00000000000000000",
+    "total_votes" : "2463536662013336.50000000000000000",
     "producer_key" : "EOS6rocMVe62FVRjZZMCpFQREVbwBFrm5taNHKpYWmdQR4vuqeZsx",
     "is_active" : 1,
     "url" : "https://eos.infinitybloc.io",
@@ -16,15 +16,15 @@
     "code_of_conduct" : "https://infinitybloc.io/code_of_conduct"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 23,
+    "relative-links-count" : 25,
     "duplicate-urls" : null,
     "social-links" : [ "http://www.facebook.com/119192605693785", "https://github.com/Telos-Foundation/telos/wiki/Pulse:--Telos-Block-Producer-Infrastructure-Insights", "https://github.com/infinitybloc", "https://medium.com/@infinitybloc", "https://t.me/joinchat/Isxu3VIEZa7RV9yCT530TA", "https://twitter.com/infinitybloc", "https://www.meetup.com/Blockchain-Distributed-Ledger-Technology-DLT-and-Web-3-0/", "https://www.reddit.com/user/infinitybloc", "https://www.youtube.com/channel/UCy-XgDZUKGBHFu4G8hFg2AA" ],
     "social-links-count" : 9,
-    "popularity-boosters" : [ "https://www.scalingblockchain.us" ],
-    "popularity-boosters-count" : 1
+    "popularity-boosters" : [ "http://eosworldexpo.com", "http://proxibots.io", "http://telosfoundation.io", "https://aikon.com/", "https://strongblock.io/", "https://www.scalingblockchain.us" ],
+    "popularity-boosters-count" : 6
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 4.8564371503641595E-5,
+  "vote-percentage" : 4.504376763867349E-5,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +45,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 130,
-  "snapshot-date" : "2019-06-18T01:25:15.841Z"
+  "place" : 143,
+  "snapshot-date" : "2019-06-19T01:25:57.056Z"
 }
