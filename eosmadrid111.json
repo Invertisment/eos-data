@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosmadrid111",
-    "total_votes" : "8796093140134.74804687500000000",
+    "total_votes" : "0.00000000000000000",
     "producer_key" : "EOS82EaU1qrnrVKHp785svPFtRU6XyxbT1NftJmiVo7ZzqqahfeKX",
     "is_active" : 1,
     "url" : "https://eosiomadrid.io/eos",
@@ -15,7 +15,7 @@
     "url" : "https://eosiomadrid.io/eos/bp.json"
   },
   "webpage-error" : "clj-http: status 404",
-  "vote-percentage" : 1.608294212307584E-7,
+  "vote-percentage" : 0.0,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 361,
-  "snapshot-date" : "2019-06-19T01:25:57.056Z"
+  "place" : 552,
+  "snapshot-date" : "2019-06-20T01:27:37.228Z"
 }

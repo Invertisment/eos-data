@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "privexinceos",
-    "total_votes" : "861820810081525.62500000000000000",
+    "total_votes" : "610450869903937.12500000000000000",
     "producer_key" : "EOS7UU7G3gAzaT2gQ2nBJeJCbCx1e7cUj5GWnNBULQCXD61cj62zL",
     "is_active" : 1,
     "url" : "https://bp.privex.io",
@@ -15,22 +15,14 @@
     "logo" : "https://www.privex.io/static/img/logo-privex.png",
     "code_of_conduct" : "https://www.privex.io/code-of-conduct"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 7,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/privex", "https://twitter.com/privexinc" ],
-    "social-links-count" : 2,
-    "popularity-boosters" : [ "https://pay.privex.io/order" ],
-    "popularity-boosters-count" : 1
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.5757693771750103E-5,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 1.0879169585985112E-5,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://bp.privex.io"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -42,9 +34,9 @@
       "title" : "coc",
       "url" : "https://www.privex.io/code-of-conduct"
     } ],
-    "score" : 3,
+    "score" : 2,
     "max" : 3
   },
-  "place" : 180,
-  "snapshot-date" : "2019-06-19T01:25:57.056Z"
+  "place" : 182,
+  "snapshot-date" : "2019-06-20T01:27:37.228Z"
 }
