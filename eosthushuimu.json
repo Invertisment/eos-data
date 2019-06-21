@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosthushuimu",
-    "total_votes" : "15802202852523474.00000000000000000",
+    "total_votes" : "15777758744307170.00000000000000000",
     "producer_key" : "EOS7mawmWYTjzjt2riNSHKQhA8E86r3L8eXhcotuskGPJU6RNzUZs",
     "is_active" : 1,
     "url" : "http://www.eosthu.com",
@@ -11,11 +11,11 @@
     "prepared-url" : "http://www.eosthu.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "Read timed out",
+    "dl-error" : "clj-http: status 403",
     "url" : "http://www.eosthu.com/bp.json"
   },
   "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 2.8161946053380796E-4,
+  "vote-percentage" : 2.7839329725468407E-4,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -27,7 +27,7 @@
       "mood" : "warn",
       "url" : "http://www.eosthu.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Read timed out"
+      "error" : "clj-http: status 403"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 114,
-  "snapshot-date" : "2019-06-20T01:27:37.228Z"
+  "snapshot-date" : "2019-06-21T01:27:53.512Z"
 }

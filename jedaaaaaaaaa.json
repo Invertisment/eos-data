@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "jedaaaaaaaaa",
-    "total_votes" : "935745835557490816.00000000000000000",
+    "total_votes" : "937432851762861184.00000000000000000",
     "producer_key" : "EOS6nB9Ar5sghWjqk27bszCiA9zxQtXZCaAaEkf2nwUm9iP5MEJTT",
     "is_active" : 1,
     "url" : "https://www.eosjapan.org",
-    "unpaid_blocks" : 7427,
-    "last_claim_time" : "2019-06-19T03:38:36.000",
+    "unpaid_blocks" : 7440,
+    "last_claim_time" : "2019-06-20T03:38:37.500",
     "location" : 392,
     "prepared-url" : "https://www.eosjapan.org"
   },
@@ -24,7 +24,7 @@
     "popularity-boosters-count" : 6
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.016676424158444177,
+  "vote-percentage" : 0.016540690397569155,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +45,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 13,
-  "snapshot-date" : "2019-06-20T01:27:37.228Z"
+  "place" : 20,
+  "snapshot-date" : "2019-06-21T01:27:53.512Z"
 }
