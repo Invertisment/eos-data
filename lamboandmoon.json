@@ -15,14 +15,13 @@
     "url" : "http://lamboandmoon.io/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 1,
+    "relative-links-count" : 2,
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ "http://httpd.apache.org/docs/2.4/mod/mod_userdir.html", "http://manpages.debian.org/cgi-bin/man.cgi?query=a2disconf", "http://manpages.debian.org/cgi-bin/man.cgi?query=a2dismod", "http://manpages.debian.org/cgi-bin/man.cgi?query=a2dissite", "http://manpages.debian.org/cgi-bin/man.cgi?query=a2enconf", "http://manpages.debian.org/cgi-bin/man.cgi?query=a2enmod", "http://manpages.debian.org/cgi-bin/man.cgi?query=a2ensite", "http://validator.w3.org/check?uri=referer", "https://bugs.launchpad.net/ubuntu/+source/apache2" ],
-    "popularity-boosters-count" : 9
+    "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 6.532628944136143E-7,
+  "vote-percentage" : 6.52092465721112E-7,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -44,5 +43,5 @@
     "max" : 3
   },
   "place" : 278,
-  "snapshot-date" : "2019-06-21T01:27:53.512Z"
+  "snapshot-date" : "2019-06-22T01:27:44.179Z"
 }

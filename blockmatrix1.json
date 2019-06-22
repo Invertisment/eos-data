@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "blockmatrix1",
-    "total_votes" : "259879823017013248.00000000000000000",
+    "total_votes" : "258583594719437504.00000000000000000",
     "producer_key" : "EOS6oNSm6QKnMBzJDHiA32KsEjSgKKt1nGdPYfc2wZU34HA9GjP9q",
     "is_active" : 1,
     "url" : "https://blockmatrix.network",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-06-20T11:56:25.000",
+    "last_claim_time" : "2019-06-21T11:57:02.000",
     "location" : 826,
     "prepared-url" : "https://blockmatrix.network"
   },
@@ -24,7 +24,7 @@
     "popularity-boosters-count" : 7
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.004585492907588949,
+  "vote-percentage" : 0.0045544466990203114,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +45,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 90,
-  "snapshot-date" : "2019-06-21T01:27:53.512Z"
+  "place" : 91,
+  "snapshot-date" : "2019-06-22T01:27:44.179Z"
 }

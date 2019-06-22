@@ -1,21 +1,21 @@
 {
   "bp-header" : {
-    "owner" : "eosclan.x",
-    "total_votes" : "18351721762074.64062500000000000",
-    "producer_key" : "EOS51cHTZ9AQh6xp4v5LYyM6xWx6CNPkVUzwJZcFjozNmKuvU1Qee",
+    "owner" : "eosblocktree",
+    "total_votes" : "34395553833.07784271240234375",
+    "producer_key" : "EOS5MjKsDtPQSUbUhsjNuNhVcXUAL2i6BYES28MoqMt78evTtzdfw",
     "is_active" : 1,
-    "url" : "https://eosclan.dev",
+    "url" : "“https://eosblocktree.io/”",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-02-19T23:39:48.500",
+    "last_claim_time" : "2019-06-21T03:38:40.000",
     "location" : 0,
-    "prepared-url" : "https://eosclan.dev"
+    "prepared-url" : "https://eosblocktree.io/"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
-    "url" : "https://eosclan.dev/bp.json"
+    "dl-error" : "no protocol: “https://eosblocktree.io/”/bp.json",
+    "url" : "“https://eosblocktree.io/”/bp.json"
   },
   "webpage-error" : "connect timed out",
-  "vote-percentage" : 3.2322985799352907E-7,
+  "vote-percentage" : 6.058107312879016E-10,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -25,9 +25,9 @@
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
-      "url" : "https://eosclan.dev/bp.json",
+      "url" : "“https://eosblocktree.io/”/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "no protocol: “https://eosblocktree.io/”/bp.json"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 317,
+  "place" : 495,
   "snapshot-date" : "2019-06-22T01:27:44.179Z"
 }

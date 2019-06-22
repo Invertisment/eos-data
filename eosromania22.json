@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosromania22",
-    "total_votes" : "526445719825188.68750000000000000",
+    "total_votes" : "529378740583185.87500000000000000",
     "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
     "is_active" : 0,
     "url" : "http://eos.romania22.com",
@@ -11,31 +11,39 @@
     "prepared-url" : "http://eos.romania22.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "Connection refused (Connection refused)",
+    "read-error" : "read:'http://eos.romania22.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
     "url" : "http://eos.romania22.com/bp.json"
   },
-  "webpage-error" : "Connection refused (Connection refused)",
-  "vote-percentage" : 9.288959359999743E-6,
+  "analyzed-urls" : {
+    "relative-links-count" : 26,
+    "duplicate-urls" : null,
+    "social-links" : [ "http://l.facebook.com/l.php?u=http%3A%2F%2Feos.romania22.com%2F&h=AT0BEmbLx35EH67Ks-tAjEOiEhygxBVwy8TT7-hMoJbd6kxXTq5jGZcGm2QFaXsrRSy_K4vdtbqpvYEeY0Rd_F6iL0_S8HkXPI1hWES6Ab9026H92W--DhXKTJDAyfRmWHYm6RmTqLOR3kag", "http://l.facebook.com/l.php?u=http%3A%2F%2Feos.romania22.com%2F&h=AT2KOj4KvWU1gVWBpwms00LOc-P3Fnk0czR-pyByXdB2p6FbT62QkkgpkYaBZnjSg2PL1jDWkOdDsqtQ7bfz7FyQqSi74X4CEPSjm9p2M5PetFT5VJCUZAfQY5vAkumlUmsP09BqQTnL9rg18lI", "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2FCoinageCrypto%2Flamington%2Fblob%2Fmaster%2FREADME.md&h=AT0WwqIMdyT2byPgD5fvMHzrEQn5dMFWaHHY5WwROH63EfvS06TBqDrcXtIwKy4NhDAwHk0CoVDKBPe9WRpyP1Tc_VvCKw-X0eLpSL-15f0RFCWvafGahB7RX5h9Ty9Z48QnVI3xgHqntwebPU5gDNbLzR8_Rhda8o0", "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2FCoinageCrypto%2Flamington%2Fblob%2Fmaster%2FREADME.md&h=AT2bufHuGb4xSYcr-KoN3Jf4mCmCf4GLxWQ46WzD63nnbJFT5twh09Ds2KdB6r2TQNn-uceI1q1VXgLZBdNfIIc4zatgarQAsJwZDdP8LY2WqoAfLBya0kAVxL5ynVu5DNPIEXK3hg-c1gSb68Bk6Q87_IdzpjHOZgfwVOUggwp_gw", "https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2FCoinageCrypto%2Flamington%2Fblob%2Fmaster%2FREADME.md&h=AT3DybXFkeqEcDjGdCKAA16vzwHCHcKRyEru_zAyvWggUvQ6nx0UfSC5xgk7Xg7M4RfLZLPFspCuiFc41Q1PvUWWw9UUVoAOl7jeSYQn8GBqo5_UcshJ0eqdiu4pr6QIG77nC9IO-OLjnFk-REbijGd0OwGwfnHCaDc", "https://l.facebook.com/l.php?u=https%3A%2F%2Fsteemit.com%2Feos%2F%40greymass%2Fannouncing-eos-voter-an-eos-block-producer-voting-tool-and-light-wallet&h=AT2_hktIG6bRUZfcDORIpPCO63hgdp4vD7jawTb2RiFnTM27J7OJP9vkR0zWK4IOKg_KgDbKkdFIduJn2D98h5uQvfM_K8yHkQQ4XQm6Tn4dnGXGQqUumQxSxKrxA7_1iFMZfGD_aBYUjmBi86nOQtGEAW_zDcz9gLtAHdPs5ReDRw", "https://l.facebook.com/l.php?u=https%3A%2F%2Fsteemit.com%2Feos%2F%40unus%2Fhow-to-vote-for-eos-romania-block-producer&h=AT2Y8CJ65YG3P0XHY3lKKAe4H6cov4MIn26ZvBweyTooQW7yKG3ihCDtdUm2_377jkCUKgttOLO4Wrq7rSG7Idli2e01xIKd-1kwJbxfxlCCUDnUAJ8BcbLk_lDLASYZF7c1g31pQKUH2wl64wLpfgKphlo943VV9WmlJxFAsD_Y7A", "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2F_hWRAjLKa8w&h=AT3cAY6ph83ufnY9GE5mJMHlIMWrfuMXQCAheUvlRon75Ud--ezmgwIGJ-ymfPHXj3K0PD4f4fi69Td3Q3jMXJSUpNFLAN9kvr__b-TaNaGRIJjXo8lE8UXn74hzYe9zIfOxx1fLPlCYLxbuMtOmQzHBEjdTdSpkaxzqoqZLmY-aww", "https://www.facebook.com/AlternativeLaCeArPuteaFi/?ref=py_c", "https://www.facebook.com/EOS-sweden-554084258304426/?ref=py_c", "https://www.facebook.com/EOSro/?hc_ref=ARR1oDpKO3i3Y6JuPL7KpaKeoQQYHXPiAHTsM4FHnwwpvnJvXBXvF5FBc_v3EjINtIg&fref=nf", "https://www.facebook.com/EOSro/?hc_ref=ARSxdwR0Ag33Th1ONoPBzNhAjChVkKOCdykO1CXC-W2HM7tJnTiPwkolYHemNAstb1g&fref=nf", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARSfQITpqkhc5vV72fi8IRWYvvV3K6vKfx8ZXFE-UPYwFHybrqcnJXRl36vLx1vPiAA", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARTZbw7iPNbNIxsOux6IS95qjeqG5D2zsVlEyuAve241pZaf4dPe4FHa9sQQjm2BuZM", "https://www.facebook.com/EOSro/likes", "https://www.facebook.com/EOSro/likes?ref=page_internal", "https://www.facebook.com/EOSro/posts", "https://www.facebook.com/FundatiaEOS/?ref=py_c", "https://www.facebook.com/GarajulCinematografiei/?ref=py_c", "https://www.facebook.com/Giulia-Avon-Reggio-Calabria-144236755997784/?ref=py_c", "https://www.facebook.com/GoodGuysEvents/?ref=py_c", "https://www.facebook.com/Handmade-by-Andreea-Nico-162492477738894/?ref=py_c", "https://www.facebook.com/Mobilã-de-vânzare-1759171904129064/?ref=py_c", "https://www.facebook.com/Pressed-In-Time-Laundry-Bracken-Gardens-193215407708036/?ref=py_c", "https://www.facebook.com/RomaniaEarthship/?ref=py_c", "https://www.facebook.com/Swiscoin-180389845642415/?ref=py_c", "https://www.facebook.com/TheMoodsProject/?ref=py_c", "https://www.facebook.com/UTCSM/?ref=py_c", "https://www.facebook.com/VindecareEvolutie/?ref=py_c", "https://www.facebook.com/Yonchim-Drive-SRL-123718561513183/?ref=py_c", "https://www.facebook.com/ad_campaign/landing.php?placement=pf_rhc&campaign_id=242449722530626&extra_1=auto", "https://www.facebook.com/astabimdesign/?ref=py_c", "https://www.facebook.com/catehalatu/?ref=py_c", "https://www.facebook.com/dgpimobiliare/?ref=py_c", "https://www.facebook.com/girlsgoitbucuresti/?ref=py_c", "https://www.facebook.com/help/568137493302217", "https://www.facebook.com/help/cookies?ref_type=sitefooter", "https://www.facebook.com/oraclebridgeventures/?ref=py_c", "https://www.facebook.com/policies?ref=pf", "https://www.facebook.com/privacy/explanation", "https://www.facebook.com/recover/initiate?lwv=110&ars=royal_blue_bar" ],
+    "social-links-count" : 41,
+    "popularity-boosters" : [ "https://www.facebook.com/" ],
+    "popularity-boosters-count" : 1
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 9.323976102183043E-6,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "Connection refused (Connection refused)",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://eos.romania22.com"
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://eos.romania22.com/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Connection refused (Connection refused)"
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'http://eos.romania22.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 0,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 190,
-  "snapshot-date" : "2019-06-21T01:27:53.512Z"
+  "place" : 189,
+  "snapshot-date" : "2019-06-22T01:27:44.179Z"
 }

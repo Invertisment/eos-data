@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosauthority",
-    "total_votes" : "895875718146096640.00000000000000000",
+    "total_votes" : "890007215228290432.00000000000000000",
     "producer_key" : "EOS4va3CTmAcAAXsT26T3EBWqYHgQLshyxsozYRgxWm9tjmy17pVV",
     "is_active" : 1,
     "url" : "https://eosauthority.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-06-20T08:25:47.000",
+    "last_claim_time" : "2019-06-21T08:25:50.000",
     "location" : 826,
     "prepared-url" : "https://eosauthority.com"
   },
@@ -15,22 +15,14 @@
     "logo" : "https://eosauthority.com/common/bp-standard-info/EOS-AUTHORITY-256.jpg",
     "code_of_conduct" : "https://steemit.com/eos/@eosauthority/eos-authority-roadmap-and-position-on-dividends"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 75,
-    "duplicate-urls" : null,
-    "social-links" : [ "http://t.me/eosauthority", "https://github.com/eosauthority", "https://github.com/eosauthority/eosio-watcher-plugin", "https://telegram.me/eosauthority", "https://twitter.com/EOSauthority", "https://www.facebook.com/eosauthority", "https://www.youtube.com/watch?v=k-5aG3YuyYk" ],
-    "social-links-count" : 7,
-    "popularity-boosters" : [ "https://www.webdigi.co.uk" ],
-    "popularity-boosters-count" : 1
-  },
-  "p-ram-amounts" : [ "RAM" ],
-  "vote-percentage" : 0.01580742861815458,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 0.015675744735077927,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eosauthority.com"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -42,9 +34,9 @@
       "title" : "coc",
       "url" : "https://steemit.com/eos/@eosauthority/eos-authority-roadmap-and-position-on-dividends"
     } ],
-    "score" : 3,
+    "score" : 2,
     "max" : 3
   },
   "place" : 24,
-  "snapshot-date" : "2019-06-21T01:27:53.512Z"
+  "snapshot-date" : "2019-06-22T01:27:44.179Z"
 }
