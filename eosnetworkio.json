@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosnetworkio",
-    "total_votes" : "747462950756109.37500000000000000",
+    "total_votes" : "743154329243745.50000000000000000",
     "producer_key" : "EOS7GpcMsDge5fWhhJrzXVzzg5CKtMHxgV8bESMkyGknezuoUMh6T",
     "is_active" : 1,
     "url" : "http://www.eosnetwork.io",
@@ -11,23 +11,23 @@
     "prepared-url" : "http://www.eosnetwork.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "Read timed out",
+    "dl-error" : "clj-http: status 403",
     "url" : "http://www.eosnetwork.io/bp.json"
   },
-  "webpage-error" : "Circular redirect to 'http://www.eosnetwork.io/'",
-  "vote-percentage" : 1.3165104972744998E-5,
+  "webpage-error" : "clj-http: status 403",
+  "vote-percentage" : 1.4978598702860708E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Circular redirect to 'http://www.eosnetwork.io/'",
+      "error" : "clj-http: status 403",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://www.eosnetwork.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Read timed out"
+      "error" : "clj-http: status 403"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 172,
-  "snapshot-date" : "2019-06-22T01:27:44.179Z"
+  "place" : 147,
+  "snapshot-date" : "2019-06-23T01:34:55.146Z"
 }

@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "cadeosiocode",
-    "total_votes" : "5201456631004.28222656250000000",
+    "total_votes" : "5708764834530.04199218750000000",
     "producer_key" : "EOS6bGfucpLq6P9iVPuPNLoGXusekbHjWLWbFeHvxYFEp9gXyhyks",
     "is_active" : 1,
     "url" : "https://cadeos.io",
@@ -11,18 +11,19 @@
     "prepared-url" : "https://cadeos.io"
   },
   "bp-json-summary" : {
-    "read-error" : "read:'https://cadeos.io/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 2, column: 2]",
+    "dl-error" : "clj-http: status 404",
     "url" : "https://cadeos.io/bp.json"
   },
   "analyzed-urls" : {
+    "relative-links-count" : 18,
     "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/CADEOS", "https://github.com/HeckJiggers", "https://t.me/cadeos", "https://twitter.com/CadeosI", "https://www.linkedin.com/in/asiniscalchi/", "https://www.linkedin.com/in/guillermo-galindo-saeta-749a2557", "https://www.linkedin.com/in/javier-saeta-hidalgo/", "https://www.linkedin.com/in/jes%C3%BAs-moya-galindo-bb24861a/", "https://www.youtube.com/watch?v=b23p4E3pDvM" ],
-    "social-links-count" : 9,
-    "popularity-boosters" : [ "https://get-scatter.com/", "https://play.google.com/store/apps/details?id=io.cadeos.cadeos&hl=es" ],
-    "popularity-boosters-count" : 2
+    "social-links" : [ "https://github.com/CADEOS", "https://t.me/cadeos", "https://twitter.com/CadeosI?lang=es", "https://www.facebook.com/376812419391731", "https://www.linkedin.com/in/antonio-galindo/", "https://www.linkedin.com/in/asiniscalchi/", "https://www.linkedin.com/in/dgalindosaeta/detail/photo/", "https://www.linkedin.com/in/guillermo-galindo-saeta-749a2557/", "https://www.linkedin.com/in/h%C3%A9ctor-garz%C3%B3n-6914ba69/", "https://www.linkedin.com/in/javier-saeta-hidalgo/", "https://www.linkedin.com/in/jes%C3%BAs-moya-galindo-bb24861a/", "https://www.youtube.com/watch?v=b23p4E3pDvM" ],
+    "social-links-count" : 12,
+    "popularity-boosters" : [ "http://akdex.io/trade/ADE_EOS", "http://consultas2.oepm.es/ceo/jsp/busqueda/consultaExterna.xhtml?numExp=M3745162", "http://koreos.io/News/412220", "http://more.one/", "https://athcoinindex.com/coin/cadeos", "https://dexeos.io/trade/ADE", "https://eosdaq.com/exchange/ADE_EOS", "https://eosindex.io/projects/188-cadeos", "https://everipedia.org/wiki/lang_en/cadeosio/", "https://findex.pro/trade/ADE_EOS", "https://icorating.com/ico/cadeos-ade/", "https://meet.one/", "https://mydex.win/", "https://mywish.io/", "https://newdex.io/trade/ADE_EOS", "https://www.chaince.com/trade/adeeos", "https://www.coingecko.com/en/price_charts/cadeos/usd", "https://www.cointelligence.com/content/airdrop_list/cadeos/", "https://www.eosdocs.io/resources/airdrops/", "https://www.eosnairobi.io/", "https://www.mincotur.gob.es/es-es/Paginas/index.aspx" ],
+    "popularity-boosters-count" : 21
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 9.161353414116656E-8,
+  "vote-percentage" : 1.1506263797513654E-7,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -33,8 +34,8 @@
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://cadeos.io/bp.json",
-      "paragraphs" : [ "bp-json-invalid" ],
-      "error" : "read:'https://cadeos.io/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 2, column: 2]"
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -43,6 +44,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 413,
-  "snapshot-date" : "2019-06-22T01:27:44.179Z"
+  "place" : 349,
+  "snapshot-date" : "2019-06-23T01:34:55.146Z"
 }
