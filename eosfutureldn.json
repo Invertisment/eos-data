@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosfutureldn",
-    "total_votes" : "609809311083397.37500000000000000",
+    "total_votes" : "609830099104506.12500000000000000",
     "producer_key" : "EOS72rHyQowVgP6EaT9ebnfdbKFvwgSHJsmuv8Nhi8KMWiJ5kRv2h",
     "is_active" : 1,
     "url" : "http://eosfuture.io/",
@@ -15,7 +15,7 @@
     "url" : "http://eosfuture.io/bp.json"
   },
   "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 1.229097187024566E-5,
+  "vote-percentage" : 1.0584329685915895E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 153,
-  "snapshot-date" : "2019-06-23T01:34:55.146Z"
+  "place" : 180,
+  "snapshot-date" : "2019-06-24T01:27:27.270Z"
 }

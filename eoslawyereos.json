@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eoslawyereos",
-    "total_votes" : "686907444896023.00000000000000000",
+    "total_votes" : "686972978134266.62500000000000000",
     "producer_key" : "EOS78J1hRNUKTzdGHUE8zLRVTSQLC8qfPKQLfF9iEeNRPZxWMJwvx",
     "is_active" : 1,
     "url" : "https://eos.lawyer",
@@ -11,23 +11,23 @@
     "prepared-url" : "https://eos.lawyer"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "eos.lawyer",
     "url" : "https://eos.lawyer/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 1.384491828712781E-5,
+  "webpage-error" : "eos.lawyer: Name or service not known",
+  "vote-percentage" : 1.1923236482695354E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "eos.lawyer: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eos.lawyer/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "eos.lawyer"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 150,
-  "snapshot-date" : "2019-06-23T01:34:55.146Z"
+  "place" : 175,
+  "snapshot-date" : "2019-06-24T01:27:27.270Z"
 }
