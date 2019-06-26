@@ -1,0 +1,41 @@
+{
+  "bp-header" : {
+    "owner" : "greeneosiobp",
+    "total_votes" : "1309759143944.72509765625000000",
+    "producer_key" : "EOS6q4CQ2CVLXJJidH4tbgmKSqWFN71gFDEG34MP53Q629A8HU3v8",
+    "is_active" : 1,
+    "url" : "https://greeneosio.com",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-06-25T10:13:20.500",
+    "location" : 752,
+    "prepared-url" : "https://greeneosio.com"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "greeneosio.com",
+    "url" : "https://greeneosio.com/bp.json"
+  },
+  "webpage-error" : "greeneosio.com: No address associated with hostname",
+  "vote-percentage" : 2.222162611371007E-8,
+  "scoring" : {
+    "comp" : [ {
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "greeneosio.com: No address associated with hostname",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://greeneosio.com/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "greeneosio.com"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 426,
+  "snapshot-date" : "2019-06-26T01:26:18.411Z"
+}

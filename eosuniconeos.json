@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosuniconeos",
-    "total_votes" : "31897199069116.85937500000000000",
+    "total_votes" : "33626203701049.35937500000000000",
     "producer_key" : "EOS7xxiLSWHVpxRPxpzdBC9QbnxBH2A1yx8NahL9P1Q18aWVJZzzb",
     "is_active" : 1,
     "url" : "https://unicon.one",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-06-24T08:30:05.500",
+    "last_claim_time" : "2019-06-25T08:31:05.000",
     "location" : 0,
     "prepared-url" : "https://unicon.one"
   },
@@ -15,7 +15,7 @@
     "url" : "https://unicon.one/bp.json"
   },
   "webpage-error" : "Certificate for <unicon.one> doesn't match any of the subject alternative names: [*.transip.nl, transip.nl]",
-  "vote-percentage" : 5.45487494117454E-7,
+  "vote-percentage" : 5.705086539939495E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 286,
-  "snapshot-date" : "2019-06-25T01:27:44.124Z"
+  "snapshot-date" : "2019-06-26T01:26:18.411Z"
 }
