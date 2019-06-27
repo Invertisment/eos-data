@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosplaneprod",
-    "total_votes" : "99335363828093.68750000000000000",
+    "total_votes" : "77830088744554.95312500000000000",
     "producer_key" : "EOS5suRsaaeWRYa5AzUekguzDtk8wZYR8TvnJCgKkxCabVY7waYb1",
     "is_active" : 1,
     "url" : "https://eosplane.top",
@@ -11,23 +11,23 @@
     "prepared-url" : "https://eosplane.top"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "Connection refused (Connection refused)",
     "url" : "https://eosplane.top/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 1.6853429312270673E-6,
+  "webpage-error" : "Connection refused (Connection refused)",
+  "vote-percentage" : 1.319723121679883E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "Connection refused (Connection refused)",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eosplane.top/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "Connection refused (Connection refused)"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 242,
-  "snapshot-date" : "2019-06-26T01:26:18.411Z"
+  "place" : 252,
+  "snapshot-date" : "2019-06-27T01:26:03.500Z"
 }

@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosnetworkio",
-    "total_votes" : "757260933168447.37500000000000000",
+    "total_votes" : "757262197169742.37500000000000000",
     "producer_key" : "EOS7GpcMsDge5fWhhJrzXVzzg5CKtMHxgV8bESMkyGknezuoUMh6T",
     "is_active" : 1,
     "url" : "http://www.eosnetwork.io",
@@ -11,23 +11,23 @@
     "prepared-url" : "http://www.eosnetwork.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "Read timed out",
+    "dl-error" : "www.eosnetwork.io",
     "url" : "http://www.eosnetwork.io/bp.json"
   },
-  "webpage-error" : "Circular redirect to 'http://www.eosnetwork.io/'",
-  "vote-percentage" : 1.2847834966593361E-5,
+  "webpage-error" : "www.eosnetwork.io: Name or service not known",
+  "vote-percentage" : 1.2840489416105625E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Circular redirect to 'http://www.eosnetwork.io/'",
+      "error" : "www.eosnetwork.io: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://www.eosnetwork.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Read timed out"
+      "error" : "www.eosnetwork.io"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 172,
-  "snapshot-date" : "2019-06-26T01:26:18.411Z"
+  "place" : 173,
+  "snapshot-date" : "2019-06-27T01:26:03.500Z"
 }

@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosmedinodes",
-    "total_votes" : "3505464772316723.50000000000000000",
+    "total_votes" : "3504786676879609.50000000000000000",
     "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
     "is_active" : 0,
     "url" : "http://eosmedi.com",
@@ -11,23 +11,23 @@
     "prepared-url" : "http://eosmedi.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 403",
+    "dl-error" : "eosmedi.com",
     "url" : "http://eosmedi.com/bp.json"
   },
-  "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 5.947439106292009E-5,
+  "webpage-error" : "eosmedi.com: Name or service not known",
+  "vote-percentage" : 5.9428790184403E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "clj-http: status 403",
+      "error" : "eosmedi.com: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://eosmedi.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 403"
+      "error" : "eosmedi.com"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 131,
-  "snapshot-date" : "2019-06-26T01:26:18.411Z"
+  "snapshot-date" : "2019-06-27T01:26:03.500Z"
 }

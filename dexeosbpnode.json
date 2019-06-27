@@ -1,0 +1,49 @@
+{
+  "bp-header" : {
+    "owner" : "dexeosbpnode",
+    "total_votes" : "0.00000000000000000",
+    "producer_key" : "EOS5qraVVdEwHaouJEqpFWJfZuxQViDxP3WZ826wGwt2bxnfuEGRF",
+    "is_active" : 1,
+    "url" : "https://dexeos.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-06-26T06:20:39.000",
+    "location" : 0,
+    "prepared-url" : "https://dexeos.io"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "clj-http: status 404",
+    "url" : "https://dexeos.io/bp.json"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 2,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://github.com/DEXEOS/dexeos-api-public", "https://t.me/dexeos_io_kr", "https://twitter.com/dexeosio" ],
+    "social-links-count" : 3,
+    "popularity-boosters" : [ "http://eosgravity.com/", "http://eosnova.io/", "http://eostoken.im", "http://jmi.one/home/index.html", "http://www.neoply.com/", "https://bitpie.com/", "https://bloks.io/", "https://clay.one/en", "https://coinmanager.io/", "https://eocat.io/", "https://eos.cafe/", "https://eos.live/", "https://eosblack.io/", "https://eoscannon.io/", "https://eoseoul.io/", "https://eoslynx.com/", "https://everipedia.org/", "https://get-scatter.com/", "https://godapp.com/", "https://greymass.com/", "https://meet.one/", "https://sentinelprotocol.io/", "https://unlimitedtower.com", "https://www.bepal.pro/", "https://www.carbon.money/", "https://www.chain.pro/", "https://www.hkeos.com/", "https://www.infinitowallet.io/", "https://www.mytokenpocket.vip/", "https://www.secrypto.io/" ],
+    "popularity-boosters-count" : 30
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.0,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://dexeos.io"
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://dexeos.io/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 1,
+    "max" : 3
+  },
+  "place" : 560,
+  "snapshot-date" : "2019-06-27T01:26:03.500Z"
+}
