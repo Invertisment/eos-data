@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "bitcoingod11",
-    "total_votes" : "69164326826214.78906250000000000",
+    "total_votes" : "68574175399968.37500000000000000",
     "producer_key" : "EOS8FGBXiineqciyhjKM2ypFgETDu8BJTDyHXuA2kY58Rbt1RNeHm",
     "is_active" : 1,
     "url" : "https://eos.bitcoingod.org/",
@@ -11,23 +11,23 @@
     "prepared-url" : "https://eos.bitcoingod.org/"
   },
   "bp-json-summary" : {
-    "dl-error" : "Connection refused (Connection refused)",
+    "dl-error" : "NotAfter: Sun Apr 21 23:59:59 UTC 2019",
     "url" : "https://eos.bitcoingod.org/bp.json"
   },
-  "webpage-error" : "Connection refused (Connection refused)",
-  "vote-percentage" : 1.1727824390328182E-6,
+  "webpage-error" : "NotAfter: Sun Apr 21 23:59:59 UTC 2019",
+  "vote-percentage" : 1.1659426945566573E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Connection refused (Connection refused)",
+      "error" : "NotAfter: Sun Apr 21 23:59:59 UTC 2019",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eos.bitcoingod.org/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Connection refused (Connection refused)"
+      "error" : "NotAfter: Sun Apr 21 23:59:59 UTC 2019"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 256,
-  "snapshot-date" : "2019-06-27T01:26:03.500Z"
+  "snapshot-date" : "2019-06-28T01:26:40.112Z"
 }

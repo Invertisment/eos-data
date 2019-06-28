@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "blocksmithio",
-    "total_votes" : "423879917939338368.00000000000000000",
+    "total_votes" : "422699332400382400.00000000000000000",
     "producer_key" : "EOS6XVaKPQNJeyCdKXG3VbLD7VZZbah8jNQBafCySPgzEtnNiM7L8",
     "is_active" : 1,
     "url" : "https://eosblocksmith.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-06-26T02:36:04.500",
+    "last_claim_time" : "2019-06-27T02:37:02.500",
     "location" : 840,
     "prepared-url" : "https://eosblocksmith.io"
   },
@@ -18,13 +18,13 @@
   "analyzed-urls" : {
     "relative-links-count" : 6,
     "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/eosBlockSmith", "https://medium.com/@eosBlockSmith", "https://medium.com/@eosBlockSmith/block-producer-independence-and-integrity-pledge-119f72b49131", "https://medium.com/@eosBlockSmith/eos-blocksmith-an-introduction-24f79d3d47a5", "https://medium.com/@eosBlockSmith/eos-blocksmith-disclosure-of-ownership-fcfc57fe3613", "https://steemit.com/@eosblocksmith", "https://t.me/joinchat/FwtiV0tU_Tl-orBNr-uQlw", "https://twitter.com/eosBlockSmith", "https://www.facebook.com/eosblocksmith/", "https://www.youtube.com/channel/UC0UaoraKSMrjBQ7OH-i_XPw" ],
-    "social-links-count" : 10,
+    "social-links" : [ "https://github.com/eosBlockSmith", "https://medium.com/@eosBlockSmith", "https://medium.com/@eosBlockSmith/block-producer-independence-and-integrity-pledge-119f72b49131", "https://medium.com/@eosBlockSmith/eos-blocksmith-an-introduction-24f79d3d47a5", "https://medium.com/@eosBlockSmith/eos-blocksmith-disclosure-of-ownership-fcfc57fe3613", "https://steemit.com/@eosblocksmith", "https://t.me/eosBlockSmith", "https://t.me/joinchat/FwtiV0tU_Tl-orBNr-uQlw", "https://twitter.com/eosBlockSmith", "https://www.facebook.com/eosblocksmith/", "https://www.youtube.com/channel/UC0UaoraKSMrjBQ7OH-i_XPw" ],
+    "social-links-count" : 11,
     "popularity-boosters" : [ "http://html5up.net", "https://bitbucket.org/eosblocksmith" ],
     "popularity-boosters-count" : 2
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.007187504698296422,
+  "vote-percentage" : 0.007187008749746182,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -50,5 +50,5 @@
     "max" : 3
   },
   "place" : 54,
-  "snapshot-date" : "2019-06-27T01:26:03.500Z"
+  "snapshot-date" : "2019-06-28T01:26:40.112Z"
 }

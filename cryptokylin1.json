@@ -15,12 +15,15 @@
     "url" : "https://cryptokylin.io/bp.json"
   },
   "analyzed-urls" : {
+    "relative-links-count" : 13,
     "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
+    "social-links" : [ "https://github.com/cryptokylin", "https://github.com/cryptokylin/CryptoKylin-Testnet", "https://github.com/cryptokylin/CryptoKylin-Testnet/issues", "https://github.com/cryptokylin/Cryptokylin-Doc", "https://github.com/cryptokylin/KEEP", "https://t.me/cryptokylin", "https://t.me/joinchat/BwCM5kbuUJlkeWvtuBbScw" ],
+    "social-links-count" : 7,
+    "popularity-boosters" : [ "https://kylin.bloks.io%C2%A0", "https://kylin.eosx.io", "https://osshkbk01.oss-cn-hongkong.aliyuncs.com/cryptokylin/docker-20180712.tar.bz2", "https://s3-ap-northeast-1.amazonaws.com/cryptokylin/index.html", "https://trello.com/b/u4cpl00f/cryptokylin" ],
+    "popularity-boosters-count" : 5
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 4.787006793974757E-6,
+  "vote-percentage" : 4.800045515680841E-6,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -41,6 +44,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 209,
-  "snapshot-date" : "2019-06-27T01:26:03.500Z"
+  "place" : 210,
+  "snapshot-date" : "2019-06-28T01:26:40.112Z"
 }
