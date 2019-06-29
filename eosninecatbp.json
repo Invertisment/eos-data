@@ -11,11 +11,11 @@
     "prepared-url" : "http://www.eos9cat.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "Read timed out",
+    "dl-error" : "clj-http: status 403",
     "url" : "http://www.eos9cat.com/bp.json"
   },
   "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 8.71872598746778E-7,
+  "vote-percentage" : 8.728563425830653E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -27,7 +27,7 @@
       "mood" : "warn",
       "url" : "http://www.eos9cat.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Read timed out"
+      "error" : "clj-http: status 403"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 265,
-  "snapshot-date" : "2019-06-28T01:26:40.112Z"
+  "snapshot-date" : "2019-06-29T01:25:47.515Z"
 }
