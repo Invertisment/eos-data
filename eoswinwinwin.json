@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eoswinwinwin",
-    "total_votes" : "68260866681596536.00000000000000000",
+    "total_votes" : "67705067806216248.00000000000000000",
     "producer_key" : "EOS5oPnhMKL6bBCWn5CFqDBrd3Wnhezeny4pctwyeXBXWwv2hASmQ",
     "is_active" : 1,
     "url" : "https://eoswin.info",
@@ -11,37 +11,31 @@
     "prepared-url" : "https://eoswin.info"
   },
   "bp-json-summary" : {
-    "url" : "https://eoswin.info/bp.json",
-    "logo" : ""
+    "dl-error" : "connect timed out",
+    "url" : "https://eoswin.info/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 4,
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "disclosure" ],
-    "popularity-boosters-count" : 1
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.0011619251520054261,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 0.0011461402319597673,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eoswin.info"
-    }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://eoswin.info/bp.json"
-    }, {
-      "title" : "no-coc",
       "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "title" : "no-web",
+      "error" : "connect timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eoswin.info/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "connect timed out"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 102,
-  "snapshot-date" : "2019-06-29T01:25:47.515Z"
+  "place" : 103,
+  "snapshot-date" : "2019-06-30T01:26:48.766Z"
 }
