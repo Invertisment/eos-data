@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "blocksmithio",
-    "total_votes" : "427148487367751104.00000000000000000",
+    "total_votes" : "426166240571920192.00000000000000000",
     "producer_key" : "EOS6XVaKPQNJeyCdKXG3VbLD7VZZbah8jNQBafCySPgzEtnNiM7L8",
     "is_active" : 1,
     "url" : "https://eosblocksmith.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-06-29T02:39:03.000",
+    "last_claim_time" : "2019-06-30T02:40:04.500",
     "location" : 840,
     "prepared-url" : "https://eosblocksmith.io"
   },
@@ -20,11 +20,11 @@
     "duplicate-urls" : null,
     "social-links" : [ "https://github.com/eosBlockSmith", "https://medium.com/@eosBlockSmith", "https://medium.com/@eosBlockSmith/block-producer-independence-and-integrity-pledge-119f72b49131", "https://medium.com/@eosBlockSmith/eos-blocksmith-an-introduction-24f79d3d47a5", "https://medium.com/@eosBlockSmith/eos-blocksmith-disclosure-of-ownership-fcfc57fe3613", "https://steemit.com/@eosblocksmith", "https://t.me/eosBlockSmith", "https://t.me/joinchat/FwtiV0tU_Tl-orBNr-uQlw", "https://twitter.com/eosBlockSmith", "https://www.facebook.com/eosblocksmith/", "https://www.youtube.com/channel/UC0UaoraKSMrjBQ7OH-i_XPw" ],
     "social-links-count" : 11,
-    "popularity-boosters" : [ "http://html5up.net", "https://bitbucket.org/eosblocksmith" ],
-    "popularity-boosters-count" : 2
+    "popularity-boosters" : [ "http://html5up.net", "https://bitbucket.org/eosblocksmith", "https://cryptolions.io/", "https://eosamsterdam.net/", "https://eosdetroit.io/", "https://eosnodeone.io/", "https://eosrio.io/", "https://europechain.io/", "https://wax.io/", "https://wordproof.io/", "https://www.alohaeos.com/", "https://www.dunyalabs.io/", "https://www.eos42.io/", "https://www.eoscafeblock.com/", "https://www.eosdublin.com/", "https://www.eosphere.io/", "https://www.eostribe.io/", "https://www.get-scatter.com/", "https://www.greymass.com/", "https://www.rocketbc.com/", "https://www.slant.li/" ],
+    "popularity-boosters-count" : 21
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.007230951570629527,
+  "vote-percentage" : 0.007238558339708989,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -49,6 +49,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 53,
-  "snapshot-date" : "2019-06-30T01:26:48.766Z"
+  "place" : 52,
+  "snapshot-date" : "2019-07-01T01:26:03.264Z"
 }

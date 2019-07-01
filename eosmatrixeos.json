@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosmatrixeos",
-    "total_votes" : "299675347476861120.00000000000000000",
+    "total_votes" : "302638945476575296.00000000000000000",
     "producer_key" : "EOS7bXYArQpZTji97zpQK8CvUyef3fanEQuWHTSdiTNfZeacCi3wn",
     "is_active" : 1,
     "url" : "https://eosmatrix.co",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-06-29T05:25:54.000",
+    "last_claim_time" : "2019-06-30T05:25:57.500",
     "location" : 356,
     "prepared-url" : "https://eosmatrix.co"
   },
@@ -20,7 +20,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.005073031951652787,
+  "vote-percentage" : 0.005140411074702429,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -40,6 +40,6 @@
     "score" : 2,
     "max" : 3
   },
-  "place" : 81,
-  "snapshot-date" : "2019-06-30T01:26:48.766Z"
+  "place" : 79,
+  "snapshot-date" : "2019-07-01T01:26:03.264Z"
 }

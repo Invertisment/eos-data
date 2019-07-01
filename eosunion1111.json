@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosunion1111",
-    "total_votes" : "269601821562715424.00000000000000000",
+    "total_votes" : "254382549548628960.00000000000000000",
     "producer_key" : "EOS5YrPTWCKNHHLuntq13Q9X6M2CFCNGb21GqrcjUexqBBjxpCG7H",
     "is_active" : 1,
     "url" : "http://eosunion.io/",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-06-29T06:33:11.500",
+    "last_claim_time" : "2019-06-30T06:33:12.500",
     "location" : 0,
     "prepared-url" : "http://eosunion.io/"
   },
@@ -15,7 +15,7 @@
     "url" : "http://eosunion.io/bp.json"
   },
   "webpage-error" : "eosunion.io: Name or service not known",
-  "vote-percentage" : 0.004563934492866661,
+  "vote-percentage" : 0.004320762064682862,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 90,
-  "snapshot-date" : "2019-06-30T01:26:48.766Z"
+  "snapshot-date" : "2019-07-01T01:26:03.264Z"
 }
