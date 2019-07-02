@@ -11,23 +11,23 @@
     "prepared-url" : "http://producer.site"
   },
   "bp-json-summary" : {
-    "dl-error" : "producer.site",
+    "dl-error" : "Read timed out",
     "url" : "http://producer.site/bp.json"
   },
-  "webpage-error" : "producer.site: Name or service not known",
-  "vote-percentage" : 1.340654018079361E-9,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 1.3385277376651307E-9,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "producer.site: Name or service not known",
+      "error" : "Read timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://producer.site/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "producer.site"
+      "error" : "Read timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 458,
-  "snapshot-date" : "2019-07-01T01:26:03.264Z"
+  "place" : 459,
+  "snapshot-date" : "2019-07-02T01:25:48.893Z"
 }

@@ -1,47 +1,41 @@
 {
   "bp-header" : {
     "owner" : "eosfengwocom",
-    "total_votes" : "451114121378605824.00000000000000000",
+    "total_votes" : "451365838368091456.00000000000000000",
     "producer_key" : "EOS7qfQTT4xsPHmS8ywD9beppViEQ2TdejpLUcgXir5ofzn6qr1dW",
     "is_active" : 1,
     "url" : "https://eosfengwo.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-06-30T02:31:00.500",
+    "last_claim_time" : "2019-07-01T02:31:02.000",
     "location" : 0,
     "prepared-url" : "https://eosfengwo.com"
   },
   "bp-json-summary" : {
-    "url" : "https://eosfengwo.com/bp.json",
-    "logo" : "https://eosfengwo.com/img/logo_256.png"
+    "dl-error" : "connect timed out",
+    "url" : "https://eosfengwo.com/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 6,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://t.me/eosfengwo", "https://twitter.com/eosfengwo" ],
-    "social-links-count" : 2,
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.007662305397732522,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 0.007654421669231401,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eosfengwo.com"
-    }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://eosfengwo.com/bp.json"
-    }, {
-      "title" : "no-coc",
       "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "title" : "no-web",
+      "error" : "connect timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eosfengwo.com/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "connect timed out"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 0,
     "max" : 3
   },
   "place" : 49,
-  "snapshot-date" : "2019-07-01T01:26:03.264Z"
+  "snapshot-date" : "2019-07-02T01:25:48.893Z"
 }

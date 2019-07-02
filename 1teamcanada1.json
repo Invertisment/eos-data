@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "1teamcanada1",
-    "total_votes" : "95333598991220.84375000000000000",
+    "total_votes" : "95332230062986.90625000000000000",
     "producer_key" : "EOS7gBHpJMaWo8uzcXRfBAhN9yLfVTLTbH4L2xA64B5HNMnZpVuKJ",
     "is_active" : 1,
     "url" : "http://can-play.ca",
@@ -11,18 +11,19 @@
     "prepared-url" : "http://can-play.ca"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
-    "url" : "http://can-play.ca/bp.json"
+    "url" : "http://can-play.ca/bp.json",
+    "logo" : "http://www.can-play.ca/uploads/1/2/0/4/120448580/256_orig.png",
+    "code_of_conduct" : "we are working on it"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 2,
+    "relative-links-count" : 6,
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ "http://www.rebel.com" ],
-    "popularity-boosters-count" : 1
+    "popularity-boosters" : [ "http://www.rebel.com", "uploads/1/2/0/4/120448580/cbln4-7jwwb.svg" ],
+    "popularity-boosters-count" : 2
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.6192690840698256E-6,
+  "vote-percentage" : 1.6166777047384674E-6,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -30,19 +31,19 @@
       "title" : "web",
       "url" : "http://can-play.ca"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "http://can-play.ca/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "http://can-play.ca/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "we are working on it"
     } ],
-    "score" : 1,
+    "score" : 3,
     "max" : 3
   },
-  "place" : 244,
-  "snapshot-date" : "2019-07-01T01:26:03.264Z"
+  "place" : 243,
+  "snapshot-date" : "2019-07-02T01:25:48.893Z"
 }

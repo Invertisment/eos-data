@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "blockeosioio",
-    "total_votes" : "1940309511863729.75000000000000000",
+    "total_votes" : "1944572157654484.25000000000000000",
     "producer_key" : "EOS7MzRDHurvE4SV4svK9rquuCeaj8Zz9HrhSUjnFx4G84EK58tWp",
     "is_active" : 1,
     "url" : "https://blockeos.io",
@@ -11,34 +11,31 @@
     "prepared-url" : "https://blockeos.io"
   },
   "bp-json-summary" : {
+    "dl-error" : "NotAfter: Mon Jul 01 12:00:00 UTC 2019",
     "url" : "https://blockeos.io/bp.json"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 3.295672500916371E-5,
+  "webpage-error" : "NotAfter: Mon Jul 01 12:00:00 UTC 2019",
+  "vote-percentage" : 3.297674302235538E-5,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://blockeos.io"
-    }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://blockeos.io/bp.json"
-    }, {
-      "title" : "no-coc",
       "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "title" : "no-web",
+      "error" : "NotAfter: Mon Jul 01 12:00:00 UTC 2019",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://blockeos.io/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "NotAfter: Mon Jul 01 12:00:00 UTC 2019"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 0,
     "max" : 3
   },
   "place" : 139,
-  "snapshot-date" : "2019-07-01T01:26:03.264Z"
+  "snapshot-date" : "2019-07-02T01:25:48.893Z"
 }

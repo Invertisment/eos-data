@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "costaricaeos",
-    "total_votes" : "28007794459262288.00000000000000000",
+    "total_votes" : "28007999214740320.00000000000000000",
     "producer_key" : "EOS7phU8qE6nPCfpkCQ2T3HmRwGg6z4v61RTLvPBBVmPWmPisZoWY",
     "is_active" : 1,
     "url" : "https://eoscostarica.io",
@@ -16,15 +16,15 @@
     "code_of_conduct" : "https://eoscostarica.io/code-of-conduct.html"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 2,
+    "relative-links-count" : 3,
     "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/eoscostarica/eos-local", "https://medium.com/eos-costa-rica/eos-rate-block-producer-rating-system-efd586614695", "https://twitter.com/EOS_CryptoLions/status/1010944968242946049", "https://twitter.com/eosriobrazil", "https://twitter.com/eosriobrazil/status/1136766475308417026", "https://www.facebook.com/costaricaeos/", "https://www.instagram.com/eoscostarica/", "https://www.linkedin.com/company/11800177", "https://www.twitter.com/eoscostarica" ],
+    "social-links" : [ "https://github.com/eoscostarica/eos-local", "https://medium.com/eos-costa-rica/eos-rate-block-producer-rating-system-efd586614695", "https://twitter.com/EOSCostaRica", "https://twitter.com/EOSCostaRica/status/1145790855980208128", "https://twitter.com/EOS_CryptoLions/status/1010944968242946049", "https://www.facebook.com/costaricaeos/", "https://www.instagram.com/eoscostarica/", "https://www.linkedin.com/company/11800177", "https://www.twitter.com/eoscostarica" ],
     "social-links-count" : 9,
     "popularity-boosters" : [ "http://monitor.jungletestnet.io/", "http://waterloo.media", "https://eos.io/", "https://eosurf.com/", "https://ticoblockchain.cr", "https://worbli.io/", "https://worbli.io/network/" ],
     "popularity-boosters-count" : 7
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 4.757205870832801E-4,
+  "vote-percentage" : 4.7496956543328857E-4,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -46,5 +46,5 @@
     "max" : 3
   },
   "place" : 109,
-  "snapshot-date" : "2019-07-01T01:26:03.264Z"
+  "snapshot-date" : "2019-07-02T01:25:48.893Z"
 }
