@@ -11,23 +11,23 @@
     "prepared-url" : "http://eosfuture.io/"
   },
   "bp-json-summary" : {
-    "dl-error" : "Read timed out",
+    "dl-error" : "clj-http: status 403",
     "url" : "http://eosfuture.io/bp.json"
   },
-  "webpage-error" : "Read timed out",
-  "vote-percentage" : 1.0130751819439838E-5,
+  "webpage-error" : "clj-http: status 403",
+  "vote-percentage" : 1.0125714247348705E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Read timed out",
+      "error" : "clj-http: status 403",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://eosfuture.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Read timed out"
+      "error" : "clj-http: status 403"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 178,
-  "snapshot-date" : "2019-07-02T01:25:48.893Z"
+  "snapshot-date" : "2019-07-03T01:26:10.084Z"
 }

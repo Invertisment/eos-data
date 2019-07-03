@@ -11,18 +11,20 @@
     "prepared-url" : "https://bp.privex.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
-    "url" : "https://bp.privex.io/bp.json"
+    "url" : "https://bp.privex.io/bp.json",
+    "logo" : "https://www.privex.io/static/img/logo-privex.png",
+    "code_of_conduct" : "https://www.privex.io/code-of-conduct"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 1,
+    "relative-links-count" : 8,
     "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "https://bugs.launchpad.net/ubuntu/+source/apache2", "https://httpd.apache.org/docs/2.4/mod/mod_userdir.html", "https://manpages.debian.org/cgi-bin/man.cgi?query=a2disconf", "https://manpages.debian.org/cgi-bin/man.cgi?query=a2dismod", "https://manpages.debian.org/cgi-bin/man.cgi?query=a2dissite", "https://manpages.debian.org/cgi-bin/man.cgi?query=a2enconf", "https://manpages.debian.org/cgi-bin/man.cgi?query=a2enmod", "https://manpages.debian.org/cgi-bin/man.cgi?query=a2ensite" ],
-    "popularity-boosters-count" : 8
+    "social-links" : [ "https://github.com/privex", "https://twitter.com/privexinc" ],
+    "social-links-count" : 2,
+    "popularity-boosters" : [ "http://privex3guvvasyer6pxz2fqcgy56auvw5egkir6ykwpptferdcb5toad.onion/", "https://pay.privex.io/order/" ],
+    "popularity-boosters-count" : 2
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 9.879001990792603E-6,
+  "vote-percentage" : 9.874089602689128E-6,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -30,19 +32,19 @@
       "title" : "web",
       "url" : "https://bp.privex.io"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://bp.privex.io/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://bp.privex.io/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://www.privex.io/code-of-conduct"
     } ],
-    "score" : 1,
+    "score" : 3,
     "max" : 3
   },
   "place" : 179,
-  "snapshot-date" : "2019-07-02T01:25:48.893Z"
+  "snapshot-date" : "2019-07-03T01:26:10.084Z"
 }

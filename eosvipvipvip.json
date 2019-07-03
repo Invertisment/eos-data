@@ -11,11 +11,11 @@
     "prepared-url" : "http://www.eosvip.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "Read timed out",
+    "dl-error" : "clj-http: status 403",
     "url" : "http://www.eosvip.io/bp.json"
   },
   "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 2.639450733612716E-7,
+  "vote-percentage" : 2.6381382522106886E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -27,7 +27,7 @@
       "mood" : "warn",
       "url" : "http://www.eosvip.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Read timed out"
+      "error" : "clj-http: status 403"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 334,
-  "snapshot-date" : "2019-07-02T01:25:48.893Z"
+  "snapshot-date" : "2019-07-03T01:26:10.084Z"
 }

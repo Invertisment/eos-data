@@ -11,16 +11,18 @@
     "prepared-url" : "http://www.eosland.ca"
   },
   "bp-json-summary" : {
-    "read-error" : "read:'http://www.eosland.ca/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "dl-error" : "clj-http: status 404",
     "url" : "http://www.eosland.ca/bp.json"
   },
   "analyzed-urls" : {
+    "relative-links-count" : 1,
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ ]
+    "popularity-boosters" : [ "?C=D;O=A", "?C=M;O=A", "?C=N;O=D", "?C=S;O=A", "cgi-bin/", "docs/", "favicion.ico.png", "license.txt", "robots.txt", "wp-activate.php", "wp-admin/", "wp-blog-header.php", "wp-comments-post.php", "wp-config-sample.php", "wp-content/", "wp-cron.php", "wp-includes/", "wp-links-opml.php", "wp-links-opml_old.php", "wp-load.php", "wp-login.php", "wp-mail.php", "wp-signup.php", "wp-trackback.php" ],
+    "popularity-boosters-count" : 24
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 3.7787117906326534E-7,
+  "vote-percentage" : 3.7768328054007384E-7,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -31,8 +33,8 @@
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://www.eosland.ca/bp.json",
-      "paragraphs" : [ "bp-json-invalid" ],
-      "error" : "read:'http://www.eosland.ca/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -42,5 +44,5 @@
     "max" : 3
   },
   "place" : 303,
-  "snapshot-date" : "2019-07-02T01:25:48.893Z"
+  "snapshot-date" : "2019-07-03T01:26:10.084Z"
 }
