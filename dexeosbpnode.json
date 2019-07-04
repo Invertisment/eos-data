@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "dexeosbpnode",
-    "total_votes" : "1358410189976069.00000000000000000",
+    "total_votes" : "1476160904822112.50000000000000000",
     "producer_key" : "EOS5qraVVdEwHaouJEqpFWJfZuxQViDxP3WZ826wGwt2bxnfuEGRF",
     "is_active" : 1,
     "url" : "https://dexeos.io",
@@ -11,8 +11,9 @@
     "prepared-url" : "https://dexeos.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
-    "url" : "https://dexeos.io/bp.json"
+    "url" : "https://dexeos.io/bp.json",
+    "logo" : "https://dexeos.io/image/logo-256.png",
+    "code_of_conduct" : "https://medium.com/@DEXEOS/dexeos-bp-code-of-conduct-64cc1c9137ec"
   },
   "analyzed-urls" : {
     "relative-links-count" : 2,
@@ -23,7 +24,7 @@
     "popularity-boosters-count" : 30
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.3024945897741432E-5,
+  "vote-percentage" : 2.5005339576363267E-5,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -31,19 +32,23 @@
       "title" : "web",
       "url" : "https://dexeos.io"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://dexeos.io/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://dexeos.io/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://medium.com/@DEXEOS/dexeos-bp-code-of-conduct-64cc1c9137ec"
     }, {
       "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "title" : "t-coc-social",
+      "paragraphs" : [ "p-coc-social" ]
     } ],
-    "score" : 1,
+    "score" : 3,
     "max" : 3
   },
-  "place" : 150,
-  "snapshot-date" : "2019-07-03T01:26:10.084Z"
+  "place" : 147,
+  "snapshot-date" : "2019-07-04T01:25:59.184Z"
 }

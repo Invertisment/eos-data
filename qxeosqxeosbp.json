@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "qxeosqxeosbp",
-    "total_votes" : "2990239463112008.00000000000000000",
+    "total_votes" : "2990843307116024.50000000000000000",
     "producer_key" : "EOS6BSNQfe3t1Q13L4kVfWipzjvYa9aHQLhLyg1UzxNZLiGKVwKMu",
     "is_active" : 1,
     "url" : "https://www.blockpin.net/eos",
@@ -14,13 +14,13 @@
     "dl-error" : "www.blockpin.net",
     "url" : "https://www.blockpin.net/eos/bp.json"
   },
-  "webpage-error" : "www.blockpin.net: Name or service not known",
-  "vote-percentage" : 5.0684323753974704E-5,
+  "webpage-error" : "www.blockpin.net: Temporary failure in name resolution",
+  "vote-percentage" : 5.066321176087635E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "www.blockpin.net: Name or service not known",
+      "error" : "www.blockpin.net: Temporary failure in name resolution",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 132,
-  "snapshot-date" : "2019-07-03T01:26:10.084Z"
+  "snapshot-date" : "2019-07-04T01:25:59.184Z"
 }

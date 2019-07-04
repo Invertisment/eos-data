@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosthushuimu",
-    "total_votes" : "761537005720426.50000000000000000",
+    "total_votes" : "763251865934180.25000000000000000",
     "producer_key" : "EOS7mawmWYTjzjt2riNSHKQhA8E86r3L8eXhcotuskGPJU6RNzUZs",
     "is_active" : 1,
     "url" : "http://www.eosthu.com",
@@ -11,23 +11,23 @@
     "prepared-url" : "http://www.eosthu.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 403",
+    "dl-error" : "www.eosthu.com",
     "url" : "http://www.eosthu.com/bp.json"
   },
-  "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 1.2907992361386606E-5,
+  "webpage-error" : "www.eosthu.com: Name or service not known",
+  "vote-percentage" : 1.2929059445777007E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "clj-http: status 403",
+      "error" : "www.eosthu.com: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://www.eosthu.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 403"
+      "error" : "www.eosthu.com"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 172,
-  "snapshot-date" : "2019-07-03T01:26:10.084Z"
+  "place" : 170,
+  "snapshot-date" : "2019-07-04T01:25:59.184Z"
 }
