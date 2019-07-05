@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosfutureldn",
-    "total_votes" : "597390042759387.75000000000000000",
+    "total_votes" : "599126517694144.37500000000000000",
     "producer_key" : "EOS72rHyQowVgP6EaT9ebnfdbKFvwgSHJsmuv8Nhi8KMWiJ5kRv2h",
     "is_active" : 1,
     "url" : "http://eosfuture.io/",
@@ -14,13 +14,13 @@
     "dl-error" : "clj-http: status 403",
     "url" : "http://eosfuture.io/bp.json"
   },
-  "webpage-error" : "Read timed out",
-  "vote-percentage" : 1.011945298777357E-5,
+  "webpage-error" : "clj-http: status 403",
+  "vote-percentage" : 1.0111495574324523E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Read timed out",
+      "error" : "clj-http: status 403",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 178,
-  "snapshot-date" : "2019-07-04T01:25:59.184Z"
+  "place" : 177,
+  "snapshot-date" : "2019-07-05T01:26:00.529Z"
 }

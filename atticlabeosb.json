@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "atticlabeosb",
-    "total_votes" : "1050188139471535616.00000000000000000",
+    "total_votes" : "1050013369142599168.00000000000000000",
     "producer_key" : "EOS7PfA3A4UdfMu2wKbuXdbHn8EWAxbMnFoFWui4X2zsr2oPwdQJP",
     "is_active" : 1,
     "url" : "https://atticlab.net",
-    "unpaid_blocks" : 1476,
-    "last_claim_time" : "2019-07-03T21:00:02.500",
+    "unpaid_blocks" : 1176,
+    "last_claim_time" : "2019-07-04T21:55:02.500",
     "location" : 804,
     "prepared-url" : "https://atticlab.net"
   },
@@ -24,7 +24,7 @@
     "popularity-boosters-count" : 1
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.01778959933214018,
+  "vote-percentage" : 0.017721141063709492,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +45,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 7,
-  "snapshot-date" : "2019-07-04T01:25:59.184Z"
+  "place" : 9,
+  "snapshot-date" : "2019-07-05T01:26:00.529Z"
 }
