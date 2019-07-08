@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosiomiamibp",
-    "total_votes" : "10765499431021.37890625000000000",
+    "total_votes" : "10108371701132.63281250000000000",
     "producer_key" : "EOS7KBY17vSUKtoCLPrG8UDXA8qJg12aCNGi51RUTsLNZjX3nTxBc",
     "is_active" : 1,
     "url" : "https://eos.miami",
@@ -15,7 +15,7 @@
     "url" : "https://eos.miami/bp.json"
   },
   "webpage-error" : "Certificate for <eos.miami> doesn't match any of the subject alternative names: [shortener.secureserver.net, www.shortener.secureserver.net]",
-  "vote-percentage" : 1.811046804451837E-7,
+  "vote-percentage" : 1.7092422884090806E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 355,
-  "snapshot-date" : "2019-07-07T01:25:47.286Z"
+  "place" : 358,
+  "snapshot-date" : "2019-07-08T01:25:55.182Z"
 }

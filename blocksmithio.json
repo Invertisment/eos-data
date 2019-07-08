@@ -1,18 +1,18 @@
 {
   "bp-header" : {
     "owner" : "blocksmithio",
-    "total_votes" : "423225585823150784.00000000000000000",
+    "total_votes" : "404246190287903360.00000000000000000",
     "producer_key" : "EOS6XVaKPQNJeyCdKXG3VbLD7VZZbah8jNQBafCySPgzEtnNiM7L8",
     "is_active" : 1,
     "url" : "https://eosblocksmith.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-07-06T02:45:02.500",
+    "last_claim_time" : "2019-07-07T02:46:04.000",
     "location" : 840,
     "prepared-url" : "https://eosblocksmith.io"
   },
   "bp-json-summary" : {
     "url" : "https://eosblocksmith.io/bp.json",
-    "logo" : "https://eosblocksmith.io/images/logos/eosblocksmith_256.jpg",
+    "logo" : "https://eosblocksmith.io/assets/images/logos/eosblocksmith_256.jpg",
     "code_of_conduct" : "https://medium.com/@eosBlockSmith/block-producer-independence-and-integrity-pledge-119f72b49131"
   },
   "analyzed-urls" : {
@@ -24,7 +24,7 @@
     "popularity-boosters-count" : 3
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.007119793648946892,
+  "vote-percentage" : 0.006835469685893405,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -49,6 +49,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 54,
-  "snapshot-date" : "2019-07-07T01:25:47.286Z"
+  "place" : 57,
+  "snapshot-date" : "2019-07-08T01:25:55.182Z"
 }
