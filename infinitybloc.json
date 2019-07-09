@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "infinitybloc",
-    "total_votes" : "2136178885006421.50000000000000000",
+    "total_votes" : "2162942928286590.00000000000000000",
     "producer_key" : "EOS6rocMVe62FVRjZZMCpFQREVbwBFrm5taNHKpYWmdQR4vuqeZsx",
     "is_active" : 1,
     "url" : "https://eos.infinitybloc.io",
@@ -16,15 +16,15 @@
     "code_of_conduct" : "https://infinitybloc.io/code_of_conduct"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 25,
+    "relative-links-count" : 24,
     "duplicate-urls" : null,
     "social-links" : [ "http://www.facebook.com/119192605693785", "https://github.com/Telos-Foundation/telos/wiki/Pulse:--Telos-Block-Producer-Infrastructure-Insights", "https://github.com/infinitybloc", "https://medium.com/@infinitybloc", "https://t.me/joinchat/Isxu3VIEZa7RV9yCT530TA", "https://twitter.com/infinitybloc", "https://www.meetup.com/Blockchain-Distributed-Ledger-Technology-DLT-and-Web-3-0/", "https://www.meetup.com/SF-EOS/", "https://www.reddit.com/user/infinitybloc", "https://www.youtube.com/channel/UCy-XgDZUKGBHFu4G8hFg2AA" ],
     "social-links-count" : 10,
-    "popularity-boosters" : [ "http://eosworldexpo.com", "http://proxibots.io", "http://telosfoundation.io", "https://aikon.com/", "https://strongblock.io/", "https://www.eosworldexpo.com" ],
-    "popularity-boosters-count" : 6
+    "popularity-boosters" : [ "http://eosworldexpo.com", "http://proxibots.io", "http://telosfoundation.io", "https://aikon.com/", "https://strongblock.io/", "https://www.eosworldexpo.com", "https://www.eosworldexpo.com/readyhackerone" ],
+    "popularity-boosters-count" : 7
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 3.612102318566714E-5,
+  "vote-percentage" : 3.6278307515372135E-5,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -46,5 +46,5 @@
     "max" : 3
   },
   "place" : 137,
-  "snapshot-date" : "2019-07-08T01:25:55.182Z"
+  "snapshot-date" : "2019-07-09T01:26:14.935Z"
 }
