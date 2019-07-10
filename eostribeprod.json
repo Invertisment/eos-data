@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eostribeprod",
-    "total_votes" : "411994203900519616.00000000000000000",
+    "total_votes" : "405482519210112384.00000000000000000",
     "producer_key" : "EOS7gD4EXA96SEQ9RQrLfbU19tLHmGPcJXSPXdkrQh4bCkUghg6QE",
     "is_active" : 1,
     "url" : "https://eostribe.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-07-08T02:40:02.500",
+    "last_claim_time" : "2019-07-09T03:40:03.000",
     "location" : 840,
     "prepared-url" : "https://eostribe.io"
   },
@@ -20,11 +20,11 @@
     "duplicate-urls" : null,
     "social-links" : [ "https://steemit.com/@eostribe/", "https://steemit.com/boscore/@eostribe/eos-tribe-joins-bos-as-a-block-producer", "https://steemit.com/eos/@eostribe/eos-history-api-with-date-ranges", "https://steemit.com/eos/@eostribe/eos-tribe-infrastructure-upgrade", "https://steemit.com/eos/@eostribe/eos-tribe-is-a-carbon-neutral-block-producer-for-the-eos-mainnet", "https://steemit.com/eos/@eostribe/introducing-new-history-findactions-endpoint", "https://steemit.com/eos/@eostribe/the-one-api-to-rule-them", "https://steemit.com/eosio/@eostribe/eos-tribe-support-meet-one-chain", "https://steemit.com/eostribe/@eostribe/eos-tribe-joins-telos-as-block-producer", "https://steemit.com/eostribe/@eostribe/eos-tribe-new-team-announcement", "https://twitter.com/EOStribe" ],
     "social-links-count" : 11,
-    "popularity-boosters" : [ "https://bos.bloks.io/", "https://eosnetworkmonitor.io/", "https://meetone.eosx.io/", "https://monitor.telosfoundation.io/", "https://worbli.bloks.io/", "https://www.cryptofinance.no/" ],
-    "popularity-boosters-count" : 6
+    "popularity-boosters" : [ "https://bos.bloks.io/", "https://eosnetworkmonitor.io/", "https://meetone.eosx.io/", "https://monitor.telosfoundation.io/", "https://worbli.bloks.io/", "https://worbli.io/", "https://www.cryptofinance.no/" ],
+    "popularity-boosters-count" : 7
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.006910238928723863,
+  "vote-percentage" : 0.006832884295334264,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +45,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 52,
-  "snapshot-date" : "2019-07-09T01:26:14.935Z"
+  "place" : 56,
+  "snapshot-date" : "2019-07-10T01:26:06.158Z"
 }
