@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "paytomateosp",
-    "total_votes" : "297967194168894976.00000000000000000",
+    "total_votes" : "303563429924363136.00000000000000000",
     "producer_key" : "EOS62DzQLxR9ZbHvUejEiY5e7PRzD1XnU74D14ZfU6bCgiGfiKwJJ",
     "is_active" : 1,
     "url" : "https://paytomat.com/",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-07-09T09:30:01.500",
+    "last_claim_time" : "2019-07-10T09:45:02.000",
     "location" : 232,
     "prepared-url" : "https://paytomat.com/"
   },
@@ -15,19 +15,14 @@
     "logo" : "https://paytomat.com/assets/logo/logo_1024.png",
     "code_of_conduct" : "https://steemit.com/eos/@paytomat/paytomat-announces-an-eos-block-producer-candidate"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.005021117471420412,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 0.0051014558454313555,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://paytomat.com/"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -39,9 +34,9 @@
       "title" : "coc",
       "url" : "https://steemit.com/eos/@paytomat/paytomat-announces-an-eos-block-producer-candidate"
     } ],
-    "score" : 3,
+    "score" : 2,
     "max" : 3
   },
   "place" : 79,
-  "snapshot-date" : "2019-07-10T01:26:06.158Z"
+  "snapshot-date" : "2019-07-11T01:26:21.498Z"
 }
