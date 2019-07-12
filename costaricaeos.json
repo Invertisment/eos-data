@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "costaricaeos",
-    "total_votes" : "30099073366768832.00000000000000000",
+    "total_votes" : "30074417676126644.00000000000000000",
     "producer_key" : "EOS7phU8qE6nPCfpkCQ2T3HmRwGg6z4v61RTLvPBBVmPWmPisZoWY",
     "is_active" : 1,
     "url" : "https://eoscostarica.io",
@@ -18,13 +18,13 @@
   "analyzed-urls" : {
     "relative-links-count" : 2,
     "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/eoscostarica/eos-local", "https://medium.com/eos-costa-rica/eos-rate-block-producer-rating-system-efd586614695", "https://twitter.com/EOS_CryptoLions/status/1010944968242946049", "https://twitter.com/theeosmainnet", "https://twitter.com/theeosmainnet/status/1148034390594920449", "https://www.facebook.com/costaricaeos/", "https://www.instagram.com/eoscostarica/", "https://www.linkedin.com/company/11800177", "https://www.twitter.com/eoscostarica" ],
+    "social-links" : [ "https://github.com/eoscostarica/eos-local", "https://medium.com/eos-costa-rica/eos-rate-block-producer-rating-system-efd586614695", "https://twitter.com/EOSCostaRica", "https://twitter.com/EOSCostaRica/status/1149353058780012544", "https://twitter.com/EOS_CryptoLions/status/1010944968242946049", "https://www.facebook.com/costaricaeos/", "https://www.instagram.com/eoscostarica/", "https://www.linkedin.com/company/11800177", "https://www.twitter.com/eoscostarica" ],
     "social-links-count" : 9,
-    "popularity-boosters" : [ "http://waterloo.media", "https://eos.io/", "https://eosurf.com/", "https://ticoblockchain.cr", "https://worbli.io/" ],
-    "popularity-boosters-count" : 5
+    "popularity-boosters" : [ "http://monitor.jungletestnet.io/", "http://waterloo.media", "https://eos.io/", "https://eosurf.com/", "https://ticoblockchain.cr", "https://worbli.io/", "https://worbli.io/network/" ],
+    "popularity-boosters-count" : 7
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 5.058221071201788E-4,
+  "vote-percentage" : 5.06711659042085E-4,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -46,5 +46,5 @@
     "max" : 3
   },
   "place" : 108,
-  "snapshot-date" : "2019-07-11T01:26:21.498Z"
+  "snapshot-date" : "2019-07-12T01:26:25.280Z"
 }
