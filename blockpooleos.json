@@ -1,18 +1,18 @@
 {
   "bp-header" : {
-    "owner" : "unlimitedeos",
-    "total_votes" : "10150236347384660.00000000000000000",
-    "producer_key" : "EOS8jjSeSmwX4kxMbpo8G4uibMnhf52QrGi4f9N7Zd3jY6oYVt9g6",
+    "owner" : "blockpooleos",
+    "total_votes" : "79414138485.32742309570312500",
+    "producer_key" : "EOS6hSNmJrQQBW2y1GXyxNmHKKwkyuyXTQLbMZdP9REd32w6wLsfa",
     "is_active" : 1,
-    "url" : "http://www.unlimitedeos.com",
+    "url" : "www.blockpool.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-07-03T03:57:53.000",
+    "last_claim_time" : "2019-07-13T09:20:25.500",
     "location" : 0,
-    "prepared-url" : "http://www.unlimitedeos.com"
+    "prepared-url" : "http://www.blockpool.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
-    "url" : "http://www.unlimitedeos.com/bp.json"
+    "dl-error" : "no protocol: www.blockpool.com/bp.json",
+    "url" : "www.blockpool.com/bp.json"
   },
   "analyzed-urls" : {
     "duplicate-urls" : null,
@@ -20,19 +20,19 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.659635363115267E-4,
+  "vote-percentage" : 1.2984772772856868E-9,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
       "mood" : "good",
       "title" : "web",
-      "url" : "http://www.unlimitedeos.com"
+      "url" : "www.blockpool.com"
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
-      "url" : "http://www.unlimitedeos.com/bp.json",
+      "url" : "www.blockpool.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "error" : "no protocol: www.blockpool.com/bp.json"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -41,6 +41,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 113,
+  "place" : 463,
   "snapshot-date" : "2019-07-14T01:26:19.981Z"
 }
