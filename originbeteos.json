@@ -11,18 +11,16 @@
     "prepared-url" : "http://producer.site"
   },
   "bp-json-summary" : {
-    "read-error" : "read:'http://producer.site/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 4]",
+    "read-error" : "read:'http://producer.site/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
     "url" : "http://producer.site/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 3,
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ "https://www.efty.com/", "https://www.urlspells.com", "https://www.urlspells.com/search/" ],
-    "popularity-boosters-count" : 3
+    "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.2905659536173365E-9,
+  "vote-percentage" : 1.2892046569308507E-9,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -34,7 +32,7 @@
       "mood" : "warn",
       "url" : "http://producer.site/bp.json",
       "paragraphs" : [ "bp-json-invalid" ],
-      "error" : "read:'http://producer.site/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 4]"
+      "error" : "read:'http://producer.site/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -44,5 +42,5 @@
     "max" : 3
   },
   "place" : 464,
-  "snapshot-date" : "2019-07-14T01:26:19.981Z"
+  "snapshot-date" : "2019-07-15T01:25:57.288Z"
 }

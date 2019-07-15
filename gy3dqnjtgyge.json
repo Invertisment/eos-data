@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "gy3dqnjtgyge",
-    "total_votes" : "320461044393554.43750000000000000",
+    "total_votes" : "336090303298069.12500000000000000",
     "producer_key" : "EOS6o9DdrLKio11s1WBsMfu1nbEiTw6Sq4APV1HcfYr3bLugEBTY3",
     "is_active" : 1,
     "url" : "http://eosbattles.com",
@@ -11,37 +11,31 @@
     "prepared-url" : "http://eosbattles.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "dl-error" : "eosbattles.com",
     "url" : "http://eosbattles.com/bp.json"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "https://www.reg.ru" ],
-    "popularity-boosters-count" : 1
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 5.239764509655305E-6,
+  "webpage-error" : "eosbattles.com: Name or service not known",
+  "vote-percentage" : 5.4895174461794224E-6,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "http://eosbattles.com"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "eosbattles.com: Name or service not known",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://eosbattles.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "error" : "eosbattles.com"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 206,
-  "snapshot-date" : "2019-07-14T01:26:19.981Z"
+  "place" : 200,
+  "snapshot-date" : "2019-07-15T01:25:57.288Z"
 }
