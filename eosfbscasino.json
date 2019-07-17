@@ -14,13 +14,13 @@
     "dl-error" : "clj-http: status 403",
     "url" : "http://eosfbs.com/bp.json"
   },
-  "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 1.3566667662019695E-7,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 1.3512174045305624E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "clj-http: status 403",
+      "error" : "Read timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 362,
-  "snapshot-date" : "2019-07-16T01:26:01.505Z"
+  "snapshot-date" : "2019-07-17T01:26:22.356Z"
 }

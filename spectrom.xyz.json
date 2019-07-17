@@ -11,16 +11,17 @@
     "prepared-url" : "https://spectrom.xyz"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "read-error" : "read:'https://spectrom.xyz/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
     "url" : "https://spectrom.xyz/bp.json"
   },
   "analyzed-urls" : {
+    "relative-links-count" : 1,
     "duplicate-urls" : null,
     "social-links" : [ ],
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 5.365404795413546E-9,
+  "vote-percentage" : 5.343853422613604E-9,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -31,8 +32,8 @@
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://spectrom.xyz/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'https://spectrom.xyz/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -42,5 +43,5 @@
     "max" : 3
   },
   "place" : 448,
-  "snapshot-date" : "2019-07-16T01:26:01.505Z"
+  "snapshot-date" : "2019-07-17T01:26:22.356Z"
 }
