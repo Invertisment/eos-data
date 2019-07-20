@@ -15,22 +15,14 @@
     "logo" : "https://eosarabia.one/EOSArabia-Logo256.png",
     "code_of_conduct" : "https://eosarabia.one/code-of-conduct"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 2,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/EOS-Mainnet/governance/blob/master/eosio.system/eosio.system-regproducer-rc.md", "https://medium.com/eos-arabia-official", "https://t.me/EOS_Arabia", "https://twitter.com/EOS_Arabia" ],
-    "social-links-count" : 4,
-    "popularity-boosters" : [ "http://eosarabia.net/code-of-conduct/", "http://eosarabia.net/ownership-disclosure/", "https://caramellaapp.com/EOS_Arabia", "https://eosarabia.net/", "https://eosarabia.net/about/", "https://eosarabia.net/all-things-eos/", "https://eosarabia.net/category/eos/", "https://eosarabia.net/why-vote-for-eos-arabia/", "https://eosauthority.com", "https://eosauthority.com/green/", "https://meet.one/", "https://snax.one", "https://www.Bloks.io/", "https://www.eoscafeblock.com/", "https://www.infinitowallet.io/" ],
-    "popularity-boosters-count" : 15
-  },
-  "p-ram-amounts" : [ "RAM" ],
-  "vote-percentage" : 6.307380036647176E-12,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 6.278493451479493E-12,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eosarabia.one"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -42,9 +34,9 @@
       "title" : "coc",
       "url" : "https://eosarabia.one/code-of-conduct"
     } ],
-    "score" : 3,
+    "score" : 2,
     "max" : 3
   },
   "place" : 541,
-  "snapshot-date" : "2019-07-19T01:25:55.051Z"
+  "snapshot-date" : "2019-07-20T01:26:41.612Z"
 }

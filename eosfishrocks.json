@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosfishrocks",
-    "total_votes" : "79837740080280672.00000000000000000",
+    "total_votes" : "79825817478271008.00000000000000000",
     "producer_key" : "EOS4xAhqjLs5fsCzw7QsGYJtRDVo3t2xRFCHd7amGEWwhjSb5DPZT",
     "is_active" : 1,
     "url" : "https://bp.fish",
@@ -11,23 +11,23 @@
     "prepared-url" : "https://bp.fish"
   },
   "bp-json-summary" : {
-    "dl-error" : "Connection refused (Connection refused)",
+    "dl-error" : "bp.fish",
     "url" : "https://bp.fish/bp.json"
   },
-  "webpage-error" : "Connection refused (Connection refused)",
-  "vote-percentage" : 0.0012857265307941303,
+  "webpage-error" : "bp.fish: Name or service not known",
+  "vote-percentage" : 0.0012796470258752677,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Connection refused (Connection refused)",
+      "error" : "bp.fish: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://bp.fish/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Connection refused (Connection refused)"
+      "error" : "bp.fish"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 100,
-  "snapshot-date" : "2019-07-19T01:25:55.051Z"
+  "place" : 101,
+  "snapshot-date" : "2019-07-20T01:26:41.612Z"
 }
