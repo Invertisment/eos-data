@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosphereiobp",
-    "total_votes" : "346256754834633152.00000000000000000",
+    "total_votes" : "346751799507715968.00000000000000000",
     "producer_key" : "EOS5FYRrG3ThNU56d3uZ8d4bo4MsN5Fig9WPY3xYSpH3RqPhpoH3A",
     "is_active" : 1,
     "url" : "https://www.eosphere.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-07-20T08:32:01.500",
+    "last_claim_time" : "2019-07-21T08:32:02.000",
     "location" : 36,
     "prepared-url" : "https://www.eosphere.io"
   },
@@ -15,22 +15,14 @@
     "logo" : "https://www.eosphere.io/eospherelogosquare256.png",
     "code_of_conduct" : "https://www.eosphere.io/code-of-conduct/"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 9,
-    "duplicate-urls" : null,
-    "social-links" : [ "http://www.youtube.com/eosphere", "https://medium.com/emanate-live/announcement-emanate-forms-strategic-alliance-with-aussie-block-producer-eosphere-fc09ce73948", "https://medium.com/eosphere", "https://steemit.com/@eosphere", "https://steemit.com/eos/@eosphere/eosphere-s-position-on-dividends", "https://t.me/eosphere_io", "https://twitter.com/Worbli", "https://twitter.com/Worbli/status/1151473639847530496", "https://twitter.com/eosphere_io", "https://twitter.com/eosphere_io/status/1152532939239858178", "https://twitter.com/eosphere_io/status/1152536465705799680", "https://twitter.com/eosphere_io/status/1152539105437216769", "https://twitter.com/intent/like?tweet_id=1151473639847530496&related=Worbli", "https://twitter.com/intent/like?tweet_id=1152532939239858178&related=eosphere_io", "https://twitter.com/intent/like?tweet_id=1152536465705799680&related=eosphere_io", "https://twitter.com/intent/like?tweet_id=1152539105437216769&related=eosphere_io", "https://twitter.com/intent/retweet?tweet_id=1151473639847530496&related=Worbli", "https://twitter.com/intent/retweet?tweet_id=1152532939239858178&related=eosphere_io", "https://twitter.com/intent/retweet?tweet_id=1152536465705799680&related=eosphere_io", "https://twitter.com/intent/retweet?tweet_id=1152539105437216769&related=eosphere_io", "https://twitter.com/intent/user?screen_name=eosphere_io", "https://www.facebook.com/eosphereio", "https://www.instagram.com/eosphere_io/", "https://www.meetup.com/EOS-Adelaide/", "https://www.meetup.com/EOS-Brisbane/", "https://www.meetup.com/EOS-Melbourne/", "https://www.meetup.com/EOS-Perth/", "https://www.meetup.com/EOS-Sydney/" ],
-    "social-links-count" : 28,
-    "popularity-boosters" : [ "http://eosnetworkmonitor.io/", "https://altshiftdev.com/", "https://connectonline.asic.gov.au/RegistrySearch/faces/landing/panelSearch.jspx?searchTab=search&searchText=624+333+035&searchType=OrgAndBusNm&_adf.ctrl-state=6b1hb27c8_12", "https://eos.chintai.io/exchange/EOS7D", "https://eos.io/", "https://eosvoter.eosphere.io/", "https://trybe.one/trybe-announces-partnership-with-eosphere-bp/", "https://www.chintai-eos.io", "https://www.slant.li/", "https://www.slant.li/privEOS/" ],
-    "popularity-boosters-count" : 10
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.005516855836477157,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 0.005515956423232112,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://www.eosphere.io"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -42,9 +34,9 @@
       "title" : "coc",
       "url" : "https://www.eosphere.io/code-of-conduct/"
     } ],
-    "score" : 3,
+    "score" : 2,
     "max" : 3
   },
   "place" : 75,
-  "snapshot-date" : "2019-07-21T01:26:14.743Z"
+  "snapshot-date" : "2019-07-22T01:26:15.501Z"
 }

@@ -1,50 +1,41 @@
 {
   "bp-header" : {
     "owner" : "newdex.bp",
-    "total_votes" : "1190940080839740160.00000000000000000",
+    "total_votes" : "1196136432943067136.00000000000000000",
     "producer_key" : "EOS688SnH8tQ7NiyhamiCzWXAGPDLF9S7K8ga79UBHKFgjS1MhqhB",
     "is_active" : 1,
     "url" : "https://newdex.one",
-    "unpaid_blocks" : 108,
-    "last_claim_time" : "2019-07-21T01:02:30.500",
+    "unpaid_blocks" : 96,
+    "last_claim_time" : "2019-07-22T01:02:31.000",
     "location" : 392,
     "prepared-url" : "https://newdex.one"
   },
   "bp-json-summary" : {
-    "url" : "https://newdex.one/bp.json",
-    "logo" : "https://newdex.one/static/img/logo-256.png",
-    "code_of_conduct" : "https://steemit.com/blockchain/@newdex/newdex-block-producer-announcement"
+    "dl-error" : "connect timed out",
+    "url" : "https://newdex.one/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 5,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/GetScatter/ScatterDesktop/releases" ],
-    "social-links-count" : 1,
-    "popularity-boosters" : [ "http://mathwallet.org/en/", "https://newdex.zendesk.com/hc/en-us/articles/360028370252-Desktop-Wallet-Tutorial", "https://www.leafwallet.io/", "https://www.tokenpocket.pro/en/download/pc" ],
-    "popularity-boosters-count" : 4
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.01897506588431219,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 0.019027547801399203,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://newdex.one"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "connect timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://newdex.one/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://newdex.one/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "connect timed out"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://steemit.com/blockchain/@newdex/newdex-block-producer-announcement"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 0,
     "max" : 3
   },
   "place" : 4,
-  "snapshot-date" : "2019-07-21T01:26:14.743Z"
+  "snapshot-date" : "2019-07-22T01:26:15.501Z"
 }
