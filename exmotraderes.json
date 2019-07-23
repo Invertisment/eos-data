@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "exmotraderes",
-    "total_votes" : "9403441720237.49609375000000000",
+    "total_votes" : "9422371404655.78320312500000000",
     "producer_key" : "EOS69iw5fUNPRxXobBUiy3NN2a5bZinq1fT275p6zHUixGGxqjkPJ",
     "is_active" : 1,
     "url" : "http://goeoslottery.cn",
@@ -11,31 +11,36 @@
     "prepared-url" : "http://goeoslottery.cn"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "clj-http: status 404",
     "url" : "http://goeoslottery.cn/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 1.495853080816633E-7,
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 1.9694049774074163E-7,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "connect timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://goeoslottery.cn"
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://goeoslottery.cn/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "clj-http: status 404"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 0,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 353,
-  "snapshot-date" : "2019-07-22T01:26:15.501Z"
+  "place" : 270,
+  "snapshot-date" : "2019-07-23T01:24:23.800Z"
 }
