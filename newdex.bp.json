@@ -1,33 +1,33 @@
 {
   "bp-header" : {
     "owner" : "newdex.bp",
-    "total_votes" : "1196136432943067136.00000000000000000",
+    "total_votes" : "1197122703218256384.00000000000000000",
     "producer_key" : "EOS688SnH8tQ7NiyhamiCzWXAGPDLF9S7K8ga79UBHKFgjS1MhqhB",
     "is_active" : 1,
     "url" : "https://newdex.one",
-    "unpaid_blocks" : 96,
-    "last_claim_time" : "2019-07-22T01:02:31.000",
+    "unpaid_blocks" : 144,
+    "last_claim_time" : "2019-07-23T01:02:32.000",
     "location" : 392,
     "prepared-url" : "https://newdex.one"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "No route to host (Host unreachable)",
     "url" : "https://newdex.one/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 0.019027547801399203,
+  "webpage-error" : "No route to host (Host unreachable)",
+  "vote-percentage" : 0.01899023578253134,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "No route to host (Host unreachable)",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://newdex.one/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "No route to host (Host unreachable)"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 4,
-  "snapshot-date" : "2019-07-22T01:26:15.501Z"
+  "snapshot-date" : "2019-07-23T01:33:36.204Z"
 }
