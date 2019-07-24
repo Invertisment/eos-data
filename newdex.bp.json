@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "newdex.bp",
-    "total_votes" : "1197122703218256384.00000000000000000",
+    "total_votes" : "1194274061764361728.00000000000000000",
     "producer_key" : "EOS688SnH8tQ7NiyhamiCzWXAGPDLF9S7K8ga79UBHKFgjS1MhqhB",
     "is_active" : 1,
     "url" : "https://newdex.one",
-    "unpaid_blocks" : 144,
-    "last_claim_time" : "2019-07-23T01:02:32.000",
+    "unpaid_blocks" : 108,
+    "last_claim_time" : "2019-07-24T01:02:32.500",
     "location" : 392,
     "prepared-url" : "https://newdex.one"
   },
@@ -15,7 +15,7 @@
     "url" : "https://newdex.one/bp.json"
   },
   "webpage-error" : "No route to host (Host unreachable)",
-  "vote-percentage" : 0.01899023578253134,
+  "vote-percentage" : 0.018954899641154373,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 4,
-  "snapshot-date" : "2019-07-23T01:33:36.204Z"
+  "snapshot-date" : "2019-07-24T01:25:53.120Z"
 }

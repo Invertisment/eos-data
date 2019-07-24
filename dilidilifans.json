@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "dilidilifans",
-    "total_votes" : "701620964879937280.00000000000000000",
+    "total_votes" : "698232373194908672.00000000000000000",
     "producer_key" : "EOS7b3KnyRNxu4jVVnroB7T54gquXD5wYfcPnovDz2DjYuGBUwehq",
     "is_active" : 1,
     "url" : "www.dilidili.name",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-07-22T09:50:02.500",
+    "last_claim_time" : "2019-07-23T09:50:04.000",
     "location" : 702,
     "prepared-url" : "http://www.dilidili.name"
   },
@@ -15,13 +15,15 @@
     "url" : "www.dilidili.name/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 1,
+    "relative-links-count" : 94,
     "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
+    "social-links" : [ "http://usr.005.tv/User/loginout.html?refurl=http%3A%2F%2Fwww.dilidili.name%2F" ],
+    "social-links-count" : 1,
+    "popularity-boosters" : [ "http://45.126.120.132:2000/upload.html", "http://bbs.005.tv/", "http://dilidili.name/jump.html?url=http%3A%2F%2Fch615.wx.11h5.com%2F%3Fchid%3D615%26gameid%3D541%26trial%3D1", "http://dilidili.name/kt.html", "http://lol.te5.com/", "http://usr.005.tv", "http://usr.dilidili.name/", "http://usr.dilidili.name/User/register.html?refurl=http%3A%2F%2Fwww.dilidili.name%2F", "http://usr.dilidili.name?refurl=http%3A%2F%2Fwww.dilidili.name%2F", "http://www.1kkk.com/", "http://www.3h3.com/", "http://www.87g.com/", "http://www.kan300.com/", "http://www.kanman.com/", "http://www.ktkkt.com/", "http://www.moe123.net/", "http://www.pc841.com/", "http://www.zimuzu.io", "https://c1ass.com", "https://meet.one", "https://ningmoe.com", "https://www.manhuatai.com/", "https://www.mkzhan.com/" ],
+    "popularity-boosters-count" : 23
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.011129976498831766,
+  "vote-percentage" : 0.011081982757426646,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -43,5 +45,5 @@
     "max" : 3
   },
   "place" : 39,
-  "snapshot-date" : "2019-07-23T01:33:36.204Z"
+  "snapshot-date" : "2019-07-24T01:25:53.120Z"
 }
