@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "prospectors1",
-    "total_votes" : "1496149693669363.75000000000000000",
+    "total_votes" : "1483698093261049.75000000000000000",
     "producer_key" : "EOS51wbzGLokeQX9CmDeRv6Lj8pubmexWSCGXgQAY7hQPLZ7RTfto",
     "is_active" : 1,
     "url" : "https://prospectors.io",
@@ -15,15 +15,15 @@
     "url" : "https://prospectors.io/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 9,
+    "relative-links-count" : 10,
     "duplicate-urls" : null,
-    "social-links" : [ "https://bitcointalk.org/index.php?topic=1877080.0", "https://discord.gg/ZVyHncP", "https://medium.com/@prospectorsgame", "https://medium.com/@prospectorsgame/prospectors-testing-in-the-jungle-is-launched-d485fc4ea008", "https://t.me/prospectors", "https://t.me/prospectorsgame", "https://twitter.com/prospectorsgame", "https://www.reddit.com/r/Prospectorsio/" ],
-    "social-links-count" : 8,
-    "popularity-boosters" : [ "http://eosnova.io/", "https://bihu.com/article/1994742535", "https://bitpie.com/", "https://bloks.io", "https://cryptolions.io/", "https://eos.io/", "https://eos.live/", "https://eosdaq.com/exchange/PGL_EOS", "https://eospark.com/", "https://get-scatter.com/", "https://meet.one/", "https://newdex.io/trade/PGL_EOS", "https://www.chaince.com/trade/pgleos", "https://www.genereos.io/", "https://www.mathwallet.org/en/", "https://www.mytokenpocket.vip/" ],
-    "popularity-boosters-count" : 16
+    "social-links" : [ "https://bitcointalk.org/index.php?topic=1877080.0", "https://discord.gg/ZVyHncP", "https://medium.com/@prospectorsgame", "https://medium.com/@prospectorsgame/prospectors-testing-in-the-jungle-is-launched-d485fc4ea008", "https://t.me/prospectors", "https://t.me/prospectorsgame", "https://twitter.com/prospectorsgame", "https://www.reddit.com/r/Prospectorsio/", "https://www.youtube.com/channel/UCJ07CHIqC2LBS3al0G7s0dA/featured" ],
+    "social-links-count" : 9,
+    "popularity-boosters" : [ "https://bihu.com/article/1994742535", "https://cryptolions.io/", "https://dappradar.com/", "https://eos.io/", "https://eosdaq.com/exchange/PGL_EOS", "https://eospark.com/", "https://get-scatter.com/", "https://newdex.io/trade/PGL_EOS", "https://www.mytokenpocket.vip/" ],
+    "popularity-boosters-count" : 9
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.3746515183651534E-5,
+  "vote-percentage" : 2.3487518623565724E-5,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,5 +45,5 @@
     "max" : 3
   },
   "place" : 149,
-  "snapshot-date" : "2019-07-24T01:33:44.084Z"
+  "snapshot-date" : "2019-07-25T01:26:31.852Z"
 }

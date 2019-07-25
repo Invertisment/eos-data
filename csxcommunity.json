@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "csxcommunity",
-    "total_votes" : "385809298812976.31250000000000000",
+    "total_votes" : "386032825574068.18750000000000000",
     "producer_key" : "EOS8HsrWJ9omjmwt26fieagCM95f2dsT2CyWuFQSFbp4jR7KyrZPF",
     "is_active" : 1,
     "url" : "https://eos.csx.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-07-23T10:00:02.000",
+    "last_claim_time" : "2019-07-24T10:00:03.000",
     "location" : 276,
     "prepared-url" : "https://eos.csx.io"
   },
@@ -24,7 +24,7 @@
     "popularity-boosters-count" : 3
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 6.123469069319566E-6,
+  "vote-percentage" : 6.111049964383379E-6,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +45,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 201,
-  "snapshot-date" : "2019-07-24T01:33:44.084Z"
+  "place" : 200,
+  "snapshot-date" : "2019-07-25T01:26:31.852Z"
 }
