@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosminergate",
-    "total_votes" : "66821953449295184.00000000000000000",
+    "total_votes" : "66822062168061088.00000000000000000",
     "producer_key" : "EOS5dLSkjLYTxfJqZG4v7oGHx9qaXC2QbnjH9ZepP2ywdzC66CNjy",
     "is_active" : 1,
     "url" : "https://minergate.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-07-23T23:59:04.000",
+    "last_claim_time" : "2019-07-25T23:59:04.500",
     "location" : 124,
     "prepared-url" : "https://minergate.com"
   },
@@ -24,7 +24,7 @@
     "popularity-boosters-count" : 6
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.001057817546057343,
+  "vote-percentage" : 0.0010576095812781395,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -46,5 +46,5 @@
     "max" : 3
   },
   "place" : 103,
-  "snapshot-date" : "2019-07-25T01:26:31.852Z"
+  "snapshot-date" : "2019-07-26T01:26:12.574Z"
 }
