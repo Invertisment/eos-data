@@ -11,23 +11,23 @@
     "prepared-url" : "http://eosblockzero.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "eosblockzero.com",
     "url" : "http://eosblockzero.com/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 2.2018677517030946E-6,
+  "webpage-error" : "eosblockzero.com: Name or service not known",
+  "vote-percentage" : 2.3321904841379606E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "eosblockzero.com: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://eosblockzero.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "eosblockzero.com"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 236,
-  "snapshot-date" : "2019-07-26T01:26:12.574Z"
+  "place" : 221,
+  "snapshot-date" : "2019-07-27T01:25:46.973Z"
 }

@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "costaricaeos",
-    "total_votes" : "60244525808990120.00000000000000000",
+    "total_votes" : "55934065045236696.00000000000000000",
     "producer_key" : "EOS7phU8qE6nPCfpkCQ2T3HmRwGg6z4v61RTLvPBBVmPWmPisZoWY",
     "is_active" : 1,
     "url" : "https://eoscostarica.io",
@@ -15,22 +15,14 @@
     "logo" : "https://eoscostarica.io/assets/eos-CostaRica-256x256.png",
     "code_of_conduct" : "https://eoscostarica.io/code-of-conduct.html"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 2,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/eoscostarica/eos-local", "https://medium.com/eos-costa-rica/eos-rate-block-producer-rating-system-efd586614695", "https://twitter.com/EOS_CryptoLions/status/1010944968242946049", "https://twitter.com/InfiniteXLabsHQ", "https://twitter.com/InfiniteXLabsHQ/status/1154128011333185536", "https://www.facebook.com/costaricaeos/", "https://www.instagram.com/eoscostarica/", "https://www.linkedin.com/company/11800177", "https://www.twitter.com/eoscostarica" ],
-    "social-links-count" : 9,
-    "popularity-boosters" : [ "http://monitor.jungletestnet.io/", "http://waterloo.media", "https://eos.io/", "https://eosurf.com/", "https://ticoblockchain.cr", "https://worbli.io/", "https://worbli.io/network/" ],
-    "popularity-boosters-count" : 7
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 9.535052593094026E-4,
+  "webpage-error" : "clj-http: status 308",
+  "vote-percentage" : 9.376800449098173E-4,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eoscostarica.io"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "clj-http: status 308",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -42,9 +34,9 @@
       "title" : "coc",
       "url" : "https://eoscostarica.io/code-of-conduct.html"
     } ],
-    "score" : 3,
+    "score" : 2,
     "max" : 3
   },
-  "place" : 106,
-  "snapshot-date" : "2019-07-26T01:26:12.574Z"
+  "place" : 101,
+  "snapshot-date" : "2019-07-27T01:25:46.973Z"
 }
