@@ -11,23 +11,23 @@
     "prepared-url" : "https://bpnode.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "bpnode.com",
+    "dl-error" : "Connection refused (Connection refused)",
     "url" : "https://bpnode.com/bp_info.json"
   },
-  "webpage-error" : "bpnode.com: Temporary failure in name resolution",
-  "vote-percentage" : 6.250032647223326E-7,
+  "webpage-error" : "Connection refused (Connection refused)",
+  "vote-percentage" : 5.809790729921252E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "bpnode.com: Temporary failure in name resolution",
+      "error" : "Connection refused (Connection refused)",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://bpnode.com/bp_info.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "bpnode.com"
+      "error" : "Connection refused (Connection refused)"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 256,
-  "snapshot-date" : "2019-07-27T01:25:46.973Z"
+  "place" : 274,
+  "snapshot-date" : "2019-07-28T01:26:42.959Z"
 }

@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosnodeonebp",
-    "total_votes" : "427603463313061504.00000000000000000",
+    "total_votes" : "429711898019752064.00000000000000000",
     "producer_key" : "EOS6xcmB3LnUwcjFu55hKFQwX8EHWWerwbHyAs3VpaJmbBFp4bmDs",
     "is_active" : 1,
     "url" : "https://eosnodeone.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-07-26T19:00:09.000",
+    "last_claim_time" : "2019-07-27T19:00:16.000",
     "location" : 7,
     "prepared-url" : "https://eosnodeone.io"
   },
@@ -24,7 +24,7 @@
     "popularity-boosters-count" : 1
   },
   "p-ram-amounts" : [ "RAM" ],
-  "vote-percentage" : 0.007168354997240272,
+  "vote-percentage" : 0.0066962841274218815,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +45,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 51,
-  "snapshot-date" : "2019-07-27T01:25:46.973Z"
+  "place" : 55,
+  "snapshot-date" : "2019-07-28T01:26:42.959Z"
 }

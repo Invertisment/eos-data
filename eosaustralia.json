@@ -11,23 +11,23 @@
     "prepared-url" : "https://www.genereos-sydney.io/"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "Connection refused (Connection refused)",
     "url" : "https://www.genereos-sydney.io/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 6.783381318368293E-7,
+  "webpage-error" : "Connection refused (Connection refused)",
+  "vote-percentage" : 6.305571206653716E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "Connection refused (Connection refused)",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://www.genereos-sydney.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "Connection refused (Connection refused)"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 254,
-  "snapshot-date" : "2019-07-27T01:25:46.973Z"
+  "place" : 272,
+  "snapshot-date" : "2019-07-28T01:26:42.959Z"
 }

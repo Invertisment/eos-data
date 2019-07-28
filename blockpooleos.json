@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "blockpooleos",
-    "total_votes" : "389636463796683264.00000000000000000",
+    "total_votes" : "396399177047455104.00000000000000000",
     "producer_key" : "EOS6hSNmJrQQBW2y1GXyxNmHKKwkyuyXTQLbMZdP9REd32w6wLsfa",
     "is_active" : 1,
     "url" : "www.blockpool.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-07-26T03:12:21.500",
+    "last_claim_time" : "2019-07-27T03:23:40.000",
     "location" : 0,
     "prepared-url" : "http://www.blockpool.com"
   },
@@ -14,19 +14,14 @@
     "dl-error" : "no protocol: www.blockpool.com/bp.json",
     "url" : "www.blockpool.com/bp.json"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.006531875281653424,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 0.006177165513960142,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "www.blockpool.com"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
@@ -38,9 +33,9 @@
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 56,
-  "snapshot-date" : "2019-07-27T01:25:46.973Z"
+  "place" : 58,
+  "snapshot-date" : "2019-07-28T01:26:42.959Z"
 }
