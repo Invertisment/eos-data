@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "blockpooleos",
-    "total_votes" : "396399177047455104.00000000000000000",
+    "total_votes" : "402896709236597248.00000000000000000",
     "producer_key" : "EOS6hSNmJrQQBW2y1GXyxNmHKKwkyuyXTQLbMZdP9REd32w6wLsfa",
     "is_active" : 1,
     "url" : "www.blockpool.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-07-27T03:23:40.000",
+    "last_claim_time" : "2019-07-28T03:24:34.000",
     "location" : 0,
     "prepared-url" : "http://www.blockpool.com"
   },
@@ -14,14 +14,21 @@
     "dl-error" : "no protocol: www.blockpool.com/bp.json",
     "url" : "www.blockpool.com/bp.json"
   },
-  "webpage-error" : "Read timed out",
-  "vote-percentage" : 0.006177165513960142,
+  "analyzed-urls" : {
+    "relative-links-count" : 7,
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ "http://47.100.250.12/tms/index.html", "http://wpa.qq.com/msgrd?v=3&uin=822397317&site=qq&menu=yes", "http://www.miitbeian.gov.cn" ],
+    "popularity-boosters-count" : 3
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.00626643753424489,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "Read timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "www.blockpool.com"
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
@@ -33,9 +40,9 @@
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 0,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 58,
-  "snapshot-date" : "2019-07-28T01:26:42.959Z"
+  "place" : 57,
+  "snapshot-date" : "2019-07-29T01:26:21.911Z"
 }

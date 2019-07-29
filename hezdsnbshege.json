@@ -14,13 +14,13 @@
     "dl-error" : "activeeos.com",
     "url" : "https://activeeos.com/bp.json"
   },
-  "webpage-error" : "activeeos.com: Name or service not known",
+  "webpage-error" : "activeeos.com",
   "vote-percentage" : 0.0,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "activeeos.com: Name or service not known",
+      "error" : "activeeos.com",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 553,
-  "snapshot-date" : "2019-07-28T01:26:42.959Z"
+  "place" : 555,
+  "snapshot-date" : "2019-07-29T01:26:21.911Z"
 }
