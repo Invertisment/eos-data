@@ -1,0 +1,49 @@
+{
+  "bp-header" : {
+    "owner" : "caokunkevin1",
+    "total_votes" : "0.00000000000000000",
+    "producer_key" : "EOS6HhPUf1e8ufkQEVctzRCvowVZF9NBtbWUu3Vi4Ncq1Ck8cyyz1",
+    "is_active" : 1,
+    "url" : "https://mycompanysite.com",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-07-30T10:57:05.000",
+    "location" : 0,
+    "prepared-url" : "https://mycompanysite.com"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "clj-http: status 404",
+    "url" : "https://mycompanysite.com/bp.json"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 5,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://www.facebook.com/mycompanysite" ],
+    "social-links-count" : 1,
+    "popularity-boosters" : [ "https://www.yelp.com/biz/my-company-site-pasadena" ],
+    "popularity-boosters-count" : 1
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.0,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://mycompanysite.com"
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://mycompanysite.com/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 1,
+    "max" : 3
+  },
+  "place" : 575,
+  "snapshot-date" : "2019-07-31T01:27:19.582Z"
+}

@@ -4,38 +4,43 @@
     "total_votes" : "0.00000000000000000",
     "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
     "is_active" : 0,
-    "url" : "https://blokcrafters.com",
+    "url" : "https://www.blokcrafters.com",
     "unpaid_blocks" : 0,
     "last_claim_time" : "2019-07-25T21:23:40.000",
     "location" : 0,
-    "prepared-url" : "https://blokcrafters.com"
+    "prepared-url" : "https://www.blokcrafters.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "Certificate for <blokcrafters.com> doesn't match any of the subject alternative names: [autoconfig.blokcrafters.com, base.blokcrafters.com, www.blokcrafters.com]",
-    "url" : "https://blokcrafters.com/bp.json"
+    "url" : "https://www.blokcrafters.com/bp.json"
   },
-  "webpage-error" : "Certificate for <blokcrafters.com> doesn't match any of the subject alternative names: [autoconfig.blokcrafters.com, base.blokcrafters.com, www.blokcrafters.com]",
+  "analyzed-urls" : {
+    "relative-links-count" : 8,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://github.com/blokcrafters", "https://t.me/joinchat/HDZLJxcf_PQELN3dctZ_iA", "https://twitter.com/blokcrafters" ],
+    "social-links-count" : 3,
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ "150GB RAM" ],
   "vote-percentage" : 0.0,
   "scoring" : {
     "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://www.blokcrafters.com"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://www.blokcrafters.com/bp.json"
+    }, {
+      "title" : "no-coc",
       "mood" : "bad",
-      "title" : "no-web",
-      "error" : "Certificate for <blokcrafters.com> doesn't match any of the subject alternative names: [autoconfig.blokcrafters.com, base.blokcrafters.com, www.blokcrafters.com]",
-      "paragraphs" : [ "web-fetch-failure" ]
-    }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://blokcrafters.com/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Certificate for <blokcrafters.com> doesn't match any of the subject alternative names: [autoconfig.blokcrafters.com, base.blokcrafters.com, www.blokcrafters.com]"
-    }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "paragraphs" : [ "value-empty" ]
     } ],
-    "score" : 0,
+    "score" : 2,
     "max" : 3
   },
-  "place" : 553,
-  "snapshot-date" : "2019-07-30T01:26:25.433Z"
+  "place" : 554,
+  "snapshot-date" : "2019-07-31T01:27:19.582Z"
 }

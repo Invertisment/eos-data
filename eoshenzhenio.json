@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eoshenzhenio",
-    "total_votes" : "315482876132488448.00000000000000000",
+    "total_votes" : "315474433470085632.00000000000000000",
     "producer_key" : "EOS8EJrMphgHJx5EkHQ4ryodbvnocZEC1xp5T1FnRsT7XtzYA1FE7",
     "is_active" : 1,
     "url" : "https://eoshenzhen.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-07-29T02:59:05.000",
+    "last_claim_time" : "2019-07-30T02:59:08.000",
     "location" : 156,
     "prepared-url" : "https://eoshenzhen.io"
   },
@@ -15,7 +15,7 @@
     "url" : "https://eoshenzhen.io/bp.json"
   },
   "webpage-error" : "Certificate for <eoshenzhen.io> doesn't match any of the subject alternative names: [shortener.secureserver.net, www.shortener.secureserver.net]",
-  "vote-percentage" : 0.0048995158776347775,
+  "vote-percentage" : 0.004886472505369233,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 84,
-  "snapshot-date" : "2019-07-30T01:26:25.433Z"
+  "place" : 82,
+  "snapshot-date" : "2019-07-31T01:27:19.582Z"
 }
