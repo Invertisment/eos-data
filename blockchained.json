@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "blockchained",
-    "total_votes" : "3301241848883156.00000000000000000",
+    "total_votes" : "3307519071146361.50000000000000000",
     "producer_key" : "EOS7NkhhRMNz4HoBxvea27gsWJoYjaWzWQCBSmkToZP1cC5e5uMp6",
     "is_active" : 1,
     "url" : "https://eos.blckchnd.com",
@@ -11,20 +11,16 @@
     "prepared-url" : "https://eos.blckchnd.com"
   },
   "bp-json-summary" : {
-    "url" : "https://eos.blckchnd.com/bp.json",
-    "logo" : "https://eos.blckchnd.com/blckchnd-256.png",
-    "code_of_conduct" : "https://steemit.com/eos/@blockchained/blckchnd-and-graphene-lab-join-forces-to-enter-the-competition-as-a-candidate-for-eos-bp"
+    "read-error" : "read:'https://eos.blckchnd.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "url" : "https://eos.blckchnd.com/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 9,
     "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/blckchnd", "https://github.com/graphenelab", "https://keybase.io/team/eos_blockchained", "https://medium.com/@eos.blckchnd", "https://steemit.com/@blockchained", "https://t.me/blckchnd_EOS", "https://twitter.com/BLCKCHND" ],
-    "social-links-count" : 7,
-    "popularity-boosters" : [ "eosexplorer.app", "http://golos.io/@blockchained", "https://gate108.org/", "https://hashtelegraph.com/", "https://letitplay.io/", "https://rudex.org/", "myeoswallet.app" ],
-    "popularity-boosters-count" : 7
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 5.113386638246066E-5,
+  "vote-percentage" : 5.099160653189074E-5,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -32,19 +28,19 @@
       "title" : "web",
       "url" : "https://eos.blckchnd.com"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://eos.blckchnd.com/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eos.blckchnd.com/bp.json",
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'https://eos.blckchnd.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://steemit.com/eos/@blockchained/blckchnd-and-graphene-lab-join-forces-to-enter-the-competition-as-a-candidate-for-eos-bp"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 128,
-  "snapshot-date" : "2019-07-31T01:27:19.582Z"
+  "place" : 129,
+  "snapshot-date" : "2019-08-01T01:27:20.259Z"
 }

@@ -11,23 +11,23 @@
     "prepared-url" : "https://www.activeeos.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "www.activeeos.com",
+    "dl-error" : "Certificate for <www.activeeos.com> doesn't match any of the subject alternative names: [*.parkingcrew.net, parkingcrew.net]",
     "url" : "https://www.activeeos.com/bp.json"
   },
-  "webpage-error" : "www.activeeos.com: Name or service not known",
-  "vote-percentage" : 8.524547119578648E-6,
+  "webpage-error" : "Certificate for <www.activeeos.com> doesn't match any of the subject alternative names: [*.parkingcrew.net, parkingcrew.net]",
+  "vote-percentage" : 8.484697500274559E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "www.activeeos.com: Name or service not known",
+      "error" : "Certificate for <www.activeeos.com> doesn't match any of the subject alternative names: [*.parkingcrew.net, parkingcrew.net]",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://www.activeeos.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "www.activeeos.com"
+      "error" : "Certificate for <www.activeeos.com> doesn't match any of the subject alternative names: [*.parkingcrew.net, parkingcrew.net]"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 181,
-  "snapshot-date" : "2019-07-31T01:27:19.582Z"
+  "place" : 182,
+  "snapshot-date" : "2019-08-01T01:27:20.259Z"
 }

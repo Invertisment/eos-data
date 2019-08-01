@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "tokenika4eos",
-    "total_votes" : "373140421331164928.00000000000000000",
+    "total_votes" : "372427342394704448.00000000000000000",
     "producer_key" : "EOS8Src8Nd3EoJpewmPzSDjZP8A3iLuHky4itLqWwuCjPNdCztrVL",
     "is_active" : 1,
     "url" : "https://tokenika.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-07-30T08:55:01.500",
+    "last_claim_time" : "2019-07-31T08:56:01.500",
     "location" : 616,
     "prepared-url" : "https://tokenika.io"
   },
@@ -18,13 +18,13 @@
   "analyzed-urls" : {
     "relative-links-count" : 11,
     "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/tokenika", "https://github.com/tokenika/eosfactory", "https://github.com/tokenika/secure-bp-voting", "https://medium.com/@oraclechain/2018-global-eos-developer-conference-9db444ec2cd7", "https://steemit.com/@tokenika", "https://steemit.com/eos/@bitspace/bitspace-hosts-scandinavia-s-first-ever-eos-meetup-in-oslo-norway", "https://steemit.com/eos/@tokenika/eos-factory-2-4-is-out", "https://steemit.com/eosio/@tokenika/the-new-eoside-tool-latest-eos-factory-3-1-1-release-notes-by-tokenika", "https://steemit.com/trending/eos", "https://steemit.com/trending/eosio", "https://www.facebook.com/events/160585741214328/", "https://www.facebook.com/events/873585539479089/", "https://www.facebook.com/events/903326303125907/", "https://www.linkedin.com/company/28635125/", "https://www.meetup.com/pl-pl/szczecin-blockchain-meetup/events/247984199/", "https://www.meetup.com/pl-pl/wroclaw-blockchain-meetup/events/246349912/?eventid=246349912", "https://www.youtube.com/channel/UCWloHGgpHAFfx81Nt0F7eUg" ],
-    "social-links-count" : 17,
+    "social-links" : [ "https://github.com/tokenika", "https://github.com/tokenika/eosfactory", "https://github.com/tokenika/secure-bp-voting", "https://medium.com/@oraclechain/2018-global-eos-developer-conference-9db444ec2cd7", "https://steemit.com/@tokenika", "https://steemit.com/eos/@bitspace/bitspace-hosts-scandinavia-s-first-ever-eos-meetup-in-oslo-norway", "https://steemit.com/eosio/@tokenika/eos-factory-3-3-0-release-notes-english-korean-chinese", "https://steemit.com/eosio/@tokenika/the-new-eoside-tool-latest-eos-factory-3-1-1-release-notes-by-tokenika", "https://steemit.com/trending/eosio", "https://www.facebook.com/events/160585741214328/", "https://www.facebook.com/events/873585539479089/", "https://www.facebook.com/events/903326303125907/", "https://www.linkedin.com/company/28635125/", "https://www.meetup.com/pl-pl/szczecin-blockchain-meetup/events/247984199/", "https://www.meetup.com/pl-pl/wroclaw-blockchain-meetup/events/246349912/?eventid=246349912", "https://www.youtube.com/channel/UCWloHGgpHAFfx81Nt0F7eUg" ],
+    "social-links-count" : 16,
     "popularity-boosters" : [ "http://bitcoin.pl/wiadomosci/prawo-i-polityka/1636-powstala-grupa-robocza-ds-blockchain-i-kryptowalut-przy-knf", "http://buildercommerce.com/", "http://connectwarsaw.org/", "http://parsecfrontiers.com/", "http://sendgold.com/", "http://sygnet.eu/", "http://truffleframework.com/", "https://bitshares.org/", "https://en.wikipedia.org/wiki/Daniel_Larimer", "https://eos.io/", "https://eosprojects.org/", "https://www.evry.com/en/news/articles/psd2-the-directive-that-will-change-banking-as-we-know-it/", "https://www.trans.eu/en/" ],
     "popularity-boosters-count" : 13
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.005779677260755027,
+  "vote-percentage" : 0.005741665609966232,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +45,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 63,
-  "snapshot-date" : "2019-07-31T01:27:19.582Z"
+  "place" : 62,
+  "snapshot-date" : "2019-08-01T01:27:20.259Z"
 }

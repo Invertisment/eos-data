@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eostribeprod",
-    "total_votes" : "396853515441997504.00000000000000000",
+    "total_votes" : "395492872913224960.00000000000000000",
     "producer_key" : "EOS7gD4EXA96SEQ9RQrLfbU19tLHmGPcJXSPXdkrQh4bCkUghg6QE",
     "is_active" : 1,
     "url" : "https://eostribe.io",
@@ -16,15 +16,15 @@
     "code_of_conduct" : "https://steemit.com/cryptocurrency/@eostribe/eos-tribe-code-of-conduct"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 5,
+    "relative-links-count" : 1,
     "duplicate-urls" : null,
-    "social-links" : [ "https://steemit.com/@eostribe/", "https://steemit.com/boscore/@eostribe/eos-tribe-joins-bos-as-a-block-producer", "https://steemit.com/eos/@eostribe/eos-history-api-with-date-ranges", "https://steemit.com/eos/@eostribe/eos-tribe-infrastructure-upgrade", "https://steemit.com/eos/@eostribe/eos-tribe-is-a-carbon-neutral-block-producer-for-the-eos-mainnet", "https://steemit.com/eos/@eostribe/introducing-new-history-findactions-endpoint", "https://steemit.com/eos/@eostribe/the-one-api-to-rule-them", "https://steemit.com/eosio/@eostribe/eos-tribe-support-meet-one-chain", "https://steemit.com/eostribe/@eostribe/eos-tribe-joins-telos-as-block-producer", "https://steemit.com/eostribe/@eostribe/eos-tribe-new-team-announcement", "https://twitter.com/EOStribe" ],
-    "social-links-count" : 11,
-    "popularity-boosters" : [ "https://bos.bloks.io/", "https://eosnetworkmonitor.io/", "https://meetone.eosx.io/", "https://monitor.telosfoundation.io/", "https://worbli.bloks.io/", "https://worbli.io/", "https://www.cryptofinance.no/" ],
-    "popularity-boosters-count" : 7
+    "social-links" : [ "https://steemit.com/@eostribe/", "https://twitter.com/EOStribe" ],
+    "social-links-count" : 2,
+    "popularity-boosters" : [ "https://bos.bloks.io/", "https://eosnetworkmonitor.io/", "https://meetone.eosx.io/", "https://monitor.telosfoundation.io/", "https://worbli.bloks.io/", "https://worbli.io/" ],
+    "popularity-boosters-count" : 6
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.006146976065654233,
+  "vote-percentage" : 0.006097263999983095,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +45,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 58,
-  "snapshot-date" : "2019-07-31T01:27:19.582Z"
+  "place" : 57,
+  "snapshot-date" : "2019-08-01T01:27:20.259Z"
 }

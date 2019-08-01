@@ -15,12 +15,15 @@
     "url" : "http://boneoperatingsystem.com/bp.json"
   },
   "analyzed-urls" : {
+    "relative-links-count" : 1,
     "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
+    "social-links" : [ "https://plus.google.com/u/0/+Mobirise", "https://t.me/bos_community", "https://twitter.com/BoneSystem", "https://www.youtube.com/c/mobirise" ],
+    "social-links-count" : 4,
+    "popularity-boosters" : [ "http://boneopreratingsystem.com", "https://mobirise.info/n", "https://weixin.qq.com/g/Al7_Lr8UkrYguMhI", "https://www.behance.net/Mobirise" ],
+    "popularity-boosters-count" : 4
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.260780474796649E-11,
+  "vote-percentage" : 1.2548867163081443E-11,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -41,6 +44,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 544,
-  "snapshot-date" : "2019-07-31T01:27:19.582Z"
+  "place" : 539,
+  "snapshot-date" : "2019-08-01T01:27:20.259Z"
 }
