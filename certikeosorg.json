@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "certikeosorg",
-    "total_votes" : "985967643404274304.00000000000000000",
+    "total_votes" : "991983720261210112.00000000000000000",
     "producer_key" : "EOS57kRcpx1QT4Wn4uA6agwYdJNGew4cfrzKnzrvQZiVE85huUBAB",
     "is_active" : 1,
     "url" : "https://certik.org",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-07-31T22:18:34.000",
+    "last_claim_time" : "2019-08-01T22:19:35.500",
     "location" : 840,
     "prepared-url" : "https://certik.org"
   },
@@ -16,7 +16,7 @@
     "code_of_conduct" : "https://certik.org/eos"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 14,
+    "relative-links-count" : 13,
     "duplicate-urls" : null,
     "social-links" : [ "https://github.com/CertiKProject", "https://medium.com/certik", "https://t.me/certikorg", "https://twitter.com/certikorg", "https://www.linkedin.com/company/certik/", "https://www.youtube.com/channel/UCCcFr6FTUeWDIqUdY8i1W5w" ],
     "social-links-count" : 6,
@@ -24,7 +24,7 @@
     "popularity-boosters-count" : 3
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.015200539450924767,
+  "vote-percentage" : 0.015129670214324268,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +45,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 26,
-  "snapshot-date" : "2019-08-01T01:27:20.259Z"
+  "place" : 25,
+  "snapshot-date" : "2019-08-02T01:26:25.103Z"
 }

@@ -1,18 +1,19 @@
 {
   "bp-header" : {
     "owner" : "okcapitalbp1",
-    "total_votes" : "391771051063946560.00000000000000000",
+    "total_votes" : "604291998586205952.00000000000000000",
     "producer_key" : "EOS6NqWZ1i9KSNoeBiby6Nmf1seAbEfhvrDoCbwSi1hV4cuqqnYRP",
     "is_active" : 1,
     "url" : "https://www.okex.com/eosbp/",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-07-31T10:32:19.500",
+    "last_claim_time" : "2019-08-01T10:32:35.500",
     "location" : 0,
     "prepared-url" : "https://www.okex.com/eosbp/"
   },
   "bp-json-summary" : {
     "url" : "https://www.okex.com/eosbp/bp.json",
-    "logo" : "www.okex.com/eosbp/okex-256.jpeg"
+    "logo" : "https://img.bafang.com/cdn/assets/imgs/MjAxOTg/C3B8310FFC1B46DA82C8ED7910C2AD61.png",
+    "code_of_conduct" : "https://steemit.com/eos/@okpool/okpool-code-of-conduct"
   },
   "analyzed-urls" : {
     "relative-links-count" : 36,
@@ -23,7 +24,7 @@
     "popularity-boosters-count" : 15
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.006039885139502505,
+  "vote-percentage" : 0.009216621669312001,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -36,13 +37,14 @@
       "title" : "bp-json",
       "url" : "https://www.okex.com/eosbp/bp.json"
     }, {
-      "title" : "no-coc",
-      "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/eos/@okpool/okpool-code-of-conduct"
     } ],
-    "score" : 2,
+    "score" : 3,
     "max" : 3
   },
-  "place" : 58,
-  "snapshot-date" : "2019-08-01T01:27:20.259Z"
+  "place" : 45,
+  "snapshot-date" : "2019-08-02T01:26:25.103Z"
 }

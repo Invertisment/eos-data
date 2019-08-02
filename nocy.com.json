@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "nocy.com",
-    "total_votes" : "54123280470.73416137695312500",
+    "total_votes" : "147360701161246176.00000000000000000",
     "producer_key" : "EOS6fBMkLXc2XW41zGrw2UBwFWagKEviwHf5Yju17ygTDU5R8UasM",
     "is_active" : 1,
     "url" : "https://nocy.com",
@@ -11,18 +11,20 @@
     "prepared-url" : "https://nocy.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
-    "url" : "https://nocy.com/bp.json"
+    "url" : "https://nocy.com/bp.json",
+    "logo" : "https://nocy.com/static/logo/nocy-logo-256.png",
+    "code_of_conduct" : "https://steemit.com/blockchain/@nocy.com/nocy.com-block-producer-announcement"
   },
   "analyzed-urls" : {
     "relative-links-count" : 7,
     "duplicate-urls" : null,
-    "social-links" : [ ],
+    "social-links" : [ "https://github.com/eoswing", "https://steemit.com/@eoswing", "https://t.me/eoswing", "https://twitter.com/eoswing" ],
+    "social-links-count" : 4,
     "popularity-boosters" : [ "https://mp.weixin.qq.com/s/6vq3PS7NTb3QvRxzUxK5iA" ],
     "popularity-boosters-count" : 1
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 8.344118242747742E-10,
+  "vote-percentage" : 0.002247535685902352,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -30,19 +32,19 @@
       "title" : "web",
       "url" : "https://nocy.com"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://nocy.com/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://nocy.com/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/blockchain/@nocy.com/nocy.com-block-producer-announcement"
     } ],
-    "score" : 1,
+    "score" : 3,
     "max" : 3
   },
-  "place" : 457,
-  "snapshot-date" : "2019-08-01T01:27:20.259Z"
+  "place" : 97,
+  "snapshot-date" : "2019-08-02T01:26:25.103Z"
 }

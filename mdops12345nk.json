@@ -12,10 +12,11 @@
   },
   "bp-json-summary" : {
     "url" : "https://www.blokcrafters.com/bp.json",
-    "logo" : "https://www.blokcrafters.com/images/blokcrafters1_256.png"
+    "logo" : "https://blokcrafters.com/images/blokcrafters1_256.png",
+    "code_of_conduct" : "https://blokcrafters.com/#conduct"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 8,
+    "relative-links-count" : 7,
     "duplicate-urls" : null,
     "social-links" : [ "https://github.com/blokcrafters", "https://t.me/joinchat/HDZLJxcf_PQELN3dctZ_iA", "https://twitter.com/BrandonDickey16", "https://twitter.com/NKerkinni", "https://twitter.com/blokcrafters", "https://www.linkedin.com/in/dan-dickey-2b600236", "https://www.linkedin.com/in/fuat-kerkinni" ],
     "social-links-count" : 7,
@@ -35,13 +36,14 @@
       "title" : "bp-json",
       "url" : "https://www.blokcrafters.com/bp.json"
     }, {
-      "title" : "no-coc",
-      "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://blokcrafters.com/#conduct"
     } ],
-    "score" : 2,
+    "score" : 3,
     "max" : 3
   },
   "place" : 555,
-  "snapshot-date" : "2019-08-01T01:27:20.259Z"
+  "snapshot-date" : "2019-08-02T01:26:25.103Z"
 }
