@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "certikeosorg",
-    "total_votes" : "991983720261210112.00000000000000000",
+    "total_votes" : "947421326120820480.00000000000000000",
     "producer_key" : "EOS57kRcpx1QT4Wn4uA6agwYdJNGew4cfrzKnzrvQZiVE85huUBAB",
     "is_active" : 1,
     "url" : "https://certik.org",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-08-01T22:19:35.500",
+    "last_claim_time" : "2019-08-02T22:20:37.000",
     "location" : 840,
     "prepared-url" : "https://certik.org"
   },
@@ -16,15 +16,14 @@
     "code_of_conduct" : "https://certik.org/eos"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 13,
+    "relative-links-count" : 6,
     "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/CertiKProject", "https://medium.com/certik", "https://t.me/certikorg", "https://twitter.com/certikorg", "https://www.linkedin.com/company/certik/", "https://www.youtube.com/channel/UCCcFr6FTUeWDIqUdY8i1W5w" ],
-    "social-links-count" : 6,
+    "social-links" : [ ],
     "popularity-boosters" : [ "http://www.cointime.com/news/blockchain/11333.html", "https://cointelegraph.com/news/ethereum-foundation-funds-columbia-yale-researchers-work-on-smart-contract-language", "https://ocr.yale.edu/news/yale-technology-could-fix-blockchain-s-security-issues-and-make-it-lot-more-viable" ],
     "popularity-boosters-count" : 3
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.015129670214324268,
+  "vote-percentage" : 0.014353900568538394,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +44,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 25,
-  "snapshot-date" : "2019-08-02T01:26:25.103Z"
+  "place" : 27,
+  "snapshot-date" : "2019-08-03T01:27:02.697Z"
 }

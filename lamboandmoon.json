@@ -11,37 +11,31 @@
     "prepared-url" : "http://lamboandmoon.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "dl-error" : "lamboandmoon.io",
     "url" : "http://lamboandmoon.io/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 2,
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 4.879976377535685E-7,
+  "webpage-error" : "lamboandmoon.io: Name or service not known",
+  "vote-percentage" : 4.847519670797927E-7,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "http://lamboandmoon.io"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "lamboandmoon.io: Name or service not known",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://lamboandmoon.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "error" : "lamboandmoon.io"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
   "place" : 290,
-  "snapshot-date" : "2019-08-02T01:26:25.103Z"
+  "snapshot-date" : "2019-08-03T01:27:02.697Z"
 }

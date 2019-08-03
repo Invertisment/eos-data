@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosgenblockp",
-    "total_votes" : "422838893004643456.00000000000000000",
+    "total_votes" : "423047637781431488.00000000000000000",
     "producer_key" : "EOS6y277mUAuj1Pn3uUiqmDTME2ujhRCVQtw6pCQ8q3uFfwEVjoJ1",
     "is_active" : 1,
     "url" : "https://www.genesis-mining.com/eos",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-08-01T21:01:31.500",
+    "last_claim_time" : "2019-08-02T21:01:32.000",
     "location" : 352,
     "prepared-url" : "https://www.genesis-mining.com/eos"
   },
@@ -21,7 +21,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.006449110881845548,
+  "vote-percentage" : 0.006409380453079784,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -43,5 +43,5 @@
     "max" : 3
   },
   "place" : 57,
-  "snapshot-date" : "2019-08-02T01:26:25.103Z"
+  "snapshot-date" : "2019-08-03T01:27:02.697Z"
 }
