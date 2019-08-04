@@ -15,22 +15,14 @@
     "logo" : "https://cdn.steemitimages.com/DQmQ8JCcBm68wpZovR4bKP5FmDXgXnTgSeNfMRdXhJeEG3N/eosoceaniabp-256x256.png",
     "code_of_conduct" : "https://www.eosoceania.io/code-of-conduct"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 8,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://discord.gg/eAdBZBv", "https://keybase.io/eosoceania", "https://medium.com/@eosoceania", "https://meetup.com/eosauckland", "https://reddit.com/user/eosoceania", "https://steemit.com/@eosbpnews", "https://steemit.com/@eosoceania", "https://t.me/joinchat/IB6xJg7tmo7v4knEJyQRSw", "https://twitter.com/@eosoceania", "https://twitter.com/eosoceania", "https://www.facebook.com/pg/EOS-Oceania-2195345297362648", "https://www.linkedin.com/company/eosoceania/", "https://www.meetup.com/eosauckland/", "https://www.youtube.com/channel/UCXdy_ey_cyZwuf8bvuymhmA" ],
-    "social-links-count" : 14,
-    "popularity-boosters" : [ "http://info@eosoceania.io", "http://www.eoslist.io", "https://eos-api-list.herokuapp.com", "https://eosplorer.herokuapp.com" ],
-    "popularity-boosters-count" : 4
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.4380791224698465E-6,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 1.4337962879499978E-6,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://www.eosoceania.io"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -42,9 +34,9 @@
       "title" : "coc",
       "url" : "https://www.eosoceania.io/code-of-conduct"
     } ],
-    "score" : 3,
+    "score" : 2,
     "max" : 3
   },
   "place" : 247,
-  "snapshot-date" : "2019-08-03T01:27:02.697Z"
+  "snapshot-date" : "2019-08-04T01:27:08.192Z"
 }
