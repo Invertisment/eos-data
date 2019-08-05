@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "stakingeosbp",
-    "total_votes" : "358095113668034880.00000000000000000",
+    "total_votes" : "355981439867231808.00000000000000000",
     "producer_key" : "EOS5qRrHJsVLU1ZvG6A3Em35n9hZzt8JBCDaBScz3EodTbgejMUR9",
     "is_active" : 1,
     "url" : "https://www.stakingbp.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-08-03T16:54:57.500",
+    "last_claim_time" : "2019-08-04T16:54:58.500",
     "location" : 392,
     "prepared-url" : "https://www.stakingbp.com"
   },
@@ -15,7 +15,7 @@
     "url" : "https://www.stakingbp.com/bp.json"
   },
   "webpage-error" : "connect timed out",
-  "vote-percentage" : 0.005409160181642691,
+  "vote-percentage" : 0.005360978185582002,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 71,
-  "snapshot-date" : "2019-08-04T01:27:08.192Z"
+  "snapshot-date" : "2019-08-05T01:27:08.660Z"
 }
