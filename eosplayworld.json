@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosplayworld",
-    "total_votes" : "305541634264175808.00000000000000000",
+    "total_votes" : "167191282732732928.00000000000000000",
     "producer_key" : "EOS8hzGgYc4am5twGS84kopk5uz4vChhHrCDRV4H6FPtREehzKvTk",
     "is_active" : 1,
     "url" : "http://eosplay.world",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-08-04T05:25:07.500",
+    "last_claim_time" : "2019-08-05T05:25:18.000",
     "location" : 0,
     "prepared-url" : "http://eosplay.world"
   },
@@ -20,7 +20,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.004601369208148145,
+  "vote-percentage" : 0.0025004040167981166,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -40,6 +40,6 @@
     "score" : 2,
     "max" : 3
   },
-  "place" : 90,
-  "snapshot-date" : "2019-08-05T01:27:08.660Z"
+  "place" : 96,
+  "snapshot-date" : "2019-08-06T01:27:21.149Z"
 }

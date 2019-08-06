@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosisgravity",
-    "total_votes" : "378247831470831232.00000000000000000",
+    "total_votes" : "378753665664128320.00000000000000000",
     "producer_key" : "EOS8UFLCQ8n2PzbKFv8CU87fQKXeyNXr3fn2oMwFayEYyCpkFG3YF",
     "is_active" : 1,
     "url" : "http://eosgravity.com",
@@ -16,15 +16,13 @@
     "code_of_conduct" : "https://steemit.com/eosgravity/@eosgravity/eos-gravity-code-of-conduct"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 5,
+    "relative-links-count" : 1,
     "duplicate-urls" : null,
-    "social-links" : [ "http://www.facebook.com/share.php?u=http%3A%2F%2Feosgravity.com%2F", "https://plus.google.com/share?url=http%3A%2F%2Feosgravity.com%2F", "https://steemit.com/eosgravity/@eosgravity/dividend-statement-and-investor-disclaimer-eos-gravity" ],
-    "social-links-count" : 3,
-    "popularity-boosters" : [ "http://facebook.com", "http://linkedin.com", "https://www.bishijie.com", "https://www.coinness.com", "https://www.shenliancaijing.com" ],
-    "popularity-boosters-count" : 5
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.005696303644412224,
+  "vote-percentage" : 0.005664393331544105,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -46,5 +44,5 @@
     "max" : 3
   },
   "place" : 64,
-  "snapshot-date" : "2019-08-05T01:27:08.660Z"
+  "snapshot-date" : "2019-08-06T01:27:21.149Z"
 }
