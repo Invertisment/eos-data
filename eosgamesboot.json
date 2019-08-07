@@ -11,11 +11,11 @@
     "prepared-url" : "http://eos.games"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 403",
+    "dl-error" : "connect timed out",
     "url" : "http://eos.games/bp.json"
   },
   "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 7.759315648699798E-6,
+  "vote-percentage" : 7.725325189214953E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -27,7 +27,7 @@
       "mood" : "warn",
       "url" : "http://eos.games/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 403"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 186,
-  "snapshot-date" : "2019-08-06T01:27:21.149Z"
+  "place" : 184,
+  "snapshot-date" : "2019-08-07T01:26:24.823Z"
 }

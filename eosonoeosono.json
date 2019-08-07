@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosonoeosono",
-    "total_votes" : "8873627473019911.00000000000000000",
+    "total_votes" : "8871192476391155.00000000000000000",
     "producer_key" : "EOS5AHfFwaJxjMPkrufw4aCTFvJJUVgpwqwvghhYrFahik7oxaXah",
     "is_active" : 1,
     "url" : "https://ono.chat",
@@ -11,40 +11,31 @@
     "prepared-url" : "https://ono.chat"
   },
   "bp-json-summary" : {
-    "url" : "https://ono.chat/bp.json",
-    "logo" : "",
-    "code_of_conduct" : "https://steemit.com/eos/@onosocial/eosono-official-eos-block-producer-candidacy-for-ono"
+    "dl-error" : "connect timed out",
+    "url" : "https://ono.chat/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 20,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/ONODevTeam/ONOChain", "https://steemit.com/@onosocial", "https://steemit.com/eos/@onosocial/eosono-official-eos-block-producer-candidacy-for-ono", "https://t.me/ONOUS", "https://twitter.com/ONOsocial", "https://www.reddit.com/user/onosocial" ],
-    "social-links-count" : 6,
-    "popularity-boosters" : [ "http://m.people.cn/%2Fn4%2F2018%2F0905%2Fc28-11557870.html", "http://www.huoxing24.com/newsdetail/20180820215227997115.html?from=timeline&isappinstalled=0", "http://www.onoico.com", "https://fir.im/ONOInHouse", "https://pic.joinono.com/apk/ono_v2.5.0_pro.apk", "https://www.bishijie.com/shendu_13374?packetbit=android_bishijie_cn&version=2.4.5", "https://www.bishijie.com/shendu_15422?packetbit=ios_bishijie_cn&version=2.4.5&client=iOS&r=a1546076577650", "https://www.huoxing24.com/newsdetail/20181211162507548139.html", "https://www.joinono.com/", "https://www.joinono.com/write", "join/index.html?item=0&idx=0", "join/index.html?item=1&idx=0", "join/index.html?item=2&idx=0", "join/index.html?item=3&idx=0", "join/index.html?item=4&idx=0" ],
-    "popularity-boosters-count" : 15
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.3270819754746208E-4,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 1.320905992941579E-4,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://ono.chat"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "connect timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://ono.chat/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://ono.chat/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "connect timed out"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://steemit.com/eos/@onosocial/eosono-official-eos-block-producer-candidacy-for-ono"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 117,
-  "snapshot-date" : "2019-08-06T01:27:21.149Z"
+  "place" : 118,
+  "snapshot-date" : "2019-08-07T01:26:24.823Z"
 }

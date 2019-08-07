@@ -1,0 +1,41 @@
+{
+  "bp-header" : {
+    "owner" : "yingzhicloud",
+    "total_votes" : "1996239240.94940805435180664",
+    "producer_key" : "EOS8XjrRBJefc5FCFsKo4dUi43CS4Sex7Ec5v5fVuep9rVL6ee2Sc",
+    "is_active" : 1,
+    "url" : "http://mainnet.doteos.com",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-08-06T07:23:21.000",
+    "location" : 0,
+    "prepared-url" : "http://mainnet.doteos.com"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "mainnet.doteos.com",
+    "url" : "http://mainnet.doteos.com/bp.json"
+  },
+  "webpage-error" : "mainnet.doteos.com: Temporary failure in name resolution",
+  "vote-percentage" : 2.9723674508614685E-11,
+  "scoring" : {
+    "comp" : [ {
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "mainnet.doteos.com: Temporary failure in name resolution",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://mainnet.doteos.com/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "mainnet.doteos.com"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 534,
+  "snapshot-date" : "2019-08-07T01:26:24.823Z"
+}

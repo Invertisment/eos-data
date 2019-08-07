@@ -11,23 +11,23 @@
     "prepared-url" : "http://www.eosvip.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 403",
+    "dl-error" : "www.eosvip.io",
     "url" : "http://www.eosvip.io/bp.json"
   },
-  "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 6.796305387439073E-9,
+  "webpage-error" : "www.eosvip.io: Name or service not known",
+  "vote-percentage" : 6.7665334908727705E-9,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "clj-http: status 403",
+      "error" : "www.eosvip.io: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://www.eosvip.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 403"
+      "error" : "www.eosvip.io"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 416,
-  "snapshot-date" : "2019-08-06T01:27:21.149Z"
+  "snapshot-date" : "2019-08-07T01:26:24.823Z"
 }
