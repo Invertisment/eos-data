@@ -1,9 +1,9 @@
 {
   "bp-header" : {
     "owner" : "eosuestciobp",
-    "total_votes" : "877494596186695.25000000000000000",
-    "producer_key" : "EOS6oYd5Zj5d12aXKFS8xCY8cPgtkfCvbEo1v1dWK6ein1eAqcExS",
-    "is_active" : 1,
+    "total_votes" : "877494596208395.87500000000000000",
+    "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
+    "is_active" : 0,
     "url" : "http://www.eosuesct.io",
     "unpaid_blocks" : 0,
     "last_claim_time" : "2019-08-06T09:52:26.000",
@@ -15,7 +15,7 @@
     "url" : "http://www.eosuesct.io/bp.json"
   },
   "webpage-error" : "www.eosuesct.io: Temporary failure in name resolution",
-  "vote-percentage" : 1.3065750449689029E-5,
+  "vote-percentage" : 1.3589129766806026E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 165,
-  "snapshot-date" : "2019-08-07T01:26:24.823Z"
+  "place" : 161,
+  "snapshot-date" : "2019-08-08T01:26:04.081Z"
 }
