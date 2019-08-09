@@ -1,19 +1,19 @@
 {
   "bp-header" : {
     "owner" : "cryptolions1",
-    "total_votes" : "514469238665966592.00000000000000000",
+    "total_votes" : "513658435309800896.00000000000000000",
     "producer_key" : "EOS5yHaUBwhpwFftNjADdVwBpCVybLPg5P3z7HpTbDGjUfpqwWSSf",
     "is_active" : 1,
     "url" : "https://cryptolions.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-08-07T21:02:58.000",
+    "last_claim_time" : "2019-08-08T21:03:00.000",
     "location" : 804,
     "prepared-url" : "https://cryptolions.io"
   },
   "bp-json-summary" : {
     "url" : "https://cryptolions.io/bp.json",
     "logo" : "https://imgs.cryptolions.io/logo_256.png",
-    "code_of_conduct" : "https://steemit.com/eos/@cryptolions/updated-crytpolions-code-of-conduct"
+    "code_of_conduct" : "https://cryptolions.io/code-of-conduct/"
   },
   "analyzed-urls" : {
     "relative-links-count" : 3,
@@ -24,7 +24,7 @@
     "popularity-boosters-count" : 20
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.007967216294516513,
+  "vote-percentage" : 0.007523191483440176,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -40,11 +40,11 @@
       "score" : "positive",
       "mood" : "good",
       "title" : "coc",
-      "url" : "https://steemit.com/eos/@cryptolions/updated-crytpolions-code-of-conduct"
+      "url" : "https://cryptolions.io/code-of-conduct/"
     } ],
     "score" : 3,
     "max" : 3
   },
-  "place" : 46,
-  "snapshot-date" : "2019-08-08T01:26:04.081Z"
+  "place" : 50,
+  "snapshot-date" : "2019-08-09T01:26:18.590Z"
 }

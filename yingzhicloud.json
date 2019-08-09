@@ -2,8 +2,8 @@
   "bp-header" : {
     "owner" : "yingzhicloud",
     "total_votes" : "1996239240.94940805435180664",
-    "producer_key" : "EOS8XjrRBJefc5FCFsKo4dUi43CS4Sex7Ec5v5fVuep9rVL6ee2Sc",
-    "is_active" : 1,
+    "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
+    "is_active" : 0,
     "url" : "http://mainnet.doteos.com",
     "unpaid_blocks" : 0,
     "last_claim_time" : "2019-08-06T07:23:21.000",
@@ -15,7 +15,7 @@
     "url" : "http://mainnet.doteos.com/bp.json"
   },
   "webpage-error" : "mainnet.doteos.com: Temporary failure in name resolution",
-  "vote-percentage" : 2.9723674508614685E-11,
+  "vote-percentage" : 2.9237503025452826E-11,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 534,
-  "snapshot-date" : "2019-08-07T01:26:24.823Z"
+  "place" : 535,
+  "snapshot-date" : "2019-08-09T01:26:18.590Z"
 }

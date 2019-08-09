@@ -15,15 +15,15 @@
     "url" : "https://prospectors.io/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 10,
+    "relative-links-count" : 11,
     "duplicate-urls" : null,
-    "social-links" : [ "https://bitcointalk.org/index.php?topic=1877080.0", "https://discord.gg/GhxG4C", "https://medium.com/@prospectorsgame", "https://medium.com/@prospectorsgame/prospectors-testing-in-the-jungle-is-launched-d485fc4ea008", "https://t.me/prospectors", "https://t.me/prospectorsgame", "https://twitter.com/prospectorsgame", "https://www.reddit.com/r/Prospectorsio/", "https://www.youtube.com/channel/UCJ07CHIqC2LBS3al0G7s0dA/featured" ],
-    "social-links-count" : 9,
-    "popularity-boosters" : [ "https://bihu.com/article/1994742535", "https://cryptolions.io/", "https://dappradar.com/", "https://eos.io/", "https://eosdaq.com/exchange/PGL_EOS", "https://eospark.com/", "https://get-scatter.com/", "https://newdex.io/trade/PGL_EOS", "https://www.mytokenpocket.vip/" ],
-    "popularity-boosters-count" : 9
+    "social-links" : [ "https://bitcointalk.org/index.php?topic=1877080.0", "https://medium.com/@prospectorsgame", "https://medium.com/@prospectorsgame/prospectors-testing-in-the-jungle-is-launched-d485fc4ea008", "https://t.me/prospectors", "https://t.me/prospectorsgame", "https://twitter.com/prospectorsgame", "https://www.reddit.com/r/Prospectorsio/", "https://www.youtube.com/channel/UCJ07CHIqC2LBS3al0G7s0dA/featured" ],
+    "social-links-count" : 8,
+    "popularity-boosters" : [ "https://bihu.com/article/1994742535", "https://cryptolions.io/", "https://dappradar.com/", "https://discordapp.com/invite/3HdcTRA", "https://eos.io/", "https://eosdaq.com/exchange/PGL_EOS", "https://eospark.com/", "https://get-scatter.com/", "https://newdex.io/trade/PGL_EOS", "https://www.mytokenpocket.vip/" ],
+    "popularity-boosters-count" : 10
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.311611740376677E-5,
+  "vote-percentage" : 2.186227674915368E-5,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -44,6 +44,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 148,
-  "snapshot-date" : "2019-08-08T01:26:04.081Z"
+  "place" : 152,
+  "snapshot-date" : "2019-08-09T01:26:18.590Z"
 }
