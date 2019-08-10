@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosbeijingbp",
-    "total_votes" : "1173163086669148416.00000000000000000",
+    "total_votes" : "1172741063926984192.00000000000000000",
     "producer_key" : "EOS5dGpcEhwB4VEhhXEcqtZs9EQj5HeetuXDnsAGVHMXHAFdMjbdj",
     "is_active" : 1,
     "url" : "https://www.eosbeijing.one",
-    "unpaid_blocks" : 4140,
-    "last_claim_time" : "2019-08-08T13:16:52.500",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-08-09T13:16:53.000",
     "location" : 392,
     "prepared-url" : "https://www.eosbeijing.one"
   },
@@ -24,7 +24,7 @@
     "popularity-boosters-count" : 8
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.017182489248896645,
+  "vote-percentage" : 0.017182243759987923,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +45,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 19,
-  "snapshot-date" : "2019-08-09T01:26:18.590Z"
+  "place" : 22,
+  "snapshot-date" : "2019-08-10T01:26:36.280Z"
 }

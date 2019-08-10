@@ -11,23 +11,23 @@
     "prepared-url" : "http://sixpark.club/"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "Connection refused (Connection refused)",
     "url" : "http://sixpark.club/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 1.5364556511155025E-6,
+  "webpage-error" : "Connection refused (Connection refused)",
+  "vote-percentage" : 1.5369866007518685E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "Connection refused (Connection refused)",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://sixpark.club/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "Connection refused (Connection refused)"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 245,
-  "snapshot-date" : "2019-08-09T01:26:18.590Z"
+  "snapshot-date" : "2019-08-10T01:26:36.280Z"
 }

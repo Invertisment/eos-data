@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosiomeetone",
-    "total_votes" : "1235305452367879936.00000000000000000",
+    "total_votes" : "1233728792085029376.00000000000000000",
     "producer_key" : "EOS5gS4ZtanRS2Jx4vpjAQaVNci3v65iZiGCgMr9DNwu67x2pt8Qd",
     "is_active" : 1,
     "url" : "https://meet.one",
-    "unpaid_blocks" : 8175,
-    "last_claim_time" : "2019-08-08T01:29:10.500",
+    "unpaid_blocks" : 8171,
+    "last_claim_time" : "2019-08-09T01:29:22.000",
     "location" : 702,
     "prepared-url" : "https://meet.one"
   },
@@ -18,13 +18,13 @@
   "analyzed-urls" : {
     "relative-links-count" : 5,
     "duplicate-urls" : null,
-    "social-links" : [ "https://t.me/MeetOneEnglish", "https://twitter.com/MeetDotOne" ],
-    "social-links-count" : 2,
+    "social-links" : [ "https://t.me/MeetOneEnglish", "https://twitter.com/MeetDotOne", "https://weibo.com/6510394345", "https://www.facebook.com/meetoneportal", "https://www.youtube.com/channel/UCQAMbrql3D6YGSr__pBKe3Q?view_as=subscriber" ],
+    "social-links-count" : 5,
     "popularity-boosters" : [ "http://listofbp.sg.mikecrm.com/mo3dD1b", "http://more.one/download.html?language=en", "http://sg.mikecrm.com/d33UaXy", "https://meetone.eosx.io/", "https://www.eosx.io/tools/vote?voteTo=eosiomeetone" ],
     "popularity-boosters-count" : 5
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.018092644488737212,
+  "vote-percentage" : 0.018075796517551,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +45,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 11,
-  "snapshot-date" : "2019-08-09T01:26:18.590Z"
+  "place" : 13,
+  "snapshot-date" : "2019-08-10T01:26:36.280Z"
 }

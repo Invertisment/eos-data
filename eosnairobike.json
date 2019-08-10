@@ -1,41 +1,50 @@
 {
   "bp-header" : {
     "owner" : "eosnairobike",
-    "total_votes" : "404664654344146880.00000000000000000",
+    "total_votes" : "399269771473411584.00000000000000000",
     "producer_key" : "EOS8AUQK2XQo9StudQqDFn1riSHKaDwXiUjDPNGtDad6hLd2PnDGc",
     "is_active" : 1,
     "url" : "https://www.eosnairobi.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-08-08T19:50:48.500",
+    "last_claim_time" : "2019-08-09T19:50:51.500",
     "location" : 404,
     "prepared-url" : "https://www.eosnairobi.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "www.eosnairobi.io",
-    "url" : "https://www.eosnairobi.io/bp.json"
+    "url" : "https://www.eosnairobi.io/bp.json",
+    "logo" : "https://www.eosnairobi.io/eosnairobi256.png",
+    "code_of_conduct" : "https://steemit.com/eos/@eosnairobi/eosnairobi-block-producer-code-of-conduct-v1-0"
   },
-  "webpage-error" : "www.eosnairobi.io: Name or service not known",
-  "vote-percentage" : 0.005926836730277794,
+  "analyzed-urls" : {
+    "relative-links-count" : 7,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://medium.com/@eosnairobi/eos-nairobi-ownership-structure-and-disclosure-edd05ac4a07f", "https://t.me/eosnairobi", "https://twitter.com/EosNairobii", "https://twitter.com/eosnairobi", "https://www.medium.com/eosnairobi", "https://www.youtube.com/results?search_query=eos+nairobi", "https://www.youtube.com/watch?v=VIKD-spcC-U" ],
+    "social-links-count" : 7,
+    "popularity-boosters" : [ "https://bit.ly/2FAHvOD", "https://blog.usejournal.com/why-i-think-eos-will-transform-the-african-continent-623b9e00d76", "https://eosnairobi.io", "https://github.com/", "https://www.eosstudio.io/", "https://www.techbullion.com/snax-launches-an-innovative-blockchain-social-overlay-cryptocurrency-system/" ],
+    "popularity-boosters-count" : 6
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.0058498425189262085,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "www.eosnairobi.io: Name or service not known",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://www.eosnairobi.io"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://www.eosnairobi.io/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "www.eosnairobi.io"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://www.eosnairobi.io/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/eos/@eosnairobi/eosnairobi-block-producer-code-of-conduct-v1-0"
     } ],
-    "score" : 0,
+    "score" : 3,
     "max" : 3
   },
   "place" : 60,
-  "snapshot-date" : "2019-08-09T01:26:18.590Z"
+  "snapshot-date" : "2019-08-10T01:26:36.280Z"
 }

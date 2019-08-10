@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosninetiess",
-    "total_votes" : "443627224213981.87500000000000000",
+    "total_votes" : "439552790219316.37500000000000000",
     "producer_key" : "EOS7eMeo7dgG42NQPy4x45X2VhG8T3gjnwuSdsoGeGzz1w3Hwrr7m",
     "is_active" : 1,
     "url" : "http://www.eos90s.io/",
@@ -11,36 +11,31 @@
     "prepared-url" : "http://www.eos90s.io/"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "dl-error" : "connect timed out",
     "url" : "http://www.eos90s.io/bp.json"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 6.497493909578073E-6,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 6.440043262100145E-6,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "http://www.eos90s.io/"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "connect timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://www.eos90s.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 193,
-  "snapshot-date" : "2019-08-09T01:26:18.590Z"
+  "place" : 194,
+  "snapshot-date" : "2019-08-10T01:26:36.280Z"
 }
