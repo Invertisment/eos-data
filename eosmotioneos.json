@@ -1,33 +1,33 @@
 {
   "bp-header" : {
     "owner" : "eosmotioneos",
-    "total_votes" : "315575371395928064.00000000000000000",
+    "total_votes" : "315520550838747072.00000000000000000",
     "producer_key" : "EOS5JEphcJgHbvVqnKwz93Buq5SUCkkZkgwdiTbXfgF8steHpJuj4",
     "is_active" : 1,
     "url" : "https://project.motion.one",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-08-09T16:00:16.000",
+    "last_claim_time" : "2019-08-10T16:00:44.500",
     "location" : 0,
     "prepared-url" : "https://project.motion.one"
   },
   "bp-json-summary" : {
-    "dl-error" : "Connection refused (Connection refused)",
+    "dl-error" : "project.motion.one",
     "url" : "https://project.motion.one/bp.json"
   },
-  "webpage-error" : "Connection refused (Connection refused)",
-  "vote-percentage" : 0.00462360628681043,
+  "webpage-error" : "project.motion.one: Name or service not known",
+  "vote-percentage" : 0.004597968900682826,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Connection refused (Connection refused)",
+      "error" : "project.motion.one: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://project.motion.one/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Connection refused (Connection refused)"
+      "error" : "project.motion.one"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 86,
-  "snapshot-date" : "2019-08-10T01:26:36.280Z"
+  "place" : 87,
+  "snapshot-date" : "2019-08-11T01:26:39.905Z"
 }
