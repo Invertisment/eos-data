@@ -11,7 +11,7 @@
     "prepared-url" : "http://mixbytes.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "dl-error" : "Read timed out",
     "url" : "http://mixbytes.io/bp.json"
   },
   "analyzed-urls" : {
@@ -23,7 +23,7 @@
     "popularity-boosters-count" : 4
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 6.004551736920525E-7,
+  "vote-percentage" : 5.986125246313529E-7,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -35,7 +35,7 @@
       "mood" : "warn",
       "url" : "http://mixbytes.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "error" : "Read timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -45,5 +45,5 @@
     "max" : 3
   },
   "place" : 278,
-  "snapshot-date" : "2019-08-11T01:26:39.905Z"
+  "snapshot-date" : "2019-08-12T01:26:09.048Z"
 }
