@@ -1,18 +1,18 @@
 {
   "bp-header" : {
     "owner" : "eossnzpoolbp",
-    "total_votes" : "429657508607204544.00000000000000000",
+    "total_votes" : "475698181764571392.00000000000000000",
     "producer_key" : "EOS6gQeftj3V2yuGdxAJcNfNAw2PpsjftYK4PrmW6uob6xgYcQHKw",
     "is_active" : 1,
     "url" : "http://snzholding.com/",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-08-11T19:49:12.000",
+    "last_claim_time" : "2019-08-12T19:50:13.500",
     "location" : 1,
     "prepared-url" : "http://snzholding.com/"
   },
   "bp-json-summary" : {
-    "read-error" : "read:'http://snzholding.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
-    "url" : "http://snzholding.com/bp.json"
+    "url" : "http://snzholding.com/bp.json",
+    "logo" : "https://snzholding.com/images/snz-logo-256.png"
   },
   "analyzed-urls" : {
     "duplicate-urls" : null,
@@ -20,7 +20,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.006242032016983453,
+  "vote-percentage" : 0.007056456719714224,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -28,19 +28,18 @@
       "title" : "web",
       "url" : "http://snzholding.com/"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "http://snzholding.com/bp.json",
-      "paragraphs" : [ "bp-json-invalid" ],
-      "error" : "read:'http://snzholding.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "http://snzholding.com/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "title" : "no-coc",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
     } ],
-    "score" : 1,
+    "score" : 2,
     "max" : 3
   },
-  "place" : 58,
-  "snapshot-date" : "2019-08-12T01:26:09.048Z"
+  "place" : 51,
+  "snapshot-date" : "2019-08-13T01:26:12.101Z"
 }

@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "hashfineosio",
-    "total_votes" : "283242101014690112.00000000000000000",
+    "total_votes" : "338724582968824448.00000000000000000",
     "producer_key" : "EOS7jSfvStvbKDmGvQdtrQsCyNkWczXfvh6CHmBVmeypJyHsUrMqj",
     "is_active" : 1,
     "url" : "https://www.hashfin.com",
@@ -11,31 +11,38 @@
     "prepared-url" : "https://www.hashfin.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 525",
+    "dl-error" : "clj-http: status 404",
     "url" : "https://www.hashfin.com/bp.json"
   },
-  "webpage-error" : "clj-http: status 525",
-  "vote-percentage" : 0.004114919971543379,
+  "analyzed-urls" : {
+    "relative-links-count" : 6,
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ "http://www.hicoin.com", "http://www.nodecap.com/", "https://hashfin.zendesk.com/hc/zh-cn/articles/360033230594-%E5%85%AC%E5%8F%B8%E4%BB%8B%E7%BB%8D", "https://hashfin.zendesk.com/hc/zh-cn/articles/360033230674-%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC", "https://hashfin.zendesk.com/hc/zh-cn/articles/360033761473-%E9%9A%90%E7%A7%81%E6%94%BF%E7%AD%96", "https://hashfin.zendesk.com/hc/zh-cn/articles/360033761493-%E7%94%A8%E6%88%B7%E5%8D%8F%E8%AE%AE", "https://hashfin.zendesk.com/hc/zh-cn/sections/360004957734-HashFin%E5%85%AC%E5%91%8A", "https://iost.io/", "https://tnb.fund/", "https://www.biki.com/", "https://www.chainup.com", "https://www.jinse.com/", "https://www.pchain.org/cn" ],
+    "popularity-boosters-count" : 13
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.0050246047835551646,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "clj-http: status 525",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://www.hashfin.com"
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://www.hashfin.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 525"
+      "error" : "clj-http: status 404"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 0,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 88,
-  "snapshot-date" : "2019-08-12T01:26:09.048Z"
+  "place" : 74,
+  "snapshot-date" : "2019-08-13T01:26:12.101Z"
 }

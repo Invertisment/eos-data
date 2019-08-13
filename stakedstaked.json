@@ -11,40 +11,31 @@
     "prepared-url" : "https://staked.us"
   },
   "bp-json-summary" : {
-    "url" : "https://staked.us/bp.json",
-    "logo" : "https://staked.us/static/i/fav/logo_256.png",
-    "code_of_conduct" : "https://staked.us/eos-code-of-conduct/"
+    "dl-error" : "staked.us",
+    "url" : "https://staked.us/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 12,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/stakedllc/" ],
-    "social-links-count" : 1,
-    "popularity-boosters" : [ "https://calendly.com/staked/staked-intro-call", "https://staked.zendesk.com/hc/en-us/sections/360003636772-FAQ" ],
-    "popularity-boosters-count" : 2
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 5.22253735909401E-6,
+  "webpage-error" : "staked.us: Temporary failure in name resolution",
+  "vote-percentage" : 5.3325281897980286E-6,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://staked.us"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "staked.us: Temporary failure in name resolution",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://staked.us/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://staked.us/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "staked.us"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://staked.us/eos-code-of-conduct/"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 0,
     "max" : 3
   },
   "place" : 199,
-  "snapshot-date" : "2019-08-12T01:26:09.048Z"
+  "snapshot-date" : "2019-08-13T01:26:12.101Z"
 }

@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eoscybexiobp",
-    "total_votes" : "235512501295999168.00000000000000000",
+    "total_votes" : "130017822846842576.00000000000000000",
     "producer_key" : "EOS5dN7CQRh98Ecx4mZNgq9DWLFJALPGmaFuuG3MYCRrVfUmDTV45",
     "is_active" : 1,
     "url" : "https://eos.cybex.io/",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-08-11T16:00:02.500",
+    "last_claim_time" : "2019-08-12T16:01:03.000",
     "location" : 0,
     "prepared-url" : "https://eos.cybex.io/"
   },
@@ -21,7 +21,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.0034215079314101698,
+  "vote-percentage" : 0.0019286706884330286,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -42,6 +42,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 92,
-  "snapshot-date" : "2019-08-12T01:26:09.048Z"
+  "place" : 94,
+  "snapshot-date" : "2019-08-13T01:26:12.101Z"
 }

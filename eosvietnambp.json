@@ -1,8 +1,8 @@
 {
   "bp-header" : {
     "owner" : "eosvietnambp",
-    "total_votes" : "5087016537181949.00000000000000000",
-    "producer_key" : "EOS7zWkFVB7Dc2f9GG9XLkvMqwPiAdFNfU4RuoYBYBiW1gK9syC7t",
+    "total_votes" : "5087018790475357.00000000000000000",
+    "producer_key" : "EOS7dmPz74vjDwZpVqYxBn56HPAwmAnyyX2xZaNMeBpSX3Cg1DG2B",
     "is_active" : 1,
     "url" : "https://eosviet.io",
     "unpaid_blocks" : 0,
@@ -24,7 +24,7 @@
     "popularity-boosters-count" : 3
   },
   "p-ram-amounts" : [ "RAM" ],
-  "vote-percentage" : 7.390379420796552E-5,
+  "vote-percentage" : 7.546030088701889E-5,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +45,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 124,
-  "snapshot-date" : "2019-08-12T01:26:09.048Z"
+  "place" : 123,
+  "snapshot-date" : "2019-08-13T01:26:12.101Z"
 }
