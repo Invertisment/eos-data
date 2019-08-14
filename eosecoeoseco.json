@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosecoeoseco",
-    "total_votes" : "4456132081718144.50000000000000000",
+    "total_votes" : "4457105964762983.00000000000000000",
     "producer_key" : "EOS57oitM7gnt9aU2eWCDrSzw4C9x3ez8nXE24mnVfZAD3EqPhFXf",
     "is_active" : 1,
     "url" : "https://eoseco.com",
@@ -11,23 +11,23 @@
     "prepared-url" : "https://eoseco.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 521",
+    "dl-error" : "eoseco.com",
     "url" : "https://eoseco.com/bp.json"
   },
-  "webpage-error" : "clj-http: status 521",
-  "vote-percentage" : 6.610179390497732E-5,
+  "webpage-error" : "eoseco.com: No address associated with hostname",
+  "vote-percentage" : 6.670088671977091E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "clj-http: status 521",
+      "error" : "eoseco.com: No address associated with hostname",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eoseco.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 521"
+      "error" : "eoseco.com"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 125,
-  "snapshot-date" : "2019-08-13T01:26:12.101Z"
+  "snapshot-date" : "2019-08-14T01:27:01.044Z"
 }

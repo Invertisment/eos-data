@@ -1,0 +1,49 @@
+{
+  "bp-header" : {
+    "owner" : "bitwireeosbp",
+    "total_votes" : "84432108.44312606751918793",
+    "producer_key" : "EOS5qLf4DxX2c2aG6dxHs5gGipBCnJXFP7VowfKnp5dAGt5UBXqGL",
+    "is_active" : 1,
+    "url" : "https://www.bitwires.com/en",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-08-13T12:07:54.000",
+    "location" : 702,
+    "prepared-url" : "https://www.bitwires.com/en"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "clj-http: status 404",
+    "url" : "https://www.bitwires.com/en/bp.json"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 4,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://t.me/joinchat/H2nfQxd_kX3rCGrmI5BHiA", "https://t.me/joinchat/HlomYkp41gOB-8lZpN7dpg", "https://twitter.com/BitwiresGlobal", "https://www.facebook.com/Bitwires" ],
+    "social-links-count" : 4,
+    "popularity-boosters" : [ "https://android-2019-1255475383.cos.ap-shanghai.myqcloud.com/beenews-bitwires.apk", "https://itunes.apple.com/cn/app/%E5%B8%81%E5%BF%AB%E6%8A%A5/id1378099384", "https://ont.io/ ", "https://tron.network/ ", "https://www.aex88.com/ ", "https://www.cointiger.one", "https://www.huobi.co", "https://www.lbank.io/", "https://www.okex.me/", "https://www.zbm.com" ],
+    "popularity-boosters-count" : 10
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 1.2635321092429634E-12,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://www.bitwires.com/en"
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://www.bitwires.com/en/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 1,
+    "max" : 3
+  },
+  "place" : 552,
+  "snapshot-date" : "2019-08-14T01:27:01.044Z"
+}

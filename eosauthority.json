@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosauthority",
-    "total_votes" : "1044512650598323584.00000000000000000",
+    "total_votes" : "1021760016103966848.00000000000000000",
     "producer_key" : "EOS4va3CTmAcAAXsT26T3EBWqYHgQLshyxsozYRgxWm9tjmy17pVV",
     "is_active" : 1,
     "url" : "https://eosauthority.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-08-12T08:29:42.000",
+    "last_claim_time" : "2019-08-13T08:29:59.500",
     "location" : 826,
     "prepared-url" : "https://eosauthority.com"
   },
@@ -16,7 +16,7 @@
     "code_of_conduct" : "https://steemit.com/eos/@eosauthority/eos-authority-roadmap-and-position-on-dividends"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 78,
+    "relative-links-count" : 77,
     "duplicate-urls" : null,
     "social-links" : [ "http://t.me/eosauthority", "https://github.com/eosauthority", "https://github.com/eosauthority/eosio-watcher-plugin", "https://telegram.me/eosauthority", "https://twitter.com/EOSauthority", "https://www.facebook.com/eosauthority", "https://www.youtube.com/watch?v=k-5aG3YuyYk" ],
     "social-links-count" : 7,
@@ -24,7 +24,7 @@
     "popularity-boosters-count" : 1
   },
   "p-ram-amounts" : [ "RAM" ],
-  "vote-percentage" : 0.015494190633229772,
+  "vote-percentage" : 0.01529070648706602,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -46,5 +46,5 @@
     "max" : 3
   },
   "place" : 24,
-  "snapshot-date" : "2019-08-13T01:26:12.101Z"
+  "snapshot-date" : "2019-08-14T01:27:01.044Z"
 }
