@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "blocksmithio",
-    "total_votes" : "266498347674751840.00000000000000000",
+    "total_votes" : "266230135880926144.00000000000000000",
     "producer_key" : "EOS6XVaKPQNJeyCdKXG3VbLD7VZZbah8jNQBafCySPgzEtnNiM7L8",
     "is_active" : 1,
     "url" : "https://eosblocksmith.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-08-13T03:33:02.000",
+    "last_claim_time" : "2019-08-14T03:35:02.500",
     "location" : 840,
     "prepared-url" : "https://eosblocksmith.io"
   },
@@ -20,11 +20,11 @@
     "duplicate-urls" : null,
     "social-links" : [ "https://github.com/eosBlockSmith", "https://medium.com/@eosBlockSmith", "https://medium.com/@eosBlockSmith/block-producer-independence-and-integrity-pledge-119f72b49131", "https://medium.com/@eosBlockSmith/eos-blocksmith-an-introduction-24f79d3d47a5", "https://medium.com/@eosBlockSmith/eos-blocksmith-disclosure-of-ownership-fcfc57fe3613", "https://steemit.com/@eosblocksmith", "https://t.me/eosBlockSmith", "https://twitter.com/eosBlockSmith", "https://www.facebook.com/eosblocksmith/", "https://www.youtube.com/channel/UC0UaoraKSMrjBQ7OH-i_XPw" ],
     "social-links-count" : 10,
-    "popularity-boosters" : [ "http://html5up.net", "https://bitbucket.org/eosblocksmith", "https://strongblock.io/" ],
-    "popularity-boosters-count" : 3
+    "popularity-boosters" : [ "http://html5up.net", "https://axonibyte.com", "https://bitbucket.org/eosblocksmith", "https://strongblock.io/" ],
+    "popularity-boosters-count" : 4
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.003988165468757261,
+  "vote-percentage" : 0.003925652042979571,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -50,5 +50,5 @@
     "max" : 3
   },
   "place" : 83,
-  "snapshot-date" : "2019-08-14T01:27:01.044Z"
+  "snapshot-date" : "2019-08-15T01:26:30.290Z"
 }

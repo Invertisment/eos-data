@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "mixbytes1234",
-    "total_votes" : "41204268939086.69531250000000000",
+    "total_votes" : "40359578359685.81250000000000000",
     "producer_key" : "EOS5K9t7VoS1yyghbtPE5nqAMEeTwRjGER2zo6L1aeaJH5FK3coLg",
     "is_active" : 1,
     "url" : "http://mixbytes.io",
@@ -15,15 +15,12 @@
     "url" : "http://mixbytes.io/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 17,
     "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/mixbytes", "https://github.com/mixbytes/audits_public/blob/master/solidity/PoA%20Consensus/audit_en.md", "https://github.com/mixbytes/storiqa_ico", "https://github.com/smartzplatform", "https://medium.com/mixbytes", "https://t.me/MixBytes", "https://t.me/darya_dao", "https://t.me/vadimbuyanov", "https://twitter.com/MixBytes", "https://www.facebook.com/mixbyteslabs/", "https://www.linkedin.com/company/mixbytes/", "https://www.linkedin.com/in/aleksey-makeyev-98471884/", "https://www.linkedin.com/in/darya-vystavkina-043b3b181/", "https://www.linkedin.com/in/sergey-prilutskiy-2a619951/", "https://www.linkedin.com/in/vadim-buyanov/" ],
-    "social-links-count" : 15,
-    "popularity-boosters" : [ "blog", "https://smartz.io/", "https://techreviewer.co/top-blockchain-development-companies-in-2019/", "https://www.goodfirms.co/companies/view/12506/mixbytes" ],
-    "popularity-boosters-count" : 4
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 6.166246206854871E-7,
+  "vote-percentage" : 5.951154279257004E-7,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -44,6 +41,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 279,
-  "snapshot-date" : "2019-08-14T01:27:01.044Z"
+  "place" : 282,
+  "snapshot-date" : "2019-08-15T01:26:30.290Z"
 }
