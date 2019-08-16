@@ -4,15 +4,15 @@
     "total_votes" : "84432108.44312606751918793",
     "producer_key" : "EOS5qLf4DxX2c2aG6dxHs5gGipBCnJXFP7VowfKnp5dAGt5UBXqGL",
     "is_active" : 1,
-    "url" : "https://www.bitwires.com/en",
+    "url" : "https://www.bitwires.com",
     "unpaid_blocks" : 0,
     "last_claim_time" : "2019-08-13T12:07:54.000",
     "location" : 702,
-    "prepared-url" : "https://www.bitwires.com/en"
+    "prepared-url" : "https://www.bitwires.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
-    "url" : "https://www.bitwires.com/en/bp.json"
+    "url" : "https://www.bitwires.com/bp.json",
+    "logo" : "https://www.bitwires.com/beekuaibao-256*256.png"
   },
   "analyzed-urls" : {
     "relative-links-count" : 4,
@@ -23,27 +23,26 @@
     "popularity-boosters-count" : 10
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.2449795659161406E-12,
+  "vote-percentage" : 1.2404237783695681E-12,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
       "mood" : "good",
       "title" : "web",
-      "url" : "https://www.bitwires.com/en"
+      "url" : "https://www.bitwires.com"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://www.bitwires.com/en/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://www.bitwires.com/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "title" : "no-coc",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
     } ],
-    "score" : 1,
+    "score" : 2,
     "max" : 3
   },
   "place" : 552,
-  "snapshot-date" : "2019-08-15T01:26:30.290Z"
+  "snapshot-date" : "2019-08-16T01:50:21.893Z"
 }

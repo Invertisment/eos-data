@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "newdex.bp",
-    "total_votes" : "1365257661049911552.00000000000000000",
+    "total_votes" : "1432637340993755392.00000000000000000",
     "producer_key" : "EOS688SnH8tQ7NiyhamiCzWXAGPDLF9S7K8ga79UBHKFgjS1MhqhB",
     "is_active" : 1,
     "url" : "https://newdex.one",
-    "unpaid_blocks" : 108,
-    "last_claim_time" : "2019-08-15T01:02:47.000",
+    "unpaid_blocks" : 240,
+    "last_claim_time" : "2019-08-16T01:02:48.000",
     "location" : 392,
     "prepared-url" : "https://newdex.one"
   },
@@ -24,7 +24,7 @@
     "popularity-boosters-count" : 4
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.020131179021338118,
+  "vote-percentage" : 0.021047412605429066,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +45,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 9,
-  "snapshot-date" : "2019-08-15T01:26:30.290Z"
+  "place" : 6,
+  "snapshot-date" : "2019-08-16T01:50:21.893Z"
 }
