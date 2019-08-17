@@ -1,45 +1,41 @@
 {
   "bp-header" : {
     "owner" : "eosplayworld",
-    "total_votes" : "149050159342722624.00000000000000000",
+    "total_votes" : "144347034197217888.00000000000000000",
     "producer_key" : "EOS8hzGgYc4am5twGS84kopk5uz4vChhHrCDRV4H6FPtREehzKvTk",
     "is_active" : 1,
     "url" : "http://eosplay.world",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-08-15T05:26:37.500",
+    "last_claim_time" : "2019-08-16T05:26:44.500",
     "location" : 0,
     "prepared-url" : "http://eosplay.world"
   },
   "bp-json-summary" : {
-    "url" : "http://eosplay.world/bp.json",
-    "logo" : ""
+    "dl-error" : "eosplay.world",
+    "url" : "http://eosplay.world/bp.json"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.0021897518044693386,
+  "webpage-error" : "eosplay.world: No address associated with hostname",
+  "vote-percentage" : 0.002110713605571391,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "http://eosplay.world"
-    }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "http://eosplay.world/bp.json"
-    }, {
-      "title" : "no-coc",
       "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "title" : "no-web",
+      "error" : "eosplay.world: No address associated with hostname",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://eosplay.world/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "eosplay.world"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 0,
     "max" : 3
   },
   "place" : 92,
-  "snapshot-date" : "2019-08-16T01:50:21.893Z"
+  "snapshot-date" : "2019-08-17T01:26:41.408Z"
 }

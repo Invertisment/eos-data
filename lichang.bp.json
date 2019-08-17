@@ -1,0 +1,46 @@
+{
+  "bp-header" : {
+    "owner" : "lichang.bp",
+    "total_votes" : "0.00000000000000000",
+    "producer_key" : "EOS6Tk5SRNSe9ecpXWCssiBwoUcjsh25qaKjnkAyoEFRkPo6DqVvx",
+    "is_active" : 1,
+    "url" : "http://lichang.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-08-16T11:00:45.000",
+    "location" : 8,
+    "prepared-url" : "http://lichang.io"
+  },
+  "bp-json-summary" : {
+    "read-error" : "read:'http://lichang.io/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "url" : "http://lichang.io/bp.json"
+  },
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.0,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://lichang.io"
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://lichang.io/bp.json",
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'http://lichang.io/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 1,
+    "max" : 3
+  },
+  "place" : 563,
+  "snapshot-date" : "2019-08-17T01:26:41.408Z"
+}

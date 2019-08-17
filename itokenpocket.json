@@ -1,22 +1,21 @@
 {
   "bp-header" : {
     "owner" : "itokenpocket",
-    "total_votes" : "401569273288727360.00000000000000000",
+    "total_votes" : "401662632386368832.00000000000000000",
     "producer_key" : "EOS8BYCigFER1XBbMqD3GjVVF5B3BmB1E1nkjJJTxPX4tmdS3YwMR",
     "is_active" : 1,
     "url" : "https://www.mytokenpocket.vip",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-08-15T04:34:38.000",
+    "last_claim_time" : "2019-08-16T04:35:40.500",
     "location" : 0,
     "prepared-url" : "https://www.mytokenpocket.vip"
   },
   "bp-json-summary" : {
-    "url" : "https://www.mytokenpocket.vip/bp.json",
-    "logo" : "https://dapp.tokenpocket.pro/token-logo/EOS_tokendapppub_TPT.png",
-    "code_of_conduct" : "https://steemit.com/tokenpocket/@tokenpocket/tokenpocket-code-of-conduct"
+    "dl-error" : "connect timed out",
+    "url" : "https://www.mytokenpocket.vip/bp.json"
   },
   "webpage-error" : "clj-http: status 500",
-  "vote-percentage" : 0.00589960483558762,
+  "vote-percentage" : 0.005873309332211198,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -24,19 +23,19 @@
       "error" : "clj-http: status 500",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://www.mytokenpocket.vip/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://www.mytokenpocket.vip/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "connect timed out"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://steemit.com/tokenpocket/@tokenpocket/tokenpocket-code-of-conduct"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 0,
     "max" : 3
   },
   "place" : 58,
-  "snapshot-date" : "2019-08-16T01:50:21.893Z"
+  "snapshot-date" : "2019-08-17T01:26:41.408Z"
 }
