@@ -14,14 +14,19 @@
     "url" : "http://eosdapp.oneeos.org/bp.json",
     "logo" : "https://cdn1.haoduobi.cn/offcial_assets/logo.png"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 4.823547344222632E-6,
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 4.76985686288506E-6,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "connect timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://eosdapp.oneeos.org/"
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -32,9 +37,9 @@
       "mood" : "bad",
       "paragraphs" : [ "value-empty" ]
     } ],
-    "score" : 1,
+    "score" : 2,
     "max" : 3
   },
   "place" : 202,
-  "snapshot-date" : "2019-08-17T01:26:41.408Z"
+  "snapshot-date" : "2019-08-18T01:26:41.280Z"
 }
