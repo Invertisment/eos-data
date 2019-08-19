@@ -11,7 +11,7 @@
     "prepared-url" : "http://btccpooleos.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "dl-error" : "connect timed out",
     "url" : "http://btccpooleos.com/bp.json"
   },
   "analyzed-urls" : {
@@ -20,7 +20,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 5.951578568732338E-6,
+  "vote-percentage" : 5.9388887949743825E-6,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -32,7 +32,7 @@
       "mood" : "warn",
       "url" : "http://btccpooleos.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -42,5 +42,5 @@
     "max" : 3
   },
   "place" : 196,
-  "snapshot-date" : "2019-08-18T01:26:41.280Z"
+  "snapshot-date" : "2019-08-19T01:26:20.903Z"
 }

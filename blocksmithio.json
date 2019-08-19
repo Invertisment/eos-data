@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "blocksmithio",
-    "total_votes" : "228924020128894720.00000000000000000",
+    "total_votes" : "228681436765357216.00000000000000000",
     "producer_key" : "EOS6XVaKPQNJeyCdKXG3VbLD7VZZbah8jNQBafCySPgzEtnNiM7L8",
     "is_active" : 1,
     "url" : "https://eosblocksmith.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-08-17T03:39:03.500",
+    "last_claim_time" : "2019-08-18T03:39:05.000",
     "location" : 840,
     "prepared-url" : "https://eosblocksmith.io"
   },
@@ -24,7 +24,7 @@
     "popularity-boosters-count" : 4
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.0033101799929756677,
+  "vote-percentage" : 0.0032996219170087064,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -49,6 +49,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 84,
-  "snapshot-date" : "2019-08-18T01:26:41.280Z"
+  "place" : 83,
+  "snapshot-date" : "2019-08-19T01:26:20.903Z"
 }
