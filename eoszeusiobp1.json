@@ -1,0 +1,41 @@
+{
+  "bp-header" : {
+    "owner" : "eoszeusiobp1",
+    "total_votes" : "0.00000000000000000",
+    "producer_key" : "EOS8kVZpbPGo211zg4NQXwmKRb5SJPcp3pU8QfT9pfULEf8yC6sic",
+    "is_active" : 1,
+    "url" : "https://eoszeus.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-08-19T04:11:21.000",
+    "location" : 0,
+    "prepared-url" : "https://eoszeus.io"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "eoszeus.io",
+    "url" : "https://eoszeus.io/bp.json"
+  },
+  "webpage-error" : "eoszeus.io: Name or service not known",
+  "vote-percentage" : 0.0,
+  "scoring" : {
+    "comp" : [ {
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "eoszeus.io: Name or service not known",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eoszeus.io/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "eoszeus.io"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 571,
+  "snapshot-date" : "2019-08-20T01:26:15.375Z"
+}

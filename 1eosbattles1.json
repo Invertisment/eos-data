@@ -11,23 +11,23 @@
     "prepared-url" : "http://eosbattles.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "eosbattles.com",
+    "dl-error" : "clj-http: status 404",
     "url" : "http://eosbattles.com/bp.json"
   },
-  "webpage-error" : "eosbattles.com: Name or service not known",
-  "vote-percentage" : 4.749199888711021E-9,
+  "webpage-error" : "clj-http: status 503",
+  "vote-percentage" : 4.735192308065369E-9,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "eosbattles.com: Name or service not known",
+      "error" : "clj-http: status 503",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://eosbattles.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "eosbattles.com"
+      "error" : "clj-http: status 404"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 416,
-  "snapshot-date" : "2019-08-19T01:26:20.903Z"
+  "place" : 417,
+  "snapshot-date" : "2019-08-20T01:26:15.375Z"
 }

@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eossv12eossv",
-    "total_votes" : "1345910201793977600.00000000000000000",
+    "total_votes" : "1427741834805795584.00000000000000000",
     "producer_key" : "EOS7fv6nadePJBdCiWyR2Ldz5YWyzJGMBkEo47zUSWFttduQhHHaa",
     "is_active" : 1,
     "url" : "https://eossiliconvalley.io",
-    "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-08-18T06:20:20.000",
+    "unpaid_blocks" : 5880,
+    "last_claim_time" : "2019-08-19T06:20:20.500",
     "location" : 840,
     "prepared-url" : "https://eossiliconvalley.io"
   },
@@ -23,7 +23,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.019420005676813127,
+  "vote-percentage" : 0.020539985144857845,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -44,6 +44,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 22,
-  "snapshot-date" : "2019-08-19T01:26:20.903Z"
+  "place" : 11,
+  "snapshot-date" : "2019-08-20T01:26:15.375Z"
 }

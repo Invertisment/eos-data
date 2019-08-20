@@ -6,7 +6,7 @@
     "is_active" : 1,
     "url" : "https://eos.csx.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-08-17T22:00:02.500",
+    "last_claim_time" : "2019-08-19T10:00:02.000",
     "location" : 276,
     "prepared-url" : "https://eos.csx.io"
   },
@@ -16,7 +16,7 @@
     "code_of_conduct" : "https://www.csx.io/constitution"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 21,
+    "relative-links-count" : 17,
     "duplicate-urls" : null,
     "social-links" : [ "https://keybase.io/csx_corp", "https://steemit.com/@csx-eos", "https://t.me/joinchat/Had_iBJnNccT1hjdlV3edw", "https://twitter.com/CSXcorp", "https://www.facebook.com/CSXCorp/", "https://www.linkedin.com/company/csx-corp/", "https://www.youtube.com/channel/UCNjucUvoiMqbVMc28-3BIMg?view_as=subscriber" ],
     "social-links-count" : 7,
@@ -24,7 +24,7 @@
     "popularity-boosters-count" : 3
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 6.077891788974812E-6,
+  "vote-percentage" : 6.059965283166543E-6,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +45,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 194,
-  "snapshot-date" : "2019-08-19T01:26:20.903Z"
+  "place" : 192,
+  "snapshot-date" : "2019-08-20T01:26:15.375Z"
 }

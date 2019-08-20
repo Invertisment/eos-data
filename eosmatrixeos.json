@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosmatrixeos",
-    "total_votes" : "73022490745721728.00000000000000000",
+    "total_votes" : "72957469443621408.00000000000000000",
     "producer_key" : "EOS7bXYArQpZTji97zpQK8CvUyef3fanEQuWHTSdiTNfZeacCi3wn",
     "is_active" : 1,
     "url" : "https://eosmatrix.co",
@@ -11,35 +11,31 @@
     "prepared-url" : "https://eosmatrix.co"
   },
   "bp-json-summary" : {
-    "url" : "https://eosmatrix.co/bp.json",
-    "logo" : ""
+    "dl-error" : "eosmatrix.co",
+    "url" : "https://eosmatrix.co/bp.json"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.0010536343233944982,
+  "webpage-error" : "eosmatrix.co: No address associated with hostname",
+  "vote-percentage" : 0.0010495912510557197,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eosmatrix.co"
-    }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://eosmatrix.co/bp.json"
-    }, {
-      "title" : "no-coc",
       "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "title" : "no-web",
+      "error" : "eosmatrix.co: No address associated with hostname",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eosmatrix.co/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "eosmatrix.co"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 96,
-  "snapshot-date" : "2019-08-19T01:26:20.903Z"
+  "place" : 95,
+  "snapshot-date" : "2019-08-20T01:26:15.375Z"
 }

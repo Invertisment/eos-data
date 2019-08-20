@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosiodetroit",
-    "total_votes" : "338058823228648768.00000000000000000",
+    "total_votes" : "334665055021925120.00000000000000000",
     "producer_key" : "EOS6cGjgMnrdsBt5zAjpvqUdPiSjHjdQdsF1tpTG8Dpz9rPitHUMd",
     "is_active" : 1,
     "url" : "https://eosdetroit.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-08-18T22:31:02.500",
+    "last_claim_time" : "2019-08-19T22:32:03.000",
     "location" : 840,
     "prepared-url" : "https://eosdetroit.io"
   },
@@ -19,10 +19,11 @@
     "relative-links-count" : 11,
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ ]
+    "popularity-boosters" : [ "http://www.faboba.com" ],
+    "popularity-boosters-count" : 1
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.004877817448330824,
+  "vote-percentage" : 0.0048146065983899625,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -44,5 +45,5 @@
     "max" : 3
   },
   "place" : 72,
-  "snapshot-date" : "2019-08-19T01:26:20.903Z"
+  "snapshot-date" : "2019-08-20T01:26:15.375Z"
 }
