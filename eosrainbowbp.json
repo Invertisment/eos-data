@@ -1,33 +1,33 @@
 {
   "bp-header" : {
     "owner" : "eosrainbowbp",
-    "total_votes" : "0.00000000000000000",
+    "total_votes" : "16943584578.41506385803222656",
     "producer_key" : "EOS72sQPpaPkN9FMH3MKXXPCtoA9zmRQZjNM973PZAXUgefpnKmUM",
     "is_active" : 1,
-    "url" : "https://rainbow.bp",
+    "url" : "840",
     "unpaid_blocks" : 0,
     "last_claim_time" : "2019-08-19T04:21:47.000",
     "location" : 0,
-    "prepared-url" : "https://rainbow.bp"
+    "prepared-url" : "http://840"
   },
   "bp-json-summary" : {
-    "dl-error" : "rainbow.bp",
-    "url" : "https://rainbow.bp/bp.json"
+    "dl-error" : "no protocol: 840/bp.json",
+    "url" : "840/bp.json"
   },
-  "webpage-error" : "rainbow.bp: Name or service not known",
-  "vote-percentage" : 0.0,
+  "webpage-error" : "Invalid argument (connect failed)",
+  "vote-percentage" : 2.4049280539002636E-10,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "rainbow.bp: Name or service not known",
+      "error" : "Invalid argument (connect failed)",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
-      "url" : "https://rainbow.bp/bp.json",
+      "url" : "840/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "rainbow.bp"
+      "error" : "no protocol: 840/bp.json"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 574,
-  "snapshot-date" : "2019-08-20T01:26:15.375Z"
+  "place" : 494,
+  "snapshot-date" : "2019-08-21T01:26:21.735Z"
 }

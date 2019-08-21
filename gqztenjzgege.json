@@ -11,31 +11,38 @@
     "prepared-url" : "https://steemit.com/@nadejde"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 503",
+    "dl-error" : "clj-http: status 404",
     "url" : "https://steemit.com/@nadejde/bp.json"
   },
-  "webpage-error" : "clj-http: status 503",
-  "vote-percentage" : 4.0981268520489546E-7,
+  "analyzed-urls" : {
+    "relative-links-count" : 71,
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ "https://blocktrades.us/?input_coin_type=eth&output_coin_type=steem", "https://developers.steem.io/", "https://recruiting.paylocity.com/recruiting/jobs/List/3288/Steemit-Inc", "https://smt.steem.io/", "https://steem.chat/home", "https://steemeconomy.com/", "https://steemitwallet.com/@nadejde", "https://steemitwallet.com/@nadejde/author-rewards", "https://steemitwallet.com/@nadejde/curation-rewards", "https://steemitwallet.com/change_password", "https://steemitwallet.com/market", "https://steemitwallet.com/recover_account_step_1", "https://steemitwallet.com/~witnesses", "https://steemprojects.com/", "https://www.gopax.co.kr/exchange/steem-krw/" ],
+    "popularity-boosters-count" : 15
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 4.043260758876853E-7,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "clj-http: status 503",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://steemit.com/@nadejde"
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://steemit.com/@nadejde/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 503"
+      "error" : "clj-http: status 404"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 0,
+    "score" : 1,
     "max" : 3
   },
   "place" : 296,
-  "snapshot-date" : "2019-08-20T01:26:15.375Z"
+  "snapshot-date" : "2019-08-21T01:26:21.735Z"
 }

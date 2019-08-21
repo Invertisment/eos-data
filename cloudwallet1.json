@@ -1,0 +1,40 @@
+{
+  "bp-header" : {
+    "owner" : "cloudwallet1",
+    "total_votes" : "2795691455.43848562240600586",
+    "producer_key" : "EOS73rX3YXrYBMG6mPc1oJuepN5GoBoNUKr1ErS2jCCvTxhp6Cu7P",
+    "is_active" : 1,
+    "url" : "",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-08-20T04:51:40.500",
+    "location" : 0,
+    "prepared-url" : null
+  },
+  "bp-json-summary" : null,
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 3.968131288935435E-11,
+  "scoring" : {
+    "comp" : [ {
+      "title" : "no-web",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    }, {
+      "title" : "no-bp-json-url",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    }, {
+      "title" : "no-coc",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 531,
+  "snapshot-date" : "2019-08-21T01:26:21.735Z"
+}

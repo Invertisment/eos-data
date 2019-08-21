@@ -1,0 +1,41 @@
+{
+  "bp-header" : {
+    "owner" : "bptothemoon1",
+    "total_votes" : "0.00000000000000000",
+    "producer_key" : "EOS8cCrqM9uGz36n1YBQGS1Mqq5upxF4191sYzVEwsvvMA8wVBaKj",
+    "is_active" : 1,
+    "url" : "https://bptomoon.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-08-21T01:11:52.000",
+    "location" : 443,
+    "prepared-url" : "https://bptomoon.io"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "bptomoon.io",
+    "url" : "https://bptomoon.io/bp.json"
+  },
+  "webpage-error" : "bptomoon.io: Name or service not known",
+  "vote-percentage" : 0.0,
+  "scoring" : {
+    "comp" : [ {
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "bptomoon.io: Name or service not known",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://bptomoon.io/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "bptomoon.io"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 586,
+  "snapshot-date" : "2019-08-21T01:26:21.735Z"
+}
