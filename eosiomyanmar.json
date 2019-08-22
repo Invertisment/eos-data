@@ -11,38 +11,31 @@
     "prepared-url" : "http://moa.com.mm"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "dl-error" : "www.moa.com.mm",
     "url" : "http://moa.com.mm/bp.json"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ "https://twitter.com/mmonlineads" ],
-    "social-links-count" : 1,
-    "popularity-boosters" : [ "http://grab.com", "http://jovago.net", "http://ooredoo.com.mm", "http://phibious.com", "http://shop.com.mm", "http://wavemoney.com.mm", "http://yomabank.com", "https://www.i-kbz.com" ],
-    "popularity-boosters-count" : 8
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.393279550084269E-6,
+  "webpage-error" : "www.moa.com.mm: Name or service not known",
+  "vote-percentage" : 1.3555563113002628E-6,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "http://moa.com.mm"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "www.moa.com.mm: Name or service not known",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://moa.com.mm/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "error" : "www.moa.com.mm"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
   "place" : 246,
-  "snapshot-date" : "2019-08-21T01:26:21.735Z"
+  "snapshot-date" : "2019-08-22T01:26:13.570Z"
 }

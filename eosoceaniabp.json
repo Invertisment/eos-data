@@ -11,20 +11,16 @@
     "prepared-url" : "https://www.eosoceania.io"
   },
   "bp-json-summary" : {
-    "url" : "https://www.eosoceania.io/bp.json",
-    "logo" : "https://cdn.steemitimages.com/DQmQ8JCcBm68wpZovR4bKP5FmDXgXnTgSeNfMRdXhJeEG3N/eosoceaniabp-256x256.png",
-    "code_of_conduct" : "https://www.eosoceania.io/code-of-conduct"
+    "read-error" : "read:'https://www.eosoceania.io/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "url" : "https://www.eosoceania.io/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 8,
     "duplicate-urls" : null,
-    "social-links" : [ "https://discord.gg/eAdBZBv", "https://keybase.io/eosoceania", "https://medium.com/@eosoceania", "https://meetup.com/eosauckland", "https://reddit.com/user/eosoceania", "https://steemit.com/@eosbpnews", "https://steemit.com/@eosoceania", "https://t.me/joinchat/IB6xJg7tmo7v4knEJyQRSw", "https://twitter.com/@eosoceania", "https://twitter.com/eosoceania", "https://www.facebook.com/pg/EOS-Oceania-2195345297362648", "https://www.linkedin.com/company/eosoceania/", "https://www.meetup.com/eosauckland/", "https://www.youtube.com/channel/UCXdy_ey_cyZwuf8bvuymhmA" ],
-    "social-links-count" : 14,
-    "popularity-boosters" : [ "http://info@eosoceania.io", "http://www.eoslist.io", "https://eos-api-list.herokuapp.com", "https://eosplorer.herokuapp.com" ],
-    "popularity-boosters-count" : 4
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.3402933627545005E-6,
+  "vote-percentage" : 1.304004732406952E-6,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -32,19 +28,19 @@
       "title" : "web",
       "url" : "https://www.eosoceania.io"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://www.eosoceania.io/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://www.eosoceania.io/bp.json",
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'https://www.eosoceania.io/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://www.eosoceania.io/code-of-conduct"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 1,
     "max" : 3
   },
   "place" : 248,
-  "snapshot-date" : "2019-08-21T01:26:21.735Z"
+  "snapshot-date" : "2019-08-22T01:26:13.570Z"
 }

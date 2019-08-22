@@ -6,7 +6,7 @@
     "is_active" : 1,
     "url" : "https://unicon.one",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-08-20T09:18:05.500",
+    "last_claim_time" : "2019-08-21T09:19:05.000",
     "location" : 0,
     "prepared-url" : "https://unicon.one"
   },
@@ -15,7 +15,7 @@
     "url" : "https://unicon.one/bp.json"
   },
   "webpage-error" : "Certificate for <unicon.one> doesn't match any of the subject alternative names: [*.transip.nl, transip.nl]",
-  "vote-percentage" : 2.376645045771366E-7,
+  "vote-percentage" : 2.3122970485865683E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 327,
-  "snapshot-date" : "2019-08-21T01:26:21.735Z"
+  "snapshot-date" : "2019-08-22T01:26:13.570Z"
 }
