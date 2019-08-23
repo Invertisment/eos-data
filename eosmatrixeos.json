@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosmatrixeos",
-    "total_votes" : "73367662171862224.00000000000000000",
+    "total_votes" : "41419232589828800.00000000000000000",
     "producer_key" : "EOS7bXYArQpZTji97zpQK8CvUyef3fanEQuWHTSdiTNfZeacCi3wn",
     "is_active" : 1,
     "url" : "https://eosmatrix.co",
@@ -15,7 +15,7 @@
     "url" : "https://eosmatrix.co/bp.json"
   },
   "webpage-error" : "eosmatrix.co: No address associated with hostname",
-  "vote-percentage" : 0.0010131663911026587,
+  "vote-percentage" : 5.654678786102509E-4,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 94,
-  "snapshot-date" : "2019-08-22T01:26:13.570Z"
+  "place" : 100,
+  "snapshot-date" : "2019-08-23T01:26:11.181Z"
 }

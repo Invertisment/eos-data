@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eospaygatebp",
-    "total_votes" : "2557306243623480.00000000000000000",
+    "total_votes" : "2555215134343997.50000000000000000",
     "producer_key" : "EOS6An3xHstoTrAjhALB4R5LzTgwvcXZL5hTNtFeNyFRXutJiq1WJ",
     "is_active" : 1,
     "url" : "https://bp.eospay.host",
@@ -11,23 +11,23 @@
     "prepared-url" : "https://bp.eospay.host"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "bp.eospay.host",
     "url" : "https://bp.eospay.host/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 3.53149693079628E-5,
+  "webpage-error" : "bp.eospay.host: No address associated with hostname",
+  "vote-percentage" : 3.488456910148368E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "bp.eospay.host: No address associated with hostname",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://bp.eospay.host/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "bp.eospay.host"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 140,
-  "snapshot-date" : "2019-08-22T01:26:13.570Z"
+  "place" : 141,
+  "snapshot-date" : "2019-08-23T01:26:11.181Z"
 }

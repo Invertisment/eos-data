@@ -11,31 +11,38 @@
     "prepared-url" : "http://goeoslottery.cn"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "clj-http: status 404",
     "url" : "http://goeoslottery.cn/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 1.1884787553377891E-7,
+  "analyzed-urls" : {
+    "relative-links-count" : 1,
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ "http://primebrides.com/", "http://primebrides.com/page/faq", "http://primebrides.com/page/show/about", "http://primebrides.com/page/show/calls", "http://primebrides.com/page/show/correspondence", "http://primebrides.com/page/show/flowers_gifts", "http://primebrides.com/page/show/live_chat", "http://primebrides.com/page/show/privacy_policy", "http://primebrides.com/page/show/publications", "http://primebrides.com/page/show/secure", "http://primebrides.com/page/show/terms", "http://primebrides.com/page/show/updates", "http://primebrides.com/page/testimonials", "http://primebrides.com/support" ],
+    "popularity-boosters-count" : 14
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 1.1749549642114643E-7,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "connect timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://goeoslottery.cn"
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://goeoslottery.cn/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "clj-http: status 404"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 0,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 363,
-  "snapshot-date" : "2019-08-22T01:26:13.570Z"
+  "place" : 364,
+  "snapshot-date" : "2019-08-23T01:26:11.181Z"
 }

@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosisgravity",
-    "total_votes" : "360314186973626816.00000000000000000",
+    "total_votes" : "360210077691054144.00000000000000000",
     "producer_key" : "EOS8UFLCQ8n2PzbKFv8CU87fQKXeyNXr3fn2oMwFayEYyCpkFG3YF",
     "is_active" : 1,
     "url" : "http://eosgravity.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-08-21T03:15:38.000",
+    "last_claim_time" : "2019-08-22T03:15:42.000",
     "location" : 702,
     "prepared-url" : "http://eosgravity.com"
   },
@@ -16,15 +16,13 @@
     "code_of_conduct" : "https://steemit.com/eosgravity/@eosgravity/eos-gravity-code-of-conduct"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 5,
+    "relative-links-count" : 1,
     "duplicate-urls" : null,
-    "social-links" : [ "http://www.facebook.com/share.php?u=http%3A%2F%2Feosgravity.com%2F", "https://plus.google.com/share?url=http%3A%2F%2Feosgravity.com%2F", "https://steemit.com/eosgravity/@eosgravity/dividend-statement-and-investor-disclaimer-eos-gravity" ],
-    "social-links-count" : 3,
-    "popularity-boosters" : [ "http://facebook.com", "http://linkedin.com" ],
-    "popularity-boosters-count" : 2
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.004975737452612526,
+  "vote-percentage" : 0.004917696822224875,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +43,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 68,
-  "snapshot-date" : "2019-08-22T01:26:13.570Z"
+  "place" : 69,
+  "snapshot-date" : "2019-08-23T01:26:11.181Z"
 }

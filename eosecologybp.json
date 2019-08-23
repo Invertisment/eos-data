@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosecologybp",
-    "total_votes" : "788779003760902528.00000000000000000",
+    "total_votes" : "788394140746682624.00000000000000000",
     "producer_key" : "EOS635kZTHJiX2x16ZvQW29jSPXCCYN35XAMGVnjxqGrmjcTrBC7Z",
     "is_active" : 1,
     "url" : "http://www.eosecology.com",
@@ -15,7 +15,7 @@
     "logo" : "http://www.eosecology.com/images/logo-256.png"
   },
   "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 0.010892596996561758,
+  "vote-percentage" : 0.010763395031762487,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,5 +36,5 @@
     "max" : 3
   },
   "place" : 35,
-  "snapshot-date" : "2019-08-22T01:26:13.570Z"
+  "snapshot-date" : "2019-08-23T01:26:11.181Z"
 }

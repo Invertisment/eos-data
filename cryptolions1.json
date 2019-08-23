@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "cryptolions1",
-    "total_votes" : "494578511037850688.00000000000000000",
+    "total_votes" : "493750871933913216.00000000000000000",
     "producer_key" : "EOS5yHaUBwhpwFftNjADdVwBpCVybLPg5P3z7HpTbDGjUfpqwWSSf",
     "is_active" : 1,
     "url" : "https://cryptolions.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-08-21T21:03:31.500",
+    "last_claim_time" : "2019-08-22T21:03:34.000",
     "location" : 804,
     "prepared-url" : "https://cryptolions.io"
   },
@@ -16,15 +16,12 @@
     "code_of_conduct" : "https://cryptolions.io/code-of-conduct/"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 3,
     "duplicate-urls" : null,
-    "social-links" : [ "https://bitcointalk.org/index.php?topic=1105376.0", "https://bitcointalk.org/index.php?topic=307484.0", "https://bitcointalk.org/index.php?topic=672174.0", "https://bitcointalk.org/index.php?topic=769426.0", "https://forums.eosgo.io/discussion/739/brainstorming-a-multi-cameral-legislature-for-eos/p1?new=1", "https://github.com/CryptoLions", "https://github.com/CryptoLions/", "https://github.com/CryptoLions/BP-Position-Telegram-Notifier", "https://github.com/EOS-BP-Developers/EOS-Test-Cave", "https://github.com/cryptolions/simpleassets", "https://github.com/orange1337", "https://medium.com/@EosMetal/thats-how-we-broke-jungle-testnet-twice-in-a-row-eleven-days-before-1-0-eosio-release-ef996495df", "https://medium.com/@bensig/introducing-the-eos-test-cave-9441babd1287", "https://medium.com/@cryptolions", "https://medium.com/@cryptolions/cryptolions-update-2019-q1-670681dde23", "https://steemit.com/@cryptolions", "https://steemit.com/eos/@bitspace/eos-block-producer-reviews-by-community-and-bps", "https://steemit.com/eos/@cryptolions/creating-an-eos-account-just-got-easier", "https://steemit.com/eos/@cryptolions/crypto-lions-eos-block-producer-candidates", "https://steemit.com/eos/@cryptolions/cryptolions-cap-table-disclosure", "https://steemit.com/eos/@cryptolions/cryptolions-financial-disclosure", "https://steemit.com/eos/@cryptolions/updated-crytpolions-code-of-conduct", "https://steemit.com/eos/@eosone/are-eos-bps-really-qualified-re-ranking-the-top-40-bps-on-5-dimensions", "https://steemit.com/eos/@eosone/stand-by-bps-standing-out-eosone-report-on-re-ranking-the-top-83-bps-on-5-dimensions-2", "https://t.me/jungletestnet", "https://twitter.com/EOS_CryptoLions", "https://www.linkedin.com/in/alexander-tarkovich-1409b2149/", "https://www.linkedin.com/in/bohdan-kossak-a25b722/", "https://www.linkedin.com/in/roman-skaskiw-300a6671/", "https://www.linkedin.com/in/rostislav-martynenko-216b19108/", "https://www.linkedin.com/in/sudipbanerg/", "https://www.youtube.com/channel/UCB7F-KO0mmZ1yVBCq0_1gtA?view_as=subscriber", "https://www.youtube.com/watch?v=OramhrxZMF4" ],
-    "social-links-count" : 33,
-    "popularity-boosters" : [ "http://dailyanarchist.com/2013/11/04/clearing-up-the-bitcoin-versus-gold-debate/", "http://eosnetworkmonitor.io/", "https://bloks.io/", "https://dapplica.io/", "https://eoslynx.com/", "https://eosnetworkmonitor.io/", "https://eossweden.se/", "https://europechain.io/", "https://geroj.com/", "https://hackenproof.com/", "https://jungletestnet.io/", "https://mises.org/profile/roman-skaskiw", "https://paytomat.com/", "https://polidevit.com/", "https://strongblock.io/", "https://tokensale.paytomat.com/", "https://www.eoswire.org", "https://www.eoswire.org/bpcompliance", "https://www.zeos.co/", "https://zeos.co/" ],
-    "popularity-boosters-count" : 20
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.006829852694111365,
+  "vote-percentage" : 0.006740836096103673,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +42,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 54,
-  "snapshot-date" : "2019-08-22T01:26:13.570Z"
+  "place" : 52,
+  "snapshot-date" : "2019-08-23T01:26:11.181Z"
 }

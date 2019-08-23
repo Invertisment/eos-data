@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosmetaliobp",
-    "total_votes" : "28079828438026292.00000000000000000",
+    "total_votes" : "28055614822748776.00000000000000000",
     "producer_key" : "EOS6nTwVt2xXPqj49crMpFRpe6ooMi8od5RMSS763Rvfv7Hh2SQNT",
     "is_active" : 1,
     "url" : "https://eosmetal.io",
@@ -16,14 +16,14 @@
     "code_of_conduct" : "https://steemit.com/eos/@eosmetal/eosmetal-code-of-conduct"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 16,
+    "relative-links-count" : 13,
     "duplicate-urls" : null,
     "social-links" : [ "https://github.com/EOSMetal", "https://steemit.com/@eosmetal", "https://steemit.com/eos/@eosmetal/eosmetal-and-our-commitment-to-the-regproducer-agreement", "https://steemit.com/eos/@eosmetal/eosmetal-code-of-conduct", "https://steemit.com/eos/@eosmetal/eosmetal-commitment-to-the-eos-constitution", "https://steemit.com/eos/@eosmetal/eosmetal-ownership-disclosure", "https://steemit.com/eos/@eosmetal/introducing-eosmetal-eos-block-producer-candidate", "https://t.me/EOSMetal", "https://twitter.com/EOSMetal" ],
     "social-links-count" : 9,
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ "64GB of Ram" ],
-  "vote-percentage" : 3.877667299074414E-4,
+  "vote-percentage" : 3.830237308844267E-4,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -44,6 +44,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 109,
-  "snapshot-date" : "2019-08-22T01:26:13.570Z"
+  "place" : 108,
+  "snapshot-date" : "2019-08-23T01:26:11.181Z"
 }
