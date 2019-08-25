@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "1eostheworld",
-    "total_votes" : "1142888032916804.50000000000000000",
+    "total_votes" : "1142694171058186.50000000000000000",
     "producer_key" : "EOS7DtVzfmr1c5ACb7usAwyn4f39V7urk6kBWswUWCtg3H8H6CFAr",
     "is_active" : 1,
     "url" : "https://eostheworld.io",
@@ -11,23 +11,23 @@
     "prepared-url" : "https://eostheworld.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "Connection refused (Connection refused)",
+    "dl-error" : "connect timed out",
     "url" : "https://eostheworld.io/bp.json"
   },
-  "webpage-error" : "Connection refused (Connection refused)",
-  "vote-percentage" : 1.5116684074432094E-5,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 1.5043489328658178E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Connection refused (Connection refused)",
+      "error" : "connect timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eostheworld.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Connection refused (Connection refused)"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 161,
-  "snapshot-date" : "2019-08-24T01:26:28.101Z"
+  "place" : 160,
+  "snapshot-date" : "2019-08-25T01:27:15.468Z"
 }
