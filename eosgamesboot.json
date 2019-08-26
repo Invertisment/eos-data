@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosgamesboot",
-    "total_votes" : "517468029169405.18750000000000000",
+    "total_votes" : "523850063588702.68750000000000000",
     "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
     "is_active" : 0,
     "url" : "http://eos.games",
@@ -14,13 +14,13 @@
     "dl-error" : "connect timed out",
     "url" : "http://eos.games/bp.json"
   },
-  "webpage-error" : "Circular redirect to 'http://eos.games/'",
-  "vote-percentage" : 6.812430632706303E-6,
+  "webpage-error" : "clj-http: status 403",
+  "vote-percentage" : 6.780514325856818E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Circular redirect to 'http://eos.games/'",
+      "error" : "clj-http: status 403",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 182,
-  "snapshot-date" : "2019-08-25T01:27:15.468Z"
+  "place" : 183,
+  "snapshot-date" : "2019-08-26T01:26:31.459Z"
 }
