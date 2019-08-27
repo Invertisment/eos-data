@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosbelarusio",
-    "total_votes" : "68511243407435152.00000000000000000",
+    "total_votes" : "68433492885222176.00000000000000000",
     "producer_key" : "EOS5BQQpSF96kvYT77xzSCBYqfGqHSN5y2F42vD2GESSrovmG4d6p",
     "is_active" : 1,
     "url" : "https://eosbelarus.com",
@@ -12,7 +12,7 @@
   },
   "bp-json-summary" : {
     "url" : "https://eosbelarus.com/bp.json",
-    "logo" : ""
+    "logo" : "https://eosbelarus.com/images/eosbelarusio_256.png"
   },
   "analyzed-urls" : {
     "relative-links-count" : 4,
@@ -22,7 +22,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 8.867832605077416E-4,
+  "vote-percentage" : 8.815607817695981E-4,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -43,5 +43,5 @@
     "max" : 3
   },
   "place" : 94,
-  "snapshot-date" : "2019-08-26T01:26:31.459Z"
+  "snapshot-date" : "2019-08-27T01:26:15.623Z"
 }

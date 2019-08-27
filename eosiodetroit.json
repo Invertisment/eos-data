@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosiodetroit",
-    "total_votes" : "356588709845025984.00000000000000000",
+    "total_votes" : "356457748137311488.00000000000000000",
     "producer_key" : "EOS6cGjgMnrdsBt5zAjpvqUdPiSjHjdQdsF1tpTG8Dpz9rPitHUMd",
     "is_active" : 1,
     "url" : "https://eosdetroit.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-08-25T22:38:02.000",
+    "last_claim_time" : "2019-08-26T22:39:02.500",
     "location" : 840,
     "prepared-url" : "https://eosdetroit.io"
   },
@@ -23,7 +23,7 @@
     "popularity-boosters-count" : 1
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.004615547507962815,
+  "vote-percentage" : 0.004591891453543167,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,5 +45,5 @@
     "max" : 3
   },
   "place" : 71,
-  "snapshot-date" : "2019-08-26T01:26:31.459Z"
+  "snapshot-date" : "2019-08-27T01:26:15.623Z"
 }

@@ -7,7 +7,7 @@
     "url" : "http://www.serviceuptime.net",
     "unpaid_blocks" : 0,
     "last_claim_time" : "2018-07-04T07:40:10.000",
-    "location" : 0,
+    "location" : 123,
     "prepared-url" : "http://www.serviceuptime.net"
   },
   "bp-json-summary" : {
@@ -22,7 +22,7 @@
     "popularity-boosters-count" : 9
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 4.1500391451753687E-7,
+  "vote-percentage" : 4.130285859286517E-7,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -44,5 +44,5 @@
     "max" : 3
   },
   "place" : 293,
-  "snapshot-date" : "2019-08-26T01:26:31.459Z"
+  "snapshot-date" : "2019-08-27T01:26:15.623Z"
 }
