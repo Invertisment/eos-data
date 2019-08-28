@@ -1,26 +1,28 @@
 {
   "bp-header" : {
     "owner" : "eossnzpoolbp",
-    "total_votes" : "436083050805272000.00000000000000000",
+    "total_votes" : "439258282678550400.00000000000000000",
     "producer_key" : "EOS6gQeftj3V2yuGdxAJcNfNAw2PpsjftYK4PrmW6uob6xgYcQHKw",
     "is_active" : 1,
     "url" : "http://snzholding.com/",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-08-26T20:04:45.000",
+    "last_claim_time" : "2019-08-27T20:05:40.500",
     "location" : 1,
     "prepared-url" : "http://snzholding.com/"
   },
   "bp-json-summary" : {
-    "url" : "http://snzholding.com/bp.json",
-    "logo" : "https://snzholding.com/images/snz-logo-256.png"
+    "read-error" : "read:'http://snzholding.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 2, column: 2]",
+    "url" : "http://snzholding.com/bp.json"
   },
   "analyzed-urls" : {
+    "relative-links-count" : 5,
     "duplicate-urls" : null,
-    "social-links" : [ ],
+    "social-links" : [ "https://twitter.com/snz_holding" ],
+    "social-links-count" : 1,
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.005617625215026592,
+  "vote-percentage" : 0.005641293771340353,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -28,18 +30,19 @@
       "title" : "web",
       "url" : "http://snzholding.com/"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "http://snzholding.com/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://snzholding.com/bp.json",
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'http://snzholding.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 2, column: 2]"
     }, {
-      "title" : "no-coc",
-      "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 61,
-  "snapshot-date" : "2019-08-27T01:26:15.623Z"
+  "place" : 59,
+  "snapshot-date" : "2019-08-28T01:26:31.913Z"
 }

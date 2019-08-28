@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "zeroxeosnode",
-    "total_votes" : "29763442405776.40625000000000000",
+    "total_votes" : "31662551235151.10546875000000000",
     "producer_key" : "EOS7EkrrDTncTMka9n3VJDZomH49Zm82MHnzsLPc4gYayRcKqKpkw",
     "is_active" : 1,
     "url" : "https://zeroxeos.com",
@@ -11,40 +11,31 @@
     "prepared-url" : "https://zeroxeos.com"
   },
   "bp-json-summary" : {
-    "url" : "https://zeroxeos.com/bp.json",
-    "logo" : "https://zeroxeos.com/static/img/logo-black_256.png",
-    "code_of_conduct" : "https://zeroxeos.com/conduct.html"
+    "dl-error" : "connect timed out",
+    "url" : "https://zeroxeos.com/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 21,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://medium.com/@zeroxeos", "https://steemit.com/@zeroxeos ", "https://twitter.com/zeroxeos", "https://www.reddit.com/user/zeroxeos" ],
-    "social-links-count" : 4,
-    "popularity-boosters" : [ "https://0x.games", "https://0x.games/", "https://0xuniverse.com/", "https://get-scatter.com/" ],
-    "popularity-boosters-count" : 4
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 3.834128940254147E-7,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 4.0663491187556134E-7,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://zeroxeos.com"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "connect timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://zeroxeos.com/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://zeroxeos.com/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "connect timed out"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://zeroxeos.com/conduct.html"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 296,
-  "snapshot-date" : "2019-08-27T01:26:15.623Z"
+  "place" : 293,
+  "snapshot-date" : "2019-08-28T01:26:31.913Z"
 }
