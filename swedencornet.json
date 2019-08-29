@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "swedencornet",
-    "total_votes" : "2630661020409002.50000000000000000",
+    "total_votes" : "2632364547879645.00000000000000000",
     "producer_key" : "EOS55RGDuvrXjDaijB7ixYtJ1U7EnWDe16X9aWxAPQ64jrYCrsbCQ",
     "is_active" : 1,
     "url" : "https://eossweden.eu",
@@ -19,11 +19,11 @@
     "relative-links-count" : 4,
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ "https://eosforce.io/", "https://icon.foundation", "https://snax.one/" ],
-    "popularity-boosters-count" : 3
+    "popularity-boosters" : [ "https://eosforce.io/", "https://icon.foundation", "https://snax.one/", "https://tracker.icon.foundation/governance" ],
+    "popularity-boosters-count" : 4
   },
   "p-ram-amounts" : [ "RAM" ],
-  "vote-percentage" : 3.378497848337975E-5,
+  "vote-percentage" : 3.3603901131170785E-5,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -44,6 +44,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 141,
-  "snapshot-date" : "2019-08-28T01:26:31.913Z"
+  "place" : 139,
+  "snapshot-date" : "2019-08-29T01:26:34.234Z"
 }
