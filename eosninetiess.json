@@ -11,23 +11,23 @@
     "prepared-url" : "http://www.eos90s.io/"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "Connection refused (Connection refused)",
     "url" : "http://www.eos90s.io/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 5.97696859032739E-6,
+  "webpage-error" : "Connection refused (Connection refused)",
+  "vote-percentage" : 5.976353889000327E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "Connection refused (Connection refused)",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://www.eos90s.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "Connection refused (Connection refused)"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 189,
-  "snapshot-date" : "2019-08-29T01:26:34.234Z"
+  "snapshot-date" : "2019-08-30T01:26:28.354Z"
 }
