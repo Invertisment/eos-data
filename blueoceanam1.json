@@ -11,23 +11,23 @@
     "prepared-url" : "http://eosnode.daketech.net"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "dl-error" : "eosnode.daketech.net",
     "url" : "http://eosnode.daketech.net/bp.json"
   },
-  "webpage-error" : "NotAfter: Mon Mar 27 19:51:38 UTC 2017",
-  "vote-percentage" : 5.968182978260555E-9,
+  "webpage-error" : "eosnode.daketech.net: Name or service not known",
+  "vote-percentage" : 5.954927702348823E-9,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "NotAfter: Mon Mar 27 19:51:38 UTC 2017",
+      "error" : "eosnode.daketech.net: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://eosnode.daketech.net/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "error" : "eosnode.daketech.net"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 421,
-  "snapshot-date" : "2019-08-30T01:26:28.354Z"
+  "snapshot-date" : "2019-08-31T01:26:57.761Z"
 }

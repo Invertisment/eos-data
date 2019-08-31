@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eossv12eossv",
-    "total_votes" : "1599200022231781888.00000000000000000",
+    "total_votes" : "1584332340818047488.00000000000000000",
     "producer_key" : "EOS7fv6nadePJBdCiWyR2Ldz5YWyzJGMBkEo47zUSWFttduQhHHaa",
     "is_active" : 1,
     "url" : "https://eossiliconvalley.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-08-29T06:20:26.500",
+    "last_claim_time" : "2019-08-30T06:20:27.000",
     "location" : 840,
     "prepared-url" : "https://eossiliconvalley.io"
   },
@@ -15,21 +15,14 @@
     "logo" : "https://www.eossiliconvalley.io/eossv_logo_256.jpg",
     "code_of_conduct" : "https://steemit.com/eos/@eossv/eos-silicon-valley-block-producer-candidate-roadmap-and-position-on-dividends"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 7,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://medium.com/@eossiliconvalley", "https://steemit.com/@eossv", "https://steemit.com/eos/@eossv/eos-silicon-valley-block-producer-candidate-roadmap-and-position-on-dividends", "https://steemit.com/eos/@eossv/eos-silicon-valley-ownership-disclosure", "https://t.me/eossv", "https://twitter.com/EOS_SV", "https://www.facebook.com/EOS-Silicon-Valley-168362600677072/", "https://www.meetup.com/EOS-Silicon-Valley-Community/", "https://www.reddit.com/user/EOS_SV", "https://www.youtube.com/channel/UCxcXyUzH5Vmcg2iUl3o0NhA", "https://youtu.be/XjFhmlmGqGo" ],
-    "social-links-count" : 11,
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.020412762607281136,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 0.02017807113553753,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eossiliconvalley.io"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -41,9 +34,9 @@
       "title" : "coc",
       "url" : "https://steemit.com/eos/@eossv/eos-silicon-valley-block-producer-candidate-roadmap-and-position-on-dividends"
     } ],
-    "score" : 3,
+    "score" : 2,
     "max" : 3
   },
-  "place" : 23,
-  "snapshot-date" : "2019-08-30T01:26:28.354Z"
+  "place" : 24,
+  "snapshot-date" : "2019-08-31T01:26:57.761Z"
 }

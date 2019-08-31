@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosnigeriago",
-    "total_votes" : "430243743068210.00000000000000000",
+    "total_votes" : "430344476304455.68750000000000000",
     "producer_key" : "EOS6YuQtg2ZGrPZm6pdqCuuUmsNiuLkUajFM7n9KzTtXoeAEVWLfg",
     "is_active" : 1,
     "url" : "https://eosnigeria.io",
@@ -11,23 +11,23 @@
     "prepared-url" : "https://eosnigeria.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "eosnigeria.io",
     "url" : "https://eosnigeria.io/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 5.491785435484776E-6,
+  "webpage-error" : "eosnigeria.io: Name or service not known",
+  "vote-percentage" : 5.480871173262384E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "eosnigeria.io: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eosnigeria.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "eosnigeria.io"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 193,
-  "snapshot-date" : "2019-08-30T01:26:28.354Z"
+  "place" : 198,
+  "snapshot-date" : "2019-08-31T01:26:57.761Z"
 }
