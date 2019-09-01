@@ -1,38 +1,36 @@
 {
   "bp-header" : {
-    "owner" : "eosadddddddd",
-    "total_votes" : "3026639870450367.00000000000000000",
-    "producer_key" : "EOS8RBVQtaZRWNq5iRoKK3b5nnWHPmqoLgUZbK3TfAtyvucy4QR65",
+    "owner" : "radiuslabsio",
+    "total_votes" : "0.00000000000000000",
+    "producer_key" : "EOS8Fg5GW2mKsQ4tL3Ta7TpokDKbtoakPabUWrSuWsPMDjZ8Pq1AC",
     "is_active" : 1,
-    "url" : "http://eosadd.com",
+    "url" : "http://radiuslabs.io/",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2018-06-23T15:12:41.000",
+    "last_claim_time" : "2019-08-31T06:59:42.000",
     "location" : 0,
-    "prepared-url" : "http://eosadd.com"
+    "prepared-url" : "http://radiuslabs.io/"
   },
   "bp-json-summary" : {
     "dl-error" : "clj-http: status 404",
-    "url" : "http://eosadd.com/bp.json"
+    "url" : "http://radiuslabs.io/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 7,
     "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/EOSADD/EOSADD.github.io/raw/master/" ],
-    "social-links-count" : 1,
+    "social-links" : [ ],
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 3.85430537554422E-5,
+  "vote-percentage" : 0.0,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
       "mood" : "good",
       "title" : "web",
-      "url" : "http://eosadd.com"
+      "url" : "http://radiuslabs.io/"
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
-      "url" : "http://eosadd.com/bp.json",
+      "url" : "http://radiuslabs.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
       "error" : "clj-http: status 404"
     }, {
@@ -43,6 +41,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 134,
+  "place" : 570,
   "snapshot-date" : "2019-09-01T01:26:36.059Z"
 }

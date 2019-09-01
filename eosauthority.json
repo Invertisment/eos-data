@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosauthority",
-    "total_votes" : "891793123071263872.00000000000000000",
+    "total_votes" : "892457542708817408.00000000000000000",
     "producer_key" : "EOS4va3CTmAcAAXsT26T3EBWqYHgQLshyxsozYRgxWm9tjmy17pVV",
     "is_active" : 1,
     "url" : "https://eosauthority.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-08-30T08:31:33.500",
+    "last_claim_time" : "2019-08-31T08:31:35.000",
     "location" : 826,
     "prepared-url" : "https://eosauthority.com"
   },
@@ -24,7 +24,7 @@
     "popularity-boosters-count" : 1
   },
   "p-ram-amounts" : [ "RAM" ],
-  "vote-percentage" : 0.011357885345080974,
+  "vote-percentage" : 0.011365091492684705,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -46,5 +46,5 @@
     "max" : 3
   },
   "place" : 33,
-  "snapshot-date" : "2019-08-31T01:26:57.761Z"
+  "snapshot-date" : "2019-09-01T01:26:36.059Z"
 }
