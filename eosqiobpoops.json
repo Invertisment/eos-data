@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosqiobpoops",
-    "total_votes" : "169088088027755.12500000000000000",
+    "total_votes" : "148255203385155.71875000000000000",
     "producer_key" : "EOS8YMrPj8BbGP1LwAJjWKtiusjSGiHzLNZwsTTzTh78yhzFLzGQo",
     "is_active" : 1,
     "url" : "https://eosq.io",
@@ -15,7 +15,7 @@
     "url" : "https://eosq.io/bp.json"
   },
   "webpage-error" : "Certificate for <eosq.io> doesn't match any of the subject alternative names: [shortener.secureserver.net, www.shortener.secureserver.net]",
-  "vote-percentage" : 2.1532694820705403E-6,
+  "vote-percentage" : 1.8860559785836783E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 237,
-  "snapshot-date" : "2019-09-01T01:26:36.059Z"
+  "place" : 238,
+  "snapshot-date" : "2019-09-02T01:26:21.722Z"
 }
