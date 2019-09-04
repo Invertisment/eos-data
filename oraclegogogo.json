@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "oraclegogogo",
-    "total_votes" : "260608766316996448.00000000000000000",
+    "total_votes" : "262588553911630336.00000000000000000",
     "producer_key" : "EOS6yuqAb4eASpqJzfkPgh6sSX5Uy4vaTTJQJSXzuS6QV8Z6KSWJG",
     "is_active" : 1,
     "url" : "https://oraclechain.io",
@@ -11,23 +11,23 @@
     "prepared-url" : "https://oraclechain.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "Connection refused (Connection refused)",
+    "dl-error" : "clj-http: status 502",
     "url" : "https://oraclechain.io/bp.json"
   },
-  "webpage-error" : "Connection refused (Connection refused)",
-  "vote-percentage" : 0.003159526154648182,
+  "webpage-error" : "clj-http: status 502",
+  "vote-percentage" : 0.0031749700361148286,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Connection refused (Connection refused)",
+      "error" : "clj-http: status 502",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://oraclechain.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Connection refused (Connection refused)"
+      "error" : "clj-http: status 502"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 89,
-  "snapshot-date" : "2019-09-03T01:26:17.782Z"
+  "place" : 86,
+  "snapshot-date" : "2019-09-04T01:26:12.630Z"
 }
