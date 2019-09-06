@@ -1,0 +1,47 @@
+{
+  "bp-header" : {
+    "owner" : "eoshungarybp",
+    "total_votes" : "26102050808.61455154418945312",
+    "producer_key" : "EOS6rCgnpBHbw5bakVcpYtNUgRfBj7HYKtbLLdB76NQqNJd6qX6yb",
+    "is_active" : 1,
+    "url" : "http://eoshungary.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-09-05T09:52:47.500",
+    "location" : 348,
+    "prepared-url" : "http://eoshungary.io"
+  },
+  "bp-json-summary" : {
+    "read-error" : "read:'http://eoshungary.io/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "url" : "http://eoshungary.io/bp.json"
+  },
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ "http://dev.charityalfa.io" ],
+    "popularity-boosters-count" : 1
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 3.0515087663220643E-10,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://eoshungary.io"
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://eoshungary.io/bp.json",
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'http://eoshungary.io/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 1,
+    "max" : 3
+  },
+  "place" : 491,
+  "snapshot-date" : "2019-09-06T01:26:10.549Z"
+}

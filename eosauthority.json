@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosauthority",
-    "total_votes" : "890015817235864704.00000000000000000",
+    "total_votes" : "882008461049295616.00000000000000000",
     "producer_key" : "EOS4va3CTmAcAAXsT26T3EBWqYHgQLshyxsozYRgxWm9tjmy17pVV",
     "is_active" : 1,
     "url" : "https://eosauthority.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-09-04T08:31:53.500",
+    "last_claim_time" : "2019-09-05T08:31:55.500",
     "location" : 826,
     "prepared-url" : "https://eosauthority.com"
   },
@@ -16,15 +16,12 @@
     "code_of_conduct" : "https://steemit.com/eos/@eosauthority/eos-authority-roadmap-and-position-on-dividends"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 78,
     "duplicate-urls" : null,
-    "social-links" : [ "http://t.me/eosauthority", "https://github.com/eosauthority", "https://github.com/eosauthority/eosio-watcher-plugin", "https://telegram.me/eosauthority", "https://twitter.com/EOSauthority", "https://www.facebook.com/eosauthority", "https://www.youtube.com/watch?v=k-5aG3YuyYk" ],
-    "social-links-count" : 7,
-    "popularity-boosters" : [ "https://www.webdigi.co.uk" ],
-    "popularity-boosters-count" : 1
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
   },
-  "p-ram-amounts" : [ "RAM" ],
-  "vote-percentage" : 0.010698009208814852,
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.010311283855036737,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +42,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 30,
-  "snapshot-date" : "2019-09-05T01:26:15.894Z"
+  "place" : 32,
+  "snapshot-date" : "2019-09-06T01:26:10.549Z"
 }

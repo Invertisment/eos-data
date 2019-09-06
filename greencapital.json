@@ -11,31 +11,36 @@
     "prepared-url" : "http://greencapital.top"
   },
   "bp-json-summary" : {
-    "dl-error" : "greencapital.top",
+    "read-error" : "read:'http://greencapital.top/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
     "url" : "http://greencapital.top/bp.json"
   },
-  "webpage-error" : "greencapital.top: No address associated with hostname",
-  "vote-percentage" : 1.5172528838790863E-6,
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 1.475681797825281E-6,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "greencapital.top: No address associated with hostname",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://greencapital.top"
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://greencapital.top/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "greencapital.top"
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'http://greencapital.top/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 0,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 250,
-  "snapshot-date" : "2019-09-05T01:26:15.894Z"
+  "place" : 249,
+  "snapshot-date" : "2019-09-06T01:26:10.549Z"
 }
