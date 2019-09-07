@@ -11,23 +11,23 @@
     "prepared-url" : "https://eoswonders.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "Connection refused (Connection refused)",
     "url" : "https://eoswonders.com/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 1.249397992352669E-6,
+  "webpage-error" : "Connection refused (Connection refused)",
+  "vote-percentage" : 1.2388356141259675E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "Connection refused (Connection refused)",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eoswonders.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "Connection refused (Connection refused)"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 254,
-  "snapshot-date" : "2019-09-06T01:26:10.549Z"
+  "snapshot-date" : "2019-09-07T01:26:29.057Z"
 }

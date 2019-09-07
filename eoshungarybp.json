@@ -11,17 +11,18 @@
     "prepared-url" : "http://eoshungary.io"
   },
   "bp-json-summary" : {
-    "read-error" : "read:'http://eoshungary.io/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
-    "url" : "http://eoshungary.io/bp.json"
+    "url" : "http://eoshungary.io/bp.json",
+    "logo" : "http://eoshungary.io/logo_256.png"
   },
   "analyzed-urls" : {
+    "relative-links-count" : 1,
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ "http://dev.charityalfa.io" ],
-    "popularity-boosters-count" : 1
+    "popularity-boosters" : [ "https://bloks.io/account/efraimeosdev", "https://generatepress.com", "https://hu.wordpress.org/" ],
+    "popularity-boosters-count" : 3
   },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 3.0515087663220643E-10,
+  "p-ram-amounts" : [ "RAM" ],
+  "vote-percentage" : 3.0257113903463787E-10,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -29,19 +30,18 @@
       "title" : "web",
       "url" : "http://eoshungary.io"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "http://eoshungary.io/bp.json",
-      "paragraphs" : [ "bp-json-invalid" ],
-      "error" : "read:'http://eoshungary.io/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "http://eoshungary.io/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "title" : "no-coc",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
     } ],
-    "score" : 1,
+    "score" : 2,
     "max" : 3
   },
   "place" : 491,
-  "snapshot-date" : "2019-09-06T01:26:10.549Z"
+  "snapshot-date" : "2019-09-07T01:26:29.057Z"
 }

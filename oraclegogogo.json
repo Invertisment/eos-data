@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "oraclegogogo",
-    "total_votes" : "262644613476991200.00000000000000000",
+    "total_votes" : "263048786319459744.00000000000000000",
     "producer_key" : "EOS6yuqAb4eASpqJzfkPgh6sSX5Uy4vaTTJQJSXzuS6QV8Z6KSWJG",
     "is_active" : 1,
     "url" : "https://oraclechain.io",
@@ -11,31 +11,40 @@
     "prepared-url" : "https://oraclechain.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 502",
-    "url" : "https://oraclechain.io/bp.json"
+    "url" : "https://oraclechain.io/bp.json",
+    "logo" : "https://pocketeos.oss-cn-beijing.aliyuncs.com/P1/oracle.png",
+    "code_of_conduct" : "https://steemit.com/eos/@oraclechain/using-eos-bp-dao-to-ensure-eos-ecology-more-healthy-development-oraclechain-s-proposal-on-eos-bp-block-rewards-distribution-plan"
   },
-  "webpage-error" : "clj-http: status 502",
-  "vote-percentage" : 0.0030704956722703157,
+  "analyzed-urls" : {
+    "relative-links-count" : 5,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://medium.com/@OracleChain", "https://steemit.com/@oraclechain", "https://t.me/OracleChainChatCN", "https://twitter.com/Oracle_Chain", "https://weibo.com/u/6347445425", "https://www.facebook.com/OracleChain-211664496258701/", "https://www.reddit.com/user/Oracle_Chain" ],
+    "social-links-count" : 7,
+    "popularity-boosters" : [ "https://eosflare.io/account/octtothemoon" ],
+    "popularity-boosters-count" : 1
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.003049222893708042,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "clj-http: status 502",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://oraclechain.io"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://oraclechain.io/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 502"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://oraclechain.io/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/eos/@oraclechain/using-eos-bp-dao-to-ensure-eos-ecology-more-healthy-development-oraclechain-s-proposal-on-eos-bp-block-rewards-distribution-plan"
     } ],
-    "score" : 0,
+    "score" : 3,
     "max" : 3
   },
-  "place" : 89,
-  "snapshot-date" : "2019-09-06T01:26:10.549Z"
+  "place" : 86,
+  "snapshot-date" : "2019-09-07T01:26:29.057Z"
 }
