@@ -11,23 +11,23 @@
     "prepared-url" : "http://agjcoin.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "No route to host (Host unreachable)",
     "url" : "http://agjcoin.com/bp.json"
   },
-  "webpage-error" : "connect timed out",
+  "webpage-error" : "No route to host (Host unreachable)",
   "vote-percentage" : 0.0,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "No route to host (Host unreachable)",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://agjcoin.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "No route to host (Host unreachable)"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 592,
-  "snapshot-date" : "2019-09-07T01:26:29.057Z"
+  "snapshot-date" : "2019-09-08T01:26:19.530Z"
 }

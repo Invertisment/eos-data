@@ -11,37 +11,31 @@
     "prepared-url" : "https://eoswin.info"
   },
   "bp-json-summary" : {
-    "url" : "https://eoswin.info/bp.json",
-    "logo" : ""
+    "dl-error" : "NotAfter: Sat Sep 07 23:59:59 UTC 2019",
+    "url" : "https://eoswin.info/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 4,
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "disclosure" ],
-    "popularity-boosters-count" : 1
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.2469769361422563E-5,
+  "webpage-error" : "NotAfter: Sat Sep 07 23:59:59 UTC 2019",
+  "vote-percentage" : 2.2358581640771562E-5,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eoswin.info"
-    }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://eoswin.info/bp.json"
-    }, {
-      "title" : "no-coc",
       "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "title" : "no-web",
+      "error" : "NotAfter: Sat Sep 07 23:59:59 UTC 2019",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eoswin.info/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "NotAfter: Sat Sep 07 23:59:59 UTC 2019"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 0,
     "max" : 3
   },
   "place" : 153,
-  "snapshot-date" : "2019-09-07T01:26:29.057Z"
+  "snapshot-date" : "2019-09-08T01:26:19.530Z"
 }

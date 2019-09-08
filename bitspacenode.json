@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "bitspacenode",
-    "total_votes" : "6682447907670895.00000000000000000",
+    "total_votes" : "6682406155603792.00000000000000000",
     "producer_key" : "EOS7HTwXWUyiKhALQks3uW2n3NXfiZiw7NWG3MC44gHxUYp6ruDgK",
     "is_active" : 1,
     "url" : "https://eos.bitspace.no",
@@ -15,7 +15,7 @@
     "url" : "https://eos.bitspace.no/bp.json"
   },
   "webpage-error" : "Network is unreachable (connect failed)",
-  "vote-percentage" : 7.746195460995407E-5,
+  "vote-percentage" : 7.707816609733071E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 126,
-  "snapshot-date" : "2019-09-07T01:26:29.057Z"
+  "place" : 125,
+  "snapshot-date" : "2019-09-08T01:26:19.530Z"
 }
