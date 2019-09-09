@@ -1,13 +1,13 @@
 {
   "bp-header" : {
-    "owner" : "haydinjtgege",
-    "total_votes" : "28129250533.14208984375000000",
-    "producer_key" : "EOS6P3oSLJfQoTyBqLjvAExLq6tn4pACYXNSAPPw6Wgt3DgW8gnxg",
+    "owner" : "validatoreos",
+    "total_votes" : "0.00000000000000000",
+    "producer_key" : "EOS6NqocRxNTi8boXavNSYHU7EeDyPz7hHpgR5z89E9JcVPBkCFDX",
     "is_active" : 1,
     "url" : "",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "1970-01-01T00:00:00.000",
-    "location" : 0,
+    "last_claim_time" : "2019-09-08T10:43:31.000",
+    "location" : 410,
     "prepared-url" : null
   },
   "bp-json-summary" : null,
@@ -17,7 +17,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 3.223110479100289E-10,
+  "vote-percentage" : 0.0,
   "scoring" : {
     "comp" : [ {
       "title" : "no-web",
@@ -35,6 +35,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 490,
+  "place" : 566,
   "snapshot-date" : "2019-09-09T01:26:30.735Z"
 }

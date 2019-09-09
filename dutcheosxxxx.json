@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "dutcheosxxxx",
-    "total_votes" : "5556482894269817.00000000000000000",
+    "total_votes" : "5594019979477911.00000000000000000",
     "producer_key" : "EOS7zv7RMS5SuSRDfBzv7DUbS9ovf3MRvDyAkBum6AitpDs5NtMmT",
     "is_active" : 1,
     "url" : "https://dutcheos.io",
@@ -11,11 +11,12 @@
     "prepared-url" : "https://dutcheos.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "Read timed out",
-    "url" : "https://dutcheos.io/bp.json"
+    "url" : "https://dutcheos.io/bp.json",
+    "logo" : "https://dutcheos.io/assets/dutcheos_256.png",
+    "code_of_conduct" : "https://dutcheos.io/code-of-conduct/"
   },
   "webpage-error" : "Read timed out",
-  "vote-percentage" : 6.40912122772352E-5,
+  "vote-percentage" : 6.409749308787445E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -23,19 +24,19 @@
       "error" : "Read timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://dutcheos.io/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Read timed out"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://dutcheos.io/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://dutcheos.io/code-of-conduct/"
     } ],
-    "score" : 0,
+    "score" : 2,
     "max" : 3
   },
   "place" : 128,
-  "snapshot-date" : "2019-09-08T01:26:19.530Z"
+  "snapshot-date" : "2019-09-09T01:26:30.735Z"
 }
