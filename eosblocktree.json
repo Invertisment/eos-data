@@ -11,37 +11,31 @@
     "prepared-url" : "http://eosblocktree.io"
   },
   "bp-json-summary" : {
-    "url" : "http://eosblocktree.io/bp.json",
-    "logo" : "https://eosblocktree.io/expectus.png"
+    "dl-error" : "eosblocktree.io",
+    "url" : "http://eosblocktree.io/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 2,
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "https://wordpress.org/" ],
-    "popularity-boosters-count" : 1
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 4.44937185679826E-8,
+  "webpage-error" : "eosblocktree.io: Temporary failure in name resolution",
+  "vote-percentage" : 5.236425176554368E-8,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "http://eosblocktree.io"
-    }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "http://eosblocktree.io/bp.json"
-    }, {
-      "title" : "no-coc",
       "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "title" : "no-web",
+      "error" : "eosblocktree.io: Temporary failure in name resolution",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://eosblocktree.io/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "eosblocktree.io"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 398,
-  "snapshot-date" : "2019-09-09T01:26:30.735Z"
+  "place" : 345,
+  "snapshot-date" : "2019-09-10T01:25:14.217Z"
 }

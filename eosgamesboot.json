@@ -14,13 +14,13 @@
     "dl-error" : "connect timed out",
     "url" : "http://eos.games/bp.json"
   },
-  "webpage-error" : "Circular redirect to 'http://eos.games/'",
-  "vote-percentage" : 6.002387541185229E-6,
+  "webpage-error" : "clj-http: status 403",
+  "vote-percentage" : 7.064155177786419E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Circular redirect to 'http://eos.games/'",
+      "error" : "clj-http: status 403",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 189,
-  "snapshot-date" : "2019-09-09T01:26:30.735Z"
+  "place" : 165,
+  "snapshot-date" : "2019-09-10T01:25:14.217Z"
 }

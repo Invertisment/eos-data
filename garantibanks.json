@@ -11,31 +11,39 @@
     "prepared-url" : "http://boneoperatingsystem.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "read-error" : "read:'http://boneoperatingsystem.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
     "url" : "http://boneoperatingsystem.com/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 9.326640030638855E-12,
+  "analyzed-urls" : {
+    "relative-links-count" : 1,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://plus.google.com/u/0/+Mobirise", "https://t.me/bos_community", "https://twitter.com/BoneSystem", "https://www.youtube.com/c/mobirise" ],
+    "social-links-count" : 4,
+    "popularity-boosters" : [ "http://boneopreratingsystem.com", "https://mobirise.info/n", "https://weixin.qq.com/g/Al7_Lr8UkrYguMhI", "https://www.behance.net/Mobirise" ],
+    "popularity-boosters-count" : 4
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 1.0976437627814009E-11,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "connect timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://boneoperatingsystem.com"
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://boneoperatingsystem.com/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'http://boneoperatingsystem.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 0,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 553,
-  "snapshot-date" : "2019-09-09T01:26:30.735Z"
+  "place" : 480,
+  "snapshot-date" : "2019-09-10T01:25:14.217Z"
 }
