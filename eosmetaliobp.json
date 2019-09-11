@@ -1,9 +1,9 @@
 {
   "bp-header" : {
     "owner" : "eosmetaliobp",
-    "total_votes" : "27574915898542724.00000000000000000",
-    "producer_key" : "EOS6nTwVt2xXPqj49crMpFRpe6ooMi8od5RMSS763Rvfv7Hh2SQNT",
-    "is_active" : 1,
+    "total_votes" : "27206248049601776.00000000000000000",
+    "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
+    "is_active" : 0,
     "url" : "https://eosmetal.io",
     "unpaid_blocks" : 0,
     "last_claim_time" : "2019-08-08T21:52:03.000",
@@ -21,7 +21,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 3.7184969223303635E-4,
+  "vote-percentage" : 3.086273331951862E-4,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -42,6 +42,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 92,
-  "snapshot-date" : "2019-09-10T01:25:14.217Z"
+  "place" : 106,
+  "snapshot-date" : "2019-09-11T01:26:14.486Z"
 }

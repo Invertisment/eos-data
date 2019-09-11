@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "dilidilifans",
-    "total_votes" : "522248014121156096.00000000000000000",
+    "total_votes" : "463662549158643328.00000000000000000",
     "producer_key" : "EOS7b3KnyRNxu4jVVnroB7T54gquXD5wYfcPnovDz2DjYuGBUwehq",
     "is_active" : 1,
     "url" : "www.dilidili.name",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-09-09T09:50:54.500",
+    "last_claim_time" : "2019-09-10T09:50:55.500",
     "location" : 702,
     "prepared-url" : "http://www.dilidili.name"
   },
@@ -15,7 +15,7 @@
     "url" : "www.dilidili.name/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 94,
+    "relative-links-count" : 109,
     "duplicate-urls" : null,
     "social-links" : [ "http://usr.005.tv/User/loginout.html?refurl=http%3A%2F%2Fwww.dilidili.name%2F" ],
     "social-links-count" : 1,
@@ -23,7 +23,7 @@
     "popularity-boosters-count" : 22
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.00704255142734739,
+  "vote-percentage" : 0.005259782083454487,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -44,6 +44,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 44,
-  "snapshot-date" : "2019-09-10T01:25:14.217Z"
+  "place" : 55,
+  "snapshot-date" : "2019-09-11T01:26:14.486Z"
 }

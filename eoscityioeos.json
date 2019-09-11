@@ -11,11 +11,11 @@
     "prepared-url" : "https://eoscity.io"
   },
   "bp-json-summary" : {
-    "url" : "https://eoscity.io/bp.json",
-    "logo" : "https://eoscity.io/img/eosCityLogoTextOnly.svg"
+    "dl-error" : "clj-http: status 502",
+    "url" : "https://eoscity.io/bp.json"
   },
   "webpage-error" : "clj-http: status 502",
-  "vote-percentage" : 1.3432702142776808E-6,
+  "vote-percentage" : 1.129993350287629E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -23,18 +23,19 @@
       "error" : "clj-http: status 502",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://eoscity.io/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eoscity.io/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 502"
     }, {
-      "title" : "no-coc",
-      "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 223,
-  "snapshot-date" : "2019-09-10T01:25:14.217Z"
+  "place" : 259,
+  "snapshot-date" : "2019-09-11T01:26:14.486Z"
 }

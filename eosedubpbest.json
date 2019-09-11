@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosedubpbest",
-    "total_votes" : "710160485062373376.00000000000000000",
+    "total_votes" : "711811866346108160.00000000000000000",
     "producer_key" : "EOS5RjhqTr8k2dQEjtmXGSPQADAtxMTxnEXvfVH4wU1JLZYYVPtJx",
     "is_active" : 1,
     "url" : "https://eos.education",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-09-09T04:57:58.500",
+    "last_claim_time" : "2019-09-10T04:58:00.000",
     "location" : 276,
     "prepared-url" : "https://eos.education"
   },
@@ -14,12 +14,14 @@
     "url" : "https://eos.education/bp.json"
   },
   "analyzed-urls" : {
+    "relative-links-count" : 3,
     "duplicate-urls" : null,
-    "social-links" : [ ],
+    "social-links" : [ "http://i.youku.com/i/UNjk5MjY1NTYyNA==", "https://medium.com/@eoseducation", "https://steemit.com/@eosedu", "https://twitter.com/eosedu1", "https://www.facebook.com/edu.eos.9", "https://www.youtube.com/channel/UCjuKteyG2eG-bZSgsZQIRZw                       " ],
+    "social-links-count" : 6,
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.009576564395631142,
+  "vote-percentage" : 0.008074784793793102,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -39,6 +41,6 @@
     "score" : 2,
     "max" : 3
   },
-  "place" : 32,
-  "snapshot-date" : "2019-09-10T01:25:14.217Z"
+  "place" : 37,
+  "snapshot-date" : "2019-09-11T01:26:14.486Z"
 }
