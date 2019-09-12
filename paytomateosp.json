@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "paytomateosp",
-    "total_votes" : "379401631572084480.00000000000000000",
+    "total_votes" : "236499679897713472.00000000000000000",
     "producer_key" : "EOS62DzQLxR9ZbHvUejEiY5e7PRzD1XnU74D14ZfU6bCgiGfiKwJJ",
     "is_active" : 1,
     "url" : "https://paytomat.com/",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-09-10T23:30:02.500",
+    "last_claim_time" : "2019-09-11T23:45:02.000",
     "location" : 232,
     "prepared-url" : "https://paytomat.com/"
   },
@@ -21,7 +21,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.004303927301865092,
+  "vote-percentage" : 0.0026122165797974077,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -42,6 +42,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 74,
-  "snapshot-date" : "2019-09-11T01:26:14.486Z"
+  "place" : 85,
+  "snapshot-date" : "2019-09-12T01:26:27.266Z"
 }

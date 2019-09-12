@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosliquideos",
-    "total_votes" : "535898701830061952.00000000000000000",
+    "total_votes" : "452154493079839232.00000000000000000",
     "producer_key" : "EOS4v1n2j5kXbCum8LLEc8zQLpeLK9rKVFmsUgLCWgMDN38P6PcrW",
     "is_active" : 1,
     "url" : "http://vote.liquideos.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-09-10T09:20:24.500",
+    "last_claim_time" : "2019-09-11T09:20:28.500",
     "location" : 376,
     "prepared-url" : "http://vote.liquideos.com"
   },
@@ -24,7 +24,7 @@
     "popularity-boosters-count" : 5
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.006079228084189843,
+  "vote-percentage" : 0.004994194765776796,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +45,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 49,
-  "snapshot-date" : "2019-09-11T01:26:14.486Z"
+  "place" : 56,
+  "snapshot-date" : "2019-09-12T01:26:27.266Z"
 }
