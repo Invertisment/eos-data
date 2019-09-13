@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "exmotraderes",
-    "total_votes" : "8606277170836.70117187500000000",
+    "total_votes" : "10813050884162.48828125000000000",
     "producer_key" : "EOS69iw5fUNPRxXobBUiy3NN2a5bZinq1fT275p6zHUixGGxqjkPJ",
     "is_active" : 1,
     "url" : "http://goeoslottery.cn",
@@ -11,11 +11,11 @@
     "prepared-url" : "http://goeoslottery.cn"
   },
   "bp-json-summary" : {
-    "dl-error" : "Read timed out",
+    "dl-error" : "clj-http: status 523",
     "url" : "http://goeoslottery.cn/bp.json"
   },
   "webpage-error" : "Read timed out",
-  "vote-percentage" : 9.505915579130943E-8,
+  "vote-percentage" : 1.170571697508357E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -27,7 +27,7 @@
       "mood" : "warn",
       "url" : "http://goeoslottery.cn/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Read timed out"
+      "error" : "clj-http: status 523"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 359,
-  "snapshot-date" : "2019-09-12T01:26:27.266Z"
+  "place" : 351,
+  "snapshot-date" : "2019-09-13T01:26:22.401Z"
 }

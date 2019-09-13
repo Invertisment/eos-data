@@ -11,32 +11,31 @@
     "prepared-url" : "https://deneos_io.keybase.pub"
   },
   "bp-json-summary" : {
-    "url" : "https://deneos_io.keybase.pub/bp_info.json",
-    "logo" : "",
-    "code_of_conduct" : "http://www.deneos.io/#code-of-conduct-section"
+    "dl-error" : "Read timed out",
+    "url" : "https://deneos_io.keybase.pub/bp_info.json"
   },
-  "webpage-error" : "clj-http: status 404",
-  "vote-percentage" : 8.255475185485175E-7,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 8.091205372509512E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "clj-http: status 404",
+      "error" : "Read timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://deneos_io.keybase.pub/bp_info.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://deneos_io.keybase.pub/bp_info.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "Read timed out"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "http://www.deneos.io/#code-of-conduct-section"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 269,
-  "snapshot-date" : "2019-09-12T01:26:27.266Z"
+  "place" : 270,
+  "snapshot-date" : "2019-09-13T01:26:22.401Z"
 }

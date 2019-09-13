@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "disfundbpeos",
-    "total_votes" : "137089958569311.70312500000000000",
+    "total_votes" : "166601070353746.90625000000000000",
     "producer_key" : "EOS8YKiT2wKYFHw75xaXA58S6exo9CsDnr3iuMMpsSwZ2W473Tdif",
     "is_active" : 1,
     "url" : "https://alexbond.keybase.pub/eos_df_bp.json",
@@ -11,32 +11,31 @@
     "prepared-url" : "https://alexbond.keybase.pub"
   },
   "bp-json-summary" : {
-    "url" : "https://alexbond.keybase.pub/eos_df_bp.json",
-    "logo" : "https://i.imgur.com/gVijzUK.png",
-    "code_of_conduct" : "https://steemit.com/eos/@distributedfund1/distributed-fund-bp-constitution-draft"
+    "dl-error" : "Read timed out",
+    "url" : "https://alexbond.keybase.pub/eos_df_bp.json"
   },
-  "webpage-error" : "clj-http: status 404",
-  "vote-percentage" : 1.5142035830804436E-6,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 1.8035473967511958E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "clj-http: status 404",
+      "error" : "Read timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://alexbond.keybase.pub/eos_df_bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://alexbond.keybase.pub/eos_df_bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "Read timed out"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://steemit.com/eos/@distributedfund1/distributed-fund-bp-constitution-draft"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 247,
-  "snapshot-date" : "2019-09-12T01:26:27.266Z"
+  "place" : 240,
+  "snapshot-date" : "2019-09-13T01:26:22.401Z"
 }
