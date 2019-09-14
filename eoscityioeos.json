@@ -11,38 +11,31 @@
     "prepared-url" : "https://eoscity.io"
   },
   "bp-json-summary" : {
-    "url" : "https://eoscity.io/bp.json",
-    "logo" : "https://eoscity.io/img/eosCityLogoTextOnly.svg"
+    "dl-error" : "clj-http: status 502",
+    "url" : "https://eoscity.io/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 65,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://t.me/eoscity", "https://twitter.com/eoscityio", "https://www.facebook.com/groups/eoscity/" ],
-    "social-links-count" : 3,
-    "popularity-boosters" : [ "http://boxdapp.io", "http://t.cn/ES2ggI7", "https://cpuemergency.com/", "https://eospark.com/", "https://eoswing.io", "https://gateway.eosdt.com/zh", "https://imeos.one", "https://imeos.one/", "https://teloscanton.io/", "https://wooko.ng/cn", "https://www.eostw.info", "https://www.more.top", "https://www.teloscanton.io/", "https://www.tokenpocket.pro/" ],
-    "popularity-boosters-count" : 14
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.07835045930758E-6,
+  "webpage-error" : "clj-http: status 502",
+  "vote-percentage" : 1.0746167752931386E-6,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eoscity.io"
-    }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://eoscity.io/bp.json"
-    }, {
-      "title" : "no-coc",
       "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "title" : "no-web",
+      "error" : "clj-http: status 502",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eoscity.io/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 502"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 0,
     "max" : 3
   },
   "place" : 261,
-  "snapshot-date" : "2019-09-13T01:26:22.401Z"
+  "snapshot-date" : "2019-09-14T01:26:21.195Z"
 }
