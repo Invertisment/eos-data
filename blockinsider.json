@@ -11,23 +11,23 @@
     "prepared-url" : "https://www.blockinsider.info/"
   },
   "bp-json-summary" : {
-    "dl-error" : "www.blockinsider.info",
+    "dl-error" : "connect timed out",
     "url" : "https://www.blockinsider.info/bp.json"
   },
-  "webpage-error" : "www.blockinsider.info: Name or service not known",
-  "vote-percentage" : 1.9974906644643115E-8,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 1.9966176098968704E-8,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "www.blockinsider.info: Name or service not known",
+      "error" : "connect timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://www.blockinsider.info/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "www.blockinsider.info"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 412,
-  "snapshot-date" : "2019-09-15T01:26:41.892Z"
+  "snapshot-date" : "2019-09-16T01:26:43.957Z"
 }
