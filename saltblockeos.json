@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "saltblockeos",
-    "total_votes" : "815166762191240.87500000000000000",
+    "total_votes" : "815015347150182.87500000000000000",
     "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
     "is_active" : 0,
     "url" : "https://www.saltblock.io",
@@ -11,23 +11,23 @@
     "prepared-url" : "https://www.saltblock.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "Connection refused (Connection refused)",
     "url" : "https://www.saltblock.io/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 8.731894107458044E-6,
+  "webpage-error" : "Connection refused (Connection refused)",
+  "vote-percentage" : 8.640867451426533E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "Connection refused (Connection refused)",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://www.saltblock.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "Connection refused (Connection refused)"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 180,
-  "snapshot-date" : "2019-09-16T01:26:43.957Z"
+  "place" : 184,
+  "snapshot-date" : "2019-09-17T01:27:54.285Z"
 }
