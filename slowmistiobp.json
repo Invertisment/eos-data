@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "slowmistiobp",
-    "total_votes" : "2149272683029360640.00000000000000000",
+    "total_votes" : "2153828896125429248.00000000000000000",
     "producer_key" : "EOS62hJuwYdARgXDWLepwTP4Xc749Gi3RVXZp1qJ8NjfbEwi79uZN",
     "is_active" : 1,
     "url" : "https://slowmist.io",
-    "unpaid_blocks" : 1525,
-    "last_claim_time" : "2019-09-16T02:18:02.000",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-09-17T02:18:27.500",
     "location" : 0,
     "prepared-url" : "https://slowmist.io"
   },
@@ -23,7 +23,7 @@
     "popularity-boosters-count" : 44
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.022786786084417615,
+  "vote-percentage" : 0.022713129907601222,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -43,6 +43,6 @@
     "score" : 2,
     "max" : 3
   },
-  "place" : 21,
-  "snapshot-date" : "2019-09-17T01:27:54.285Z"
+  "place" : 22,
+  "snapshot-date" : "2019-09-18T01:27:38.853Z"
 }

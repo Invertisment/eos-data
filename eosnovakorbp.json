@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosnovakorbp",
-    "total_votes" : "68953312165233.44531250000000000",
+    "total_votes" : "68957162815765.67187500000000000",
     "producer_key" : "EOS6TiwRHcJ3zrKsVXzYD8tgmVnGfaqRXQsniEhjieCEqUDjyqPXX",
     "is_active" : 1,
     "url" : "https://novawallet.io/",
@@ -11,8 +11,9 @@
     "prepared-url" : "https://novawallet.io/"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
-    "url" : "https://novawallet.io/bp.json"
+    "url" : "https://novawallet.io/bp.json",
+    "logo" : "https://novawallet.io/logo_256.png",
+    "code_of_conduct" : "https://medium.com/eosnova/nova-wallet-code-of-conduct-6cc52c93ccdf"
   },
   "analyzed-urls" : {
     "duplicate-urls" : null,
@@ -20,7 +21,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 7.310493389357339E-7,
+  "vote-percentage" : 7.271854323765576E-7,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -28,19 +29,23 @@
       "title" : "web",
       "url" : "https://novawallet.io/"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://novawallet.io/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://novawallet.io/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://medium.com/eosnova/nova-wallet-code-of-conduct-6cc52c93ccdf"
     }, {
       "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "title" : "t-coc-social",
+      "paragraphs" : [ "p-coc-social" ]
     } ],
-    "score" : 1,
+    "score" : 3,
     "max" : 3
   },
   "place" : 285,
-  "snapshot-date" : "2019-09-17T01:27:54.285Z"
+  "snapshot-date" : "2019-09-18T01:27:38.853Z"
 }

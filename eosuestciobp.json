@@ -11,23 +11,23 @@
     "prepared-url" : "http://www.eosuesct.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "www.eosuesct.io",
+    "dl-error" : "clj-http: status 403",
     "url" : "http://www.eosuesct.io/bp.json"
   },
-  "webpage-error" : "www.eosuesct.io: Temporary failure in name resolution",
-  "vote-percentage" : 9.64649628511548E-6,
+  "webpage-error" : "clj-http: status 403",
+  "vote-percentage" : 9.594974626284673E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "www.eosuesct.io: Temporary failure in name resolution",
+      "error" : "clj-http: status 403",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://www.eosuesct.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "www.eosuesct.io"
+      "error" : "clj-http: status 403"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 177,
-  "snapshot-date" : "2019-09-17T01:27:54.285Z"
+  "snapshot-date" : "2019-09-18T01:27:38.853Z"
 }

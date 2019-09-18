@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosvillagebp",
-    "total_votes" : "635416468705476.00000000000000000",
+    "total_votes" : "635465684185946.37500000000000000",
     "producer_key" : "EOS63VmFVSwsLBDdepSyx4yr1qeJkrLNq2v1Tgf45WH7sU5mnhLPw",
     "is_active" : 1,
     "url" : "https://eosvillage.io",
@@ -15,7 +15,7 @@
     "url" : "https://eosvillage.io/bp.json"
   },
   "webpage-error" : "Certificate for <eosvillage.io> doesn't match any of the subject alternative names: [mobile-aws.staging.japanmusicnetwork.jp, *.staging.larc-mobile.com, *.stg-testing.larc-mobile.com, *.staging.sid-mobile.com, *.stg-testing.sid-mobile.com, *.staging.mucc-mobile.jp, *.stg-testing.mucc-mobile.jp, *.staging.spimo.net, *.stg-testing.spimo.net, *.staging.shogohamada-mobile.net, *.stg-testing.shogohamada-mobile.net, *.staging.unite-mobile.com, *.stg-testing.unite-mobile.com]",
-  "vote-percentage" : 6.736743672049884E-6,
+  "vote-percentage" : 6.701281918309612E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 189,
-  "snapshot-date" : "2019-09-17T01:27:54.285Z"
+  "snapshot-date" : "2019-09-18T01:27:38.853Z"
 }
