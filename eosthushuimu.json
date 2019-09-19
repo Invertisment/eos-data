@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosthushuimu",
-    "total_votes" : "18561842934556892.00000000000000000",
+    "total_votes" : "18556096347870900.00000000000000000",
     "producer_key" : "EOS7mawmWYTjzjt2riNSHKQhA8E86r3L8eXhcotuskGPJU6RNzUZs",
     "is_active" : 1,
     "url" : "http://www.eosthu.com",
@@ -11,23 +11,23 @@
     "prepared-url" : "http://www.eosthu.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "www.eosthu.com",
+    "dl-error" : "Connection refused (Connection refused)",
     "url" : "http://www.eosthu.com/bp.json"
   },
-  "webpage-error" : "www.eosthu.com: Temporary failure in name resolution",
-  "vote-percentage" : 1.957432879907507E-4,
+  "webpage-error" : "Connection refused (Connection refused)",
+  "vote-percentage" : 1.9493016715764553E-4,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "www.eosthu.com: Temporary failure in name resolution",
+      "error" : "Connection refused (Connection refused)",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://www.eosthu.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "www.eosthu.com"
+      "error" : "Connection refused (Connection refused)"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 116,
-  "snapshot-date" : "2019-09-18T01:27:38.853Z"
+  "snapshot-date" : "2019-09-19T01:27:30.224Z"
 }

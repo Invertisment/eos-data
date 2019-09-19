@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosathenabp1",
-    "total_votes" : "455310180970919168.00000000000000000",
+    "total_votes" : "454604121448810880.00000000000000000",
     "producer_key" : "EOS7ouJwxv9mUjtKtRBHfr7K1u3n7JUWm3MkokjcZ5bGMeycbn8pS",
     "is_active" : 1,
     "url" : "",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-09-17T14:25:46.000",
+    "last_claim_time" : "2019-09-18T14:26:03.000",
     "location" : 0,
     "prepared-url" : null
   },
@@ -17,7 +17,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.004801458141475165,
+  "vote-percentage" : 0.004775576485662028,
   "scoring" : {
     "comp" : [ {
       "title" : "no-web",
@@ -35,6 +35,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 55,
-  "snapshot-date" : "2019-09-18T01:27:38.853Z"
+  "place" : 57,
+  "snapshot-date" : "2019-09-19T01:27:30.224Z"
 }
