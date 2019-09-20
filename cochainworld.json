@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "cochainworld",
-    "total_votes" : "2244619950445441536.00000000000000000",
+    "total_votes" : "2259854243236269824.00000000000000000",
     "producer_key" : "EOS5QDSQyh96SmktA28dteEchc1QCVdqKYG4YVDHGGATMYxqy33wi",
     "is_active" : 1,
     "url" : "https://eoscochain.io",
-    "unpaid_blocks" : 3702,
-    "last_claim_time" : "2019-09-18T14:29:53.500",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-09-19T14:30:02.000",
     "location" : 156,
     "prepared-url" : "https://eoscochain.io"
   },
@@ -22,7 +22,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.02357953601571589,
+  "vote-percentage" : 0.023699216048567052,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -43,6 +43,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 16,
-  "snapshot-date" : "2019-09-19T01:27:30.224Z"
+  "place" : 21,
+  "snapshot-date" : "2019-09-20T01:27:31.176Z"
 }

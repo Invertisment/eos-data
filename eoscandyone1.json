@@ -14,21 +14,14 @@
     "url" : "https://candy.one/bp.json",
     "logo" : "https://o3pvuu23u.qnssl.com/candy/images/logo-256.png"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 78,
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "https://itunes.apple.com/cn/app/id1436459129", "https://shorty.tinfinite.com/BJTQ" ],
-    "popularity-boosters-count" : 2
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.0380005526340372E-4,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 1.0362360562722953E-4,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://candy.one/"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -39,9 +32,9 @@
       "mood" : "bad",
       "paragraphs" : [ "value-empty" ]
     } ],
-    "score" : 2,
+    "score" : 1,
     "max" : 3
   },
   "place" : 122,
-  "snapshot-date" : "2019-09-19T01:27:30.224Z"
+  "snapshot-date" : "2019-09-20T01:27:31.176Z"
 }

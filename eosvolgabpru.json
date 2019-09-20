@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosvolgabpru",
-    "total_votes" : "22062717619568624.00000000000000000",
+    "total_votes" : "21171082241591212.00000000000000000",
     "producer_key" : "EOS57GDRS9QJWBJie9yQAxvrDKw9p6wiiQ9B8Sv2uJ7WazowB4pkK",
     "is_active" : 1,
     "url" : "https://eosvolga.one",
@@ -11,39 +11,31 @@
     "prepared-url" : "https://eosvolga.one"
   },
   "bp-json-summary" : {
-    "url" : "https://eosvolga.one/bp.json",
-    "logo" : "https://eosvolga.one/eosvolga-logo-256.png",
-    "code_of_conduct" : "https://steemit.com/eos/@eosvolgaone/eos-volga-eos-block-producer-candidate"
+    "dl-error" : "connect timed out",
+    "url" : "https://eosvolga.one/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 1,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://steemit.com/@eosvolgaone", "https://t.me/eosvolga", "https://twitter.com/eosvolgabpru" ],
-    "social-links-count" : 3,
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.3176691653834284E-4,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 2.2202230676033658E-4,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eosvolga.one"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "connect timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://eosvolga.one/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eosvolga.one/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "connect timed out"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://steemit.com/eos/@eosvolgaone/eos-volga-eos-block-producer-candidate"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 113,
-  "snapshot-date" : "2019-09-19T01:27:30.224Z"
+  "place" : 114,
+  "snapshot-date" : "2019-09-20T01:27:31.176Z"
 }

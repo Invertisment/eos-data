@@ -11,11 +11,11 @@
     "prepared-url" : "http://eos.games"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "Read timed out",
     "url" : "http://eos.games/bp.json"
   },
   "webpage-error" : "Circular redirect to 'http://eos.games/'",
-  "vote-percentage" : 5.501408442155372E-6,
+  "vote-percentage" : 5.4920566020662645E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -27,7 +27,7 @@
       "mood" : "warn",
       "url" : "http://eos.games/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "Read timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 203,
-  "snapshot-date" : "2019-09-19T01:27:30.224Z"
+  "place" : 202,
+  "snapshot-date" : "2019-09-20T01:27:31.176Z"
 }
