@@ -1,21 +1,22 @@
 {
   "bp-header" : {
     "owner" : "eosarabianet",
-    "total_votes" : "10766110726578136.00000000000000000",
+    "total_votes" : "10766138883155104.00000000000000000",
     "producer_key" : "EOS6JuwKSkEiYNR88bV9wz7uQGjMiSabMzFearb6UmuEE4uK3rSR6",
     "is_active" : 1,
-    "url" : "http://eosarabia.net",
+    "url" : "https://mena.eosarabia.net",
     "unpaid_blocks" : 0,
     "last_claim_time" : "2019-03-24T16:21:36.000",
     "location" : 0,
-    "prepared-url" : "http://eosarabia.net"
+    "prepared-url" : "https://mena.eosarabia.net"
   },
   "bp-json-summary" : {
-    "dl-error" : "unable to find valid certification path to requested target",
-    "url" : "http://eosarabia.net/bp.json"
+    "url" : "https://mena.eosarabia.net/bp.json",
+    "logo" : "https://mena.eosarabia.net/EOSArabia-Logo256.png",
+    "code_of_conduct" : "https://eosarabia.net/4qsy1qlIm/code-of-conduct"
   },
   "webpage-error" : "unable to find valid certification path to requested target",
-  "vote-percentage" : 1.1290479679192941E-4,
+  "vote-percentage" : 1.1033745003033587E-4,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -23,19 +24,19 @@
       "error" : "unable to find valid certification path to requested target",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "http://eosarabia.net/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "unable to find valid certification path to requested target"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://mena.eosarabia.net/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://eosarabia.net/4qsy1qlIm/code-of-conduct"
     } ],
-    "score" : 0,
+    "score" : 2,
     "max" : 3
   },
   "place" : 121,
-  "snapshot-date" : "2019-09-20T01:27:31.176Z"
+  "snapshot-date" : "2019-09-21T01:27:32.944Z"
 }

@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosamsterdam",
-    "total_votes" : "211227742233480704.00000000000000000",
+    "total_votes" : "210769993657618720.00000000000000000",
     "producer_key" : "EOS8HDwgQnKMHAxzva9eyHsPeETv23JSQ6RRzQjJLvCsZ6b1ySgQo",
     "is_active" : 1,
     "url" : "https://eosamsterdam.net",
@@ -18,13 +18,13 @@
   "analyzed-urls" : {
     "relative-links-count" : 9,
     "duplicate-urls" : null,
-    "social-links" : [ "https://medium.com/@brianlee_87142/24-04-2019-sino-european-blockchain-summit-546debd2a7c", "https://medium.com/@eos_amsterdam", "https://medium.com/@eos_amsterdam/advanced-eos-permissions-2ad67f888f1e", "https://medium.com/@eos_amsterdam/multisignature-accounts-on-eos-how-do-they-work-84318d72972", "https://medium.com/@eos_amsterdam/why-eos-amsterdam-deserves-your-vote-19492dc22b40", "https://medium.com/@eos_amsterdam/worbli-and-eos-amsterdam-improve-the-light-api-user-experience-in-asia-7fafa667fe9c", "https://steemit.com/@eosamsterdam", "https://t.me/EOS_Amsterdam", "https://twitter.com/eosamsterdam", "https://www.facebook.com/EOS-Amsterdam-1586544661442120/", "https://www.instagram.com/eosamsterdam/", "https://www.meetup.com/nl-NL/EOS-Amsterdam/", "https://www.youtube.com/channel/UCHCrTf4Nbqz8S017kgs4vjA" ],
+    "social-links" : [ "https://medium.com/@brianlee_87142/24-04-2019-sino-european-blockchain-summit-546debd2a7c", "https://medium.com/@eos_amsterdam", "https://medium.com/@eos_amsterdam/advanced-eos-permissions-2ad67f888f1e", "https://medium.com/@eos_amsterdam/how-to-create-a-new-wax-account-7a23cf315ac0", "https://medium.com/@eos_amsterdam/multisignature-accounts-on-eos-how-do-they-work-84318d72972", "https://medium.com/@eos_amsterdam/worbli-and-eos-amsterdam-improve-the-light-api-user-experience-in-asia-7fafa667fe9c", "https://steemit.com/@eosamsterdam", "https://t.me/EOS_Amsterdam", "https://twitter.com/eosamsterdam", "https://www.facebook.com/EOS-Amsterdam-1586544661442120/", "https://www.instagram.com/eosamsterdam/", "https://www.meetup.com/nl-NL/EOS-Amsterdam/", "https://www.youtube.com/channel/UCHCrTf4Nbqz8S017kgs4vjA" ],
     "social-links-count" : 13,
     "popularity-boosters" : [ "https://mp.weixin.qq.com/s/eOELU3nde8YYt0R8IRMqxg", "https://pintsandblocks.com/portfolio-item/amsterdam/", "https://raw.githubusercontent.com/EOS-Mainnet/eos/master/contracts/eosio.system/eosio.system-regproducer-rc.md", "https://www.tulipconf.com/events/2019/6/6/eos-block-producers-summit" ],
     "popularity-boosters-count" : 4
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.0022151569790950076,
+  "vote-percentage" : 0.0021600895079923405,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +45,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 81,
-  "snapshot-date" : "2019-09-20T01:27:31.176Z"
+  "place" : 83,
+  "snapshot-date" : "2019-09-21T01:27:32.944Z"
 }
