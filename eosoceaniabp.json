@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosoceaniabp",
-    "total_votes" : "126878283085531.92187500000000000",
+    "total_votes" : "126884320751899.01562500000000000",
     "producer_key" : "EOS7nsvYjNQ3KiJhjWaZgV9XcjZUja5Wf8EyvWghKh2F8edHZT1yM",
     "is_active" : 1,
     "url" : "https://www.eosoceania.io",
@@ -11,36 +11,31 @@
     "prepared-url" : "https://www.eosoceania.io"
   },
   "bp-json-summary" : {
-    "read-error" : "read:'https://www.eosoceania.io/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "dl-error" : "Certificate for <www.eosoceania.io> doesn't match any of the subject alternative names: [5landmark.com.sg, www.5landmark.com.sg]",
     "url" : "https://www.eosoceania.io/bp.json"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.3003200471237134E-6,
+  "webpage-error" : "Certificate for <www.eosoceania.io> doesn't match any of the subject alternative names: [5landmark.com.sg, www.5landmark.com.sg]",
+  "vote-percentage" : 1.2882800147950236E-6,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://www.eosoceania.io"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Certificate for <www.eosoceania.io> doesn't match any of the subject alternative names: [5landmark.com.sg, www.5landmark.com.sg]",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://www.eosoceania.io/bp.json",
-      "paragraphs" : [ "bp-json-invalid" ],
-      "error" : "read:'https://www.eosoceania.io/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "Certificate for <www.eosoceania.io> doesn't match any of the subject alternative names: [5landmark.com.sg, www.5landmark.com.sg]"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
   "place" : 261,
-  "snapshot-date" : "2019-09-21T01:27:32.944Z"
+  "snapshot-date" : "2019-09-22T01:27:35.947Z"
 }

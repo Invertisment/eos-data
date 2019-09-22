@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosuestciobp",
-    "total_votes" : "909867274644791.25000000000000000",
+    "total_votes" : "909854316288565.62500000000000000",
     "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
     "is_active" : 0,
     "url" : "http://www.eosuesct.io",
@@ -15,7 +15,7 @@
     "url" : "http://www.eosuesct.io/bp.json"
   },
   "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 9.3248318677584E-6,
+  "vote-percentage" : 9.237919430104263E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 175,
-  "snapshot-date" : "2019-09-21T01:27:32.944Z"
+  "snapshot-date" : "2019-09-22T01:27:35.947Z"
 }
