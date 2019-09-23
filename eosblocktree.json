@@ -14,13 +14,13 @@
     "dl-error" : "eosblocktree.io",
     "url" : "http://eosblocktree.io/bp.json"
   },
-  "webpage-error" : "eosblocktree.io: No address associated with hostname",
-  "vote-percentage" : 3.952663276713113E-8,
+  "webpage-error" : "eosblocktree.io: Temporary failure in name resolution",
+  "vote-percentage" : 4.6918360560671806E-8,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "eosblocktree.io: No address associated with hostname",
+      "error" : "eosblocktree.io: Temporary failure in name resolution",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 408,
-  "snapshot-date" : "2019-09-22T01:27:35.947Z"
+  "place" : 353,
+  "snapshot-date" : "2019-09-23T01:26:43.767Z"
 }

@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosvenezuela",
-    "total_votes" : "147656977948780160.00000000000000000",
+    "total_votes" : "147516751421607328.00000000000000000",
     "producer_key" : "EOS7pUMws312EjWwCcyMvV8hJiN5DFePdxsCknTJsrthp1an2AZXu",
     "is_active" : 1,
     "url" : "https://eosvenezuela.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-09-21T14:00:02.500",
+    "last_claim_time" : "2019-09-22T14:30:02.500",
     "location" : 0,
     "prepared-url" : "https://eosvenezuela.io"
   },
@@ -24,7 +24,7 @@
     "popularity-boosters-count" : 16
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.0014991886515938653,
+  "vote-percentage" : 0.001777856320169802,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +45,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 91,
-  "snapshot-date" : "2019-09-22T01:27:35.947Z"
+  "place" : 78,
+  "snapshot-date" : "2019-09-23T01:26:43.767Z"
 }
