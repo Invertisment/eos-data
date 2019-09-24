@@ -1,21 +1,21 @@
 {
   "bp-header" : {
     "owner" : "wizznetwork1",
-    "total_votes" : "467265472678949.50000000000000000",
+    "total_votes" : "467766629623872.50000000000000000",
     "producer_key" : "EOS8S4V1znYv72vedfLWMLecZEQ3ZCSLD5oPNmStUYKdbu9PdLJ48",
     "is_active" : 1,
-    "url" : "https://wizz.network/eos/",
+    "url" : "“https://wizz.network/”",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "1970-01-01T00:00:00.000",
-    "location" : 840,
-    "prepared-url" : "https://wizz.network/eos/"
+    "last_claim_time" : "2019-09-23T10:36:39.000",
+    "location" : 0,
+    "prepared-url" : "https://wizz.network/"
   },
   "bp-json-summary" : {
-    "dl-error" : "unable to find valid certification path to requested target",
-    "url" : "https://wizz.network/eos/bp.json"
+    "dl-error" : "no protocol: “https://wizz.network/”/bp.json",
+    "url" : "“https://wizz.network/”/bp.json"
   },
   "webpage-error" : "unable to find valid certification path to requested target",
-  "vote-percentage" : 4.744232908280998E-6,
+  "vote-percentage" : 4.754517117669519E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -25,9 +25,9 @@
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
-      "url" : "https://wizz.network/eos/bp.json",
+      "url" : "“https://wizz.network/”/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "unable to find valid certification path to requested target"
+      "error" : "no protocol: “https://wizz.network/”/bp.json"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 208,
-  "snapshot-date" : "2019-09-22T01:27:35.947Z"
+  "snapshot-date" : "2019-09-24T01:27:59.284Z"
 }

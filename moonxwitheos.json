@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "moonxwitheos",
-    "total_votes" : "55055195028983984.00000000000000000",
+    "total_votes" : "55206592982713704.00000000000000000",
     "producer_key" : "EOS7N8oWEpqwQ8oetS8ENSGLMxsG6cvG12nCojgfNKdf3xe1asPiw",
     "is_active" : 1,
     "url" : "https://moonxwitheos.com",
@@ -11,12 +11,11 @@
     "prepared-url" : "https://moonxwitheos.com"
   },
   "bp-json-summary" : {
-    "url" : "https://moonxwitheos.com/bp.json",
-    "logo" : "https://www.moonxwitheos.com/wp-content/uploads/2018/09/moonxwitheos256.png",
-    "code_of_conduct" : "https://medium.com/@moonxfamily/moonx-eos-code-of-conduct-24c0d01fd485"
+    "dl-error" : "Read timed out",
+    "url" : "https://moonxwitheos.com/bp.json"
   },
   "webpage-error" : "Read timed out",
-  "vote-percentage" : 6.635194003202768E-4,
+  "vote-percentage" : 5.611359911577808E-4,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -24,23 +23,19 @@
       "error" : "Read timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://moonxwitheos.com/bp.json"
-    }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://medium.com/@moonxfamily/moonx-eos-code-of-conduct-24c0d01fd485"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://moonxwitheos.com/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "Read timed out"
     }, {
       "mood" : "warn",
-      "title" : "t-coc-social",
-      "paragraphs" : [ "p-coc-social" ]
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 81,
-  "snapshot-date" : "2019-09-23T01:26:43.767Z"
+  "place" : 96,
+  "snapshot-date" : "2019-09-24T01:27:59.284Z"
 }
