@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eoshenzhenio",
-    "total_votes" : "513755829517001728.00000000000000000",
+    "total_votes" : "513755830422568576.00000000000000000",
     "producer_key" : "EOS8EJrMphgHJx5EkHQ4ryodbvnocZEC1xp5T1FnRsT7XtzYA1FE7",
     "is_active" : 1,
     "url" : "https://eoshenzhen.io",
@@ -15,7 +15,7 @@
     "url" : "https://eoshenzhen.io/bp.json"
   },
   "webpage-error" : "Certificate for <eoshenzhen.io> doesn't match any of the subject alternative names: [shortener.secureserver.net, www.shortener.secureserver.net]",
-  "vote-percentage" : 0.005221964533742834,
+  "vote-percentage" : 0.005221964236495984,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 50,
-  "snapshot-date" : "2019-09-24T01:36:28.229Z"
+  "snapshot-date" : "2019-09-24T01:48:28.927Z"
 }
