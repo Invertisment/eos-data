@@ -1,47 +1,41 @@
 {
   "bp-header" : {
     "owner" : "eosfengwocom",
-    "total_votes" : "110340140588345920.00000000000000000",
+    "total_votes" : "90068905007391504.00000000000000000",
     "producer_key" : "EOS7qfQTT4xsPHmS8ywD9beppViEQ2TdejpLUcgXir5ofzn6qr1dW",
     "is_active" : 1,
     "url" : "https://eosfengwo.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-09-23T02:32:51.500",
+    "last_claim_time" : "2019-09-24T02:32:53.000",
     "location" : 0,
     "prepared-url" : "https://eosfengwo.com"
   },
   "bp-json-summary" : {
-    "url" : "https://eosfengwo.com/bp.json",
-    "logo" : "https://eosfengwo.com/img/logo_256.png"
+    "dl-error" : "Certificate for <eosfengwo.com> doesn't match any of the subject alternative names: [apibos.eosfengwo.com]",
+    "url" : "https://eosfengwo.com/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 6,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://t.me/eosfengwo", "https://twitter.com/eosfengwo" ],
-    "social-links-count" : 2,
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.0011215293995366598,
+  "webpage-error" : "Certificate for <eosfengwo.com> doesn't match any of the subject alternative names: [apibos.eosfengwo.com]",
+  "vote-percentage" : 9.155281785218135E-4,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eosfengwo.com"
-    }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://eosfengwo.com/bp.json"
-    }, {
-      "title" : "no-coc",
       "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "title" : "no-web",
+      "error" : "Certificate for <eosfengwo.com> doesn't match any of the subject alternative names: [apibos.eosfengwo.com]",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eosfengwo.com/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "Certificate for <eosfengwo.com> doesn't match any of the subject alternative names: [apibos.eosfengwo.com]"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 94,
-  "snapshot-date" : "2019-09-24T01:48:28.927Z"
+  "place" : 95,
+  "snapshot-date" : "2019-09-25T01:27:31.405Z"
 }

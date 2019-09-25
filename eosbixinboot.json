@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosbixinboot",
-    "total_votes" : "203971246884114272.00000000000000000",
+    "total_votes" : "203177784297641952.00000000000000000",
     "producer_key" : "EOS7QC1XfAtkYeLjbHQjcDWVqUsxuSJ3YRhNyG93VAv2u3uHopGVp",
     "is_active" : 1,
     "url" : "https://en.eosbixin.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-09-23T13:21:02.500",
+    "last_claim_time" : "2019-09-24T13:24:02.500",
     "location" : 7,
     "prepared-url" : "https://en.eosbixin.com"
   },
@@ -15,21 +15,14 @@
     "logo" : "https://raw.githubusercontent.com/EOSBIXIN/eostoolkit/master/logo/eosbixinlogo_256.png",
     "code_of_conduct" : "https://steemit.com/eos/@tuitui/eosbixin-code-of-conduct"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 17,
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "https://bixin.im/common/contact", "https://bixin.im/common/jobs", "https://bixin.im/common/logo", "https://bixin.im/common/report", "https://jinshuju.net/f/6fLgh2" ],
-    "popularity-boosters-count" : 5
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.002073223296806693,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 0.002065252006326187,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://en.eosbixin.com"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -41,9 +34,9 @@
       "title" : "coc",
       "url" : "https://steemit.com/eos/@tuitui/eosbixin-code-of-conduct"
     } ],
-    "score" : 3,
+    "score" : 2,
     "max" : 3
   },
   "place" : 83,
-  "snapshot-date" : "2019-09-24T01:48:28.927Z"
+  "snapshot-date" : "2019-09-25T01:27:31.405Z"
 }

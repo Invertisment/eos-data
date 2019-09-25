@@ -11,23 +11,23 @@
     "prepared-url" : "https://cypherblock.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "cypherblock.io",
     "url" : "https://cypherblock.io/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 9.106124765011823E-6,
+  "webpage-error" : "cypherblock.io: Name or service not known",
+  "vote-percentage" : 9.106537903913901E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "cypherblock.io: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://cypherblock.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "cypherblock.io"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 177,
-  "snapshot-date" : "2019-09-24T01:48:28.927Z"
+  "place" : 178,
+  "snapshot-date" : "2019-09-25T01:27:31.405Z"
 }

@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eoscandyone1",
-    "total_votes" : "9856726174440118.00000000000000000",
+    "total_votes" : "9857385420504154.00000000000000000",
     "producer_key" : "EOS8SZrDZ6s1H9wrJrzeUqqm4QFXFgUZ9515osJsAbsgth4RknaeP",
     "is_active" : 1,
     "url" : "https://candy.one/",
@@ -11,37 +11,31 @@
     "prepared-url" : "https://candy.one/"
   },
   "bp-json-summary" : {
-    "url" : "https://candy.one/bp.json",
-    "logo" : "https://o3pvuu23u.qnssl.com/candy/images/logo-256.png"
+    "dl-error" : "Read timed out",
+    "url" : "https://candy.one/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 78,
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "https://itunes.apple.com/cn/app/id1436459129", "https://shorty.tinfinite.com/BJTQ" ],
-    "popularity-boosters-count" : 2
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.0018664222170375E-4,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 1.0019788869733717E-4,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://candy.one/"
-    }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://candy.one/bp.json"
-    }, {
-      "title" : "no-coc",
       "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://candy.one/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "Read timed out"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 0,
     "max" : 3
   },
   "place" : 121,
-  "snapshot-date" : "2019-09-24T01:48:28.927Z"
+  "snapshot-date" : "2019-09-25T01:27:31.405Z"
 }
