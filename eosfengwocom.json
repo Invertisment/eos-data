@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosfengwocom",
-    "total_votes" : "90068905007391504.00000000000000000",
+    "total_votes" : "81428933301975584.00000000000000000",
     "producer_key" : "EOS7qfQTT4xsPHmS8ywD9beppViEQ2TdejpLUcgXir5ofzn6qr1dW",
     "is_active" : 1,
     "url" : "https://eosfengwo.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-09-24T02:32:53.000",
+    "last_claim_time" : "2019-09-25T02:32:56.500",
     "location" : 0,
     "prepared-url" : "https://eosfengwo.com"
   },
@@ -15,7 +15,7 @@
     "url" : "https://eosfengwo.com/bp.json"
   },
   "webpage-error" : "Certificate for <eosfengwo.com> doesn't match any of the subject alternative names: [apibos.eosfengwo.com]",
-  "vote-percentage" : 9.155281785218135E-4,
+  "vote-percentage" : 8.189475371182896E-4,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 95,
-  "snapshot-date" : "2019-09-25T01:27:31.405Z"
+  "snapshot-date" : "2019-09-26T01:27:45.259Z"
 }
