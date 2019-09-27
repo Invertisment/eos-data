@@ -11,38 +11,31 @@
     "prepared-url" : "https://eos.block.cc/"
   },
   "bp-json-summary" : {
-    "url" : "https://eos.block.cc/bp.json",
-    "logo" : ""
+    "dl-error" : "clj-http: status 403",
+    "url" : "https://eos.block.cc/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 6,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://steemit.com/@blockcc", "https://twitter.com/block_cc" ],
-    "social-links-count" : 2,
-    "popularity-boosters" : [ "https://block.cc/" ],
-    "popularity-boosters-count" : 1
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 7.324413627252876E-7,
+  "webpage-error" : "clj-http: status 403",
+  "vote-percentage" : 7.425264148662075E-7,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eos.block.cc/"
-    }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://eos.block.cc/bp.json"
-    }, {
-      "title" : "no-coc",
       "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "title" : "no-web",
+      "error" : "clj-http: status 403",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eos.block.cc/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 403"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 0,
     "max" : 3
   },
   "place" : 277,
-  "snapshot-date" : "2019-09-26T01:27:45.259Z"
+  "snapshot-date" : "2019-09-27T01:27:31.481Z"
 }

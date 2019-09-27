@@ -11,7 +11,7 @@
     "prepared-url" : "https://dexnode.net"
   },
   "bp-json-summary" : {
-    "read-error" : "read:'https://dexnode.net/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "dl-error" : "clj-http: status 404",
     "url" : "https://dexnode.net/bp.json"
   },
   "analyzed-urls" : {
@@ -20,7 +20,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.0237565684503383E-7,
+  "vote-percentage" : 2.0516218578127654E-7,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -31,8 +31,8 @@
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://dexnode.net/bp.json",
-      "paragraphs" : [ "bp-json-invalid" ],
-      "error" : "read:'https://dexnode.net/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -42,5 +42,5 @@
     "max" : 3
   },
   "place" : 325,
-  "snapshot-date" : "2019-09-26T01:27:45.259Z"
+  "snapshot-date" : "2019-09-27T01:27:31.481Z"
 }

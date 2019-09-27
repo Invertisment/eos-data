@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "swedencornet",
-    "total_votes" : "3282097014700183.50000000000000000",
+    "total_votes" : "3282554968100759.00000000000000000",
     "producer_key" : "EOS55RGDuvrXjDaijB7ixYtJ1U7EnWDe16X9aWxAPQ64jrYCrsbCQ",
     "is_active" : 1,
     "url" : "https://eossweden.eu",
@@ -15,22 +15,14 @@
     "logo" : "https://eossweden.eu/logo/swedencornet-logo_256.png",
     "code_of_conduct" : "https://eossweden.eu/core-values"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 4,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/eossweden", "https://medium.com/@eossweden", "https://steemit.com/@corenet", "https://steemit.com/@eos.sweden", "https://t.me/joinchat/JCmUOFAsOgOibNuQkEMzHg", "https://twitter.com/SwedenEos", "https://www.facebook.com/cryptpoint", "https://www.linkedin.com/company/eos-sweden/", "https://www.linkedin.com/in/maliha-mushabbar/", "https://www.youtube.com/c/swedencornet", "https://www.youtube.com/channel/UC6GwuAAhLBI8gcvljKr_Diw", "https://www.youtube.com/channel/UC6GwuAAhLBI8gcvljKr_Diw/", "https://youtu.be/64JwBVa0S4c", "https://youtu.be/PgKf-MIaty4", "https://youtu.be/RX1ub57kCAs" ],
-    "social-links-count" : 15,
-    "popularity-boosters" : [ "https://busy.org/@eos.sweden", "https://eosforce.io/", "https://icon.foundation", "https://snax.one/", "https://tracker.icon.foundation/governance" ],
-    "popularity-boosters-count" : 5
-  },
-  "p-ram-amounts" : [ "RAM" ],
-  "vote-percentage" : 3.300872500446711E-5,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 3.346789430763265E-5,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eossweden.eu"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -42,9 +34,9 @@
       "title" : "coc",
       "url" : "https://eossweden.eu/core-values"
     } ],
-    "score" : 3,
+    "score" : 2,
     "max" : 3
   },
   "place" : 139,
-  "snapshot-date" : "2019-09-26T01:27:45.259Z"
+  "snapshot-date" : "2019-09-27T01:27:31.481Z"
 }
