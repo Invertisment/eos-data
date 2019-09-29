@@ -1,18 +1,18 @@
 {
   "bp-header" : {
     "owner" : "blockpooleos",
-    "total_votes" : "2389225493243193344.00000000000000000",
+    "total_votes" : "2469335799370990592.00000000000000000",
     "producer_key" : "EOS61FDJz3GC42GhaPSsmKh7SxuesyZhjm7hBwBKqN52v1HukEqBu",
     "is_active" : 1,
     "url" : "http://www.blockpool.com",
-    "unpaid_blocks" : 1140,
-    "last_claim_time" : "2019-09-27T22:00:42.500",
+    "unpaid_blocks" : 1147,
+    "last_claim_time" : "2019-09-28T22:01:14.500",
     "location" : 0,
     "prepared-url" : "http://www.blockpool.com"
   },
   "bp-json-summary" : {
-    "url" : "http://www.blockpool.com/bp.json",
-    "logo" : "http://www.blockpool.com/logo/blockpool-256.png"
+    "read-error" : "read:'http://www.blockpool.com/bp.json': Unexpected character ('}' (code 125)): was expecting double-quote to start field name\n at [Source: (StringReader); line: 42, column: 6]",
+    "url" : "http://www.blockpool.com/bp.json"
   },
   "analyzed-urls" : {
     "relative-links-count" : 2,
@@ -23,7 +23,7 @@
     "popularity-boosters-count" : 2
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.024330596841311638,
+  "vote-percentage" : 0.024803798403402307,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -31,18 +31,19 @@
       "title" : "web",
       "url" : "http://www.blockpool.com"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "http://www.blockpool.com/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://www.blockpool.com/bp.json",
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'http://www.blockpool.com/bp.json': Unexpected character ('}' (code 125)): was expecting double-quote to start field name\n at [Source: (StringReader); line: 42, column: 6]"
     }, {
-      "title" : "no-coc",
-      "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 19,
-  "snapshot-date" : "2019-09-28T01:27:27.925Z"
+  "place" : 11,
+  "snapshot-date" : "2019-09-29T01:27:22.667Z"
 }

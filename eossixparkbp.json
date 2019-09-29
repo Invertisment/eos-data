@@ -11,11 +11,11 @@
     "prepared-url" : "http://sixpark.club/"
   },
   "bp-json-summary" : {
-    "dl-error" : "Read timed out",
+    "dl-error" : "clj-http: status 403",
     "url" : "http://sixpark.club/bp.json"
   },
   "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 1.0124027344717391E-6,
+  "vote-percentage" : 9.986095781675233E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -27,7 +27,7 @@
       "mood" : "warn",
       "url" : "http://sixpark.club/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Read timed out"
+      "error" : "clj-http: status 403"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 267,
-  "snapshot-date" : "2019-09-28T01:27:27.925Z"
+  "snapshot-date" : "2019-09-29T01:27:22.667Z"
 }

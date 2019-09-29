@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosecologybp",
-    "total_votes" : "81393507871966.92187500000000000",
+    "total_votes" : "81761263350303.25000000000000000",
     "producer_key" : "EOS635kZTHJiX2x16ZvQW29jSPXCCYN35XAMGVnjxqGrmjcTrBC7Z",
     "is_active" : 1,
     "url" : "http://www.eosecology.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-09-27T01:46:43.500",
+    "last_claim_time" : "2019-09-28T01:46:44.000",
     "location" : 344,
     "prepared-url" : "http://www.eosecology.com"
   },
@@ -15,7 +15,7 @@
     "logo" : "http://www.eosecology.com/images/logo-256.png"
   },
   "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 8.28868029046841E-7,
+  "vote-percentage" : 8.212693850164054E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,5 +36,5 @@
     "max" : 3
   },
   "place" : 274,
-  "snapshot-date" : "2019-09-28T01:27:27.925Z"
+  "snapshot-date" : "2019-09-29T01:27:22.667Z"
 }

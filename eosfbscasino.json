@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosfbscasino",
-    "total_votes" : "8536655464525.46972656250000000",
+    "total_votes" : "8553194054039.32031250000000000",
     "producer_key" : "EOS6gzvrX2MPK4icWJ7f2J3xhRvvYnGXRUyF4hqs44rYZMpiKfvtw",
     "is_active" : 1,
     "url" : "http://eosfbs.com",
@@ -14,13 +14,13 @@
     "dl-error" : "clj-http: status 403",
     "url" : "http://eosfbs.com/bp.json"
   },
-  "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 8.693274162189247E-8,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 8.591447994866134E-8,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "clj-http: status 403",
+      "error" : "Read timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 366,
-  "snapshot-date" : "2019-09-28T01:27:27.925Z"
+  "snapshot-date" : "2019-09-29T01:27:22.667Z"
 }
