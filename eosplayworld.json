@@ -11,23 +11,23 @@
     "prepared-url" : "http://eosplay.world"
   },
   "bp-json-summary" : {
-    "dl-error" : "eosplay.world",
+    "dl-error" : "clj-http: status 403",
     "url" : "http://eosplay.world/bp.json"
   },
-  "webpage-error" : "eosplay.world: No address associated with hostname",
-  "vote-percentage" : 7.23914466812048E-6,
+  "webpage-error" : "clj-http: status 403",
+  "vote-percentage" : 7.202691057719753E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "eosplay.world: No address associated with hostname",
+      "error" : "clj-http: status 403",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://eosplay.world/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "eosplay.world"
+      "error" : "clj-http: status 403"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 183,
-  "snapshot-date" : "2019-09-29T01:27:22.667Z"
+  "snapshot-date" : "2019-09-30T01:27:28.636Z"
 }

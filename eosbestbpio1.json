@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosbestbpio1",
-    "total_votes" : "27289417609635608.00000000000000000",
+    "total_votes" : "9178081546755104.00000000000000000",
     "producer_key" : "EOS6v5TGz831quo7s7hqiVVNxa7CKSDUU9koEYGGQpFe4pkQFQGNd",
     "is_active" : 1,
     "url" : "https://eosbestbp.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-09-28T17:07:35.500",
+    "last_claim_time" : "2019-09-29T17:08:02.500",
     "location" : 0,
     "prepared-url" : "https://eosbestbp.io"
   },
@@ -15,7 +15,7 @@
     "url" : "https://eosbestbp.io/bp.json"
   },
   "webpage-error" : "eosbestbp.io: Name or service not known",
-  "vote-percentage" : 2.74114688293135E-4,
+  "vote-percentage" : 9.172706207441744E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 102,
-  "snapshot-date" : "2019-09-29T01:27:22.667Z"
+  "place" : 120,
+  "snapshot-date" : "2019-09-30T01:27:28.636Z"
 }
