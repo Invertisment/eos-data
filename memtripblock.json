@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "memtripblock",
-    "total_votes" : "263820989468099.50000000000000000",
+    "total_votes" : "263849741381971.56250000000000000",
     "producer_key" : "EOS7PjHY5yy6oSASPbFqeJDvC9mE2d7P6AtbTAkk8nd14NCAQk1wF",
     "is_active" : 1,
     "url" : "https://www.memtrip.com",
@@ -11,19 +11,17 @@
     "prepared-url" : "https://www.memtrip.com"
   },
   "bp-json-summary" : {
-    "url" : "https://www.memtrip.com/bp.json",
-    "logo" : "https://www.memtrip.com/resources/memtrip-BCP-Logo256.png",
-    "code_of_conduct" : "https://www.memtrip.com/code_of_conduct.html"
+    "dl-error" : "clj-http: status 404",
+    "url" : "https://www.memtrip.com/bp.json"
   },
   "analyzed-urls" : {
     "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/memtrip", "https://github.com/memtrip/eos-jvm", "https://github.com/memtrip/eos-swift", "https://github.com/memtrip/eosreach-android", "https://github.com/memtrip/eosreach-ios", "https://steemit.com/@memtrip", "https://t.me/joinchat/JcIXl0x7wC9cRI5uF_EiQA", "https://twitter.com/memtrip", "https://www.linkedin.com/in/newtonangie/", "https://www.linkedin.com/in/samuel-kirton-5a394255/" ],
-    "social-links-count" : 10,
-    "popularity-boosters" : [ "https://itunes.apple.com/us/app/eos-reach-eos-wallet/id1444511797", "https://play.google.com/store/apps/details?id=com.memtrip.eosreach" ],
-    "popularity-boosters-count" : 2
+    "social-links" : [ "https://github.com/memtrip" ],
+    "social-links-count" : 1,
+    "popularity-boosters" : [ ]
   },
-  "p-ram-amounts" : [ "ram" ],
-  "vote-percentage" : 2.645355400242333E-6,
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 2.634370987825035E-6,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -31,19 +29,19 @@
       "title" : "web",
       "url" : "https://www.memtrip.com"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://www.memtrip.com/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://www.memtrip.com/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://www.memtrip.com/code_of_conduct.html"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 227,
-  "snapshot-date" : "2019-10-01T01:27:32.077Z"
+  "place" : 226,
+  "snapshot-date" : "2019-10-02T01:17:45.655Z"
 }

@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "unlimitedeos",
-    "total_votes" : "447104305761772544.00000000000000000",
+    "total_votes" : "446926604933577216.00000000000000000",
     "producer_key" : "EOS8jjSeSmwX4kxMbpo8G4uibMnhf52QrGi4f9N7Zd3jY6oYVt9g6",
     "is_active" : 1,
     "url" : "http://www.unlimitedeos.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-09-29T17:12:38.000",
+    "last_claim_time" : "2019-10-01T10:16:05.500",
     "location" : 0,
     "prepared-url" : "http://www.unlimitedeos.com"
   },
@@ -15,7 +15,7 @@
     "url" : "http://www.unlimitedeos.com/bp.json"
   },
   "webpage-error" : "www.unlimitedeos.com: Name or service not known",
-  "vote-percentage" : 0.004483152732097228,
+  "vote-percentage" : 0.004462276428839452,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 65,
-  "snapshot-date" : "2019-10-01T01:27:32.077Z"
+  "place" : 67,
+  "snapshot-date" : "2019-10-02T01:17:45.655Z"
 }
