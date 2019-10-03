@@ -15,15 +15,15 @@
     "url" : "https://www.cardano.org/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 7,
+    "relative-links-count" : 8,
     "duplicate-urls" : null,
-    "social-links" : [ "https://en-gb.facebook.com/CardanoFoundation/", "https://github.com/input-output-hk/cardano-sl/", "https://t.me/CardanoAnnouncements", "https://twitter.com/CardanoStiftung", "https://twitter.com/cardano", "https://www.facebook.com/groups/CardanoCommunity", "https://www.meetup.com/pro/cardano/", "https://www.reddit.com/r/cardano/", "https://www.youtube.com/channel/UCbQ9vGfezru1YRI1zDCtTGg" ],
+    "social-links" : [ "https://en-gb.facebook.com/CardanoFoundation/", "https://github.com/input-output-hk/cardano-sl/", "https://t.me/CardanoChinaOfficial", "https://twitter.com/CardanoStiftung", "https://twitter.com/cardano", "https://www.facebook.com/groups/CardanoCommunity", "https://www.meetup.com/pro/cardano/", "https://www.reddit.com/r/cardano/", "https://www.youtube.com/channel/UCbQ9vGfezru1YRI1zDCtTGg" ],
     "social-links-count" : 9,
-    "popularity-boosters" : [ "en/ouroboros/", "http://cardanofoundation.org/", "http://daedaluswallet.io", "http://emurgo.io/", "https://cardanodocs.com/introduction/", "https://cardanoexplorer.com/", "https://cardanofoundation.org/", "https://cardanoroadmap.com/", "https://daedaluswallet.io", "https://emurgo.io", "https://forum.cardano.org", "https://forum.cardano.org/", "https://help.cardano.org/", "https://iohk.io/", "https://iohk.io/projects/cardano/", "https://staking.cardano.org/", "https://whycardano.com/" ],
+    "popularity-boosters" : [ "http://cardanofoundation.org/cn/", "http://daedaluswallet.io", "http://emurgo.io/", "https://cardanodocs.com/introduction/", "https://cardanoexplorer.com/", "https://cardanofoundation.org/cn/", "https://cardanoroadmap.com/", "https://cardanoroadmap.com/cn/", "https://daedaluswallet.io", "https://emurgo.io", "https://forum.cardano.org", "https://forum.cardano.org/", "https://help.cardano.org/", "https://iohk.io/", "https://iohk.io/projects/cardano/", "https://staking.cardano.org/cn/", "https://whycardano.com/" ],
     "popularity-boosters-count" : 17
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.6414745744394343E-7,
+  "vote-percentage" : 1.639949949198044E-7,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,5 +45,5 @@
     "max" : 3
   },
   "place" : 341,
-  "snapshot-date" : "2019-10-02T01:17:45.655Z"
+  "snapshot-date" : "2019-10-03T01:17:28.728Z"
 }
