@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "zeroxeosnode",
-    "total_votes" : "31322281877150.52734375000000000",
+    "total_votes" : "30535449815081.89843750000000000",
     "producer_key" : "EOS7EkrrDTncTMka9n3VJDZomH49Zm82MHnzsLPc4gYayRcKqKpkw",
     "is_active" : 1,
     "url" : "https://zeroxeos.com",
@@ -15,7 +15,7 @@
     "url" : "https://zeroxeos.com/bp.json"
   },
   "webpage-error" : "Certificate for <zeroxeos.com> doesn't match any of the subject alternative names: [hellohome.it]",
-  "vote-percentage" : 3.1244248924096037E-7,
+  "vote-percentage" : 3.044422737388324E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 305,
-  "snapshot-date" : "2019-10-03T01:17:28.728Z"
+  "snapshot-date" : "2019-10-04T01:17:18.706Z"
 }

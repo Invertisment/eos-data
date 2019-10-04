@@ -15,12 +15,14 @@
     "url" : "http://strongmonkey.com/bp.json"
   },
   "analyzed-urls" : {
+    "relative-links-count" : 1,
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ ]
+    "popularity-boosters" : [ "https://www.sedo.com/services/parking.php3" ],
+    "popularity-boosters-count" : 1
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.312430960826953E-6,
+  "vote-percentage" : 2.311280816695887E-6,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -42,5 +44,5 @@
     "max" : 3
   },
   "place" : 232,
-  "snapshot-date" : "2019-10-03T01:17:28.728Z"
+  "snapshot-date" : "2019-10-04T01:17:18.706Z"
 }

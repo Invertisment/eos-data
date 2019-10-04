@@ -14,14 +14,22 @@
     "dl-error" : "clj-http: status 404",
     "url" : "https://www.fifa.com/worldcup/bp.json"
   },
-  "webpage-error" : "Read timed out",
-  "vote-percentage" : 1.9157603625628932E-7,
+  "analyzed-urls" : {
+    "relative-links-count" : 78,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://twitter.com/FifaWorldCup", "https://www.facebook.com/fifaworldcup", "https://www.instagram.com/fifaworldcup/", "https://www.weibo.com/FIFAWorldCup?is_hot=1", "https://www.youtube.com/FIFATV" ],
+    "social-links-count" : 5,
+    "popularity-boosters" : [ "http://www.hyundai-motor.com", "http://www.kia.com/worldwide", "https://account.fifa.com/5a7baeb7-e706-4830-ad9f-103eba126311/oauth2/v2.0/authorize?p=b2c_1a_fifa_signuporsignin&client_Id=64e9afa8-c5c0-413d-882b-bc9e6a81e264&nonce=defaultNonce&prompt=login&redirect_uri=https%3A%2F%2Fwww.fifa.com%2Ftheclub%2Ftools%2Fcomment%2F_ms_login_handler.htmx&scope=openid%20offline_access&response_type=code&response_mode=form_post", "https://ar.fifa.com", "https://de.fifa.com", "https://en.fifa.com", "https://es.fifa.com", "https://fifaofficial.cn", "https://football-technology.fifa.com/en/innovations/var-at-the-world-cup/?utm_source=FIFA.com&utm_medium=Teaser_VAR_WC&utm_campaign=Teaser+-+FIFA.com", "https://fr.fifa.com", "https://i.fanpic.co/fifa/360fanpic?ignoredeeplink=true", "https://ru.fifa.com" ],
+    "popularity-boosters-count" : 12
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 1.9148075122616922E-7,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "Read timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://www.fifa.com/worldcup/"
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
@@ -33,9 +41,9 @@
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 0,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 328,
-  "snapshot-date" : "2019-10-03T01:17:28.728Z"
+  "place" : 327,
+  "snapshot-date" : "2019-10-04T01:17:18.706Z"
 }
