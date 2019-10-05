@@ -11,11 +11,11 @@
     "prepared-url" : "http://eosplay.world"
   },
   "bp-json-summary" : {
-    "dl-error" : "Read timed out",
+    "dl-error" : "clj-http: status 403",
     "url" : "http://eosplay.world/bp.json"
   },
   "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 7.205622010664591E-6,
+  "vote-percentage" : 7.203095978096472E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -27,7 +27,7 @@
       "mood" : "warn",
       "url" : "http://eosplay.world/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Read timed out"
+      "error" : "clj-http: status 403"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 181,
-  "snapshot-date" : "2019-10-04T01:17:18.706Z"
+  "place" : 175,
+  "snapshot-date" : "2019-10-05T01:17:23.539Z"
 }

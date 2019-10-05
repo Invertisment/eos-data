@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eostribeprod",
-    "total_votes" : "228658771827497152.00000000000000000",
+    "total_votes" : "214488972291257216.00000000000000000",
     "producer_key" : "EOS7gD4EXA96SEQ9RQrLfbU19tLHmGPcJXSPXdkrQh4bCkUghg6QE",
     "is_active" : 1,
     "url" : "https://eostribe.io",
@@ -18,13 +18,13 @@
   "analyzed-urls" : {
     "relative-links-count" : 1,
     "duplicate-urls" : null,
-    "social-links" : [ "https://steemit.com/@eostribe/", "https://twitter.com/EOStribe" ],
-    "social-links-count" : 2,
-    "popularity-boosters" : [ "https://bos.bloks.io/", "https://eosnetworkmonitor.io/", "https://meetone.eosx.io/", "https://monitor.telosfoundation.io/", "https://worbli.bloks.io/", "https://worbli.io/" ],
-    "popularity-boosters-count" : 6
+    "social-links" : [ "https://steemit.com/@eostribe/", "https://steemit.com/eosio/@eostribe/introducing-spectrum-streaming-api-for-eosio", "https://twitter.com/EOStribe" ],
+    "social-links-count" : 3,
+    "popularity-boosters" : [ "https://bos.bloks.io/", "https://eosnetworkmonitor.io/", "https://meetone.eosx.io/", "https://monitor.telosfoundation.io/", "https://worbli.bloks.io/" ],
+    "popularity-boosters-count" : 5
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.002279756703341866,
+  "vote-percentage" : 0.002137732345385242,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +45,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 78,
-  "snapshot-date" : "2019-10-04T01:17:18.706Z"
+  "place" : 79,
+  "snapshot-date" : "2019-10-05T01:17:23.539Z"
 }
