@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "spearfundoh1",
-    "total_votes" : "3986329204272.40625000000000000",
+    "total_votes" : "4019562540890.33496093750000000",
     "producer_key" : "EOS692z8EWu1bg15q8P5aV4zKWzzEHYokfZctcaoCmq8PArmM4Zyu",
     "is_active" : 1,
     "url" : "http://spear.fund",
@@ -14,13 +14,13 @@
     "dl-error" : "clj-http: status 429",
     "url" : "http://spear.fund/bp.json"
   },
-  "webpage-error" : "clj-http: status 429",
-  "vote-percentage" : 3.9730270457705436E-8,
+  "webpage-error" : "clj-http: status 404",
+  "vote-percentage" : 3.9794082834234324E-8,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "clj-http: status 429",
+      "error" : "clj-http: status 404",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 397,
-  "snapshot-date" : "2019-10-05T01:17:23.539Z"
+  "snapshot-date" : "2019-10-06T01:17:19.854Z"
 }
