@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "big.one",
-    "total_votes" : "2659166468115922432.00000000000000000",
+    "total_votes" : "2662379011686989824.00000000000000000",
     "producer_key" : "EOS8MpYyXwn3DLqk9Y9XTHYcd6wGGijNqJefFoQEwEoXTq1awZ42w",
     "is_active" : 1,
     "url" : "https://eos.big.one",
-    "unpaid_blocks" : 6680,
-    "last_claim_time" : "2019-10-05T05:39:48.000",
+    "unpaid_blocks" : 6685,
+    "last_claim_time" : "2019-10-06T05:39:55.000",
     "location" : 392,
     "prepared-url" : "https://eos.big.one"
   },
@@ -20,7 +20,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.02632602170652739,
+  "vote-percentage" : 0.02635073089783079,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -41,5 +41,5 @@
     "max" : 3
   },
   "place" : 4,
-  "snapshot-date" : "2019-10-06T01:17:19.854Z"
+  "snapshot-date" : "2019-10-07T01:17:28.868Z"
 }
