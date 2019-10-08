@@ -1,22 +1,22 @@
 {
   "bp-header" : {
     "owner" : "eosarabianet",
-    "total_votes" : "18249993660374744.00000000000000000",
+    "total_votes" : "18416490354122604.00000000000000000",
     "producer_key" : "EOS6JuwKSkEiYNR88bV9wz7uQGjMiSabMzFearb6UmuEE4uK3rSR6",
     "is_active" : 1,
-    "url" : "https://mena.eosarabia.net",
+    "url" : "https://uae.eosarabia.net",
     "unpaid_blocks" : 0,
     "last_claim_time" : "2019-03-24T16:21:36.000",
     "location" : 0,
-    "prepared-url" : "https://mena.eosarabia.net"
+    "prepared-url" : "https://uae.eosarabia.net"
   },
   "bp-json-summary" : {
-    "url" : "https://mena.eosarabia.net/bp.json",
-    "logo" : "https://mena.eosarabia.net/EOSArabia-Logo256.png",
+    "url" : "https://uae.eosarabia.net/bp.json",
+    "logo" : "https://uae.eosarabia.net/EOSArabia-Logo256.png",
     "code_of_conduct" : "https://eosarabia.net/4qsy1qlIm/code-of-conduct"
   },
   "webpage-error" : "unable to find valid certification path to requested target",
-  "vote-percentage" : 1.806281786780369E-4,
+  "vote-percentage" : 1.8218877610859228E-4,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -27,7 +27,7 @@
       "score" : "positive",
       "mood" : "good",
       "title" : "bp-json",
-      "url" : "https://mena.eosarabia.net/bp.json"
+      "url" : "https://uae.eosarabia.net/bp.json"
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -38,5 +38,5 @@
     "max" : 3
   },
   "place" : 110,
-  "snapshot-date" : "2019-10-07T01:17:28.868Z"
+  "snapshot-date" : "2019-10-08T01:17:31.753Z"
 }
