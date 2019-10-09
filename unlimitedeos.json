@@ -1,41 +1,49 @@
 {
   "bp-header" : {
     "owner" : "unlimitedeos",
-    "total_votes" : "450984056598395456.00000000000000000",
+    "total_votes" : "451221707941573248.00000000000000000",
     "producer_key" : "EOS8jjSeSmwX4kxMbpo8G4uibMnhf52QrGi4f9N7Zd3jY6oYVt9g6",
     "is_active" : 1,
-    "url" : "http://www.unlimitedeos.com",
+    "url" : "http://uipeos.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-10-07T10:22:14.500",
+    "last_claim_time" : "2019-10-08T14:01:49.500",
     "location" : 0,
-    "prepared-url" : "http://www.unlimitedeos.com"
+    "prepared-url" : "http://uipeos.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "www.unlimitedeos.com",
-    "url" : "http://www.unlimitedeos.com/bp.json"
+    "url" : "http://uipeos.com/bp.json",
+    "logo" : "http://www.unlimitedeos.com/logo/logo_256.png",
+    "code_of_conduct" : "https://steemit.com/eos/@uipofficial/two-new-criteria-for-bp"
   },
-  "webpage-error" : "www.unlimitedeos.com: Name or service not known",
-  "vote-percentage" : 0.004461449045732918,
+  "analyzed-urls" : {
+    "relative-links-count" : 1,
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ "http://www.eosjapan.org", "https://eoscannon.io", "https://eoslaomao.com", "https://oraclechain.io", "https://www.helloeos.com.cn " ],
+    "popularity-boosters-count" : 5
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.004412064172774045,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "www.unlimitedeos.com: Name or service not known",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://uipeos.com"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "http://www.unlimitedeos.com/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "www.unlimitedeos.com"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "http://uipeos.com/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/eos/@uipofficial/two-new-criteria-for-bp"
     } ],
-    "score" : 0,
+    "score" : 3,
     "max" : 3
   },
   "place" : 66,
-  "snapshot-date" : "2019-10-08T01:17:31.753Z"
+  "snapshot-date" : "2019-10-09T01:17:35.131Z"
 }

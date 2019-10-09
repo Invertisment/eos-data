@@ -11,11 +11,11 @@
     "prepared-url" : "https://prospectors.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 500",
+    "dl-error" : "clj-http: status 404",
     "url" : "https://prospectors.io/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 10,
+    "relative-links-count" : 9,
     "duplicate-urls" : null,
     "social-links" : [ "https://bitcointalk.org/index.php?topic=1877080.0", "https://medium.com/@prospectorsgame", "https://medium.com/@prospectorsgame/prospectors-testing-in-the-jungle-is-launched-d485fc4ea008", "https://t.me/prospectors", "https://t.me/prospectorsgame", "https://twitter.com/prospectorsgame", "https://www.reddit.com/r/Prospectorsio/", "https://www.youtube.com/channel/UCJ07CHIqC2LBS3al0G7s0dA/featured" ],
     "social-links-count" : 8,
@@ -23,7 +23,7 @@
     "popularity-boosters-count" : 11
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.6581965157123733E-6,
+  "vote-percentage" : 2.6273877541509826E-6,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -35,7 +35,7 @@
       "mood" : "warn",
       "url" : "https://prospectors.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 500"
+      "error" : "clj-http: status 404"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -45,5 +45,5 @@
     "max" : 3
   },
   "place" : 215,
-  "snapshot-date" : "2019-10-08T01:17:31.753Z"
+  "snapshot-date" : "2019-10-09T01:17:35.131Z"
 }

@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eos42freedom",
-    "total_votes" : "750827324884703872.00000000000000000",
+    "total_votes" : "750150453532417536.00000000000000000",
     "producer_key" : "EOS4tw7vH62TcVtMgm2tjXzn9hTuHEBbGPUK2eos42ssY7ip4LTzu",
     "is_active" : 1,
     "url" : "https://www.eos42.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-10-07T20:24:02.500",
+    "last_claim_time" : "2019-10-08T20:25:03.000",
     "location" : 826,
     "prepared-url" : "https://www.eos42.io"
   },
@@ -16,14 +16,14 @@
     "code_of_conduct" : "https://steemit.com/eos/@eos42/eos42-statement-of-ownership-and-code-of-conduct-v1-0"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 17,
+    "relative-links-count" : 20,
     "duplicate-urls" : null,
     "social-links" : [ "https://github.com/eos42", "https://medium.com/@eos42", "https://steemit.com/eos/@eos42/eos42-statement-of-ownership-and-code-of-conduct-v1-0", "https://t.me/eos42", "https://twitter.com/eos42io" ],
     "social-links-count" : 5,
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.007427707926934683,
+  "vote-percentage" : 0.00733500157897798,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,5 +45,5 @@
     "max" : 3
   },
   "place" : 37,
-  "snapshot-date" : "2019-10-08T01:17:31.753Z"
+  "snapshot-date" : "2019-10-09T01:17:35.131Z"
 }

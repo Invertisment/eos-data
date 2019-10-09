@@ -15,14 +15,14 @@
     "url" : "http://www.eos90s.io/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 3,
+    "relative-links-count" : 2,
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ "https://pay.fortuneme.tw/product/11", "https://pay.fortuneme.tw/product/13", "https://pay.fortuneme.tw/product/14" ],
-    "popularity-boosters-count" : 3
+    "popularity-boosters" : [ "https://pay.fortuneme.tw/product/11", "https://pay.fortuneme.tw/product/13", "https://pay.fortuneme.tw/product/14", "https://www.fortuneme.tw/", "https://www.fortuneme.tw/new-page/" ],
+    "popularity-boosters-count" : 5
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 5.276537221244328E-6,
+  "vote-percentage" : 5.215381630919001E-6,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -44,5 +44,5 @@
     "max" : 3
   },
   "place" : 188,
-  "snapshot-date" : "2019-10-08T01:17:31.753Z"
+  "snapshot-date" : "2019-10-09T01:17:35.131Z"
 }

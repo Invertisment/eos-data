@@ -14,14 +14,22 @@
     "read-error" : "read:'http://eos.romania22.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
     "url" : "http://eos.romania22.com/bp.json"
   },
-  "webpage-error" : "clj-http: status 502",
-  "vote-percentage" : 3.0075539656633547E-6,
+  "analyzed-urls" : {
+    "relative-links-count" : 28,
+    "duplicate-urls" : null,
+    "social-links" : [ "http://l.facebook.com/l.php?u=http%3A%2F%2Feos.romania22.com%2F&h=AT036qOnK7HfuI-sZeQjiWkHKYS0ibwkFqpnxe98G0rK3iwHE5EcY1lkbSmmF0ipCyLAWxirk8fQ1n2clWQsAx-FgZKrZ7YkIIyBSf8L_6LCBqJ86Q6zC6LR-V5Swlkxd4UnH-ym7RwPmW3ldTI", "http://l.facebook.com/l.php?u=http%3A%2F%2Feos.romania22.com%2F&h=AT37dPtpr2gkJ2AkoQFyyPjr11VvFehnNizSRdv_UqxPLOGhGDAZzzkZUVNdtThWNzbjpL_x_s5_Ohj8Yr6Y2lgu-uxrG7V_sy3n2ywVJlIVEVh-2M-B6MXLsz3INHlM_ronzTJ7Y3w7kIb_", "https://l.facebook.com/l.php?u=https%3A%2F%2Fbuffer.com%2F&h=AT3ZKjmZ-p3crL6d5vrgQcyhHi0FITg0-pObglPFAMoDACY9RiJB3Fkuev0gLpdILILp_2EtegD5kWPMzHA1TJyTrTGu6zcdQSVDo9bMg1Jzyc5jLPpXhDT_csTQmoQ8bJzBtNs99LYEvQSYfS1xHEyt2CihhXWF", "https://l.facebook.com/l.php?u=https%3A%2F%2Fmedium.com%2Fthe-liquidapps-blog%2Fdapp-network-dsp-2-release-scalability-for-dapps-eos-ethereum-f666add63e4e&h=AT0Id4utg8tAghw0_rB-xv-jTeRrTmCNn60zml2JKuVu97eNXIjurqi1kEnyNoOKeJoZnoF_-UjKnaceATP5Coy7PW49-YkYcHHHp7tMxHnwxRVAk2Fwr0oxfTTdwWLDpaufx-2XmzEFfwBjRi2MJMUDLMHMGnhcoi0", "https://l.facebook.com/l.php?u=https%3A%2F%2Fmedium.com%2Fthe-liquidapps-blog%2Fdapp-network-dsp-2-release-scalability-for-dapps-eos-ethereum-f666add63e4e&h=AT2KuolcHtJiAJdu1qHz-uLwAzhzpLbX7ID0Y0tLqcEx0gCc6Dqh0TrhUJ4IuY805m9ks9v9t5ZLWdWT2eyEm76yvCQVhrxw5bWuPHYXUrR99bN5vOhpBV3pf2ByUXNNiBgVJbnwMvqCqSp2xN2xf_pJcNo6E-gH4FwaeJ5JBA", "https://l.facebook.com/l.php?u=https%3A%2F%2Fmedium.com%2Fthe-liquidapps-blog%2Fdapp-network-dsp-2-release-scalability-for-dapps-eos-ethereum-f666add63e4e&h=AT3DGr5ScZQM2IooVzXkFJ04XZ3izAwA8nqRWIdRNSiuvNS7456KXSrJBJh8rGW1DZO9qo2aTNdGcHVOcmEHh0hXF3p_yurzqbfrFmKsB0iD0u8RNEOGFNZiIIetZ3WDccL3_EnvHfmkZ2H1JnFBCVBvfGMvOe28aN4", "https://l.facebook.com/l.php?u=https%3A%2F%2Fsteemit.com%2Feos%2F%40greymass%2Fannouncing-eos-voter-an-eos-block-producer-voting-tool-and-light-wallet&h=AT276OapeAlF-0M2HjvWE-Hx9rKuDLSDO8ufN9spoG4WFQ3Xlps6ZQqTKScMPyUMJ6hpW3ZX7erjqWi67ON2vWgRt2-bQOf9dt9_6vGLCzPlkYGOKu2cqKaiqPXofBCGgP3Tuy_6oGJgnMostNNawukwRtyUinN9T4HVDm3BoJmSHg", "https://l.facebook.com/l.php?u=https%3A%2F%2Fsteemit.com%2Feos%2F%40unus%2Fhow-to-vote-for-eos-romania-block-producer&h=AT3fge0Qp9dqwjfYDCrBZ9gGfUujizmQ2Dx5x1NkB9-LWcsENUua-poS3LmRcN5LSMQLYjzS0JbfhzgsxsXgA3N7RcZdrwEDtWqfAPM3ZG6uOWOqgPd0NpmMjJjt8as1wF3X0fkwq7uhX-ENzIK5wbY1pUrpW97cLzvqzl1Ez4T_RA", "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2F_hWRAjLKa8w&h=AT1X3Nl69H84UUvjBOup6ciWpSr6C64mVUdnpZoZMWpMPrWnhjtE024N-ANiKKNAEoKZsdYPOk1trEXK6gcu2G5W2J2GBanOydvvMqpHq8VppfNk_J2qJRMyUuyxwFiG6Bc_gFqENOKlP7K8TqV4WI-v4bq9EWm1XX1TM0mMVBiEAA", "https://www.facebook.com/Bucati-din-suflet-249940915545408/?ref=py_c", "https://www.facebook.com/Cold-Steel-Defense-Concept-583688551814637/?ref=py_c", "https://www.facebook.com/DanubeDeltaCruises/?ref=py_c", "https://www.facebook.com/DiscoverAmericaRO/?ref=py_c", "https://www.facebook.com/EOS-sweden-554084258304426/?ref=py_c", "https://www.facebook.com/EOSro/?hc_ref=ARTEBh--WWDCjy4U8HBz1tjuaZpaeS0Tvwmv_PlSGPeFga1PUTeCkl3YJN-2nmnXke0", "https://www.facebook.com/EOSro/?hc_ref=ARTuMCj5N4NgPFGWH8pYqbgWLsT6n7CDULd57VoEnS-_GgBXD4A0HASt2CeN8zOqMZU&fref=nf", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARSBTaTvZiiymbl0WYkkkGRWHWRsdCDVYR7jKqvPDTu9_LoQypxlTj5NqPf4z9tg1sM", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ART4PMTIFvCEeFDT-SYiVLPIi32HZYRiCemAoPGJilH-hB3rMj6aJHzUxVaccJbWa6g", "https://www.facebook.com/EOSro/likes", "https://www.facebook.com/EOSro/likes?ref=page_internal", "https://www.facebook.com/EOSro/posts", "https://www.facebook.com/FundatiaEOS/?ref=py_c", "https://www.facebook.com/MASINI-PUTERNICE-235269936516996/?ref=py_c", "https://www.facebook.com/Neurospecies/?ref=py_c", "https://www.facebook.com/RomaniaEarthship/?ref=py_c", "https://www.facebook.com/TheMoodsProject/?ref=py_c", "https://www.facebook.com/TimisoaraMountainBikers/?ref=py_c", "https://www.facebook.com/Vasileanghel56-867468373425889/?ref=py_c", "https://www.facebook.com/VindecareEvolutie/?ref=py_c", "https://www.facebook.com/Vrem-Pietonale-Panoramice-pentru-București-285130942415155/?ref=py_c", "https://www.facebook.com/Yonchim-Drive-SRL-123718561513183/?ref=py_c", "https://www.facebook.com/ad_campaign/landing.php?placement=pf_rhc&campaign_id=242449722530626&extra_1=auto", "https://www.facebook.com/bconsultantantul/?ref=py_c", "https://www.facebook.com/certipro.ro/?ref=py_c", "https://www.facebook.com/cryptomonedeofficial/?ref=py_c", "https://www.facebook.com/help/568137493302217", "https://www.facebook.com/help/cookies?ref_type=sitefooter", "https://www.facebook.com/iuliancristeasculpture/?ref=py_c", "https://www.facebook.com/monedavirtuala/?ref=py_c", "https://www.facebook.com/policies?ref=pf", "https://www.facebook.com/privacy/explanation", "https://www.facebook.com/recover/initiate?lwv=110&ars=royal_blue_bar" ],
+    "social-links-count" : 42,
+    "popularity-boosters" : [ "https://www.facebook.com/" ],
+    "popularity-boosters-count" : 1
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 2.97269611656776E-6,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "clj-http: status 502",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://eos.romania22.com"
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
@@ -33,9 +41,9 @@
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 0,
+    "score" : 1,
     "max" : 3
   },
   "place" : 207,
-  "snapshot-date" : "2019-10-08T01:17:31.753Z"
+  "snapshot-date" : "2019-10-09T01:17:35.131Z"
 }

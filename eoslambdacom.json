@@ -1,41 +1,50 @@
 {
   "bp-header" : {
     "owner" : "eoslambdacom",
-    "total_votes" : "1213800174112320256.00000000000000000",
+    "total_votes" : "1291315038451143168.00000000000000000",
     "producer_key" : "EOS72ypVVZQaGueMmTBsJf7CjUkiyBueTsa62zreGNUYTw7u3vx6U",
     "is_active" : 1,
     "url" : "https://bridgepool.lambda.im",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-10-07T02:08:26.000",
+    "last_claim_time" : "2019-10-08T02:08:51.000",
     "location" : 0,
     "prepared-url" : "https://bridgepool.lambda.im"
   },
   "bp-json-summary" : {
-    "dl-error" : "NotAfter: Sat Sep 28 15:48:08 UTC 2019",
-    "url" : "https://bridgepool.lambda.im/bp.json"
+    "url" : "https://bridgepool.lambda.im/bp.json",
+    "logo" : "https://bridgepool.lambda.im/Lambda-Pool-256x256.png",
+    "code_of_conduct" : "https://blog.lambda.im/2018/08/17/lambda-bridge-pool-block-producer-candidate-introduction"
   },
-  "webpage-error" : "NotAfter: Sat Sep 28 15:48:08 UTC 2019",
-  "vote-percentage" : 0.01200775847676192,
+  "analyzed-urls" : {
+    "relative-links-count" : 1,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://medium.com/@Lambdaim", "https://t.me/HelloLambda", "https://twitter.com/Lambdaim", "https://www.facebook.com/Lambdaim", "https://www.linkedin.com/company/lambdaim/" ],
+    "social-links-count" : 5,
+    "popularity-boosters" : [ "https://www.lambda.im/en/index.html" ],
+    "popularity-boosters-count" : 1
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.012626530853104157,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "NotAfter: Sat Sep 28 15:48:08 UTC 2019",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://bridgepool.lambda.im"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://bridgepool.lambda.im/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "NotAfter: Sat Sep 28 15:48:08 UTC 2019"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://bridgepool.lambda.im/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://blog.lambda.im/2018/08/17/lambda-bridge-pool-block-producer-candidate-introduction"
     } ],
-    "score" : 0,
+    "score" : 3,
     "max" : 3
   },
   "place" : 29,
-  "snapshot-date" : "2019-10-08T01:17:31.753Z"
+  "snapshot-date" : "2019-10-09T01:17:35.131Z"
 }

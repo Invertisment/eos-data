@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "infinitybloc",
-    "total_votes" : "716984800445690.75000000000000000",
+    "total_votes" : "768990887082325.50000000000000000",
     "producer_key" : "EOS6rocMVe62FVRjZZMCpFQREVbwBFrm5taNHKpYWmdQR4vuqeZsx",
     "is_active" : 1,
     "url" : "https://eos.infinitybloc.io",
@@ -15,22 +15,14 @@
     "logo" : "https://eos.infinitybloc.io/infinity-logo-black-256.png",
     "code_of_conduct" : "https://infinitybloc.io/code-of-conduct"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 24,
-    "duplicate-urls" : null,
-    "social-links" : [ "http://www.facebook.com/119192605693785", "https://github.com/Telos-Foundation/telos/wiki/Pulse:--Telos-Block-Producer-Infrastructure-Insights", "https://github.com/infinitybloc", "https://medium.com/@infinitybloc", "https://t.me/joinchat/Isxu3VIEZa7RV9yCT530TA", "https://twitter.com/infinitybloc", "https://www.meetup.com/Blockchain-Distributed-Ledger-Technology-DLT-and-Web-3-0/", "https://www.meetup.com/SF-EOS/", "https://www.reddit.com/user/infinitybloc", "https://www.youtube.com/channel/UCy-XgDZUKGBHFu4G8hFg2AA" ],
-    "social-links-count" : 10,
-    "popularity-boosters" : [ "http://eosworldexpo.com", "http://proxibots.io", "http://telosfoundation.io", "https://aikon.com/", "https://strongblock.io/", "https://www.eosworldexpo.com", "https://www.eosworldexpo.com/readyhackerone" ],
-    "popularity-boosters-count" : 7
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 7.092914055278854E-6,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 7.519224102854962E-6,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eos.infinitybloc.io"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -42,9 +34,9 @@
       "title" : "coc",
       "url" : "https://infinitybloc.io/code-of-conduct"
     } ],
-    "score" : 3,
+    "score" : 2,
     "max" : 3
   },
-  "place" : 175,
-  "snapshot-date" : "2019-10-08T01:17:31.753Z"
+  "place" : 171,
+  "snapshot-date" : "2019-10-09T01:17:35.131Z"
 }
