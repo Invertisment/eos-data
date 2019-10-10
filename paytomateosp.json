@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "paytomateosp",
-    "total_votes" : "86235719622391200.00000000000000000",
+    "total_votes" : "86237379071042624.00000000000000000",
     "producer_key" : "EOS62DzQLxR9ZbHvUejEiY5e7PRzD1XnU74D14ZfU6bCgiGfiKwJJ",
     "is_active" : 1,
     "url" : "https://paytomat.com/",
@@ -11,17 +11,19 @@
     "prepared-url" : "https://paytomat.com/"
   },
   "bp-json-summary" : {
-    "url" : "https://paytomat.com/bp.json",
-    "logo" : "https://paytomat.com/assets/logo/logo_1024.png",
-    "code_of_conduct" : "https://steemit.com/eos/@paytomat/paytomat-announces-an-eos-block-producer-candidate"
+    "read-error" : "read:'https://paytomat.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "url" : "https://paytomat.com/bp.json"
   },
   "analyzed-urls" : {
+    "relative-links-count" : 1,
     "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
+    "social-links" : [ "https://github.com/Paytomat", "https://medium.com/paytomat", "https://medium.com/paytomat/paytomat-partners-with-enecuum-and-implements-payments-with-erc20-token-for-the-first-time-e3d253935aae", "https://medium.com/paytomat/the-value-of-eos-proxy-a86bc2630dfd", "https://t.me/paytomat", "https://twitter.com/paytomat", "https://www.facebook.com/paytomat/", "https://www.linkedin.com/company/11433285/", "https://www.youtube.com/channel/UCl2_Qaq3p-7498MqoWB-d1w" ],
+    "social-links-count" : 9,
+    "popularity-boosters" : [ "en/", "en/company", "en/development", "en/documents", "en/merchants", "en/wallet", "es/", "http://bit.ly/Android_Paytomat_Wallet", "http://bit.ly/iOS_Paytomat_Wallet", "it/", "ru/", "zh/" ],
+    "popularity-boosters-count" : 12
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 8.43216366284856E-4,
+  "vote-percentage" : 8.42284244189125E-4,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -29,19 +31,19 @@
       "title" : "web",
       "url" : "https://paytomat.com/"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://paytomat.com/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://paytomat.com/bp.json",
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'https://paytomat.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://steemit.com/eos/@paytomat/paytomat-announces-an-eos-block-producer-candidate"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 1,
     "max" : 3
   },
   "place" : 92,
-  "snapshot-date" : "2019-10-09T01:17:35.131Z"
+  "snapshot-date" : "2019-10-10T01:17:28.214Z"
 }

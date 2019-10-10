@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eoscanadacom",
-    "total_votes" : "865003804983886208.00000000000000000",
+    "total_votes" : "859939369353845120.00000000000000000",
     "producer_key" : "EOS7eycxAbCtKyfoJc8uRZcmt1AmArjXcz8aonLUTzahk5rHc18NJ",
     "is_active" : 1,
     "url" : "https://eoscanada.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-10-08T18:09:42.000",
+    "last_claim_time" : "2019-10-09T18:09:43.500",
     "location" : 0,
     "prepared-url" : "https://eoscanada.com"
   },
@@ -24,7 +24,7 @@
     "popularity-boosters-count" : 5
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.008458042310714377,
+  "vote-percentage" : 0.008399065342280226,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -46,5 +46,5 @@
     "max" : 3
   },
   "place" : 35,
-  "snapshot-date" : "2019-10-09T01:17:35.131Z"
+  "snapshot-date" : "2019-10-10T01:17:28.214Z"
 }
