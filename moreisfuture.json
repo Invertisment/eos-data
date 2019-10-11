@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "moreisfuture",
-    "total_votes" : "593644120221744896.00000000000000000",
+    "total_votes" : "490697121767612480.00000000000000000",
     "producer_key" : "EOS671RDSn2embqDJhFHKWZqqCfVgNAmi2p3vQZfQBX77GypcGoF2",
     "is_active" : 1,
     "url" : "https://more.top",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-10-09T02:11:44.500",
+    "last_claim_time" : "2019-10-10T02:12:16.000",
     "location" : 156,
     "prepared-url" : "https://more.top"
   },
@@ -17,11 +17,11 @@
   "analyzed-urls" : {
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ "http://www.cocosbcx.io", "http://www.edapp.io/", "http://www.eosdevcon.io", "http://www.hoo.com", "https://chaince.com", "https://horuspay.io", "https://minerhub.com/", "https://mixin.one/", "https://scaneos.io/", "https://www.biask.com", "https://www.slowmist.com/", "https://www.starteos.io" ],
-    "popularity-boosters-count" : 12
+    "popularity-boosters" : [ "http://www.cocosbcx.io", "http://www.edapp.io/", "http://www.hoo.com", "https://horuspay.io", "https://minerhub.com/", "https://mixin.one/", "https://www.biask.com", "https://www.slowmist.com/", "https://www.starteos.io" ],
+    "popularity-boosters-count" : 9
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.0057981480247257374,
+  "vote-percentage" : 0.004787115900395186,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -41,6 +41,6 @@
     "score" : 2,
     "max" : 3
   },
-  "place" : 42,
-  "snapshot-date" : "2019-10-10T01:17:28.214Z"
+  "place" : 62,
+  "snapshot-date" : "2019-10-11T01:17:22.557Z"
 }
