@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "vote4scatter",
-    "total_votes" : "171035893640895744.00000000000000000",
+    "total_votes" : "173396153631567264.00000000000000000",
     "producer_key" : "EOS5VbrZEptQt43h2Gwe11eFqMwEWZ3cfAscLLeostkotntCRfgzm",
     "is_active" : 1,
     "url" : "https://get-scatter.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-10-10T08:19:26.000",
+    "last_claim_time" : "2019-10-11T08:19:36.000",
     "location" : 1,
     "prepared-url" : "https://get-scatter.com"
   },
@@ -21,7 +21,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.0016685825322089206,
+  "vote-percentage" : 0.001685761981077413,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -43,5 +43,5 @@
     "max" : 3
   },
   "place" : 80,
-  "snapshot-date" : "2019-10-11T01:17:22.557Z"
+  "snapshot-date" : "2019-10-12T01:17:24.070Z"
 }

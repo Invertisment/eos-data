@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eossv12eossv",
-    "total_votes" : "1563401795072983808.00000000000000000",
+    "total_votes" : "1513251811114483712.00000000000000000",
     "producer_key" : "EOS7fv6nadePJBdCiWyR2Ldz5YWyzJGMBkEo47zUSWFttduQhHHaa",
     "is_active" : 1,
     "url" : "https://eossiliconvalley.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-10-10T11:06:17.000",
+    "last_claim_time" : "2019-10-11T11:06:18.000",
     "location" : 840,
     "prepared-url" : "https://eossiliconvalley.io"
   },
@@ -16,14 +16,14 @@
     "code_of_conduct" : "https://steemit.com/eos/@eossv/eos-silicon-valley-block-producer-candidate-roadmap-and-position-on-dividends"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 7,
+    "relative-links-count" : 6,
     "duplicate-urls" : null,
     "social-links" : [ "https://medium.com/@eossiliconvalley", "https://steemit.com/@eossv", "https://steemit.com/eos/@eossv/eos-silicon-valley-block-producer-candidate-roadmap-and-position-on-dividends", "https://steemit.com/eos/@eossv/eos-silicon-valley-ownership-disclosure", "https://t.me/eossv", "https://twitter.com/EOS_SV", "https://www.facebook.com/EOS-Silicon-Valley-168362600677072/", "https://www.meetup.com/EOS-Silicon-Valley-Community/", "https://www.reddit.com/user/EOS_SV", "https://www.youtube.com/channel/UCxcXyUzH5Vmcg2iUl3o0NhA", "https://youtu.be/XjFhmlmGqGo" ],
     "social-links-count" : 11,
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.01525214895278042,
+  "vote-percentage" : 0.014711874038415357,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -44,6 +44,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 28,
-  "snapshot-date" : "2019-10-11T01:17:22.557Z"
+  "place" : 27,
+  "snapshot-date" : "2019-10-12T01:17:24.070Z"
 }
