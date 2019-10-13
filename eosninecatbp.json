@@ -11,17 +11,17 @@
     "prepared-url" : "http://www.eos9cat.com"
   },
   "bp-json-summary" : {
-    "read-error" : "read:'http://www.eos9cat.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 2, column: 2]",
+    "read-error" : "read:'http://www.eos9cat.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
     "url" : "http://www.eos9cat.com/bp.json"
   },
   "analyzed-urls" : {
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ "https://www.gm48.com/home/reg.html?att=gm5888" ],
+    "popularity-boosters" : [ "https://www.780095.com/home/reg.html?att=344134" ],
     "popularity-boosters-count" : 1
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.87248550772877E-7,
+  "vote-percentage" : 2.822247562172367E-7,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -33,7 +33,7 @@
       "mood" : "warn",
       "url" : "http://www.eos9cat.com/bp.json",
       "paragraphs" : [ "bp-json-invalid" ],
-      "error" : "read:'http://www.eos9cat.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 2, column: 2]"
+      "error" : "read:'http://www.eos9cat.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -43,5 +43,5 @@
     "max" : 3
   },
   "place" : 297,
-  "snapshot-date" : "2019-10-12T01:17:24.070Z"
+  "snapshot-date" : "2019-10-13T01:19:16.076Z"
 }

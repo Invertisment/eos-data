@@ -1,41 +1,38 @@
 {
   "bp-header" : {
     "owner" : "newdex.bp",
-    "total_votes" : "2680892191816096256.00000000000000000",
+    "total_votes" : "2786544360588423680.00000000000000000",
     "producer_key" : "EOS688SnH8tQ7NiyhamiCzWXAGPDLF9S7K8ga79UBHKFgjS1MhqhB",
     "is_active" : 1,
-    "url" : "https://newdex.one",
+    "url" : "https://newpool.io",
     "unpaid_blocks" : 8160,
-    "last_claim_time" : "2019-10-11T01:24:38.500",
+    "last_claim_time" : "2019-10-12T01:24:39.000",
     "location" : 392,
-    "prepared-url" : "https://newdex.one"
+    "prepared-url" : "https://newpool.io"
   },
   "bp-json-summary" : {
-    "url" : "https://newdex.one/bp.json",
-    "logo" : "https://newdex.one/static/img/logo-256.png",
+    "url" : "https://newpool.io/bp.json",
+    "logo" : "https://newpool.io/static/newpool/logo-256.png",
     "code_of_conduct" : "https://steemit.com/blockchain/@newdex/newdex-block-producer-announcement"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 5,
     "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/GetScatter/ScatterDesktop/releases" ],
-    "social-links-count" : 1,
-    "popularity-boosters" : [ "http://mathwallet.org/en/", "https://newdex.zendesk.com/hc/en-us/articles/360028370252-Desktop-Wallet-Tutorial", "https://www.leafwallet.io/", "https://www.tokenpocket.pro/en/download/pc" ],
-    "popularity-boosters-count" : 4
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.026063704630574402,
+  "vote-percentage" : 0.026617055921327286,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
       "mood" : "good",
       "title" : "web",
-      "url" : "https://newdex.one"
+      "url" : "https://newpool.io"
     }, {
       "score" : "positive",
       "mood" : "good",
       "title" : "bp-json",
-      "url" : "https://newdex.one/bp.json"
+      "url" : "https://newpool.io/bp.json"
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -45,6 +42,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 12,
-  "snapshot-date" : "2019-10-12T01:17:24.070Z"
+  "place" : 8,
+  "snapshot-date" : "2019-10-13T01:19:16.076Z"
 }
