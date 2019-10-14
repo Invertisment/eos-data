@@ -14,13 +14,13 @@
     "dl-error" : "no protocol: transam.io/bp.json",
     "url" : "transam.io/bp.json"
   },
-  "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 4.692065883156861E-10,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 4.690376911946571E-10,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "clj-http: status 403",
+      "error" : "Read timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 468,
-  "snapshot-date" : "2019-10-13T01:19:16.076Z"
+  "snapshot-date" : "2019-10-14T01:18:25.257Z"
 }

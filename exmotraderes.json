@@ -11,11 +11,11 @@
     "prepared-url" : "http://goeoslottery.cn"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 523",
+    "dl-error" : "Read timed out",
     "url" : "http://goeoslottery.cn/bp.json"
   },
   "webpage-error" : "clj-http: status 523",
-  "vote-percentage" : 1.0328620069164604E-7,
+  "vote-percentage" : 1.0324902145679883E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -27,7 +27,7 @@
       "mood" : "warn",
       "url" : "http://goeoslottery.cn/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 523"
+      "error" : "Read timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 345,
-  "snapshot-date" : "2019-10-13T01:19:16.076Z"
+  "snapshot-date" : "2019-10-14T01:18:25.257Z"
 }

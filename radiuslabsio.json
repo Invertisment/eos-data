@@ -11,7 +11,7 @@
     "prepared-url" : "http://radiuslabs.io/"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "dl-error" : "Read timed out",
     "url" : "http://radiuslabs.io/bp.json"
   },
   "webpage-error" : "Read timed out",
@@ -27,7 +27,7 @@
       "mood" : "warn",
       "url" : "http://radiuslabs.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "error" : "Read timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 574,
-  "snapshot-date" : "2019-10-13T01:19:16.076Z"
+  "snapshot-date" : "2019-10-14T01:18:25.257Z"
 }
