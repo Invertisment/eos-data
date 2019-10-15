@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosyskoreabp",
-    "total_votes" : "154582409113801632.00000000000000000",
+    "total_votes" : "154542503150756992.00000000000000000",
     "producer_key" : "EOS7TjKVBkBcSmjsXF4jJfZ1QU9RqVHuBkkcHNJoEcHGR79CoLf2f",
     "is_active" : 1,
     "url" : "https://eosys.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-10-12T03:30:03.000",
+    "last_claim_time" : "2019-10-14T03:30:02.000",
     "location" : 410,
     "prepared-url" : "https://eosys.io"
   },
@@ -22,7 +22,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.0014760387837267409,
+  "vote-percentage" : 0.0014744997013408602,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -48,5 +48,5 @@
     "max" : 3
   },
   "place" : 83,
-  "snapshot-date" : "2019-10-14T01:18:25.257Z"
+  "snapshot-date" : "2019-10-15T01:17:27.542Z"
 }

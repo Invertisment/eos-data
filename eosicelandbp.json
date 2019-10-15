@@ -11,19 +11,17 @@
     "prepared-url" : "https://eosiceland.is"
   },
   "bp-json-summary" : {
-    "url" : "https://eosiceland.is/bp.json",
-    "logo" : "https://secure-assets.eosiceland.is/logo_256.jpg",
-    "code_of_conduct" : "https://eosiceland.is/code-of-conduct"
+    "read-error" : "read:'https://eosiceland.is/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "url" : "https://eosiceland.is/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 10,
     "duplicate-urls" : null,
-    "social-links" : [ "https://medium.com/eos-iceland", "https://t.me/eos_iceland", "https://twitter.com/eos_iceland", "https://www.facebook.com/eosiceland", "https://www.linkedin.com/company/eos-iceland/" ],
-    "social-links-count" : 5,
-    "popularity-boosters" : [ ]
+    "social-links" : [ ],
+    "popularity-boosters" : [ "http://www.squarespace.com" ],
+    "popularity-boosters-count" : 1
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.0487443239468604E-6,
+  "vote-percentage" : 2.047136550105746E-6,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -31,19 +29,19 @@
       "title" : "web",
       "url" : "https://eosiceland.is"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://eosiceland.is/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eosiceland.is/bp.json",
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'https://eosiceland.is/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://eosiceland.is/code-of-conduct"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 1,
     "max" : 3
   },
   "place" : 223,
-  "snapshot-date" : "2019-10-14T01:18:25.257Z"
+  "snapshot-date" : "2019-10-15T01:17:27.542Z"
 }
