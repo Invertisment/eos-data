@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosninetiess",
-    "total_votes" : "534391336820505.12500000000000000",
+    "total_votes" : "534306003131104.62500000000000000",
     "producer_key" : "EOS7eMeo7dgG42NQPy4x45X2VhG8T3gjnwuSdsoGeGzz1w3Hwrr7m",
     "is_active" : 1,
     "url" : "http://www.eos90s.io/",
@@ -17,12 +17,13 @@
   "analyzed-urls" : {
     "relative-links-count" : 3,
     "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "https://fortuneme.tw/service", "https://pay.fortuneme.tw/product/11", "https://pay.fortuneme.tw/product/13", "https://pay.fortuneme.tw/product/14", "https://www.fortuneme.tw/", "https://www.fortuneme.tw/new-page/" ],
-    "popularity-boosters-count" : 6
+    "social-links" : [ "https://line.me/ti/p/@fortuneme" ],
+    "social-links-count" : 1,
+    "popularity-boosters" : [ "https://fortuneme.tw/astro", "https://fortuneme.tw/console", "https://fortuneme.tw/service", "https://pay.fortuneme.tw/product/11", "https://pay.fortuneme.tw/product/13", "https://pay.fortuneme.tw/product/14", "https://www.fortuneme.tw/", "https://www.fortuneme.tw/astro/", "https://www.fortuneme.tw/console/", "https://www.fortuneme.tw/new-page/", "https://www.fortuneme.tw/tarot/" ],
+    "popularity-boosters-count" : 11
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 5.098661212781826E-6,
+  "vote-percentage" : 5.119232985572165E-6,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -44,5 +45,5 @@
     "max" : 3
   },
   "place" : 187,
-  "snapshot-date" : "2019-10-15T01:17:27.542Z"
+  "snapshot-date" : "2019-10-16T01:17:40.259Z"
 }

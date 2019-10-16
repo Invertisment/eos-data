@@ -1,49 +1,41 @@
 {
   "bp-header" : {
     "owner" : "eosbixinboot",
-    "total_votes" : "141934834398374320.00000000000000000",
+    "total_votes" : "123589741715060368.00000000000000000",
     "producer_key" : "EOS7QC1XfAtkYeLjbHQjcDWVqUsxuSJ3YRhNyG93VAv2u3uHopGVp",
     "is_active" : 1,
     "url" : "https://en.eosbixin.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-10-14T14:18:02.000",
+    "last_claim_time" : "2019-10-15T14:21:03.000",
     "location" : 7,
     "prepared-url" : "https://en.eosbixin.com"
   },
   "bp-json-summary" : {
-    "url" : "https://en.eosbixin.com/bp.json",
-    "logo" : "https://raw.githubusercontent.com/EOSBIXIN/eostoolkit/master/logo/eosbixinlogo_256.png",
-    "code_of_conduct" : "https://steemit.com/eos/@tuitui/eosbixin-code-of-conduct"
+    "dl-error" : "Certificate for <en.eosbixin.com> doesn't match any of the subject alternative names: [www.mlniu.cn, mlniu.cn]",
+    "url" : "https://en.eosbixin.com/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 17,
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "https://bixin.im/common/contact", "https://bixin.im/common/jobs", "https://bixin.im/common/logo", "https://bixin.im/common/report", "https://jinshuju.net/f/6fLgh2" ],
-    "popularity-boosters-count" : 5
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.0013542091441738258,
+  "webpage-error" : "Certificate for <en.eosbixin.com> doesn't match any of the subject alternative names: [www.mlniu.cn, mlniu.cn]",
+  "vote-percentage" : 0.001184124226114744,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://en.eosbixin.com"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Certificate for <en.eosbixin.com> doesn't match any of the subject alternative names: [www.mlniu.cn, mlniu.cn]",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://en.eosbixin.com/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://en.eosbixin.com/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "Certificate for <en.eosbixin.com> doesn't match any of the subject alternative names: [www.mlniu.cn, mlniu.cn]"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://steemit.com/eos/@tuitui/eosbixin-code-of-conduct"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 84,
-  "snapshot-date" : "2019-10-15T01:17:27.542Z"
+  "place" : 87,
+  "snapshot-date" : "2019-10-16T01:17:40.259Z"
 }

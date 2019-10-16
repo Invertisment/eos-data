@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "blockcceosio",
-    "total_votes" : "69255638329999.85937500000000000",
+    "total_votes" : "69365935979132.93750000000000000",
     "producer_key" : "EOS8VYW1mptsVYiy9GUQzfrM7AbCENKazjrDvv88cvKZuaoSAnR29",
     "is_active" : 1,
     "url" : "https://eos.block.cc/",
@@ -11,38 +11,31 @@
     "prepared-url" : "https://eos.block.cc/"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "dl-error" : "clj-http: status 403",
     "url" : "https://eos.block.cc/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 24,
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "http://bitool.cn", "http://cn.mikecrm.com/TNFyHPJ", "http://cn.mikecrm.com/TxakNiu", "http://cn.mikecrm.com/jmcu11C", "http://gate.io", "http://mifengcha.mikecrm.com/4FfE1BJ", "http://okex.com", "http://www.120btc.com", "http://www.8btc.com/", "http://www.bilingling.com", "http://www.bixiaobai.com", "http://www.btb8.com", "http://www.btcsos.com", "http://www.btsabc.org", "http://www.chainfor.com", "http://www.coinbene.com", "http://www.coingogo.com", "http://www.coinof.com/", "http://www.gongxiangcj.com/", "http://www.hinew8.com", "http://www.hunxu.cn", "http://www.jgy.com", "http://www.ninthblock.org", "http://www.queding.cn", "http://www.xhcjtv.com", "http://www.xnqb.com/", "https://data.block.cc", "https://data.block.cc/kline.html?symbol=binance_BTC_USDT", "https://data.block.cc/kline.html?symbol=binance_ETH_USDT", "https://data.block.cc/kline.html?symbol=gate-io_BCH_USDT", "https://data.block.cc/kline.html?symbol=gate-io_USDT_CNYX", "https://data.block.cc/kline.html?symbol=huobipro_EOS_USDT", "https://inchat.io/app", "https://loans.cardbaobao.com/news/", "https://tokenin.cn/", "https://watangguo.com", "https://www.bihai123.com.cn/", "https://www.bitguai.com/", "https://www.btc123.com", "https://www.cailuw.com", "https://www.chainnode.com/", "https://www.chainwhy.com/", "https://www.cybtc.com", "https://www.hecaijing.com", "https://www.ihuoqiu.com/", "https://www.ximalaya.com/shangye/16488580/", "https://www.yinhang123.net", "https://www.zbz.com/", "https://xcong.com/" ],
-    "popularity-boosters-count" : 49
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 6.607723826896952E-7,
+  "webpage-error" : "clj-http: status 403",
+  "vote-percentage" : 6.646011563758008E-7,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eos.block.cc/"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "clj-http: status 403",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eos.block.cc/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "error" : "clj-http: status 403"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
   "place" : 273,
-  "snapshot-date" : "2019-10-15T01:17:27.542Z"
+  "snapshot-date" : "2019-10-16T01:17:40.259Z"
 }
