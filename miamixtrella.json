@@ -15,14 +15,21 @@
     "logo" : "https://xtrella.io/bp-info/logo-256.png",
     "code_of_conduct" : "https://xtrella.io/transparency/"
   },
-  "webpage-error" : "Read timed out",
-  "vote-percentage" : 4.872158911010531E-7,
+  "analyzed-urls" : {
+    "relative-links-count" : 1,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://medium.com/coinmonks/a-step-by-step-guide-to-eos-block-producer-voting-using-the-scatter-browser-extension-fd93e75e86ed", "https://t.me/xtrellabp" ],
+    "social-links-count" : 2,
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 4.869224498957131E-7,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "Read timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://xtrella.io"
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -34,9 +41,9 @@
       "title" : "coc",
       "url" : "https://xtrella.io/transparency/"
     } ],
-    "score" : 2,
+    "score" : 3,
     "max" : 3
   },
   "place" : 283,
-  "snapshot-date" : "2019-10-17T01:17:23.661Z"
+  "snapshot-date" : "2019-10-18T01:17:27.727Z"
 }

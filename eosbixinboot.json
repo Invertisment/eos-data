@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosbixinboot",
-    "total_votes" : "123530516991546960.00000000000000000",
+    "total_votes" : "123342321697084480.00000000000000000",
     "producer_key" : "EOS7QC1XfAtkYeLjbHQjcDWVqUsxuSJ3YRhNyG93VAv2u3uHopGVp",
     "is_active" : 1,
     "url" : "https://en.eosbixin.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-10-16T14:24:02.000",
+    "last_claim_time" : "2019-10-17T14:27:02.500",
     "location" : 7,
     "prepared-url" : "https://en.eosbixin.com"
   },
@@ -15,7 +15,7 @@
     "url" : "https://en.eosbixin.com/bp.json"
   },
   "webpage-error" : "Certificate for <en.eosbixin.com> doesn't match any of the subject alternative names: [www.mlniu.cn, mlniu.cn]",
-  "vote-percentage" : 0.0011779626808285928,
+  "vote-percentage" : 0.0011754597030738997,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 87,
-  "snapshot-date" : "2019-10-17T01:17:23.661Z"
+  "place" : 86,
+  "snapshot-date" : "2019-10-18T01:17:27.727Z"
 }

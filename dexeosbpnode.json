@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "dexeosbpnode",
-    "total_votes" : "552598281478012288.00000000000000000",
+    "total_votes" : "552609598578188800.00000000000000000",
     "producer_key" : "EOS5qraVVdEwHaouJEqpFWJfZuxQViDxP3WZ826wGwt2bxnfuEGRF",
     "is_active" : 1,
     "url" : "https://dexeos.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-10-16T16:04:54.500",
+    "last_claim_time" : "2019-10-17T16:05:24.500",
     "location" : 0,
     "prepared-url" : "https://dexeos.io"
   },
@@ -16,15 +16,15 @@
     "code_of_conduct" : "https://medium.com/@DEXEOS/dexeos-bp-code-of-conduct-64cc1c9137ec"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 2,
+    "relative-links-count" : 3,
     "duplicate-urls" : null,
     "social-links" : [ "https://github.com/DEXEOS/dexeos-api-public", "https://t.me/dexeos_io_kr", "https://twitter.com/dexeosio" ],
     "social-links-count" : 3,
-    "popularity-boosters" : [ "http://eosgravity.com/", "http://eosnova.io/", "http://eostoken.im", "http://jmi.one/home/index.html", "http://www.neoply.com/", "https://bitpie.com/", "https://bloks.io/", "https://clay.one/en", "https://coinmanager.io/", "https://eocat.io/", "https://eos.cafe/", "https://eos.live/", "https://eosblack.io/", "https://eoscannon.io/", "https://eoseoul.io/", "https://eoslynx.com/", "https://everipedia.org/", "https://get-scatter.com/", "https://godapp.com/", "https://greymass.com/", "https://meet.one/", "https://sentinelprotocol.io/", "https://unlimitedtower.com", "https://www.bepal.pro/", "https://www.carbon.money/", "https://www.chain.pro/", "https://www.hkeos.com/", "https://www.infinitowallet.io/", "https://www.mytokenpocket.vip/", "https://www.secrypto.io/" ],
-    "popularity-boosters-count" : 30
+    "popularity-boosters" : [ "http://eosgravity.com/", "http://eosnova.io/", "http://eostoken.im", "http://jmi.one/home/index.html", "http://www.neoply.com/", "https://bitpie.com/", "https://bloks.io/", "https://clay.one/en", "https://coinmanager.io/", "https://docs.google.com/forms/d/17wPgGLYQStRiFiECfDvADNxRNAFKCbXIk6kb8ByLADw/", "https://eocat.io/", "https://eos.cafe/", "https://eos.live/", "https://eosblack.io/", "https://eoscannon.io/", "https://eoseoul.io/", "https://eoslynx.com/", "https://everipedia.org/", "https://get-scatter.com/", "https://godapp.com/", "https://greymass.com/", "https://meet.one/", "https://sentinelprotocol.io/", "https://unlimitedtower.com", "https://www.bepal.pro/", "https://www.carbon.money/", "https://www.chain.pro/", "https://www.hkeos.com/", "https://www.infinitowallet.io/", "https://www.mytokenpocket.vip/", "https://www.secrypto.io/" ],
+    "popularity-boosters-count" : 31
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.00526946837853561,
+  "vote-percentage" : 0.005266402526910267,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -49,6 +49,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 45,
-  "snapshot-date" : "2019-10-17T01:17:23.661Z"
+  "place" : 47,
+  "snapshot-date" : "2019-10-18T01:17:27.727Z"
 }
