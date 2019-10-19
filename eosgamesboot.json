@@ -14,13 +14,13 @@
     "dl-error" : "clj-http: status 403",
     "url" : "http://eos.games/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 5.026902831617209E-6,
+  "webpage-error" : "clj-http: status 403",
+  "vote-percentage" : 5.019409741601999E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "clj-http: status 403",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 188,
-  "snapshot-date" : "2019-10-18T01:17:27.727Z"
+  "snapshot-date" : "2019-10-19T01:17:24.098Z"
 }

@@ -14,13 +14,13 @@
     "dl-error" : "clj-http: status 403",
     "url" : "http://www.eosuesct.io/bp.json"
   },
-  "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 8.637886591091367E-6,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 8.625010976834187E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "clj-http: status 403",
+      "error" : "Read timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 165,
-  "snapshot-date" : "2019-10-18T01:17:27.727Z"
+  "snapshot-date" : "2019-10-19T01:17:24.098Z"
 }
