@@ -1,26 +1,29 @@
 {
   "bp-header" : {
     "owner" : "eosrapidprod",
-    "total_votes" : "2771251012931739648.00000000000000000",
+    "total_votes" : "2791009216709100544.00000000000000000",
     "producer_key" : "EOS8QEFsgUWj7BscQNkiremtpSoRkzwDqmCPpKKCHYXGNaqxXFQ4h",
     "is_active" : 1,
     "url" : "http://eosrapid.com",
     "unpaid_blocks" : 1020,
-    "last_claim_time" : "2019-10-18T22:13:20.000",
+    "last_claim_time" : "2019-10-19T22:13:21.500",
     "location" : 0,
     "prepared-url" : "http://eosrapid.com"
   },
   "bp-json-summary" : {
-    "read-error" : "read:'http://eosrapid.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
-    "url" : "http://eosrapid.com/bp.json"
+    "url" : "http://eosrapid.com/bp.json",
+    "logo" : "https://www.eosrapid.com/logo_256.png",
+    "code_of_conduct" : "https://www.eosrapid.com/info.html"
   },
   "analyzed-urls" : {
+    "relative-links-count" : 1,
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ ]
+    "popularity-boosters" : [ "https://bloks.io/account/eosrapidprod" ],
+    "popularity-boosters-count" : 1
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.02637082093969002,
+  "vote-percentage" : 0.026395036800272314,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -28,19 +31,19 @@
       "title" : "web",
       "url" : "http://eosrapid.com"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "http://eosrapid.com/bp.json",
-      "paragraphs" : [ "bp-json-invalid" ],
-      "error" : "read:'http://eosrapid.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "http://eosrapid.com/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://www.eosrapid.com/info.html"
     } ],
-    "score" : 1,
+    "score" : 3,
     "max" : 3
   },
   "place" : 15,
-  "snapshot-date" : "2019-10-19T01:17:24.098Z"
+  "snapshot-date" : "2019-10-20T01:17:26.325Z"
 }
