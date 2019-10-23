@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosecoeoseco",
-    "total_votes" : "23209786820795196.00000000000000000",
+    "total_votes" : "23197948227612488.00000000000000000",
     "producer_key" : "EOS57oitM7gnt9aU2eWCDrSzw4C9x3ez8nXE24mnVfZAD3EqPhFXf",
     "is_active" : 1,
     "url" : "https://eoseco.com",
@@ -11,23 +11,23 @@
     "prepared-url" : "https://eoseco.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "eoseco.com",
+    "dl-error" : "No route to host (Host unreachable)",
     "url" : "https://eoseco.com/bp.json"
   },
-  "webpage-error" : "eoseco.com: No address associated with hostname",
-  "vote-percentage" : 2.186275486204768E-4,
+  "webpage-error" : "No route to host (Host unreachable)",
+  "vote-percentage" : 2.1835123815984003E-4,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "eoseco.com: No address associated with hostname",
+      "error" : "No route to host (Host unreachable)",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eoseco.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "eoseco.com"
+      "error" : "No route to host (Host unreachable)"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 102,
-  "snapshot-date" : "2019-10-22T01:17:56.129Z"
+  "snapshot-date" : "2019-10-23T01:17:11.027Z"
 }

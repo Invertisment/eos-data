@@ -1,33 +1,33 @@
 {
   "bp-header" : {
     "owner" : "eosbixinboot",
-    "total_votes" : "124009292090915264.00000000000000000",
+    "total_votes" : "123603026043125488.00000000000000000",
     "producer_key" : "EOS7QC1XfAtkYeLjbHQjcDWVqUsxuSJ3YRhNyG93VAv2u3uHopGVp",
     "is_active" : 1,
     "url" : "https://en.eosbixin.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-10-21T14:39:02.000",
+    "last_claim_time" : "2019-10-22T14:42:02.500",
     "location" : 7,
     "prepared-url" : "https://en.eosbixin.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "Certificate for <en.eosbixin.com> doesn't match any of the subject alternative names: [www.mlniu.cn, mlniu.cn]",
+    "dl-error" : "connect timed out",
     "url" : "https://en.eosbixin.com/bp.json"
   },
-  "webpage-error" : "Certificate for <en.eosbixin.com> doesn't match any of the subject alternative names: [www.mlniu.cn, mlniu.cn]",
-  "vote-percentage" : 0.0011681213509340024,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 0.0011634164156248345,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Certificate for <en.eosbixin.com> doesn't match any of the subject alternative names: [www.mlniu.cn, mlniu.cn]",
+      "error" : "connect timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://en.eosbixin.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Certificate for <en.eosbixin.com> doesn't match any of the subject alternative names: [www.mlniu.cn, mlniu.cn]"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 87,
-  "snapshot-date" : "2019-10-22T01:17:56.129Z"
+  "place" : 86,
+  "snapshot-date" : "2019-10-23T01:17:11.027Z"
 }
