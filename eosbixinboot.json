@@ -1,33 +1,33 @@
 {
   "bp-header" : {
     "owner" : "eosbixinboot",
-    "total_votes" : "123603026043125488.00000000000000000",
+    "total_votes" : "123582638402489072.00000000000000000",
     "producer_key" : "EOS7QC1XfAtkYeLjbHQjcDWVqUsxuSJ3YRhNyG93VAv2u3uHopGVp",
     "is_active" : 1,
     "url" : "https://en.eosbixin.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-10-22T14:42:02.500",
+    "last_claim_time" : "2019-10-23T14:45:02.500",
     "location" : 7,
     "prepared-url" : "https://en.eosbixin.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "unable to find valid certification path to requested target",
     "url" : "https://en.eosbixin.com/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 0.0011634164156248345,
+  "webpage-error" : "unable to find valid certification path to requested target",
+  "vote-percentage" : 0.0011589919060113303,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "unable to find valid certification path to requested target",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://en.eosbixin.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "unable to find valid certification path to requested target"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 86,
-  "snapshot-date" : "2019-10-23T01:17:11.027Z"
+  "snapshot-date" : "2019-10-24T01:17:08.824Z"
 }

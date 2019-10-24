@@ -11,23 +11,23 @@
     "prepared-url" : "https://www.eosdusseldorf.de"
   },
   "bp-json-summary" : {
-    "dl-error" : "Certificate for <www.eosdusseldorf.de> doesn't match any of the subject alternative names: [djcentric.com, www.djcentric.com]",
+    "dl-error" : "Certificate for <www.eosdusseldorf.de> doesn't match any of the subject alternative names: [centricwebestate.com, www.centricwebestate.com]",
     "url" : "https://www.eosdusseldorf.de/bp.json"
   },
-  "webpage-error" : "Certificate for <www.eosdusseldorf.de> doesn't match any of the subject alternative names: [djcentric.com, www.djcentric.com]",
-  "vote-percentage" : 9.489710246785134E-7,
+  "webpage-error" : "Certificate for <www.eosdusseldorf.de> doesn't match any of the subject alternative names: [centricwebestate.com, www.centricwebestate.com]",
+  "vote-percentage" : 9.455180157103161E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Certificate for <www.eosdusseldorf.de> doesn't match any of the subject alternative names: [djcentric.com, www.djcentric.com]",
+      "error" : "Certificate for <www.eosdusseldorf.de> doesn't match any of the subject alternative names: [centricwebestate.com, www.centricwebestate.com]",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://www.eosdusseldorf.de/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Certificate for <www.eosdusseldorf.de> doesn't match any of the subject alternative names: [djcentric.com, www.djcentric.com]"
+      "error" : "Certificate for <www.eosdusseldorf.de> doesn't match any of the subject alternative names: [centricwebestate.com, www.centricwebestate.com]"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 249,
-  "snapshot-date" : "2019-10-23T01:17:11.027Z"
+  "snapshot-date" : "2019-10-24T01:17:08.824Z"
 }
