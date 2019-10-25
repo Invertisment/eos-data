@@ -14,21 +14,14 @@
     "dl-error" : "Read timed out",
     "url" : "https://candy.one/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 78,
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "https://itunes.apple.com/cn/app/id1436459129", "https://shorty.tinfinite.com/BJTQ" ],
-    "popularity-boosters-count" : 2
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 9.148916448999415E-5,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 9.142853931410246E-5,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://candy.one/"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
@@ -40,9 +33,9 @@
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 114,
-  "snapshot-date" : "2019-10-24T01:17:08.824Z"
+  "place" : 115,
+  "snapshot-date" : "2019-10-25T01:17:09.337Z"
 }

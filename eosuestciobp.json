@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosuestciobp",
-    "total_votes" : "906371248688821.87500000000000000",
+    "total_votes" : "906403959491745.87500000000000000",
     "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
     "is_active" : 0,
     "url" : "http://www.eosuesct.io",
@@ -11,23 +11,23 @@
     "prepared-url" : "http://www.eosuesct.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 403",
+    "dl-error" : "www.eosuesct.io",
     "url" : "http://www.eosuesct.io/bp.json"
   },
-  "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 8.500198366460587E-6,
+  "webpage-error" : "www.eosuesct.io: Name or service not known",
+  "vote-percentage" : 8.494872288672836E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "clj-http: status 403",
+      "error" : "www.eosuesct.io: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://www.eosuesct.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 403"
+      "error" : "www.eosuesct.io"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 164,
-  "snapshot-date" : "2019-10-24T01:17:08.824Z"
+  "snapshot-date" : "2019-10-25T01:17:09.337Z"
 }
