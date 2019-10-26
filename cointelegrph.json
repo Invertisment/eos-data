@@ -11,23 +11,23 @@
     "prepared-url" : "https://eosuperman.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "eosuperman.io",
     "url" : "https://eosuperman.io/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 7.623760380333625E-8,
+  "webpage-error" : "eosuperman.io: Name or service not known",
+  "vote-percentage" : 7.555274034649136E-8,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "eosuperman.io: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eosuperman.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "eosuperman.io"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 353,
-  "snapshot-date" : "2019-10-25T01:17:09.337Z"
+  "place" : 352,
+  "snapshot-date" : "2019-10-26T01:17:12.101Z"
 }

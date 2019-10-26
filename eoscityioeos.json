@@ -14,14 +14,22 @@
     "url" : "https://eoscity.io/bp.json",
     "logo" : "https://eoscity.io/img/eosCityLogoTextOnly.svg"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 7.284401100643494E-7,
+  "analyzed-urls" : {
+    "relative-links-count" : 63,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://t.me/eoscity", "https://twitter.com/eoscityio", "https://www.facebook.com/groups/eoscity/" ],
+    "social-links-count" : 3,
+    "popularity-boosters" : [ "http://boxdapp.io", "http://t.cn/ES2ggI7", "https://cpuemergency.com/", "https://eospark.com/", "https://eoswing.io", "https://gateway.eosdt.com/zh", "https://imeos.one", "https://imeos.one/", "https://teloscanton.io/", "https://wooko.ng/cn", "https://www.eostw.info", "https://www.more.top", "https://www.teloscanton.io/", "https://www.tokenpocket.pro/" ],
+    "popularity-boosters-count" : 14
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 7.218963313121988E-7,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "connect timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eoscity.io"
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -32,9 +40,9 @@
       "mood" : "bad",
       "paragraphs" : [ "value-empty" ]
     } ],
-    "score" : 1,
+    "score" : 2,
     "max" : 3
   },
   "place" : 258,
-  "snapshot-date" : "2019-10-25T01:17:09.337Z"
+  "snapshot-date" : "2019-10-26T01:17:12.101Z"
 }
