@@ -14,13 +14,13 @@
     "dl-error" : "Certificate for <eos.miami> doesn't match any of the subject alternative names: [shortener.secureserver.net, www.shortener.secureserver.net]",
     "url" : "https://eos.miami/bp.json"
   },
-  "webpage-error" : "Certificate for <eos.miami> doesn't match any of the subject alternative names: [shortener.secureserver.net, www.shortener.secureserver.net]",
-  "vote-percentage" : 2.211881247196881E-8,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 2.2100373790061716E-8,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Certificate for <eos.miami> doesn't match any of the subject alternative names: [shortener.secureserver.net, www.shortener.secureserver.net]",
+      "error" : "connect timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 398,
-  "snapshot-date" : "2019-10-26T01:17:12.101Z"
+  "snapshot-date" : "2019-10-27T02:17:24.344Z"
 }
