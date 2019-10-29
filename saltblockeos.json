@@ -11,23 +11,23 @@
     "prepared-url" : "https://www.saltblock.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "Connection refused (Connection refused)",
+    "dl-error" : "www.saltblock.io",
     "url" : "https://www.saltblock.io/bp.json"
   },
-  "webpage-error" : "Connection refused (Connection refused)",
-  "vote-percentage" : 7.159712649622375E-6,
+  "webpage-error" : "www.saltblock.io: Name or service not known",
+  "vote-percentage" : 7.179913352543993E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Connection refused (Connection refused)",
+      "error" : "www.saltblock.io: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://www.saltblock.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Connection refused (Connection refused)"
+      "error" : "www.saltblock.io"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 168,
-  "snapshot-date" : "2019-10-28T02:17:17.025Z"
+  "snapshot-date" : "2019-10-29T02:17:03.436Z"
 }

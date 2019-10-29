@@ -1,49 +1,41 @@
 {
   "bp-header" : {
     "owner" : "eosrapidprod",
-    "total_votes" : "2903434489620320256.00000000000000000",
-    "producer_key" : "EOS8QEFsgUWj7BscQNkiremtpSoRkzwDqmCPpKKCHYXGNaqxXFQ4h",
-    "is_active" : 1,
+    "total_votes" : "2864058878167559168.00000000000000000",
+    "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
+    "is_active" : 0,
     "url" : "http://eosrapid.com",
-    "unpaid_blocks" : 1344,
-    "last_claim_time" : "2019-10-27T22:13:34.500",
+    "unpaid_blocks" : 726,
+    "last_claim_time" : "2019-10-28T22:13:35.500",
     "location" : 0,
     "prepared-url" : "http://eosrapid.com"
   },
   "bp-json-summary" : {
-    "url" : "http://eosrapid.com/bp.json",
-    "logo" : "https://www.eosrapid.com/logo_256.png",
-    "code_of_conduct" : "https://www.eosrapid.com/info.html"
+    "dl-error" : "clj-http: status 404",
+    "url" : "http://eosrapid.com/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 1,
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "https://bloks.io/account/eosrapidprod" ],
-    "popularity-boosters-count" : 1
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.02692595108922484,
+  "webpage-error" : "clj-http: status 404",
+  "vote-percentage" : 0.026635728137547592,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "http://eosrapid.com"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "clj-http: status 404",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "http://eosrapid.com/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://eosrapid.com/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://www.eosrapid.com/info.html"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 8,
-  "snapshot-date" : "2019-10-28T02:17:17.025Z"
+  "place" : 13,
+  "snapshot-date" : "2019-10-29T02:17:03.436Z"
 }

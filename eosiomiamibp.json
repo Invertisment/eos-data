@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosiomiamibp",
-    "total_votes" : "2381473554081.67187500000000000",
+    "total_votes" : "2398917897253.73730468750000000",
     "producer_key" : "EOS7KBY17vSUKtoCLPrG8UDXA8qJg12aCNGi51RUTsLNZjX3nTxBc",
     "is_active" : 1,
     "url" : "https://eos.miami",
@@ -14,13 +14,13 @@
     "dl-error" : "Certificate for <eos.miami> doesn't match any of the subject alternative names: [shortener.secureserver.net, www.shortener.secureserver.net]",
     "url" : "https://eos.miami/bp.json"
   },
-  "webpage-error" : "Certificate for <eos.miami> doesn't match any of the subject alternative names: [shortener.secureserver.net, www.shortener.secureserver.net]",
-  "vote-percentage" : 2.208537532591993E-8,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 2.230992017050623E-8,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Certificate for <eos.miami> doesn't match any of the subject alternative names: [shortener.secureserver.net, www.shortener.secureserver.net]",
+      "error" : "connect timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 397,
-  "snapshot-date" : "2019-10-28T02:17:17.025Z"
+  "snapshot-date" : "2019-10-29T02:17:03.436Z"
 }
