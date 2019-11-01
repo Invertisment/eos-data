@@ -1,33 +1,33 @@
 {
   "bp-header" : {
     "owner" : "koreainbexbp",
-    "total_votes" : "1683396982365975296.00000000000000000",
+    "total_votes" : "1624724315380855808.00000000000000000",
     "producer_key" : "EOS5etfhAtNFNzAxGQbrAHfZ5DsYheJ9B7apbvHMctdaKJ5Bti8g5",
     "is_active" : 1,
     "url" : "https://inbex.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-10-31T00:01:30.000",
+    "last_claim_time" : "2019-11-01T00:01:34.500",
     "location" : 82,
     "prepared-url" : "https://inbex.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "inbex.com",
+    "dl-error" : "Certificate for <inbex.com> doesn't match any of the subject alternative names: [*.modoo.at, modoo.at]",
     "url" : "https://inbex.com/bp.json"
   },
-  "webpage-error" : "inbex.com: No address associated with hostname",
-  "vote-percentage" : 0.015559574537854379,
+  "webpage-error" : "Certificate for <inbex.com> doesn't match any of the subject alternative names: [*.modoo.at, modoo.at]",
+  "vote-percentage" : 0.01500364437039127,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "inbex.com: No address associated with hostname",
+      "error" : "Certificate for <inbex.com> doesn't match any of the subject alternative names: [*.modoo.at, modoo.at]",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://inbex.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "inbex.com"
+      "error" : "Certificate for <inbex.com> doesn't match any of the subject alternative names: [*.modoo.at, modoo.at]"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 26,
-  "snapshot-date" : "2019-10-31T02:16:59.192Z"
+  "snapshot-date" : "2019-11-01T02:19:19.899Z"
 }

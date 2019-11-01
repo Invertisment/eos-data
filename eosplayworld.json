@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosplayworld",
-    "total_votes" : "611069524822333.37500000000000000",
+    "total_votes" : "596771569104939.37500000000000000",
     "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
     "is_active" : 0,
     "url" : "http://eosplay.world",
@@ -15,7 +15,7 @@
     "url" : "http://eosplay.world/bp.json"
   },
   "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 5.648092469502414E-6,
+  "vote-percentage" : 5.510933952577682E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 178,
-  "snapshot-date" : "2019-10-31T02:16:59.192Z"
+  "place" : 179,
+  "snapshot-date" : "2019-11-01T02:19:19.899Z"
 }

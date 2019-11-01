@@ -1,0 +1,46 @@
+{
+  "bp-header" : {
+    "owner" : "regreeneosio",
+    "total_votes" : "5854333588.03509330749511719",
+    "producer_key" : "EOS5bWBXYnwLWrqPEdxijscVcF7YDGQdkEhZ8sQmRUacJAHBLdYSr",
+    "is_active" : 1,
+    "url" : "https://regreen.xyz",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-10-31T12:20:02.000",
+    "location" : 0,
+    "prepared-url" : "https://regreen.xyz"
+  },
+  "bp-json-summary" : {
+    "url" : "https://regreen.xyz/bp.json"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 3,
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ "https://colorlib.com/", "https://wordpress.org/" ],
+    "popularity-boosters-count" : 2
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 5.4062303585285675E-11,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://regreen.xyz"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://regreen.xyz/bp.json"
+    }, {
+      "title" : "no-coc",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    } ],
+    "score" : 2,
+    "max" : 3
+  },
+  "place" : 532,
+  "snapshot-date" : "2019-11-01T02:19:19.899Z"
+}

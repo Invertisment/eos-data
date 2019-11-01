@@ -11,23 +11,23 @@
     "prepared-url" : "https://india.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "Connection refused (Connection refused)",
     "url" : "https://india.com/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 9.755297807143233E-10,
+  "webpage-error" : "Connection refused (Connection refused)",
+  "vote-percentage" : 9.746449576949949E-10,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "Connection refused (Connection refused)",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://india.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "Connection refused (Connection refused)"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 434,
-  "snapshot-date" : "2019-10-31T02:16:59.192Z"
+  "place" : 433,
+  "snapshot-date" : "2019-11-01T02:19:19.899Z"
 }

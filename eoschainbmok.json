@@ -11,23 +11,23 @@
     "prepared-url" : "http://www.aibilink.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "NotAfter: Thu Jun 27 05:48:07 UTC 2019",
+    "dl-error" : "connect timed out",
     "url" : "http://www.aibilink.com/bp.json"
   },
-  "webpage-error" : "NotAfter: Thu Jun 27 05:48:07 UTC 2019",
-  "vote-percentage" : 1.8098313886398158E-9,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 1.8081898390885566E-9,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "NotAfter: Thu Jun 27 05:48:07 UTC 2019",
+      "error" : "connect timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://www.aibilink.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "NotAfter: Thu Jun 27 05:48:07 UTC 2019"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 428,
-  "snapshot-date" : "2019-10-31T02:16:59.192Z"
+  "place" : 427,
+  "snapshot-date" : "2019-11-01T02:19:19.899Z"
 }
