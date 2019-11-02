@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "qxeosqxeosbp",
-    "total_votes" : "3073870845999791.00000000000000000",
+    "total_votes" : "3078728707916180.50000000000000000",
     "producer_key" : "EOS6BSNQfe3t1Q13L4kVfWipzjvYa9aHQLhLyg1UzxNZLiGKVwKMu",
     "is_active" : 1,
     "url" : "https://www.blockpin.net/eos",
@@ -11,23 +11,23 @@
     "prepared-url" : "https://www.blockpin.net/eos"
   },
   "bp-json-summary" : {
-    "dl-error" : "Connection refused (Connection refused)",
+    "dl-error" : "www.blockpin.net",
     "url" : "https://www.blockpin.net/eos/bp.json"
   },
-  "webpage-error" : "Connection refused (Connection refused)",
-  "vote-percentage" : 2.8385901889505285E-5,
+  "webpage-error" : "www.blockpin.net: No address associated with hostname",
+  "vote-percentage" : 2.840436758287474E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Connection refused (Connection refused)",
+      "error" : "www.blockpin.net: No address associated with hostname",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://www.blockpin.net/eos/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Connection refused (Connection refused)"
+      "error" : "www.blockpin.net"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 133,
-  "snapshot-date" : "2019-11-01T02:19:19.899Z"
+  "snapshot-date" : "2019-11-02T02:17:27.052Z"
 }
