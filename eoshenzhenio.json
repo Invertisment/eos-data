@@ -1,18 +1,18 @@
 {
   "bp-header" : {
     "owner" : "eoshenzhenio",
-    "total_votes" : "553807186400591680.00000000000000000",
+    "total_votes" : "560172124762601664.00000000000000000",
     "producer_key" : "EOS8EJrMphgHJx5EkHQ4ryodbvnocZEC1xp5T1FnRsT7XtzYA1FE7",
     "is_active" : 1,
     "url" : "https://info.eoshenzhen.io:1443",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-11-01T04:18:14.000",
+    "last_claim_time" : "2019-11-02T04:18:14.500",
     "location" : 156,
     "prepared-url" : "https://info.eoshenzhen.io:1443"
   },
   "bp-json-summary" : {
     "url" : "https://info.eoshenzhen.io:1443/bp.json",
-    "logo" : "https://github.com/eoshenzhen/website/raw/master/256.png",
+    "logo" : "https://info.eoshenzhen.io:1443/logo256.png",
     "code_of_conduct" : "https://busy.org/@eoshenzhen/eoshenzhen-code-of-conduct-draft"
   },
   "analyzed-urls" : {
@@ -21,7 +21,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.005109428074033571,
+  "vote-percentage" : 0.0051226953190716,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -42,6 +42,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 51,
-  "snapshot-date" : "2019-11-02T02:17:27.052Z"
+  "place" : 48,
+  "snapshot-date" : "2019-11-03T02:17:31.110Z"
 }
