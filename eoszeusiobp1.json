@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eoszeusiobp1",
-    "total_votes" : "546971220731584640.00000000000000000",
+    "total_votes" : "545791040784486016.00000000000000000",
     "producer_key" : "EOS8kVZpbPGo211zg4NQXwmKRb5SJPcp3pU8QfT9pfULEf8yC6sic",
     "is_active" : 1,
     "url" : "https://eoszeus.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-11-01T04:25:59.000",
+    "last_claim_time" : "2019-11-03T06:01:32.000",
     "location" : 0,
     "prepared-url" : "https://eoszeus.io"
   },
@@ -15,7 +15,7 @@
     "url" : "https://eoszeus.io/bp.json"
   },
   "webpage-error" : "eoszeus.io: Name or service not known",
-  "vote-percentage" : 0.005001974907794685,
+  "vote-percentage" : 0.004954281875506056,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 53,
-  "snapshot-date" : "2019-11-03T02:17:31.110Z"
+  "place" : 57,
+  "snapshot-date" : "2019-11-04T02:17:23.418Z"
 }

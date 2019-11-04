@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosiomyanmar",
-    "total_votes" : "76881360950749.79687500000000000",
+    "total_votes" : "76393499818413.54687500000000000",
     "producer_key" : "EOS7i1ZLdGtB6wa5PJmRDpc5piG6bbkybumLryrG3DsTR9PJa1bMm",
     "is_active" : 1,
     "url" : "http://moa.com.mm",
@@ -11,7 +11,7 @@
     "prepared-url" : "http://moa.com.mm"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "dl-error" : "connect timed out",
     "url" : "http://moa.com.mm/bp.json"
   },
   "analyzed-urls" : {
@@ -22,7 +22,7 @@
     "popularity-boosters-count" : 8
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 7.030692361444574E-7,
+  "vote-percentage" : 6.934429172982487E-7,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -34,7 +34,7 @@
       "mood" : "warn",
       "url" : "http://moa.com.mm/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -44,5 +44,5 @@
     "max" : 3
   },
   "place" : 267,
-  "snapshot-date" : "2019-11-03T02:17:31.110Z"
+  "snapshot-date" : "2019-11-04T02:17:23.418Z"
 }

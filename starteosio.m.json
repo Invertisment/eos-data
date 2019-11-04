@@ -11,19 +11,16 @@
     "prepared-url" : "https://starteos.io"
   },
   "bp-json-summary" : {
-    "url" : "https://starteos.io/bp.json",
-    "logo" : "https://www.starteos.io/logo/starteos-logo-256.png",
-    "code_of_conduct" : "https://steemit.com/starteos/@starteos/starteos-roadmap-and-position-on-dividends"
+    "read-error" : "read:'https://starteos.io/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "url" : "https://starteos.io/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 1,
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ "http://diverseeos.com/", "https://eosdac.io/", "https://imeos.one/", "https://slowmist.io/" ],
-    "popularity-boosters-count" : 4
+    "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.0180624171209515E-8,
+  "vote-percentage" : 1.0105357507908876E-8,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -31,19 +28,19 @@
       "title" : "web",
       "url" : "https://starteos.io"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://starteos.io/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://starteos.io/bp.json",
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'https://starteos.io/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://steemit.com/starteos/@starteos/starteos-roadmap-and-position-on-dividends"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 418,
-  "snapshot-date" : "2019-11-03T02:17:31.110Z"
+  "place" : 411,
+  "snapshot-date" : "2019-11-04T02:17:23.418Z"
 }

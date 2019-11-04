@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "leonizeronet",
-    "total_votes" : "1447725910692.55053710937500000",
+    "total_votes" : "0.00000000000000000",
     "producer_key" : "EOS8WoDRBsjF7jCyTozasCgqFdFKqh2zjfmWYFvgv1TKDbvvPJ3b7",
     "is_active" : 1,
     "url" : "https://popcorn-api.io/",
@@ -15,7 +15,7 @@
     "url" : "https://popcorn-api.io/bp.json"
   },
   "webpage-error" : "clj-http: status 404",
-  "vote-percentage" : 1.323924989867422E-8,
+  "vote-percentage" : 0.0,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 411,
-  "snapshot-date" : "2019-11-03T02:17:31.110Z"
+  "place" : 577,
+  "snapshot-date" : "2019-11-04T02:17:23.418Z"
 }

@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "koreainbexbp",
-    "total_votes" : "1637584827138892032.00000000000000000",
+    "total_votes" : "1644037579272939008.00000000000000000",
     "producer_key" : "EOS5etfhAtNFNzAxGQbrAHfZ5DsYheJ9B7apbvHMctdaKJ5Bti8g5",
     "is_active" : 1,
     "url" : "https://inbex.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-11-03T00:01:43.000",
+    "last_claim_time" : "2019-11-04T00:01:51.000",
     "location" : 82,
     "prepared-url" : "https://inbex.com"
   },
@@ -15,7 +15,7 @@
     "url" : "https://inbex.com/bp.json"
   },
   "webpage-error" : "Certificate for <inbex.com> doesn't match any of the subject alternative names: [*.modoo.at, modoo.at]",
-  "vote-percentage" : 0.0149754829948424,
+  "vote-percentage" : 0.014923340569928778,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 26,
-  "snapshot-date" : "2019-11-03T02:17:31.110Z"
+  "snapshot-date" : "2019-11-04T02:17:23.418Z"
 }

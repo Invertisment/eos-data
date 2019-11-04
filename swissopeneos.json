@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "swissopeneos",
-    "total_votes" : "213040253661008.03125000000000000",
+    "total_votes" : "216673952255974.06250000000000000",
     "producer_key" : "EOS6UvhtgBMAq32MjCRYYxQtwLtBajcvqAU6Rpkvwn9v2RSSn7vPR",
     "is_active" : 1,
     "url" : "https://swisseos.com",
@@ -14,22 +14,14 @@
     "url" : "https://swisseos.com/bp.json",
     "logo" : "https://swisseos.com/small_logo_256.png"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 1,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://t.me/SwissEOS", "https://twitter.com/SwissEOS", "https://www.meetup.com/SwissEOS/", "https://www.youtube.com/watch?v=LCKntN7JUFI" ],
-    "social-links-count" : 4,
-    "popularity-boosters" : [ "https://bloks.io/vote?producers=swissopeneos" ],
-    "popularity-boosters-count" : 1
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.9482231656307015E-6,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 1.9668036928805333E-6,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://swisseos.com"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -40,9 +32,9 @@
       "mood" : "bad",
       "paragraphs" : [ "value-empty" ]
     } ],
-    "score" : 2,
+    "score" : 1,
     "max" : 3
   },
   "place" : 223,
-  "snapshot-date" : "2019-11-03T02:17:31.110Z"
+  "snapshot-date" : "2019-11-04T02:17:23.418Z"
 }

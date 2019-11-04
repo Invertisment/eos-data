@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "stargalaxybp",
-    "total_votes" : "605140617404515072.00000000000000000",
+    "total_votes" : "624578345706885888.00000000000000000",
     "producer_key" : "EOS7iCpwUTL7dBnuEuCZv8SZE5R9VKicR8EsJteVFUo66WH8hb5zm",
     "is_active" : 1,
     "url" : "https://start.galaxy",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-11-01T04:38:47.000",
+    "last_claim_time" : "2019-11-03T05:59:39.000",
     "location" : 443,
     "prepared-url" : "https://start.galaxy"
   },
@@ -15,7 +15,7 @@
     "url" : "https://start.galaxy/bp.json"
   },
   "webpage-error" : "start.galaxy: Name or service not known",
-  "vote-percentage" : 0.005533925861576835,
+  "vote-percentage" : 0.005669453960844746,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 42,
-  "snapshot-date" : "2019-11-03T02:17:31.110Z"
+  "snapshot-date" : "2019-11-04T02:17:23.418Z"
 }
