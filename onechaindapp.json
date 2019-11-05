@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "onechaindapp",
-    "total_votes" : "291205552382738.56250000000000000",
+    "total_votes" : "295992783796558.81250000000000000",
     "producer_key" : "EOS68hRfmjQTwJmmoPrKA4gYWvdvhUm31PNXCnaez2rY3ZDP83heR",
     "is_active" : 1,
     "url" : "http://eosdapp.oneeos.org/",
@@ -14,19 +14,14 @@
     "url" : "http://eosdapp.oneeos.org/bp.json",
     "logo" : "https://cdn1.haoduobi.cn/offcial_assets/logo.png"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.6433456806891946E-6,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 2.678153473305636E-6,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "http://eosdapp.oneeos.org/"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "connect timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -37,9 +32,9 @@
       "mood" : "bad",
       "paragraphs" : [ "value-empty" ]
     } ],
-    "score" : 2,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 211,
-  "snapshot-date" : "2019-11-04T02:17:23.418Z"
+  "place" : 212,
+  "snapshot-date" : "2019-11-05T02:17:19.107Z"
 }

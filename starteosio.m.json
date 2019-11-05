@@ -11,8 +11,9 @@
     "prepared-url" : "https://starteos.io"
   },
   "bp-json-summary" : {
-    "read-error" : "read:'https://starteos.io/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
-    "url" : "https://starteos.io/bp.json"
+    "url" : "https://starteos.io/bp.json",
+    "logo" : "https://www.starteos.io/logo/starteos-logo-256.png",
+    "code_of_conduct" : "https://steemit.com/starteos/@starteos/starteos-roadmap-and-position-on-dividends"
   },
   "analyzed-urls" : {
     "duplicate-urls" : null,
@@ -20,7 +21,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.0105357507908876E-8,
+  "vote-percentage" : 1.0072834778572666E-8,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -28,19 +29,19 @@
       "title" : "web",
       "url" : "https://starteos.io"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://starteos.io/bp.json",
-      "paragraphs" : [ "bp-json-invalid" ],
-      "error" : "read:'https://starteos.io/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://starteos.io/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/starteos/@starteos/starteos-roadmap-and-position-on-dividends"
     } ],
-    "score" : 1,
+    "score" : 3,
     "max" : 3
   },
   "place" : 411,
-  "snapshot-date" : "2019-11-04T02:17:23.418Z"
+  "snapshot-date" : "2019-11-05T02:17:19.107Z"
 }

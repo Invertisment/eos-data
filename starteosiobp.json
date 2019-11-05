@@ -1,18 +1,19 @@
 {
   "bp-header" : {
     "owner" : "starteosiobp",
-    "total_votes" : "2946268101011163648.00000000000000000",
+    "total_votes" : "2992593314918453760.00000000000000000",
     "producer_key" : "EOS4wZZXm994byKANLuwHD6tV3R3Mu3ktc41aSVXCBaGnXJZJ4pwF",
     "is_active" : 1,
     "url" : "https://www.starteos.io",
-    "unpaid_blocks" : 1606,
-    "last_claim_time" : "2019-11-03T21:30:30.000",
+    "unpaid_blocks" : 1596,
+    "last_claim_time" : "2019-11-04T21:30:33.500",
     "location" : 156,
     "prepared-url" : "https://www.starteos.io"
   },
   "bp-json-summary" : {
-    "read-error" : "read:'https://www.starteos.io/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
-    "url" : "https://www.starteos.io/bp.json"
+    "url" : "https://www.starteos.io/bp.json",
+    "logo" : "https://www.starteos.io/logo/starteos-logo-256.png",
+    "code_of_conduct" : "https://steemit.com/starteos/@starteos/starteos-roadmap-and-position-on-dividends"
   },
   "analyzed-urls" : {
     "duplicate-urls" : null,
@@ -20,7 +21,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.02674401293257022,
+  "vote-percentage" : 0.027077093156597627,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -28,19 +29,19 @@
       "title" : "web",
       "url" : "https://www.starteos.io"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://www.starteos.io/bp.json",
-      "paragraphs" : [ "bp-json-invalid" ],
-      "error" : "read:'https://www.starteos.io/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://www.starteos.io/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/starteos/@starteos/starteos-roadmap-and-position-on-dividends"
     } ],
-    "score" : 1,
+    "score" : 3,
     "max" : 3
   },
-  "place" : 16,
-  "snapshot-date" : "2019-11-04T02:17:23.418Z"
+  "place" : 8,
+  "snapshot-date" : "2019-11-05T02:17:19.107Z"
 }

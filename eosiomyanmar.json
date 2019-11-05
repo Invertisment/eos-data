@@ -11,7 +11,7 @@
     "prepared-url" : "http://moa.com.mm"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "clj-http: status 404",
     "url" : "http://moa.com.mm/bp.json"
   },
   "analyzed-urls" : {
@@ -22,7 +22,7 @@
     "popularity-boosters-count" : 8
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 6.934429172982487E-7,
+  "vote-percentage" : 6.912111648548788E-7,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -34,7 +34,7 @@
       "mood" : "warn",
       "url" : "http://moa.com.mm/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "clj-http: status 404"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -44,5 +44,5 @@
     "max" : 3
   },
   "place" : 267,
-  "snapshot-date" : "2019-11-04T02:17:23.418Z"
+  "snapshot-date" : "2019-11-05T02:17:19.107Z"
 }

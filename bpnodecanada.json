@@ -11,23 +11,23 @@
     "prepared-url" : "https://bpnode.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "Certificate for <bpnode.com> doesn't match any of the subject alternative names: [fuchang02.com, www.fuchang02.com]",
+    "dl-error" : "bpnode.com",
     "url" : "https://bpnode.com/bp_info.json"
   },
-  "webpage-error" : "Certificate for <bpnode.com> doesn't match any of the subject alternative names: [fuchang02.com, www.fuchang02.com]",
-  "vote-percentage" : 4.481839299718976E-7,
+  "webpage-error" : "bpnode.com: No address associated with hostname",
+  "vote-percentage" : 4.4674151047947424E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Certificate for <bpnode.com> doesn't match any of the subject alternative names: [fuchang02.com, www.fuchang02.com]",
+      "error" : "bpnode.com: No address associated with hostname",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://bpnode.com/bp_info.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Certificate for <bpnode.com> doesn't match any of the subject alternative names: [fuchang02.com, www.fuchang02.com]"
+      "error" : "bpnode.com"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 276,
-  "snapshot-date" : "2019-11-04T02:17:23.418Z"
+  "snapshot-date" : "2019-11-05T02:17:19.107Z"
 }
