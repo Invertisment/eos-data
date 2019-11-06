@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosromania22",
-    "total_votes" : "307907015377274.87500000000000000",
+    "total_votes" : "308113085736458.25000000000000000",
     "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
     "is_active" : 0,
     "url" : "http://eos.romania22.com",
@@ -11,31 +11,39 @@
     "prepared-url" : "http://eos.romania22.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "read-error" : "read:'http://eos.romania22.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
     "url" : "http://eos.romania22.com/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 2.785953873978895E-6,
+  "analyzed-urls" : {
+    "relative-links-count" : 26,
+    "duplicate-urls" : null,
+    "social-links" : [ "http://l.facebook.com/l.php?u=http%3A%2F%2Feos.romania22.com%2F&h=AT1aKd2C1NOW1vWHUMMQdXM5uDk5IjLopktKI_pM9s9D5PAGueLyE-ki-1Moiz2d3x0Lf7c2ZtjV4OO6WNdHMGHJWdpvRSWo1GSezto93Apo3EEj-dkAsPkUOAkN34tK3BX-hTh_fegCT05M", "http://l.facebook.com/l.php?u=http%3A%2F%2Feos.romania22.com%2F&h=AT23TnyCOSwBdiPWLkZOoyJxEhyUy-xGZuitSkB8byfeD4XaWl-A6mFSriDF4yQMumiapLODi6SrXpwrcB1CleHkF9pX3uMnVKV9bFrJr5Hm3Esgt1yTJH_P894TmexKCwmiUA5QvHdPHIE_EWc", "https://l.facebook.com/l.php?u=https%3A%2F%2Fcointelegraph.com%2Fnews%2F11-years-ago-today-satoshi-nakamoto-published-the-bitcoin-white-paper&h=AT0F2voTvXL8YS_UbiaSCfhM60JOjAAxmGux0Wzkt1HdpTVdJeGkqE-nyfyiQYXeDl8X8RN8lpyog9rUeOeyMYdqw3ZzSovsjC2LRFxZsVrn1RQo_Gjp8iy-u8ig16O05i1gW_-bjmyJhzVkHzBW2clswS2yzQRKe6cHUDYF4KA5IQ", "https://l.facebook.com/l.php?u=https%3A%2F%2Fcointelegraph.com%2Fnews%2F11-years-ago-today-satoshi-nakamoto-published-the-bitcoin-white-paper&h=AT1lbdAJLUDS9nCrmyqsUJ3bRzQsU5-y_HC8qC_RSfZSvOvPJae-YiB7Q6ZuHwtLVi_lgpRgcRiFsoznqqLpOMYlmi4ztRtkQTypB0zm2sd5ZXMNyNcd5omoSvkIqMFAT9h2QODZKLDd4W0aLd08pg-CWEURIdk2meI", "https://l.facebook.com/l.php?u=https%3A%2F%2Fcointelegraph.com%2Fnews%2F11-years-ago-today-satoshi-nakamoto-published-the-bitcoin-white-paper&h=AT3PpLCTeOhh2BOREdO1Om0DM9e2cshhbtn0HUbI3I494F11w6b55FeOPJr0qSKvIb8HgAv61Y_g9ja-M-n84UCMdN7tuDlDjkVhCuHq-dHNVMhPooHxLgOVJ5IP9lL56yO3XNIgiCUUy9yAg5ifLiTsdmtfYKDTmX4", "https://l.facebook.com/l.php?u=https%3A%2F%2Fsteemit.com%2Feos%2F%40greymass%2Fannouncing-eos-voter-an-eos-block-producer-voting-tool-and-light-wallet&h=AT0y_Wxg859hkHBjpJC4KqtnTxHkaEkyUHIzlEWKpkCHHIQVzl4irrY9tUv5dIAnTdcO1IaM9kzABtDOEABBhD4uUVNyBmxVsOm0ZQ8GmnKv7QfO2V3YZOuGJVnccXEtbdM9szof5YIATh-f1ygBUp9U2efrUoCQREIxFQ2Msw46cQ", "https://l.facebook.com/l.php?u=https%3A%2F%2Fsteemit.com%2Feos%2F%40unus%2Fhow-to-vote-for-eos-romania-block-producer&h=AT2QgbtQUp8_W4F4mqHfS36hZpgD3xZaMCrUFWaIQdLCrIG_6dJI0YHOnEUzR5MRB50wCb96jI2a5L0UG9JZsKsa1Z0F9BpS9fcZBSBLl5hN9ifYGX8fm2Kzii_7xz-9xc2TjFo3r5EYAJa-FaB6qPJqmhYqONJm8ApUoB7WBGRIsA", "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2F_hWRAjLKa8w&h=AT0lsU6VniPKIhhdv4-93ek4WnVHbtQHFRxyKMPhN5E-DFmR0RGyvg-ziOuFjsEZ1lRJdkBhwalOjJmVkjixotwb8UBY5_1Goi73rZ2xIcdh-4jFqje0Qq1oSIyDIDUWmSYCBdUN-zZuRRQK5i1_pvu6AR6giSy8kgT-c4eQYLshvA", "https://www.facebook.com/Bucharest.Guide.Official/?ref=py_c", "https://www.facebook.com/BucharestUrbanClimateSummerSchool/?ref=py_c", "https://www.facebook.com/CarpathianMtbTrails/?ref=py_c", "https://www.facebook.com/Cold-Steel-Defense-Concept-583688551814637/?ref=py_c", "https://www.facebook.com/Crypto-Balance-UK-539484613070698/?ref=py_c", "https://www.facebook.com/EOSro/?hc_ref=ARRFacNQasBX6O96_diQakcPM1gAbgkE-xzFAwrz7kaYMlIh9sXGtA1xaeQGQ4pneNo", "https://www.facebook.com/EOSro/?hc_ref=ART0_iYeuJ-xcR5kDgZ2G8lswzF3psffymRvB1yWGAVZ0DfZoZK7OLU89F8kYNjxbzc&fref=nf", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARRW2L00Jd7h6SWZcr5rYWJ6bP6W1vvQWuJYdqFg8EvM3sr7SiJ5SQpFyeQW3ahIe84", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ART5PIO2gFVmnQ7PmpkqxPgpk1B_N1Ry3J-1JhLCUZk3F9X8qqH8EAB7jx5sZL_bJS8", "https://www.facebook.com/EOSro/likes", "https://www.facebook.com/EOSro/likes?ref=page_internal", "https://www.facebook.com/EOSro/posts", "https://www.facebook.com/FoisorulDeFocBand/?ref=py_c", "https://www.facebook.com/FundatiaEOS/?ref=py_c", "https://www.facebook.com/Mvshroom-Skateshop-811862458894883/?ref=py_c", "https://www.facebook.com/RomaniaEarthship/?ref=py_c", "https://www.facebook.com/TheMoodsProject/?ref=py_c", "https://www.facebook.com/TimisoaraMountainBikers/?ref=py_c", "https://www.facebook.com/Vasileanghel56-867468373425889/?ref=py_c", "https://www.facebook.com/VindecareEvolutie/?ref=py_c", "https://www.facebook.com/ad_campaign/landing.php?placement=pf_rhc&campaign_id=242449722530626&extra_1=auto", "https://www.facebook.com/certipro.ro/?ref=py_c", "https://www.facebook.com/danubemarketing/?ref=py_c", "https://www.facebook.com/despreferestre/?ref=py_c", "https://www.facebook.com/dgpimobiliare/?ref=py_c", "https://www.facebook.com/eosdac/?ref=py_c", "https://www.facebook.com/eosswedenorg/?ref=py_c", "https://www.facebook.com/help/568137493302217", "https://www.facebook.com/help/cookies?ref_type=sitefooter", "https://www.facebook.com/irishostro/?ref=py_c", "https://www.facebook.com/policies?ref=pf", "https://www.facebook.com/privacy/explanation", "https://www.facebook.com/recover/initiate?lwv=110&ars=royal_blue_bar" ],
+    "social-links-count" : 41,
+    "popularity-boosters" : [ "https://www.facebook.com/" ],
+    "popularity-boosters-count" : 1
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 2.7892718701083977E-6,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "connect timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://eos.romania22.com"
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://eos.romania22.com/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'http://eos.romania22.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 0,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 211,
-  "snapshot-date" : "2019-11-05T02:17:19.107Z"
+  "place" : 212,
+  "snapshot-date" : "2019-11-06T02:18:56.130Z"
 }

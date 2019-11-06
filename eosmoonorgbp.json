@@ -11,7 +11,7 @@
     "prepared-url" : "http://eosmoon.org"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "clj-http: status 404",
     "url" : "http://eosmoon.org/bp.json"
   },
   "analyzed-urls" : {
@@ -20,7 +20,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.1723277229769821E-7,
+  "vote-percentage" : 1.1729389307108621E-7,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -32,7 +32,7 @@
       "mood" : "warn",
       "url" : "http://eosmoon.org/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "clj-http: status 404"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -42,5 +42,5 @@
     "max" : 3
   },
   "place" : 339,
-  "snapshot-date" : "2019-11-05T02:17:19.107Z"
+  "snapshot-date" : "2019-11-06T02:18:56.130Z"
 }

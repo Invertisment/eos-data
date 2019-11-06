@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eoswenzhoubp",
-    "total_votes" : "1397748976597311.75000000000000000",
+    "total_votes" : "1332980858231806.50000000000000000",
     "producer_key" : "EOS5SQjv1G8uaxqkXh6Z5nWbKqumhGj91NMq7qkYuvT9YS45QcZsA",
     "is_active" : 1,
     "url" : "http://eoswz.com",
@@ -11,39 +11,31 @@
     "prepared-url" : "http://eoswz.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "dl-error" : "connect timed out",
     "url" : "http://eoswz.com/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 10,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://steemit.com/eoswz/@eos.wenzhou/introducing-eoswenzhou-block-producer", "https://t.me/EOSwenzhouofficial", "https://twitter.com/eoswenzhou", "https://weibo.com/5199822891/info" ],
-    "social-links-count" : 4,
-    "popularity-boosters" : [ "http://bit2.beojk.cn/web/v1/web/download", "http://www.block.one/", "https://eos.io/", "https://steemit.com/", "https://www.bepal.pro/", "https://www.shiyin.net/" ],
-    "popularity-boosters-count" : 6
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.2646883577595546E-5,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 1.2067147366922044E-5,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "http://eoswz.com"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "connect timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://eoswz.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 153,
-  "snapshot-date" : "2019-11-05T02:17:19.107Z"
+  "place" : 159,
+  "snapshot-date" : "2019-11-06T02:18:56.130Z"
 }

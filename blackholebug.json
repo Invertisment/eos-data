@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "blackholebug",
-    "total_votes" : "113488703964.68371582031250000",
+    "total_votes" : "1094456434784.79418945312500000",
     "producer_key" : "EOS8UAqdCJ255jAkAYe95WA54JrFXVNwQmkAnC9rwLUNVGzLjMyZD",
     "is_active" : 1,
     "url" : "www.google.com",
@@ -15,7 +15,7 @@
     "url" : "www.google.com/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 9,
+    "relative-links-count" : 8,
     "duplicate-urls" : null,
     "social-links" : [ "http://www.youtube.com/?gl=US&tab=w1" ],
     "social-links-count" : 1,
@@ -23,7 +23,7 @@
     "popularity-boosters-count" : 5
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.0268499211550927E-9,
+  "vote-percentage" : 9.907844515294242E-9,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -44,6 +44,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 433,
-  "snapshot-date" : "2019-11-05T02:17:19.107Z"
+  "place" : 416,
+  "snapshot-date" : "2019-11-06T02:18:56.130Z"
 }
