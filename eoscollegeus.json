@@ -11,39 +11,31 @@
     "prepared-url" : "http://eos.college"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "dl-error" : "connect timed out",
     "url" : "http://eos.college/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 7,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://eosio.github.io/eos/", "https://github.com/eosio" ],
-    "social-links-count" : 2,
-    "popularity-boosters" : [ "http://chainews.io/", "https://dapphub.co/", "https://eos.io/", "https://eosblock.co/" ],
-    "popularity-boosters-count" : 4
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.209719184488929E-6,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 2.202638071030892E-6,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "http://eos.college"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "connect timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://eos.college/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
   "place" : 220,
-  "snapshot-date" : "2019-11-06T02:18:56.130Z"
+  "snapshot-date" : "2019-11-07T02:17:20.078Z"
 }

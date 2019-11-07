@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "itokenpocket",
-    "total_votes" : "74465007552191600.00000000000000000",
+    "total_votes" : "74300250865230144.00000000000000000",
     "producer_key" : "EOS8BYCigFER1XBbMqD3GjVVF5B3BmB1E1nkjJJTxPX4tmdS3YwMR",
     "is_active" : 1,
     "url" : "https://www.mytokenpocket.vip",
@@ -15,14 +15,20 @@
     "logo" : "https://dapp.tokenpocket.pro/token-logo/EOS_tokendapppub_TPT.png",
     "code_of_conduct" : "https://steemit.com/tokenpocket/@tokenpocket/tokenpocket-code-of-conduct"
   },
-  "webpage-error" : "Read timed out",
-  "vote-percentage" : 6.741133709926051E-4,
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ "https://tokenpockethelpsupport.zendesk.com/hc/zh-cn/articles/360017955472-%E5%A6%82%E4%BD%95%E9%A2%86%E5%8F%96%E7%A9%BA%E6%8A%95%E7%B3%96%E6%9E%9C", "https://tokenpockethelpsupport.zendesk.com/hc/zh-cn/articles/360018215551-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E8%A7%82%E5%AF%9F%E6%A8%A1%E5%BC%8F", "https://tokenpockethelpsupport.zendesk.com/hc/zh-cn/articles/360018267371-%E5%A6%82%E4%BD%95%E8%B4%AD%E4%B9%B0%E8%B5%84%E6%BA%90", "https://tokenpockethelpsupport.zendesk.com/hc/zh-cn/articles/360018548651-%E6%BF%80%E6%B4%BB%E7%A0%81%E6%B3%A8%E5%86%8C%E6%8C%87%E5%8D%97", "https://tokenpockethelpsupport.zendesk.com/hc/zh-cn/articles/360019963372-%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%8A%95%E7%A5%A8%E5%92%8C%E6%80%8E%E4%B9%88%E6%8A%95%E7%A5%A8", "https://tokenpockethelpsupport.zendesk.com/hc/zh-cn/articles/360020207551-%E5%A6%82%E4%BD%95%E4%BF%AE%E6%94%B9%E6%9D%83%E9%99%90" ],
+    "popularity-boosters-count" : 6
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 6.704664317090756E-4,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "Read timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://www.mytokenpocket.vip"
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -34,9 +40,9 @@
       "title" : "coc",
       "url" : "https://steemit.com/tokenpocket/@tokenpocket/tokenpocket-code-of-conduct"
     } ],
-    "score" : 2,
+    "score" : 3,
     "max" : 3
   },
   "place" : 89,
-  "snapshot-date" : "2019-11-06T02:18:56.130Z"
+  "snapshot-date" : "2019-11-07T02:17:20.078Z"
 }
