@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosrainbowbp",
-    "total_votes" : "546175354410622336.00000000000000000",
+    "total_votes" : "548801789585039168.00000000000000000",
     "producer_key" : "EOS72sQPpaPkN9FMH3MKXXPCtoA9zmRQZjNM973PZAXUgefpnKmUM",
     "is_active" : 1,
     "url" : "840",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-11-06T04:57:13.500",
+    "last_claim_time" : "2019-11-07T04:57:17.000",
     "location" : 0,
     "prepared-url" : "http://840"
   },
@@ -15,7 +15,7 @@
     "url" : "840/bp.json"
   },
   "webpage-error" : "Invalid argument (connect failed)",
-  "vote-percentage" : 0.004928546494726501,
+  "vote-percentage" : 0.004942265396699771,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 56,
-  "snapshot-date" : "2019-11-07T02:17:20.078Z"
+  "snapshot-date" : "2019-11-08T02:17:18.738Z"
 }

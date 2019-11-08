@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "strongmonkey",
-    "total_votes" : "252090739492534.68750000000000000",
+    "total_votes" : "252608297086347.65625000000000000",
     "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
     "is_active" : 0,
     "url" : "http://strongmonkey.com",
@@ -15,12 +15,14 @@
     "url" : "http://strongmonkey.com/bp.json"
   },
   "analyzed-urls" : {
+    "relative-links-count" : 1,
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ ]
+    "popularity-boosters" : [ "https://www.sedo.com/services/parking.php3" ],
+    "popularity-boosters-count" : 1
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.2748022598340433E-6,
+  "vote-percentage" : 2.2748782334567402E-6,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -42,5 +44,5 @@
     "max" : 3
   },
   "place" : 218,
-  "snapshot-date" : "2019-11-07T02:17:20.078Z"
+  "snapshot-date" : "2019-11-08T02:17:18.738Z"
 }
