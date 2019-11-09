@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "validatoreos",
-    "total_votes" : "579423819992364800.00000000000000000",
+    "total_votes" : "576675170223922688.00000000000000000",
     "producer_key" : "EOS6NqocRxNTi8boXavNSYHU7EeDyPz7hHpgR5z89E9JcVPBkCFDX",
     "is_active" : 1,
     "url" : "",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-11-07T15:24:48.500",
+    "last_claim_time" : "2019-11-08T15:24:52.500",
     "location" : 410,
     "prepared-url" : null
   },
@@ -17,7 +17,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.005218033814607531,
+  "vote-percentage" : 0.005179342804193569,
   "scoring" : {
     "comp" : [ {
       "title" : "no-web",
@@ -35,6 +35,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 45,
-  "snapshot-date" : "2019-11-08T02:17:18.738Z"
+  "place" : 46,
+  "snapshot-date" : "2019-11-09T02:17:20.070Z"
 }
