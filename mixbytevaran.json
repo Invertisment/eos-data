@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "mixbytevaran",
-    "total_votes" : "29712126264814.95312500000000000",
+    "total_votes" : "30024503752825.70312500000000000",
     "producer_key" : "EOS7VBQ2bg875RexTq6brY28SJMdwayTWRcwrDREHhKrKzyKyZbes",
     "is_active" : 1,
     "url" : "http://mixbytes.io",
@@ -14,22 +14,14 @@
     "dl-error" : "clj-http: status 404",
     "url" : "http://mixbytes.io/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 20,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/mixbytes", "https://github.com/mixbytes/audits_public/blob/master/solidity/PoA%20Consensus/audit_en.md", "https://github.com/mixbytes/storiqa_ico", "https://github.com/smartzplatform", "https://medium.com/mixbytes", "https://t.me/MixBytes", "https://t.me/darya_dao", "https://t.me/vadimbuyanov", "https://twitter.com/MixBytes", "https://www.facebook.com/mixbyteslabs/", "https://www.linkedin.com/company/mixbytes/", "https://www.linkedin.com/in/aleksey-makeyev-98471884/", "https://www.linkedin.com/in/darya-vystavkina-043b3b181/", "https://www.linkedin.com/in/sergey-prilutskiy-2a619951/", "https://www.linkedin.com/in/vadim-buyanov/" ],
-    "social-links-count" : 15,
-    "popularity-boosters" : [ "blog", "https://smartz.io/", "https://techreviewer.co/top-blockchain-development-companies-in-2019/", "https://www.goodfirms.co/companies/view/12506/mixbytes" ],
-    "popularity-boosters-count" : 4
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.6685610082224446E-7,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 2.685075273903831E-7,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "http://mixbytes.io"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "connect timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
@@ -41,9 +33,9 @@
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 293,
-  "snapshot-date" : "2019-11-09T02:17:20.070Z"
+  "place" : 292,
+  "snapshot-date" : "2019-11-10T02:17:22.456Z"
 }
