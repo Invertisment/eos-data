@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "blockcceosio",
-    "total_votes" : "79390574232612.65625000000000000",
+    "total_votes" : "79400516540020.73437500000000000",
     "producer_key" : "EOS8VYW1mptsVYiy9GUQzfrM7AbCENKazjrDvv88cvKZuaoSAnR29",
     "is_active" : 1,
     "url" : "https://eos.block.cc/",
@@ -15,7 +15,7 @@
     "url" : "https://eos.block.cc/bp.json"
   },
   "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 7.099856490815532E-7,
+  "vote-percentage" : 7.09329555353769E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 263,
-  "snapshot-date" : "2019-11-10T02:17:22.456Z"
+  "snapshot-date" : "2019-11-11T02:17:23.760Z"
 }
