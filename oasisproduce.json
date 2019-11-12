@@ -11,11 +11,11 @@
     "prepared-url" : "http://eosoasis.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "clj-http: status 500",
     "url" : "http://eosoasis.io/bp.json"
   },
   "webpage-error" : "Read timed out",
-  "vote-percentage" : 1.1389391354050969E-6,
+  "vote-percentage" : 1.1353518999543506E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -27,7 +27,7 @@
       "mood" : "warn",
       "url" : "http://eosoasis.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "clj-http: status 500"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 241,
-  "snapshot-date" : "2019-11-11T02:17:23.760Z"
+  "snapshot-date" : "2019-11-12T02:17:18.956Z"
 }
