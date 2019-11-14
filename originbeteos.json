@@ -17,10 +17,11 @@
   "analyzed-urls" : {
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ ]
+    "popularity-boosters" : [ "http://sedoparking.com/", "https://www.google.com/adsense/support/bin/request.py?contact=abg_afc&hideleadgen=1", "https://www.sedo.com/services/parking.php3" ],
+    "popularity-boosters-count" : 3
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 7.033552391118579E-10,
+  "vote-percentage" : 7.085967880921624E-10,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -42,5 +43,5 @@
     "max" : 3
   },
   "place" : 442,
-  "snapshot-date" : "2019-11-13T02:17:24.680Z"
+  "snapshot-date" : "2019-11-14T02:17:20.262Z"
 }

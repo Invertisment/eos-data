@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "acroeos12345",
-    "total_votes" : "565544182491944512.00000000000000000",
+    "total_votes" : "528611960395236160.00000000000000000",
     "producer_key" : "EOS56PyKoHXwyRkwDzr2uNhgDRioPoq5TwdN8Pm2hQGko7jrup2W5",
     "is_active" : 1,
     "url" : "https://acroeos.one",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-11-12T09:49:23.000",
+    "last_claim_time" : "2019-11-13T09:50:02.500",
     "location" : 410,
     "prepared-url" : "https://acroeos.one"
   },
@@ -21,7 +21,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.0050396176411605905,
+  "vote-percentage" : 0.004745614825719387,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -42,6 +42,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 50,
-  "snapshot-date" : "2019-11-13T02:17:24.680Z"
+  "place" : 61,
+  "snapshot-date" : "2019-11-14T02:17:20.262Z"
 }

@@ -11,23 +11,23 @@
     "prepared-url" : "http://www.whateos.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "whateos.com",
+    "dl-error" : "www.whateos.com",
     "url" : "http://www.whateos.com/BP_info.json/bp.json"
   },
-  "webpage-error" : "whateos.com: Name or service not known",
-  "vote-percentage" : 2.239506357128447E-6,
+  "webpage-error" : "www.whateos.com: No address associated with hostname",
+  "vote-percentage" : 2.2561956225377936E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "whateos.com: Name or service not known",
+      "error" : "www.whateos.com: No address associated with hostname",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://www.whateos.com/BP_info.json/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "whateos.com"
+      "error" : "www.whateos.com"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 217,
-  "snapshot-date" : "2019-11-13T02:17:24.680Z"
+  "snapshot-date" : "2019-11-14T02:17:20.262Z"
 }

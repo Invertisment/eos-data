@@ -1,47 +1,41 @@
 {
   "bp-header" : {
     "owner" : "eoshenzhenio",
-    "total_votes" : "563159411087124352.00000000000000000",
+    "total_votes" : "565217505546139520.00000000000000000",
     "producer_key" : "EOS8EJrMphgHJx5EkHQ4ryodbvnocZEC1xp5T1FnRsT7XtzYA1FE7",
     "is_active" : 1,
     "url" : "https://info.eoshenzhen.io:1443",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-11-12T04:18:44.000",
+    "last_claim_time" : "2019-11-13T04:18:49.500",
     "location" : 156,
     "prepared-url" : "https://info.eoshenzhen.io:1443"
   },
   "bp-json-summary" : {
-    "url" : "https://info.eoshenzhen.io:1443/bp.json",
-    "logo" : "https://info.eoshenzhen.io:1443/logo256.png",
-    "code_of_conduct" : "https://busy.org/@eoshenzhen/eoshenzhen-code-of-conduct-draft"
+    "dl-error" : "NotAfter: Wed Nov 13 12:20:24 UTC 2019",
+    "url" : "https://info.eoshenzhen.io:1443/bp.json"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.005018366717865949,
+  "webpage-error" : "NotAfter: Wed Nov 13 12:20:24 UTC 2019",
+  "vote-percentage" : 0.00507424117318565,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://info.eoshenzhen.io:1443"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "NotAfter: Wed Nov 13 12:20:24 UTC 2019",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://info.eoshenzhen.io:1443/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://info.eoshenzhen.io:1443/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "NotAfter: Wed Nov 13 12:20:24 UTC 2019"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://busy.org/@eoshenzhen/eoshenzhen-code-of-conduct-draft"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 54,
-  "snapshot-date" : "2019-11-13T02:17:24.680Z"
+  "place" : 48,
+  "snapshot-date" : "2019-11-14T02:17:20.262Z"
 }
