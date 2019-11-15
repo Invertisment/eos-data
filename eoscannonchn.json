@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eoscannonchn",
-    "total_votes" : "3033003938188437504.00000000000000000",
+    "total_votes" : "3028037031193081344.00000000000000000",
     "producer_key" : "EOS73cTi9V7PNg4ujW5QzoTfRSdhH44MPiUJkUV6m3oGwj7RX7kML",
     "is_active" : 1,
     "url" : "https://eoscannon.io",
-    "unpaid_blocks" : 2438,
-    "last_claim_time" : "2019-11-13T19:01:18.500",
+    "unpaid_blocks" : 2429,
+    "last_claim_time" : "2019-11-14T19:01:20.000",
     "location" : 156,
     "prepared-url" : "https://eoscannon.io"
   },
@@ -24,7 +24,7 @@
     "popularity-boosters-count" : 5
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.027228798313171973,
+  "vote-percentage" : 0.027079915991757214,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +45,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 10,
-  "snapshot-date" : "2019-11-14T02:17:20.262Z"
+  "place" : 12,
+  "snapshot-date" : "2019-11-15T02:17:16.800Z"
 }

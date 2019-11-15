@@ -11,23 +11,23 @@
     "prepared-url" : "https://moonxwitheos.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "Connection refused (Connection refused)",
     "url" : "https://moonxwitheos.com/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 1.0456134275795377E-5,
+  "webpage-error" : "Connection refused (Connection refused)",
+  "vote-percentage" : 1.04160194353731E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "Connection refused (Connection refused)",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://moonxwitheos.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "Connection refused (Connection refused)"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 159,
-  "snapshot-date" : "2019-11-14T02:17:20.262Z"
+  "snapshot-date" : "2019-11-15T02:17:16.800Z"
 }

@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "strongmonkey",
-    "total_votes" : "252608297086347.65625000000000000",
+    "total_votes" : "252890230267832.46875000000000000",
     "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
     "is_active" : 0,
     "url" : "http://strongmonkey.com",
@@ -17,10 +17,11 @@
   "analyzed-urls" : {
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ ]
+    "popularity-boosters" : [ "http://sedoparking.com/", "https://www.google.com/adsense/support/bin/request.py?contact=abg_afc&hideleadgen=1", "https://www.sedo.com/services/parking.php3" ],
+    "popularity-boosters-count" : 3
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.267791441677532E-6,
+  "vote-percentage" : 2.261612430839643E-6,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -42,5 +43,5 @@
     "max" : 3
   },
   "place" : 216,
-  "snapshot-date" : "2019-11-14T02:17:20.262Z"
+  "snapshot-date" : "2019-11-15T02:17:16.800Z"
 }
