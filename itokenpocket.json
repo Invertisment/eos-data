@@ -1,17 +1,17 @@
 {
   "bp-header" : {
     "owner" : "itokenpocket",
-    "total_votes" : "44077800939984552.00000000000000000",
+    "total_votes" : "43963497090482072.00000000000000000",
     "producer_key" : "EOS8BYCigFER1XBbMqD3GjVVF5B3BmB1E1nkjJJTxPX4tmdS3YwMR",
     "is_active" : 1,
-    "url" : "https://www.mytokenpocket.vip",
+    "url" : "https://www.tokenpocket.pro",
     "unpaid_blocks" : 0,
     "last_claim_time" : "2019-09-14T00:57:08.000",
-    "location" : 0,
-    "prepared-url" : "https://www.mytokenpocket.vip"
+    "location" : 800,
+    "prepared-url" : "https://www.tokenpocket.pro"
   },
   "bp-json-summary" : {
-    "url" : "https://www.mytokenpocket.vip/bp.json",
+    "url" : "https://www.tokenpocket.pro/bp.json",
     "logo" : "https://dapp.tokenpocket.pro/token-logo/EOS_tokendapppub_TPT.png",
     "code_of_conduct" : "https://steemit.com/tokenpocket/@tokenpocket/tokenpocket-code-of-conduct"
   },
@@ -22,18 +22,18 @@
     "popularity-boosters-count" : 6
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 3.9886740515176556E-4,
+  "vote-percentage" : 3.974307669635886E-4,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
       "mood" : "good",
       "title" : "web",
-      "url" : "https://www.mytokenpocket.vip"
+      "url" : "https://www.tokenpocket.pro"
     }, {
       "score" : "positive",
       "mood" : "good",
       "title" : "bp-json",
-      "url" : "https://www.mytokenpocket.vip/bp.json"
+      "url" : "https://www.tokenpocket.pro/bp.json"
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -44,5 +44,5 @@
     "max" : 3
   },
   "place" : 91,
-  "snapshot-date" : "2019-11-16T02:17:23.942Z"
+  "snapshot-date" : "2019-11-17T02:17:14.768Z"
 }

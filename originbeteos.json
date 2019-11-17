@@ -15,12 +15,14 @@
     "url" : "http://producer.site/bp.json"
   },
   "analyzed-urls" : {
+    "relative-links-count" : 1,
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ ]
+    "popularity-boosters" : [ "https://www.sedo.com/services/parking.php3" ],
+    "popularity-boosters-count" : 1
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 7.142533848841793E-10,
+  "vote-percentage" : 7.135311413340004E-10,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -42,5 +44,5 @@
     "max" : 3
   },
   "place" : 442,
-  "snapshot-date" : "2019-11-16T02:17:23.942Z"
+  "snapshot-date" : "2019-11-17T02:17:14.768Z"
 }
