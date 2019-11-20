@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosphereiobp",
-    "total_votes" : "472365729352051776.00000000000000000",
+    "total_votes" : "475452368906033920.00000000000000000",
     "producer_key" : "EOS5FYRrG3ThNU56d3uZ8d4bo4MsN5Fig9WPY3xYSpH3RqPhpoH3A",
     "is_active" : 1,
     "url" : "https://www.eosphere.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-11-19T01:13:33.000",
+    "last_claim_time" : "2019-11-20T01:13:37.500",
     "location" : 36,
     "prepared-url" : "https://www.eosphere.io"
   },
@@ -18,13 +18,13 @@
   "analyzed-urls" : {
     "relative-links-count" : 10,
     "duplicate-urls" : null,
-    "social-links" : [ "http://www.youtube.com/eosphere", "https://medium.com/emanate-live/announcement-emanate-forms-strategic-alliance-with-aussie-block-producer-eosphere-fc09ce73948", "https://medium.com/eosphere", "https://steemit.com/@eosphere", "https://steemit.com/eos/@eosphere/eosphere-s-position-on-dividends", "https://t.me/eosphere_io", "https://twitter.com/LiquidAppsIO", "https://twitter.com/LiquidAppsIO/status/1195867024213381120", "https://twitter.com/Worbli", "https://twitter.com/Worbli/status/1195959805396975616", "https://twitter.com/eosdublin", "https://twitter.com/eosdublin/status/1195680180544638977", "https://twitter.com/eosphere_io", "https://twitter.com/eoswriter", "https://twitter.com/eoswriter/status/1195463627362275328", "https://twitter.com/intent/like?tweet_id=1195463627362275328&related=eoswriter", "https://twitter.com/intent/like?tweet_id=1195680180544638977&related=eosdublin", "https://twitter.com/intent/like?tweet_id=1195867024213381120&related=LiquidAppsIO", "https://twitter.com/intent/like?tweet_id=1195959805396975616&related=Worbli", "https://twitter.com/intent/retweet?tweet_id=1195463627362275328&related=eoswriter", "https://twitter.com/intent/retweet?tweet_id=1195680180544638977&related=eosdublin", "https://twitter.com/intent/retweet?tweet_id=1195867024213381120&related=LiquidAppsIO", "https://twitter.com/intent/retweet?tweet_id=1195959805396975616&related=Worbli", "https://twitter.com/intent/user?screen_name=eosphere_io", "https://www.facebook.com/eosphereio", "https://www.instagram.com/eosphere_io/" ],
-    "social-links-count" : 26,
+    "social-links" : [ "http://www.youtube.com/eosphere", "https://medium.com/emanate-live/announcement-emanate-forms-strategic-alliance-with-aussie-block-producer-eosphere-fc09ce73948", "https://medium.com/eosphere", "https://steemit.com/@eosphere", "https://steemit.com/eos/@eosphere/eosphere-s-position-on-dividends", "https://t.me/eosphere_io", "https://twitter.com/EOSDT", "https://twitter.com/EOSDT/status/1196761387193819141", "https://twitter.com/LiquidAppsIO", "https://twitter.com/LiquidAppsIO/status/1195867024213381120", "https://twitter.com/LiquidAppsIO/status/1196712287639396353", "https://twitter.com/Worbli", "https://twitter.com/Worbli/status/1195959805396975616", "https://twitter.com/eosphere_io", "https://twitter.com/intent/like?tweet_id=1195867024213381120&related=LiquidAppsIO", "https://twitter.com/intent/like?tweet_id=1195959805396975616&related=Worbli", "https://twitter.com/intent/like?tweet_id=1196712287639396353&related=LiquidAppsIO", "https://twitter.com/intent/like?tweet_id=1196761387193819141&related=EOSDT", "https://twitter.com/intent/retweet?tweet_id=1195867024213381120&related=LiquidAppsIO", "https://twitter.com/intent/retweet?tweet_id=1195959805396975616&related=Worbli", "https://twitter.com/intent/retweet?tweet_id=1196712287639396353&related=LiquidAppsIO", "https://twitter.com/intent/retweet?tweet_id=1196761387193819141&related=EOSDT", "https://twitter.com/intent/user?screen_name=eosphere_io", "https://www.facebook.com/eosphereio", "https://www.instagram.com/eosphere_io/" ],
+    "social-links-count" : 25,
     "popularity-boosters" : [ "https://altshiftdev.com/", "https://chintai.io/", "https://connectonline.asic.gov.au/RegistrySearch/faces/landing/panelSearch.jspx?searchTab=search&searchText=624+333+035&searchType=OrgAndBusNm&_adf.ctrl-state=6b1hb27c8_12", "https://eos.io/", "https://eosvoter.eosphere.io/", "https://trybe.one/trybe-announces-partnership-with-eosphere-bp/", "https://www.chintai-eos.io", "https://www.slant.li/", "https://www.slant.li/privEOS/" ],
     "popularity-boosters-count" : 9
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.005681985799195887,
+  "vote-percentage" : 0.004145596061654933,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +45,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 48,
-  "snapshot-date" : "2019-11-19T02:15:26.913Z"
+  "place" : 66,
+  "snapshot-date" : "2019-11-20T02:17:24.656Z"
 }

@@ -11,31 +11,37 @@
     "prepared-url" : "http://goeoslottery.cn"
   },
   "bp-json-summary" : {
-    "dl-error" : "goeoslottery.cn",
+    "dl-error" : "clj-http: status 404",
     "url" : "http://goeoslottery.cn/bp.json"
   },
-  "webpage-error" : "goeoslottery.cn: No address associated with hostname",
-  "vote-percentage" : 1.3001940052994533E-7,
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ "https://vestacp.com/" ],
+    "popularity-boosters-count" : 1
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 9.424674597439915E-8,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "goeoslottery.cn: No address associated with hostname",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://goeoslottery.cn"
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://goeoslottery.cn/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "goeoslottery.cn"
+      "error" : "clj-http: status 404"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 0,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 264,
-  "snapshot-date" : "2019-11-19T02:15:26.913Z"
+  "place" : 345,
+  "snapshot-date" : "2019-11-20T02:17:24.656Z"
 }

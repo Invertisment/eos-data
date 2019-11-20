@@ -11,40 +11,31 @@
     "prepared-url" : "https://eostaipei.io"
   },
   "bp-json-summary" : {
-    "url" : "https://eostaipei.io/bp.json",
-    "logo" : "https://eostaipei.io/images/logo_256.png",
-    "code_of_conduct" : "https://eostaipei.io#codeofconduct"
+    "dl-error" : "NotAfter: Tue Nov 19 23:59:59 UTC 2019",
+    "url" : "https://eostaipei.io/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 6,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/yhuag", "https://line.me/ti/g/nlQQUnUZ0r", "https://t.me/EOSTaipeiDev", "https://twitter.com/johnleeeos", "https://www.facebook.com/felipeinkueitan", "https://www.facebook.com/groups/250917915571119/", "https://www.facebook.com/hu.yao.chieh", "https://www.facebook.com/lee.ting.ting.tina", "https://www.facebook.com/patrickshihtw", "https://www.linkedin.com/in/felipetan", "https://www.linkedin.com/in/leetingting" ],
-    "social-links-count" : 11,
-    "popularity-boosters" : [ "http://boxdapp.io", "http://cybavo.com", "https://beedapp.org/", "https://imeos.one", "https://slowmist.com", "https://www.eoslaomao.com", "https://www.helloeos.one/", "https://www.starteos.io" ],
-    "popularity-boosters-count" : 8
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.5003845076689562E-6,
+  "webpage-error" : "NotAfter: Tue Nov 19 23:59:59 UTC 2019",
+  "vote-percentage" : 1.087578907315698E-6,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eostaipei.io"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "NotAfter: Tue Nov 19 23:59:59 UTC 2019",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://eostaipei.io/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eostaipei.io/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "NotAfter: Tue Nov 19 23:59:59 UTC 2019"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://eostaipei.io#codeofconduct"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 190,
-  "snapshot-date" : "2019-11-19T02:15:26.913Z"
+  "place" : 244,
+  "snapshot-date" : "2019-11-20T02:17:24.656Z"
 }
