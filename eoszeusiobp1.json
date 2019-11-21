@@ -1,41 +1,40 @@
 {
   "bp-header" : {
     "owner" : "eoszeusiobp1",
-    "total_votes" : "502560056626336768.00000000000000000",
-    "producer_key" : "EOS8kVZpbPGo211zg4NQXwmKRb5SJPcp3pU8QfT9pfULEf8yC6sic",
+    "total_votes" : "500334428430400448.00000000000000000",
+    "producer_key" : "EOS5ptJGggTM71A1a4H6QjXtZ2v3YaUudyZ7f52yBZkqLAWK8v4Wm",
     "is_active" : 1,
-    "url" : "https://eoszeus.io",
+    "url" : "http://zeusio.club",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-11-20T00:07:41.500",
+    "last_claim_time" : "2019-11-21T00:07:45.000",
     "location" : 0,
-    "prepared-url" : "https://eoszeus.io"
+    "prepared-url" : "http://zeusio.club"
   },
   "bp-json-summary" : {
-    "dl-error" : "eoszeus.io",
-    "url" : "https://eoszeus.io/bp.json"
+    "url" : "http://zeusio.club/bp.json",
+    "logo" : ""
   },
-  "webpage-error" : "eoszeus.io: Name or service not known",
-  "vote-percentage" : 0.00438195522358829,
+  "webpage-error" : "clj-http: status 403",
+  "vote-percentage" : 0.004353510546480888,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "eoszeus.io: Name or service not known",
+      "error" : "clj-http: status 403",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://eoszeus.io/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "eoszeus.io"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "http://zeusio.club/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "title" : "no-coc",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
     } ],
-    "score" : 0,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 63,
-  "snapshot-date" : "2019-11-20T02:17:24.656Z"
+  "place" : 64,
+  "snapshot-date" : "2019-11-21T02:17:15.982Z"
 }

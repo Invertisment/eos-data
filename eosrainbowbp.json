@@ -1,33 +1,33 @@
 {
   "bp-header" : {
     "owner" : "eosrainbowbp",
-    "total_votes" : "592829178162094976.00000000000000000",
-    "producer_key" : "EOS72sQPpaPkN9FMH3MKXXPCtoA9zmRQZjNM973PZAXUgefpnKmUM",
+    "total_votes" : "593669068285538688.00000000000000000",
+    "producer_key" : "EOS62q4Q4mg6GkACM7V5mrC46oZiSmV7roJDFA2N11JBdMLhYjRtt",
     "is_active" : 1,
-    "url" : "840",
+    "url" : "eosrainbow.xyz",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-11-20T00:15:10.500",
+    "last_claim_time" : "2019-11-21T00:15:14.500",
     "location" : 0,
-    "prepared-url" : "http://840"
+    "prepared-url" : "http://eosrainbow.xyz"
   },
   "bp-json-summary" : {
-    "dl-error" : "no protocol: 840/bp.json",
-    "url" : "840/bp.json"
+    "dl-error" : "no protocol: eosrainbow.xyz/bp.json",
+    "url" : "eosrainbow.xyz/bp.json"
   },
-  "webpage-error" : "Invalid argument (connect failed)",
-  "vote-percentage" : 0.00516903577928881,
+  "webpage-error" : "clj-http: status 403",
+  "vote-percentage" : 0.005165634030039771,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Invalid argument (connect failed)",
+      "error" : "clj-http: status 403",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
-      "url" : "840/bp.json",
+      "url" : "eosrainbow.xyz/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "no protocol: 840/bp.json"
+      "error" : "no protocol: eosrainbow.xyz/bp.json"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 45,
-  "snapshot-date" : "2019-11-20T02:17:24.656Z"
+  "place" : 46,
+  "snapshot-date" : "2019-11-21T02:17:15.982Z"
 }

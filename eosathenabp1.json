@@ -1,40 +1,40 @@
 {
   "bp-header" : {
     "owner" : "eosathenabp1",
-    "total_votes" : "583247544334501248.00000000000000000",
-    "producer_key" : "EOS7ouJwxv9mUjtKtRBHfr7K1u3n7JUWm3MkokjcZ5bGMeycbn8pS",
+    "total_votes" : "582348019498721280.00000000000000000",
+    "producer_key" : "EOS6NVNPZDdmBvqMYdifQ4QueT8fr7wDHyxNMgFEKLx9z1Dt5eFE1",
     "is_active" : 1,
-    "url" : "",
+    "url" : "http://athenbp.club",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-11-20T00:03:59.000",
+    "last_claim_time" : "2019-11-21T00:04:04.000",
     "location" : 0,
-    "prepared-url" : null
+    "prepared-url" : "http://athenbp.club"
   },
-  "bp-json-summary" : null,
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
+  "bp-json-summary" : {
+    "url" : "http://athenbp.club/bp.json",
+    "logo" : ""
   },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.0050854909574357034,
+  "webpage-error" : "clj-http: status 403",
+  "vote-percentage" : 0.0050671273063564734,
   "scoring" : {
     "comp" : [ {
+      "mood" : "bad",
       "title" : "no-web",
-      "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "error" : "clj-http: status 403",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "title" : "no-bp-json-url",
-      "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "http://athenbp.club/bp.json"
     }, {
       "title" : "no-coc",
       "mood" : "bad",
       "paragraphs" : [ "value-empty" ]
     } ],
-    "score" : 0,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 50,
-  "snapshot-date" : "2019-11-20T02:17:24.656Z"
+  "place" : 53,
+  "snapshot-date" : "2019-11-21T02:17:15.982Z"
 }

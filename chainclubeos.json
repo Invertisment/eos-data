@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "chainclubeos",
-    "total_votes" : "254901061423727.40625000000000000",
+    "total_votes" : "255253167524267.15625000000000000",
     "producer_key" : "EOS6bTR5gkBdGQhbM6uFYMYdc2kugU2FUA3XD5soHSCt1pXbGjHjn",
     "is_active" : 1,
     "url" : "http://eosio.university/",
@@ -11,31 +11,37 @@
     "prepared-url" : "http://eosio.university/"
   },
   "bp-json-summary" : {
-    "dl-error" : "eosio.university",
+    "dl-error" : "clj-http: status 404",
     "url" : "http://eosio.university/bp.json"
   },
-  "webpage-error" : "eosio.university: Name or service not known",
-  "vote-percentage" : 2.2225503656260276E-6,
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ "?C=D;O=A", "?C=M;O=A", "?C=N;O=D", "?C=S;O=A", "cgi-bin/" ],
+    "popularity-boosters-count" : 5
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 2.221009176453527E-6,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "eosio.university: Name or service not known",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://eosio.university/"
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://eosio.university/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "eosio.university"
+      "error" : "clj-http: status 404"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 0,
+    "score" : 1,
     "max" : 3
   },
   "place" : 215,
-  "snapshot-date" : "2019-11-20T02:17:24.656Z"
+  "snapshot-date" : "2019-11-21T02:17:15.982Z"
 }
