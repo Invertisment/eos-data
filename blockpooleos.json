@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "blockpooleos",
-    "total_votes" : "3107434487300526080.00000000000000000",
+    "total_votes" : "3106613112570804736.00000000000000000",
     "producer_key" : "EOS61FDJz3GC42GhaPSsmKh7SxuesyZhjm7hBwBKqN52v1HukEqBu",
     "is_active" : 1,
     "url" : "http://www.blockpool.com",
-    "unpaid_blocks" : 3129,
-    "last_claim_time" : "2019-11-20T17:02:38.500",
+    "unpaid_blocks" : 3107,
+    "last_claim_time" : "2019-11-21T17:03:09.500",
     "location" : 0,
     "prepared-url" : "http://www.blockpool.com"
   },
@@ -23,7 +23,7 @@
     "popularity-boosters-count" : 2
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.02703841279801742,
+  "vote-percentage" : 0.027044729317970247,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -43,6 +43,6 @@
     "score" : 2,
     "max" : 3
   },
-  "place" : 18,
-  "snapshot-date" : "2019-11-21T02:17:15.982Z"
+  "place" : 19,
+  "snapshot-date" : "2019-11-22T02:12:16.266Z"
 }

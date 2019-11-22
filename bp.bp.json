@@ -14,14 +14,22 @@
     "url" : "https://www.bitportal.io/bp.json",
     "logo" : "https://cdn.bitportal.io/bp/bitportal_256.png"
   },
-  "webpage-error" : "Read timed out",
-  "vote-percentage" : 2.0241343855118665E-7,
+  "analyzed-urls" : {
+    "relative-links-count" : 4,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://bitportal.github.io/bitportal-release-notes/", "https://github.com/BitPortal", "https://t.me/BitPortal_official_EN", "https://twitter.com/BitPortal_IO" ],
+    "social-links-count" : 4,
+    "popularity-boosters" : [ "http://cointegra.io/", "http://s.bitportal.io/4DUnz", "http://s.bitportal.io/6cHwC", "http://www.ratio.fund/", "https://btccpooleos.com/", "https://dapp.pub/", "https://discordapp.com/invite/ZRUvfxV", "https://fir.im/bitportal", "https://imeos.one/", "https://itunes.apple.com/hk/app/dexlize-bitportal/id1438712581?mt=8", "https://kyubey.network/", "https://slowmist.io/", "https://spider.store/ranking/eos/hot", "https://testflight.apple.com/join/9Y4NtBEQ", "https://www.dexlize.org/", "https://www.ihuoqiu.com/" ],
+    "popularity-boosters-count" : 16
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 2.025142546438473E-7,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "Read timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://www.bitportal.io"
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -32,9 +40,9 @@
       "mood" : "bad",
       "paragraphs" : [ "value-empty" ]
     } ],
-    "score" : 1,
+    "score" : 2,
     "max" : 3
   },
   "place" : 304,
-  "snapshot-date" : "2019-11-21T02:17:15.982Z"
+  "snapshot-date" : "2019-11-22T02:12:16.266Z"
 }

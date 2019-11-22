@@ -11,23 +11,23 @@
     "prepared-url" : "https://cypherblock.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "cypherblock.io",
+    "dl-error" : "Connection refused (Connection refused)",
     "url" : "https://cypherblock.io/bp.json"
   },
-  "webpage-error" : "cypherblock.io: Name or service not known",
-  "vote-percentage" : 2.6964268353967525E-6,
+  "webpage-error" : "Connection refused (Connection refused)",
+  "vote-percentage" : 2.6977698451279037E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "cypherblock.io: Name or service not known",
+      "error" : "Connection refused (Connection refused)",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://cypherblock.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "cypherblock.io"
+      "error" : "Connection refused (Connection refused)"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 207,
-  "snapshot-date" : "2019-11-21T02:17:15.982Z"
+  "snapshot-date" : "2019-11-22T02:12:16.266Z"
 }
