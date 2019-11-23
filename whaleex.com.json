@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "whaleex.com",
-    "total_votes" : "3103349080579719680.00000000000000000",
+    "total_votes" : "3097675044310199296.00000000000000000",
     "producer_key" : "EOS88EGcFghfQJER1mDaEe4kDJ7MGDoPmXQfA7q2QMTLLqiYP1UQR",
     "is_active" : 1,
     "url" : "https://www.whaleex.com",
-    "unpaid_blocks" : 8064,
-    "last_claim_time" : "2019-11-21T02:29:00.500",
+    "unpaid_blocks" : 8098,
+    "last_claim_time" : "2019-11-22T02:29:02.000",
     "location" : 410,
     "prepared-url" : "https://www.whaleex.com"
   },
@@ -15,7 +15,6 @@
     "logo" : "https://static.whaleex.com/logo/256-05.png"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 1,
     "duplicate-urls" : null,
     "social-links" : [ "https://github.com/WhaleEx/API", "https://t.me/WhaleExGroup", "https://twitter.com/WhaleExchange" ],
     "social-links-count" : 3,
@@ -23,7 +22,7 @@
     "popularity-boosters-count" : 7
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.02701631417308887,
+  "vote-percentage" : 0.027189597716933394,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -43,6 +42,6 @@
     "score" : 2,
     "max" : 3
   },
-  "place" : 20,
-  "snapshot-date" : "2019-11-22T02:12:16.266Z"
+  "place" : 16,
+  "snapshot-date" : "2019-11-23T02:12:16.892Z"
 }

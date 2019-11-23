@@ -11,23 +11,23 @@
     "prepared-url" : "https://cypherblock.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "Connection refused (Connection refused)",
+    "dl-error" : "unable to find valid certification path to requested target",
     "url" : "https://cypherblock.io/bp.json"
   },
-  "webpage-error" : "Connection refused (Connection refused)",
-  "vote-percentage" : 2.6977698451279037E-6,
+  "webpage-error" : "unable to find valid certification path to requested target",
+  "vote-percentage" : 2.720046653079631E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Connection refused (Connection refused)",
+      "error" : "unable to find valid certification path to requested target",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://cypherblock.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Connection refused (Connection refused)"
+      "error" : "unable to find valid certification path to requested target"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 207,
-  "snapshot-date" : "2019-11-22T02:12:16.266Z"
+  "place" : 208,
+  "snapshot-date" : "2019-11-23T02:12:16.892Z"
 }

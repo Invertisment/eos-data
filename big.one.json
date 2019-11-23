@@ -1,18 +1,18 @@
 {
   "bp-header" : {
     "owner" : "big.one",
-    "total_votes" : "3092558134976409600.00000000000000000",
+    "total_votes" : "3065487907276147712.00000000000000000",
     "producer_key" : "EOS8MpYyXwn3DLqk9Y9XTHYcd6wGGijNqJefFoQEwEoXTq1awZ42w",
     "is_active" : 1,
     "url" : "https://eos.big.one",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-11-21T05:46:12.500",
+    "last_claim_time" : "2019-11-22T05:46:21.000",
     "location" : 392,
     "prepared-url" : "https://eos.big.one"
   },
   "bp-json-summary" : {
-    "url" : "https://eos.big.one/bp.json",
-    "logo" : "https://storage.googleapis.com/static-61cdd52e-15d8-4b00-9e92-b7052710674d/logo/bigone/logo_256.png"
+    "read-error" : "read:'https://eos.big.one/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "url" : "https://eos.big.one/bp.json"
   },
   "analyzed-urls" : {
     "duplicate-urls" : null,
@@ -20,7 +20,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.026922373217987138,
+  "vote-percentage" : 0.026907077667187328,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -28,18 +28,19 @@
       "title" : "web",
       "url" : "https://eos.big.one"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://eos.big.one/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eos.big.one/bp.json",
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'https://eos.big.one/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
     }, {
-      "title" : "no-coc",
-      "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 1,
     "max" : 3
   },
   "place" : 21,
-  "snapshot-date" : "2019-11-22T02:12:16.266Z"
+  "snapshot-date" : "2019-11-23T02:12:16.892Z"
 }

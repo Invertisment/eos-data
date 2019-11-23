@@ -11,23 +11,23 @@
     "prepared-url" : "https://spectrom.xyz"
   },
   "bp-json-summary" : {
-    "dl-error" : "Connection refused (Connection refused)",
+    "dl-error" : "spectrom.xyz",
     "url" : "https://spectrom.xyz/bp.json"
   },
-  "webpage-error" : "Connection refused (Connection refused)",
-  "vote-percentage" : 4.5141911050877356E-10,
+  "webpage-error" : "spectrom.xyz: Name or service not known",
+  "vote-percentage" : 4.5514669937211E-10,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Connection refused (Connection refused)",
+      "error" : "spectrom.xyz: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://spectrom.xyz/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Connection refused (Connection refused)"
+      "error" : "spectrom.xyz"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 469,
-  "snapshot-date" : "2019-11-22T02:12:16.266Z"
+  "snapshot-date" : "2019-11-23T02:12:16.892Z"
 }

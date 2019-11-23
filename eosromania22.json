@@ -14,14 +14,22 @@
     "read-error" : "read:'http://eos.romania22.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
     "url" : "http://eos.romania22.com/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 2.6943678522196008E-6,
+  "analyzed-urls" : {
+    "relative-links-count" : 26,
+    "duplicate-urls" : null,
+    "social-links" : [ "http://l.facebook.com/l.php?u=http%3A%2F%2Feos.romania22.com%2F&h=AT23SywJodkjZkZAgOusfxTopXolHm-IZcUS9yOuvezgwPRapcNaN0dytG7Eqzlx4HOkXIjLgcH0FeUqBeQJA_6Y-rXuojOeqMjfDkzLJjOzQmRIyhuuxUZ1rG-iaKydPdDRb2UMH3i06cYCdL8", "http://l.facebook.com/l.php?u=http%3A%2F%2Feos.romania22.com%2F&h=AT3dR8vs7SeHWxAMsUv6Ghporn8z8OzClyqp96_rtbrblOhn6jaxmNC6KLzR8mp7htBbyc0zvTZU6Q5yrJscwtI7yW5PSRaleSg_E07ueYndPShT0tyjQ5TFmk_5B9IiuOsJHgij0cAFEA_b", "https://l.facebook.com/l.php?u=https%3A%2F%2Fkeybase.io%2Finv%2F02f5d131b2&h=AT2pwOE0_VPzh6dWrEyf0-W4uciV6KaiwKtf3eQFLzgqiXGxuVT1EdFkZXt4bcd-5svbqW_2sB6SOhDYIAt9VS1UmfIHVysLNFZTbCFvgOTdaB56n-dLfcCoY9sqVyvVXQr9Ch-Dh1E0_7utcwGTdXNOh6S_YEXN1_qa8s7Dc2FIoc_5BJ-JvG_QfbA", "https://l.facebook.com/l.php?u=https%3A%2F%2Fkeybase.io%2Finv%2F02f5d131b2&h=AT3yFsl4YcAclye3vnfGRgnLkf2dROGfMo7nAHqYklJuwW1zB5Avv0VoO4oGnEtAc-e36wmq1Pm_WoQCIgROhGYqI7xZbeZMqEoFIr9WRi3o8pwpuC7cguuxL6fKHpclULdIFBVYPAVejhk9s1FPgDoBP6FrcuGfqKFHbv6lG-pP8idM", "https://l.facebook.com/l.php?u=https%3A%2F%2Fsteemit.com%2Feos%2F%40greymass%2Fannouncing-eos-voter-an-eos-block-producer-voting-tool-and-light-wallet&h=AT2zhjawprm0VigB4ujzjYju_MZnYCWxzmVymGx4TYyjwRJ49TsCOtw1M3ThrllERTflF7NkapdA0W9xeYQy7Zzcv2xqexlL5IQo3fdC98prOLXiaCS8PZP4Ima9xD6a0FBkDmwE3X40b0ps4g8muaaH40tKA6MyeH2K_TN-V5c13w", "https://l.facebook.com/l.php?u=https%3A%2F%2Fsteemit.com%2Feos%2F%40unus%2Fhow-to-vote-for-eos-romania-block-producer&h=AT2nQPctQ1jyRwlJ0Rxv8DfBBYgeL_mSmahSQiH27-X-bbBDbYvN2XMgMWkD80jp6xbnQXXKiJxf1Wu93JlFLoOdzPsAJQCKlYi_js4C1en5uHhDRoFAlt5aNx4hPBfmbkLLcVDoiBq-i9AYQSXaSBp2tmFxdNfAq7IbmCXxecl09Q", "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2F_hWRAjLKa8w&h=AT1oM-PSu0PTq2QP0MENzmxVAOEpHBNVH-7Ygao2tkgM19R6Naok3E56IQAgaJEULIlXY6Pm11rpvN44b5ensLaeq1Umpa4g8nNL78MRuk2FQ0fY3gojWlTnMwfuK_nFJWH93cFa2nTGZ48EEIYCE-GNt2ojMWHuzuwMG0SyVyZmFQ", "https://www.facebook.com/1237q/?ref=py_c", "https://www.facebook.com/Articolecamping10/?ref=py_c", "https://www.facebook.com/Barci-din-lemn-1641531652744097/?ref=py_c", "https://www.facebook.com/Bucharest.Guide.Official/?ref=py_c", "https://www.facebook.com/Cold-Steel-Defense-Concept-583688551814637/?ref=py_c", "https://www.facebook.com/Crypto-Balance-UK-539484613070698/?ref=py_c", "https://www.facebook.com/DealerPolarisMetalubs/?ref=py_c", "https://www.facebook.com/EOSro/?hc_ref=ARQAGROzlLjs0wlj5JQzrWLEuFQSP1yHPsLt7RMdbtJ1VCK9zpwxWrMJbZK-DUBbk00&fref=nf", "https://www.facebook.com/EOSro/?hc_ref=ARTp1VrmgyhJUyfW94kv3M61ZCRL3zXgSa0XWkLpFPO4_vshikE319U30hj0YxRTofY", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARRw2hqtbUzUdR3EH7tw4Pf4AKhlQtz333PodKa7nDqni5UeecAgv14JY5OJ0MDsJuY", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARTqZXikc1P1mVJnQlcmUYF25SLMdC_deTLrsOGNYyCQy8NgNR326wyBDl6S9UU5_GI", "https://www.facebook.com/EOSro/likes", "https://www.facebook.com/EOSro/likes?ref=page_internal", "https://www.facebook.com/EOSro/posts", "https://www.facebook.com/FoisorulDeFocBand/?ref=py_c", "https://www.facebook.com/FundatiaEOS/?ref=py_c", "https://www.facebook.com/Giulia-Avon-Reggio-Calabria-144236755997784/?ref=py_c", "https://www.facebook.com/RomaniaEarthship/?ref=py_c", "https://www.facebook.com/Vasileanghel56-867468373425889/?ref=py_c", "https://www.facebook.com/VindecareEvolutie/?ref=py_c", "https://www.facebook.com/ad_campaign/landing.php?placement=pf_rhc&campaign_id=242449722530626&extra_1=auto", "https://www.facebook.com/certipro.ro/?ref=py_c", "https://www.facebook.com/despreferestre/?ref=py_c", "https://www.facebook.com/dgpimobiliare/?ref=py_c", "https://www.facebook.com/eosauthority/?ref=py_c", "https://www.facebook.com/eosswedenorg/?ref=py_c", "https://www.facebook.com/help/568137493302217", "https://www.facebook.com/help/cookies?ref_type=sitefooter", "https://www.facebook.com/policies?ref=pf", "https://www.facebook.com/privacy/explanation", "https://www.facebook.com/recover/initiate?lwv=110&ars=royal_blue_bar", "https://www.facebook.com/scientocracyio/?ref=py_c", "https://www.facebook.com/zenit.romania/?ref=py_c" ],
+    "social-links-count" : 40,
+    "popularity-boosters" : [ "https://www.facebook.com/" ],
+    "popularity-boosters-count" : 1
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 2.7166165682483614E-6,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "connect timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://eos.romania22.com"
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
@@ -33,9 +41,9 @@
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 0,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 208,
-  "snapshot-date" : "2019-11-22T02:12:16.266Z"
+  "place" : 209,
+  "snapshot-date" : "2019-11-23T02:12:16.892Z"
 }
