@@ -15,12 +15,15 @@
     "url" : "http://producer.site/bp.json"
   },
   "analyzed-urls" : {
+    "relative-links-count" : 11,
     "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
+    "social-links" : [ "https://twitter.com/sedo", "https://www.facebook.com/sedo", "https://www.instagram.com/sedodomains/", "https://www.youtube.com/user/SedoLLC" ],
+    "social-links-count" : 4,
+    "popularity-boosters" : [ "https://www.trustpilot.com/review/www.sedo.com" ],
+    "popularity-boosters-count" : 1
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 6.928043464486105E-10,
+  "vote-percentage" : 6.891926019071998E-10,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -42,5 +45,5 @@
     "max" : 3
   },
   "place" : 442,
-  "snapshot-date" : "2019-11-23T02:12:16.892Z"
+  "snapshot-date" : "2019-11-24T02:12:13.671Z"
 }
