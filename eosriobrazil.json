@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosriobrazil",
-    "total_votes" : "585151980229460096.00000000000000000",
+    "total_votes" : "585127654108085760.00000000000000000",
     "producer_key" : "EOS62VTMkGDMWpK3ECNegVLt92UYQQMXC3uzcx5zjW64hrMCaL1rx",
     "is_active" : 1,
     "url" : "https://eosrio.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-11-23T22:06:22.500",
+    "last_claim_time" : "2019-11-24T22:06:26.000",
     "location" : 76,
     "prepared-url" : "https://eosrio.io"
   },
@@ -22,7 +22,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.005109349455301805,
+  "vote-percentage" : 0.005110966441014528,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -43,6 +43,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 50,
-  "snapshot-date" : "2019-11-24T02:12:13.671Z"
+  "place" : 49,
+  "snapshot-date" : "2019-11-25T02:12:13.104Z"
 }
