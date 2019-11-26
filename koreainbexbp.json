@@ -1,18 +1,18 @@
 {
   "bp-header" : {
     "owner" : "koreainbexbp",
-    "total_votes" : "1181772532877789952.00000000000000000",
+    "total_votes" : "1181329898566457344.00000000000000000",
     "producer_key" : "EOS5etfhAtNFNzAxGQbrAHfZ5DsYheJ9B7apbvHMctdaKJ5Bti8g5",
     "is_active" : 1,
-    "url" : "https://inbex.com",
+    "url" : "https://inbex.pro",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-11-24T05:51:48.000",
+    "last_claim_time" : "2019-11-25T05:51:50.000",
     "location" : 82,
-    "prepared-url" : "https://inbex.com"
+    "prepared-url" : "https://inbex.pro"
   },
   "bp-json-summary" : {
-    "read-error" : "read:'https://inbex.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
-    "url" : "https://inbex.com/bp.json"
+    "url" : "https://inbex.pro/bp.json",
+    "logo" : "https://inbex.com/static/logo/inbex_256.png"
   },
   "analyzed-urls" : {
     "relative-links-count" : 7,
@@ -22,27 +22,26 @@
     "popularity-boosters-count" : 4
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.010322533406249508,
+  "vote-percentage" : 0.010284736823498388,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
       "mood" : "good",
       "title" : "web",
-      "url" : "https://inbex.com"
+      "url" : "https://inbex.pro"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://inbex.com/bp.json",
-      "paragraphs" : [ "bp-json-invalid" ],
-      "error" : "read:'https://inbex.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://inbex.pro/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "title" : "no-coc",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
     } ],
-    "score" : 1,
+    "score" : 2,
     "max" : 3
   },
   "place" : 30,
-  "snapshot-date" : "2019-11-25T02:12:13.104Z"
+  "snapshot-date" : "2019-11-26T02:12:12.668Z"
 }
