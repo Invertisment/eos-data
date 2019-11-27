@@ -11,31 +11,37 @@
     "prepared-url" : "http://www.eos9cat.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "www.eos9cat.com",
+    "read-error" : "read:'http://www.eos9cat.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
     "url" : "http://www.eos9cat.com/bp.json"
   },
-  "webpage-error" : "www.eos9cat.com: No address associated with hostname",
-  "vote-percentage" : 2.5130239394374794E-7,
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ "https://www.gm89.com/?att=344134" ],
+    "popularity-boosters-count" : 1
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 2.500431583812512E-7,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "www.eos9cat.com: No address associated with hostname",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://www.eos9cat.com"
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://www.eos9cat.com/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "www.eos9cat.com"
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'http://www.eos9cat.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 0,
+    "score" : 1,
     "max" : 3
   },
   "place" : 295,
-  "snapshot-date" : "2019-11-26T02:12:12.668Z"
+  "snapshot-date" : "2019-11-27T02:12:13.546Z"
 }

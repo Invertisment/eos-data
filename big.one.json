@@ -1,18 +1,18 @@
 {
   "bp-header" : {
     "owner" : "big.one",
-    "total_votes" : "3087790162011729408.00000000000000000",
+    "total_votes" : "3155115014283251200.00000000000000000",
     "producer_key" : "EOS8MpYyXwn3DLqk9Y9XTHYcd6wGGijNqJefFoQEwEoXTq1awZ42w",
     "is_active" : 1,
     "url" : "https://eos.big.one",
-    "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-11-25T05:46:49.500",
+    "unpaid_blocks" : 6879,
+    "last_claim_time" : "2019-11-26T05:47:24.000",
     "location" : 392,
     "prepared-url" : "https://eos.big.one"
   },
   "bp-json-summary" : {
-    "read-error" : "read:'https://eos.big.one/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
-    "url" : "https://eos.big.one/bp.json"
+    "url" : "https://eos.big.one/bp.json",
+    "logo" : "https://storage.googleapis.com/static-61cdd52e-15d8-4b00-9e92-b7052710674d/logo/bigone/logo_256.png"
   },
   "analyzed-urls" : {
     "duplicate-urls" : null,
@@ -20,7 +20,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.026882506928009954,
+  "vote-percentage" : 0.027331000668007425,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -28,19 +28,18 @@
       "title" : "web",
       "url" : "https://eos.big.one"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://eos.big.one/bp.json",
-      "paragraphs" : [ "bp-json-invalid" ],
-      "error" : "read:'https://eos.big.one/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eos.big.one/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "title" : "no-coc",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
     } ],
-    "score" : 1,
+    "score" : 2,
     "max" : 3
   },
-  "place" : 21,
-  "snapshot-date" : "2019-11-26T02:12:12.668Z"
+  "place" : 12,
+  "snapshot-date" : "2019-11-27T02:12:13.546Z"
 }

@@ -1,45 +1,41 @@
 {
   "bp-header" : {
     "owner" : "eosunioniobp",
-    "total_votes" : "405509289492151680.00000000000000000",
+    "total_votes" : "407661112865023808.00000000000000000",
     "producer_key" : "EOS8ETZs1gpN8AXW5ZPy9TG3sRthHA9NqsZvt9piHrj8VMYe5gFVJ",
     "is_active" : 1,
     "url" : "http://eosunion.club",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-11-25T07:47:31.000",
+    "last_claim_time" : "2019-11-26T07:47:35.000",
     "location" : 0,
     "prepared-url" : "http://eosunion.club"
   },
   "bp-json-summary" : {
-    "url" : "http://eosunion.club/bp.json",
-    "logo" : ""
+    "dl-error" : "connect timed out",
+    "url" : "http://eosunion.club/bp.json"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.003530390898403203,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 0.0035313407269134687,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "http://eosunion.club"
-    }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "http://eosunion.club/bp.json"
-    }, {
-      "title" : "no-coc",
       "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://eosunion.club/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "connect timed out"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 66,
-  "snapshot-date" : "2019-11-26T02:12:12.668Z"
+  "place" : 65,
+  "snapshot-date" : "2019-11-27T02:12:13.546Z"
 }

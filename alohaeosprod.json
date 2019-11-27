@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "alohaeosprod",
-    "total_votes" : "646994769112142976.00000000000000000",
+    "total_votes" : "695977554142301696.00000000000000000",
     "producer_key" : "EOS53pfXfxZ4tH3EGccdnGvBZVJsrcSf2nbCKiLLMphgaii9XxxhM",
     "is_active" : 1,
     "url" : "https://www.alohaeos.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-11-26T00:10:14.000",
+    "last_claim_time" : "2019-11-27T00:10:14.500",
     "location" : 840,
     "prepared-url" : "https://www.alohaeos.com"
   },
@@ -20,11 +20,11 @@
     "duplicate-urls" : null,
     "social-links" : [ "https://github.com/AlohaEOS", "https://keybase.io/alohaeos", "https://medium.com/meet-one/chain/home", "https://t.me/AlohaEOS", "https://twitter.com/eosaloha", "https://www.reddit.com/user/alohaeos" ],
     "social-links-count" : 6,
-    "popularity-boosters" : [ "https://aikon.com/ore-protocol", "https://boscore.io/", "https://busy.org/@alohaeos/an-update-on-our-infrastructure", "https://eosmechanics.com/", "https://insights.network/", "https://lynxwallet.io/lynxchain", "https://meet.one/", "https://strongblock.io/", "https://telosfoundation.io/", "https://wax.io/", "https://www.slant.li/priveos/", "https://www.tokenpocket.pro/" ],
-    "popularity-boosters-count" : 12
+    "popularity-boosters" : [ "https://aikon.com/ore-protocol", "https://boscore.io/", "https://busy.org/@alohaeos/an-update-on-our-infrastructure", "https://eos.io/", "https://eosmechanics.com/", "https://insights.network/", "https://lynxwallet.io/lynxchain", "https://meet.one/", "https://strongblock.io/", "https://telosfoundation.io/", "https://wax.io/", "https://www.slant.li/priveos/", "https://www.tokenpocket.pro/" ],
+    "popularity-boosters-count" : 13
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.0056327795771302525,
+  "vote-percentage" : 0.006028865163732424,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +45,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 42,
-  "snapshot-date" : "2019-11-26T02:12:12.668Z"
+  "place" : 40,
+  "snapshot-date" : "2019-11-27T02:12:13.546Z"
 }

@@ -15,14 +15,22 @@
     "logo" : "https://steemitimages.com/u/buildteam/avatar",
     "code_of_conduct" : "https://steemit.com/eos/@buildteam/buildteam-eos-block-producer-candidacy-announcement"
   },
-  "webpage-error" : "Read timed out",
-  "vote-percentage" : 7.4837486913333665E-6,
+  "analyzed-urls" : {
+    "relative-links-count" : 11,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://github.com/BuildTeamDev", "https://steemit.com/@BuildTeam", "https://steemit.com/@BuildTeam/", "https://steemit.com/@btuniverse", "https://steemit.com/@dlease", "https://steemit.com/@ginabot", "https://steemit.com/@himshweta", "https://steemit.com/@lavokad", "https://steemit.com/@maya7", "https://steemit.com/@minnowbooster", "https://steemit.com/@steemvoter", "https://steemit.com/@tokenbb", "https://steemit.com/buildteam/@buildteam/announcement-buildteam-token-now-listed-on-coingecko-com", "https://steemit.com/buildteam/@buildteam/buildteam-ceo-update-2019-roadmap", "https://steemit.com/buildteam/@buildteam/buildteam-staking-performance-review-of-the-buildteam-token", "https://steemit.com/buildteam/@buildteam/buildteam-token-announcement", "https://steemit.com/buildteam/@buildteam/introducing-quicksteem-create-steem-accounts-with-ease", "https://steemit.com/ginabot/@ginabot/the-new-look-of-gina", "https://steemit.com/introduceyourself/@dlease/introducing-dlease-io-a-digital-asset-leasing-platform-for-the-masses", "https://steemit.com/steemvoter/@steemvoter/introducing-a-brand-new-steemvoter", "https://steemit.com/tokenbb/@tokenbb/tokenbb-is-now-officially-powered-by-buildteam", "https://t.me/BuildTeam", "https://t.me/joinchat/C5aYWgwuaGRuRsPKciHVWQ", "https://www.linkedin.com/company/18237732/", "https://www.youtube.com/channel/UC6QLlL_OTr02jRyjDraPSdg", "https://www.youtube.com/channel/UCgYRM9vXStNGPouX480gq7A", "https://www.youtube.com/channel/UCrRw_yqDWwX9ZmTYc7m89TA" ],
+    "social-links-count" : 27,
+    "popularity-boosters" : [ "http://steemsports.com", "https://beta.steemvoter.com", "https://dlease.io", "https://duncancotterill.com", "https://minnowbooster.net", "https://paycent.com", "https://paytomat.com", "https://quicksteem.com", "https://techinvestor.io", "https://tokenbb.io", "https://www.bitshares.org", "https://www.privex.io/?r=buildteam" ],
+    "popularity-boosters-count" : 12
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 7.446248839680443E-6,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "Read timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://buildteam.io/"
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -34,9 +42,9 @@
       "title" : "coc",
       "url" : "https://steemit.com/eos/@buildteam/buildteam-eos-block-producer-candidacy-announcement"
     } ],
-    "score" : 2,
+    "score" : 3,
     "max" : 3
   },
   "place" : 164,
-  "snapshot-date" : "2019-11-26T02:12:12.668Z"
+  "snapshot-date" : "2019-11-27T02:12:13.546Z"
 }
