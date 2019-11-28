@@ -17,10 +17,11 @@
   "analyzed-urls" : {
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ ]
+    "popularity-boosters" : [ "?C=D;O=A", "?C=M;O=A", "?C=N;O=A", "?C=S;O=A" ],
+    "popularity-boosters-count" : 4
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 7.050964393447752E-12,
+  "vote-percentage" : 6.992200209117136E-12,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -42,5 +43,5 @@
     "max" : 3
   },
   "place" : 558,
-  "snapshot-date" : "2019-11-27T02:12:13.546Z"
+  "snapshot-date" : "2019-11-28T02:12:08.289Z"
 }
