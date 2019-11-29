@@ -11,37 +11,31 @@
     "prepared-url" : "http://eosdusseldorf.de"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "dl-error" : "eosdusseldorf.de",
     "url" : "http://eosdusseldorf.de/bp.json"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "https://wwww.freehostia.com/" ],
-    "popularity-boosters-count" : 1
-  },
-  "p-ram-amounts" : [ ],
+  "webpage-error" : "eosdusseldorf.de: No address associated with hostname",
   "vote-percentage" : 0.0,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "http://eosdusseldorf.de"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "eosdusseldorf.de: No address associated with hostname",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://eosdusseldorf.de/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "error" : "eosdusseldorf.de"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
   "place" : 587,
-  "snapshot-date" : "2019-11-28T02:12:08.289Z"
+  "snapshot-date" : "2019-11-29T02:12:10.549Z"
 }
