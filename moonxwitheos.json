@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "moonxwitheos",
-    "total_votes" : "995093534082160.62500000000000000",
+    "total_votes" : "995252864342079.87500000000000000",
     "producer_key" : "EOS7N8oWEpqwQ8oetS8ENSGLMxsG6cvG12nCojgfNKdf3xe1asPiw",
     "is_active" : 1,
     "url" : "https://moonxwitheos.com",
@@ -11,23 +11,23 @@
     "prepared-url" : "https://moonxwitheos.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "Connection refused (Connection refused)",
+    "dl-error" : "connect timed out",
     "url" : "https://moonxwitheos.com/bp.json"
   },
-  "webpage-error" : "Connection refused (Connection refused)",
-  "vote-percentage" : 8.452358213005443E-6,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 8.517231790134988E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Connection refused (Connection refused)",
+      "error" : "connect timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://moonxwitheos.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Connection refused (Connection refused)"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 161,
-  "snapshot-date" : "2019-12-01T02:12:13.532Z"
+  "place" : 162,
+  "snapshot-date" : "2019-12-02T02:12:09.569Z"
 }

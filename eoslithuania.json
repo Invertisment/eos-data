@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eoslithuania",
-    "total_votes" : "768599826522767.62500000000000000",
+    "total_votes" : "769674055251815.87500000000000000",
     "producer_key" : "EOS8EhBDNGiqHtwhmPyxFqsqAZfirZUzhqvaErbFVbQem7i5QrNXk",
     "is_active" : 1,
     "url" : "https://eosio.lt/",
@@ -11,40 +11,31 @@
     "prepared-url" : "https://eosio.lt/"
   },
   "bp-json-summary" : {
-    "url" : "https://eosio.lt/bp.json",
-    "logo" : "https://eosio.lt/wp-content/uploads/2018/05/cropped-LOGO-W-1.png",
-    "code_of_conduct" : "https://steemit.com/eos/@eoslithuania/eos-lithuania-code-of-conduct"
+    "dl-error" : "eosio.lt",
+    "url" : "https://eosio.lt/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 1,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://steemit.com/@eoslithuania/", "https://steemit.com/eos/@eoslithuania/eos-lithuania-bp-registration-agreement", "https://steemit.com/eos/@eoslithuania/eos-lithuania-code-of-conduct", "https://steemit.com/eos/@eoslithuania/eos-lithuania-disclosures-and-ownership", "https://youtu.be/Bj6JnVSfPsg" ],
-    "social-links-count" : 5,
-    "popularity-boosters" : [ "http://thenuclearbunker.com", "https://bcgateway.eu/", "https://cryptoeconomy.world", "https://tsociety.io/ " ],
-    "popularity-boosters-count" : 4
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 6.528512982667905E-6,
+  "webpage-error" : "eosio.lt: No address associated with hostname",
+  "vote-percentage" : 6.586760577440229E-6,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eosio.lt/"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "eosio.lt: No address associated with hostname",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://eosio.lt/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eosio.lt/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "eosio.lt"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://steemit.com/eos/@eoslithuania/eos-lithuania-code-of-conduct"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 167,
-  "snapshot-date" : "2019-12-01T02:12:13.532Z"
+  "place" : 168,
+  "snapshot-date" : "2019-12-02T02:12:09.569Z"
 }
