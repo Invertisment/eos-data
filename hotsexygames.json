@@ -1,0 +1,49 @@
+{
+  "bp-header" : {
+    "owner" : "hotsexygames",
+    "total_votes" : "0.00000000000000000",
+    "producer_key" : "EOS637gxeUhzd1oGuPDEshmmKmRWKgtmXe2GC8oPikkDz7hXBKVDB",
+    "is_active" : 1,
+    "url" : "https://www.thisav.com",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-12-04T14:06:17.000",
+    "location" : 0,
+    "prepared-url" : "https://www.thisav.com"
+  },
+  "bp-json-summary" : {
+    "read-error" : "read:'https://www.thisav.com/bp.json': Unexpected character ('﻿' (code 65279 / 0xfeff)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "url" : "https://www.thisav.com/bp.json"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 1,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://www.twitter.com/thisav" ],
+    "social-links-count" : 1,
+    "popularity-boosters" : [ "https://click.dtiserv2.com/Direct/9103999-103-us7481/", "https://click.dtiserv2.com/Direct/9354999-354-us7481/japanese-webcam-girls.shtml", "https://goo.gl/rsLCnk", "https://tds.adxadtracker.com/c1/e4241759-ef7e-472e-b2a8-3f492154a399?externalId=%7BextPlaceholder%7D&cost=%7BcostPlaceholder%7D", "https://www.rtalabel.org/" ],
+    "popularity-boosters-count" : 5
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.0,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://www.thisav.com"
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://www.thisav.com/bp.json",
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'https://www.thisav.com/bp.json': Unexpected character ('﻿' (code 65279 / 0xfeff)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 1,
+    "max" : 3
+  },
+  "place" : 581,
+  "snapshot-date" : "2019-12-05T02:12:18.525Z"
+}

@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "bitfinexeos1",
-    "total_votes" : "3260759606390682624.00000000000000000",
+    "total_votes" : "3262843770080351232.00000000000000000",
     "producer_key" : "EOS4tkw7LgtURT3dvG3kQ4D1sg3aAtPDymmoatpuFkQMc7wzZdKxc",
     "is_active" : 1,
     "url" : "https://www.bitfinex.com",
-    "unpaid_blocks" : 5307,
-    "last_claim_time" : "2019-12-03T10:35:42.000",
+    "unpaid_blocks" : 4852,
+    "last_claim_time" : "2019-12-04T11:49:43.000",
     "location" : 0,
     "prepared-url" : "https://www.bitfinex.com"
   },
@@ -16,15 +16,15 @@
     "code_of_conduct" : "https://steemit.com/eos/@bfx/bitfinex-block-producer-disclosure"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 41,
+    "relative-links-count" : 42,
     "duplicate-urls" : null,
     "social-links" : [ "https://t.me/bitfinex", "https://twitter.com/bitfinex", "https://www.facebook.com/bitfinex", "https://www.facebook.com/bitfinex1", "https://www.linkedin.com/company/bitfinex/", "https://www.youtube.com/channel/UCxOndh75c7-4Zlw42BGXQkQ" ],
     "social-links-count" : 6,
-    "popularity-boosters" : [ "colocation", "demo", "http://blog.bitfinex.com", "http://blog.bitfinex.com/", "http://blog.bitfinex.com/category/changelogs/", "http://blog.bitfinex.com/newsletter/", "http://docs.bitfinex.com/", "https://bitfinex.statuspage.io/", "https://itunes.apple.com/us/app/bitfinex/id1436383182?ls=1&mt=8", "https://play.google.com/store/apps/details?id=com.bitfinex.mobileapp&hl=en", "https://support.bitfinex.com/", "https://support.bitfinex.com/hc/en-us/articles/360021286193", "https://support.bitfinex.com/hc/en-us/sections/115001039645-Currencies-Tokens", "https://tokensales.bitfinex.com/token-sales", "pro" ],
-    "popularity-boosters-count" : 15
+    "popularity-boosters" : [ "colocation", "demo", "http://blog.bitfinex.com", "http://blog.bitfinex.com/", "http://blog.bitfinex.com/category/changelogs/", "http://blog.bitfinex.com/newsletter/", "http://docs.bitfinex.com/", "https://bitfinex.statuspage.io/", "https://support.bitfinex.com/", "https://support.bitfinex.com/hc/en-us/articles/360021286193", "https://support.bitfinex.com/hc/en-us/sections/115001039645-Currencies-Tokens", "https://tokensales.bitfinex.com/token-sales", "pro" ],
+    "popularity-boosters-count" : 13
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.027723593758626517,
+  "vote-percentage" : 0.02773831286287549,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -46,5 +46,5 @@
     "max" : 3
   },
   "place" : 9,
-  "snapshot-date" : "2019-12-04T02:12:14.529Z"
+  "snapshot-date" : "2019-12-05T02:12:18.525Z"
 }
