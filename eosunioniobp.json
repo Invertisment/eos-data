@@ -1,45 +1,41 @@
 {
   "bp-header" : {
     "owner" : "eosunioniobp",
-    "total_votes" : "70803166814009032.00000000000000000",
+    "total_votes" : "38413433000191072.00000000000000000",
     "producer_key" : "EOS8ETZs1gpN8AXW5ZPy9TG3sRthHA9NqsZvt9piHrj8VMYe5gFVJ",
     "is_active" : 1,
-    "url" : "http://eosunion.club",
+    "url" : "https://eosunion.club",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-12-06T01:22:05.000",
+    "last_claim_time" : "2019-12-07T01:22:09.000",
     "location" : 0,
-    "prepared-url" : "http://eosunion.club"
+    "prepared-url" : "https://eosunion.club"
   },
   "bp-json-summary" : {
-    "url" : "http://eosunion.club/bp.json",
-    "logo" : ""
+    "dl-error" : "Certificate for <eosunion.club> doesn't match any of the subject alternative names: [*.eoshenzhen.io]",
+    "url" : "https://eosunion.club/bp.json"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 6.009887943847395E-4,
+  "webpage-error" : "Certificate for <eosunion.club> doesn't match any of the subject alternative names: [*.eoshenzhen.io]",
+  "vote-percentage" : 3.225520443676432E-4,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "http://eosunion.club"
-    }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "http://eosunion.club/bp.json"
-    }, {
-      "title" : "no-coc",
       "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "title" : "no-web",
+      "error" : "Certificate for <eosunion.club> doesn't match any of the subject alternative names: [*.eoshenzhen.io]",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eosunion.club/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "Certificate for <eosunion.club> doesn't match any of the subject alternative names: [*.eoshenzhen.io]"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 86,
-  "snapshot-date" : "2019-12-06T02:12:09.506Z"
+  "place" : 89,
+  "snapshot-date" : "2019-12-07T02:12:15.556Z"
 }
