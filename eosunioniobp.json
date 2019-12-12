@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosunioniobp",
-    "total_votes" : "37011869331867248.00000000000000000",
+    "total_votes" : "26183667930087460.00000000000000000",
     "producer_key" : "EOS8ETZs1gpN8AXW5ZPy9TG3sRthHA9NqsZvt9piHrj8VMYe5gFVJ",
     "is_active" : 1,
     "url" : "https://eosunion.club",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-12-11T01:22:29.500",
+    "last_claim_time" : "2019-12-12T01:22:35.000",
     "location" : 0,
     "prepared-url" : "https://eosunion.club"
   },
@@ -15,7 +15,7 @@
     "url" : "https://eosunion.club/bp.json"
   },
   "webpage-error" : "Certificate for <eosunion.club> doesn't match any of the subject alternative names: [*.eoshenzhen.io]",
-  "vote-percentage" : 3.068689867768036E-4,
+  "vote-percentage" : 2.168357797317103E-4,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 90,
-  "snapshot-date" : "2019-12-11T02:12:11.246Z"
+  "place" : 92,
+  "snapshot-date" : "2019-12-12T02:12:16.485Z"
 }
