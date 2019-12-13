@@ -1,47 +1,41 @@
 {
   "bp-header" : {
     "owner" : "eoscybexiobp",
-    "total_votes" : "3694864073351330.50000000000000000",
+    "total_votes" : "3696540356726152.00000000000000000",
     "producer_key" : "EOS5dN7CQRh98Ecx4mZNgq9DWLFJALPGmaFuuG3MYCRrVfUmDTV45",
     "is_active" : 1,
     "url" : "https://eos.cybex.io/",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-12-11T22:59:03.000",
+    "last_claim_time" : "2019-12-12T23:00:03.500",
     "location" : 0,
     "prepared-url" : "https://eos.cybex.io/"
   },
   "bp-json-summary" : {
-    "url" : "https://eos.cybex.io/bp.json",
-    "logo" : "https://cybexio.keybase.pub/logos/eoscybex-256.png",
-    "code_of_conduct" : "https://steemit.com/eos/@eos.cybex/eos-cybex-governace-pledge"
+    "dl-error" : "eos.cybex.io",
+    "url" : "https://eos.cybex.io/bp.json"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 3.0598414801433925E-5,
+  "webpage-error" : "eos.cybex.io: No address associated with hostname",
+  "vote-percentage" : 3.063066245209496E-5,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eos.cybex.io/"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "eos.cybex.io: No address associated with hostname",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://eos.cybex.io/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eos.cybex.io/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "eos.cybex.io"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://steemit.com/eos/@eos.cybex/eos-cybex-governace-pledge"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 0,
     "max" : 3
   },
   "place" : 127,
-  "snapshot-date" : "2019-12-12T02:12:16.485Z"
+  "snapshot-date" : "2019-12-13T02:12:19.688Z"
 }

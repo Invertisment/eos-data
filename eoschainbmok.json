@@ -11,23 +11,23 @@
     "prepared-url" : "http://www.aibilink.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "Connection refused (Connection refused)",
     "url" : "http://www.aibilink.com/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 1.621539022755035E-9,
+  "webpage-error" : "Connection refused (Connection refused)",
+  "vote-percentage" : 1.6225118616820871E-9,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "Connection refused (Connection refused)",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://www.aibilink.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "Connection refused (Connection refused)"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 430,
-  "snapshot-date" : "2019-12-12T02:12:16.485Z"
+  "snapshot-date" : "2019-12-13T02:12:19.688Z"
 }
