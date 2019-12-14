@@ -11,11 +11,11 @@
     "prepared-url" : "https://cryptopacific.keybase.pub/"
   },
   "bp-json-summary" : {
-    "dl-error" : "Read timed out",
+    "read-error" : "read:'https://cryptopacific.keybase.pub/bp.json': Unexpected character ('}' (code 125)): was expecting double-quote to start field name\n at [Source: (StringReader); line: 19, column: 6]",
     "url" : "https://cryptopacific.keybase.pub/bp.json"
   },
   "webpage-error" : "clj-http: status 404",
-  "vote-percentage" : 3.653199219537042E-11,
+  "vote-percentage" : 3.6769892578960133E-11,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -26,8 +26,8 @@
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://cryptopacific.keybase.pub/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Read timed out"
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'https://cryptopacific.keybase.pub/bp.json': Unexpected character ('}' (code 125)): was expecting double-quote to start field name\n at [Source: (StringReader); line: 19, column: 6]"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 534,
-  "snapshot-date" : "2019-12-13T02:12:19.688Z"
+  "snapshot-date" : "2019-12-14T02:12:15.527Z"
 }

@@ -11,7 +11,7 @@
     "prepared-url" : "https://keybase.pub/eosrussia"
   },
   "bp-json-summary" : {
-    "dl-error" : "Read timed out",
+    "dl-error" : "clj-http: status 404",
     "url" : "https://keybase.pub/eosrussia/BP_info.json/bp.json"
   },
   "analyzed-urls" : {
@@ -34,7 +34,7 @@
       "mood" : "warn",
       "url" : "https://keybase.pub/eosrussia/BP_info.json/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Read timed out"
+      "error" : "clj-http: status 404"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -44,5 +44,5 @@
     "max" : 3
   },
   "place" : 590,
-  "snapshot-date" : "2019-12-13T02:12:19.688Z"
+  "snapshot-date" : "2019-12-14T02:12:15.527Z"
 }

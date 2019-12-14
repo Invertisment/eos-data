@@ -14,13 +14,13 @@
     "dl-error" : "clj-http: status 500",
     "url" : "http://eosoasis.io/bp.json"
   },
-  "webpage-error" : "Read timed out",
-  "vote-percentage" : 1.0666577755792466E-6,
+  "webpage-error" : "clj-http: status 500",
+  "vote-percentage" : 1.0736039692774214E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Read timed out",
+      "error" : "clj-http: status 500",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 243,
-  "snapshot-date" : "2019-12-13T02:12:19.688Z"
+  "snapshot-date" : "2019-12-14T02:12:15.527Z"
 }
