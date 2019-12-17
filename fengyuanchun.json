@@ -11,7 +11,7 @@
     "prepared-url" : "http://foc.shsoso.com:8888"
   },
   "bp-json-summary" : {
-    "read-error" : "read:'http://foc.shsoso.com:8888/bp.json': Unrecognized token '服务器错误': was expecting ('true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 11]",
+    "dl-error" : "clj-http: status 404",
     "url" : "http://foc.shsoso.com:8888/bp.json"
   },
   "analyzed-urls" : {
@@ -20,7 +20,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 9.172191406974207E-10,
+  "vote-percentage" : 9.147480592173398E-10,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -31,8 +31,8 @@
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://foc.shsoso.com:8888/bp.json",
-      "paragraphs" : [ "bp-json-invalid" ],
-      "error" : "read:'http://foc.shsoso.com:8888/bp.json': Unrecognized token '服务器错误': was expecting ('true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 11]"
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -42,5 +42,5 @@
     "max" : 3
   },
   "place" : 434,
-  "snapshot-date" : "2019-12-16T02:12:13.164Z"
+  "snapshot-date" : "2019-12-17T02:12:26.094Z"
 }
