@@ -17,13 +17,13 @@
   "analyzed-urls" : {
     "relative-links-count" : 2,
     "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/efraim007/EIDOS-Miner", "https://t.me/eoshungary", "https://www.facebook.com/groups/2351842778257106/" ],
-    "social-links-count" : 3,
-    "popularity-boosters" : [ "http://charityalfa.io", "http://lite.charityalfa.io", "https://analytics.dapp.review/", "https://bloks.io/account/efraimeosdev", "https://bloks.io/account/eoshungarybp", "https://hu.wordpress.org/" ],
-    "popularity-boosters-count" : 6
+    "social-links" : [ "http://t.me/charityalfa", "http://t.me/eosmining", "https://github.com/efraim007/EIDOS-Miner", "https://github.com/efraim007/MICH", "https://t.me/eoshungary", "https://www.facebook.com/groups/2351842778257106/" ],
+    "social-links-count" : 6,
+    "popularity-boosters" : [ "http://charityalfa.io", "http://lite.charityalfa.io", "https://analytics.dapp.review/", "https://bloks.io/account/efraimeosdev", "https://bloks.io/account/eoshungarybp", "https://bloks.io/account/mine2charity", "https://bloks.io/account/mine4charity", "https://hu.wordpress.org/", "https://lite.charityalfa.io/charityminer/" ],
+    "popularity-boosters-count" : 9
   },
   "p-ram-amounts" : [ "RAM" ],
-  "vote-percentage" : 2.8267687081913342E-8,
+  "vote-percentage" : 2.8297066042617338E-8,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -44,5 +44,5 @@
     "max" : 3
   },
   "place" : 395,
-  "snapshot-date" : "2019-12-17T02:12:26.094Z"
+  "snapshot-date" : "2019-12-18T02:12:10.749Z"
 }

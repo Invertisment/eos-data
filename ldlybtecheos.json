@@ -1,0 +1,46 @@
+{
+  "bp-header" : {
+    "owner" : "ldlybtecheos",
+    "total_votes" : "0.00000000000000000",
+    "producer_key" : "EOS7q7WGUMtbhrkGWruJ1GqrexZH8cp4ufiD2fXg37xfa4f52sJpZ",
+    "is_active" : 1,
+    "url" : "http://bp.0618tech.co/",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2019-12-17T16:52:12.000",
+    "location" : 8,
+    "prepared-url" : "http://bp.0618tech.co/"
+  },
+  "bp-json-summary" : {
+    "url" : "http://bp.0618tech.co/bp.json",
+    "logo" : ""
+  },
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ "https://0618tech.co/", "https://www.godaddy.com/websites/website-builder?isc=pwugc&utm_source=wsb&utm_medium=applications&utm_campaign=zh-hk_corp_applications_base" ],
+    "popularity-boosters-count" : 2
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.0,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://bp.0618tech.co/"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "http://bp.0618tech.co/bp.json"
+    }, {
+      "title" : "no-coc",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    } ],
+    "score" : 2,
+    "max" : 3
+  },
+  "place" : 580,
+  "snapshot-date" : "2019-12-18T02:12:10.749Z"
+}
