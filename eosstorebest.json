@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosstorebest",
-    "total_votes" : "34453145542304588.00000000000000000",
+    "total_votes" : "34233417094204436.00000000000000000",
     "producer_key" : "EOS857vKqpcN7Tt7zCab47CCpjvGcaKbf7MpTwN3ktGsDToynSuTA",
     "is_active" : 1,
     "url" : "https://www.eosstore.co",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-12-17T08:14:10.000",
+    "last_claim_time" : "2019-12-18T08:14:13.500",
     "location" : 156,
     "prepared-url" : "https://www.eosstore.co"
   },
@@ -15,7 +15,7 @@
     "url" : "https://www.eosstore.co/bp.json"
   },
   "webpage-error" : "clj-http: status 503",
-  "vote-percentage" : 2.831419098879481E-4,
+  "vote-percentage" : 2.807160803410615E-4,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 88,
-  "snapshot-date" : "2019-12-18T02:12:10.749Z"
+  "snapshot-date" : "2019-12-19T02:12:15.983Z"
 }
