@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eoszeusiobp1",
-    "total_votes" : "106510593734683392.00000000000000000",
+    "total_votes" : "53377365547612608.00000000000000000",
     "producer_key" : "EOS5ptJGggTM71A1a4H6QjXtZ2v3YaUudyZ7f52yBZkqLAWK8v4Wm",
     "is_active" : 1,
     "url" : "https://zeusio.club",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-12-18T07:23:12.000",
+    "last_claim_time" : "2019-12-19T07:23:27.500",
     "location" : 0,
     "prepared-url" : "https://zeusio.club"
   },
@@ -15,7 +15,7 @@
     "url" : "https://zeusio.club/bp.json"
   },
   "webpage-error" : "Connection refused (Connection refused)",
-  "vote-percentage" : 8.733932784367399E-4,
+  "vote-percentage" : 4.3175251603945415E-4,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 81,
-  "snapshot-date" : "2019-12-19T02:12:15.983Z"
+  "place" : 84,
+  "snapshot-date" : "2019-12-20T02:12:09.760Z"
 }

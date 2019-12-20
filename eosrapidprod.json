@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosrapidprod",
-    "total_votes" : "3394971518723458048.00000000000000000",
+    "total_votes" : "3461662099621651968.00000000000000000",
     "producer_key" : "EOS8QEFsgUWj7BscQNkiremtpSoRkzwDqmCPpKKCHYXGNaqxXFQ4h",
     "is_active" : 1,
     "url" : "https://eosrapid.com",
-    "unpaid_blocks" : 1318,
-    "last_claim_time" : "2019-12-18T22:16:04.000",
+    "unpaid_blocks" : 1305,
+    "last_claim_time" : "2019-12-19T22:16:09.000",
     "location" : 0,
     "prepared-url" : "https://eosrapid.com"
   },
@@ -23,7 +23,7 @@
     "popularity-boosters-count" : 1
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.027838970763071513,
+  "vote-percentage" : 0.028000282626479595,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -44,6 +44,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 17,
-  "snapshot-date" : "2019-12-19T02:12:15.983Z"
+  "place" : 12,
+  "snapshot-date" : "2019-12-20T02:12:09.760Z"
 }
