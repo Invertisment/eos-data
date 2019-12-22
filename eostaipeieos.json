@@ -11,23 +11,23 @@
     "prepared-url" : "https://eostaipei.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "eostaipei.io",
     "url" : "https://eostaipei.io/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 1.0271708422876073E-6,
+  "webpage-error" : "eostaipei.io: Name or service not known",
+  "vote-percentage" : 1.0234399360076723E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "eostaipei.io: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eostaipei.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "eostaipei.io"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 240,
-  "snapshot-date" : "2019-12-21T02:12:14.197Z"
+  "snapshot-date" : "2019-12-22T02:12:12.413Z"
 }

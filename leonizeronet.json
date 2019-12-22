@@ -11,7 +11,7 @@
     "prepared-url" : "https://popcorn-api.io/"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "dl-error" : "Read timed out",
     "url" : "https://popcorn-api.io/bp.json"
   },
   "webpage-error" : "Read timed out",
@@ -27,7 +27,7 @@
       "mood" : "warn",
       "url" : "https://popcorn-api.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "error" : "Read timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 579,
-  "snapshot-date" : "2019-12-21T02:12:14.197Z"
+  "snapshot-date" : "2019-12-22T02:12:12.413Z"
 }
