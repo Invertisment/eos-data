@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosnationftw",
-    "total_votes" : "3468063165553975296.00000000000000000",
+    "total_votes" : "3502753160437328384.00000000000000000",
     "producer_key" : "EOS5R5TurHxXhsV71dcxRNJQPQ3tU8brwvFMK6THNUEKSpkzZj1Yd",
     "is_active" : 1,
     "url" : "https://eosnation.io",
-    "unpaid_blocks" : 1654,
-    "last_claim_time" : "2019-12-22T21:10:02.500",
+    "unpaid_blocks" : 1576,
+    "last_claim_time" : "2019-12-23T21:11:02.500",
     "location" : 124,
     "prepared-url" : "https://eosnation.io"
   },
@@ -24,7 +24,7 @@
     "popularity-boosters-count" : 7
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.02825816087880274,
+  "vote-percentage" : 0.028246029761680853,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +45,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 11,
-  "snapshot-date" : "2019-12-23T02:12:07.432Z"
+  "place" : 9,
+  "snapshot-date" : "2019-12-24T02:12:16.012Z"
 }
