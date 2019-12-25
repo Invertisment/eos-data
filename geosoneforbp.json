@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "geosoneforbp",
-    "total_votes" : "873789586275890304.00000000000000000",
+    "total_votes" : "867616640542946816.00000000000000000",
     "producer_key" : "EOS7CjPeMYUj2Ydmw667JJNsQA5mige9YE4FVxMCT81Jst3SRVbX3",
     "is_active" : 1,
     "url" : "https://www.geos.one",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-12-23T05:58:13.000",
+    "last_claim_time" : "2019-12-24T05:58:14.500",
     "location" : 0,
     "prepared-url" : "https://www.geos.one"
   },
@@ -15,7 +15,7 @@
     "url" : "https://www.geos.one/bp.json"
   },
   "webpage-error" : "clj-http: status 502",
-  "vote-percentage" : 0.0070461963857921675,
+  "vote-percentage" : 0.006986880037418888,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 36,
-  "snapshot-date" : "2019-12-24T02:12:16.012Z"
+  "snapshot-date" : "2019-12-25T02:12:12.503Z"
 }
