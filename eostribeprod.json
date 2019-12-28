@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eostribeprod",
-    "total_votes" : "79665382539694416.00000000000000000",
+    "total_votes" : "79658028708435760.00000000000000000",
     "producer_key" : "EOS7gD4EXA96SEQ9RQrLfbU19tLHmGPcJXSPXdkrQh4bCkUghg6QE",
     "is_active" : 1,
     "url" : "https://eostribe.io",
@@ -16,15 +16,14 @@
     "code_of_conduct" : "https://steemit.com/cryptocurrency/@eostribe/eos-tribe-code-of-conduct"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 1,
     "duplicate-urls" : null,
-    "social-links" : [ "https://steemit.com/@eostribe/", "https://steemit.com/eosio/@eostribe/", "https://twitter.com/EOStribe" ],
-    "social-links-count" : 3,
-    "popularity-boosters" : [ "https://bos.bloks.io/", "https://eosnetworkmonitor.io/", "https://meetone.eosx.io/", "https://monitor.telosfoundation.io/", "https://worbli.bloks.io/" ],
-    "popularity-boosters-count" : 5
+    "social-links" : [ "https://github.com/EOSTribe/" ],
+    "social-links-count" : 1,
+    "popularity-boosters" : [ "https://bos.bloks.io/", "https://daobet.org/", "https://eosnetworkmonitor.io/", "https://kibisis.ch", "https://lynxwallet.io/", "https://meetone.eosx.io/", "https://monitor.telosfoundation.io/", "https://ripple.com/", "https://spectrumeos.io", "https://wax.io/", "https://worbli.bloks.io/", "https://www.algorand.com/" ],
+    "popularity-boosters-count" : 12
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 6.38729996212409E-4,
+  "vote-percentage" : 6.355419127384872E-4,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -46,5 +45,5 @@
     "max" : 3
   },
   "place" : 81,
-  "snapshot-date" : "2019-12-27T02:12:13.542Z"
+  "snapshot-date" : "2019-12-28T02:12:17.757Z"
 }
