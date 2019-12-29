@@ -11,38 +11,31 @@
     "prepared-url" : "http://www.cybchain.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 403",
+    "dl-error" : "www.cybchain.com",
     "url" : "http://www.cybchain.com/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 3,
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "http://flash.cybeye.com/test/cybchain-release.apk", "http://live.cybchain.com/", "http://wdoc.io/en/Index.html", "http://web.cybchain.com/", "http://www.adrolling.com", "http://www.livegram.net", "http://www.trendscape.com", "https://mobirise.com", "https://mobirise.info/v", "https://play.google.com/store/apps/details?id=com.cybeye.cybchain", "https://testflight.apple.com/join/fnzUQB9i" ],
-    "popularity-boosters-count" : 11
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.299117616241791E-7,
+  "webpage-error" : "www.cybchain.com: Temporary failure in name resolution",
+  "vote-percentage" : 2.288650314202471E-7,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "http://www.cybchain.com"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "www.cybchain.com: Temporary failure in name resolution",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://www.cybchain.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 403"
+      "error" : "www.cybchain.com"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
   "place" : 296,
-  "snapshot-date" : "2019-12-28T02:12:17.757Z"
+  "snapshot-date" : "2019-12-29T02:12:14.745Z"
 }
