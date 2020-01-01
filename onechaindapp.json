@@ -11,35 +11,31 @@
     "prepared-url" : "http://eosdapp.oneeos.org/"
   },
   "bp-json-summary" : {
-    "url" : "http://eosdapp.oneeos.org/bp.json",
-    "logo" : "https://cdn1.haoduobi.cn/offcial_assets/logo.png"
+    "dl-error" : "connect timed out",
+    "url" : "http://eosdapp.oneeos.org/bp.json"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.9678803149508277E-6,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 1.9670477475597465E-6,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "http://eosdapp.oneeos.org/"
-    }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "http://eosdapp.oneeos.org/bp.json"
-    }, {
-      "title" : "no-coc",
       "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "title" : "no-web",
+      "error" : "connect timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://eosdapp.oneeos.org/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "connect timed out"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 214,
-  "snapshot-date" : "2019-12-31T02:12:35.284Z"
+  "place" : 215,
+  "snapshot-date" : "2020-01-01T02:12:14.876Z"
 }
