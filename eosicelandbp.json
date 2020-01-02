@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosicelandbp",
-    "total_votes" : "151183340273713.06250000000000000",
+    "total_votes" : "149480968137749.37500000000000000",
     "producer_key" : "EOS816tGGuqYWDTwdLFGGTx2SsD7xbzkhbVgFZQB9bLjvxs7gwoFD",
     "is_active" : 1,
     "url" : "https://eosiceland.is",
@@ -15,7 +15,7 @@
     "url" : "https://eosiceland.is/bp.json"
   },
   "webpage-error" : "clj-http: status 404",
-  "vote-percentage" : 1.1978429980229981E-6,
+  "vote-percentage" : 1.1822076773296041E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 235,
-  "snapshot-date" : "2020-01-01T02:12:14.876Z"
+  "place" : 236,
+  "snapshot-date" : "2020-01-02T02:12:16.006Z"
 }

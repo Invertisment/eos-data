@@ -11,8 +11,8 @@
     "prepared-url" : "https://www.bitportal.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "Read timed out",
-    "url" : "https://www.bitportal.io/bp.json"
+    "url" : "https://www.bitportal.io/bp.json",
+    "logo" : "https://cdn.bitportal.io/bp/bitportal_256.png"
   },
   "analyzed-urls" : {
     "relative-links-count" : 4,
@@ -23,7 +23,7 @@
     "popularity-boosters-count" : 16
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.092903200746261E-7,
+  "vote-percentage" : 1.0909217718928763E-7,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -31,19 +31,18 @@
       "title" : "web",
       "url" : "https://www.bitportal.io"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://www.bitportal.io/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Read timed out"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://www.bitportal.io/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "title" : "no-coc",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
     } ],
-    "score" : 1,
+    "score" : 2,
     "max" : 3
   },
   "place" : 340,
-  "snapshot-date" : "2020-01-01T02:12:14.876Z"
+  "snapshot-date" : "2020-01-02T02:12:16.006Z"
 }
