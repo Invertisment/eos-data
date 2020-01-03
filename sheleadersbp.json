@@ -14,20 +14,14 @@
     "dl-error" : "clj-http: status 404",
     "url" : "https://www.sheleaders.one/bp.json"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ "http://www.facebook.com/wix", "https://github.com/SheLeaders", "https://steemit.com/@eosmatrix", "https://t.me/sheleaders", "https://twitter.com/SheLeaders_", "https://www.linkedin.com/company/sheleaders/", "https://www.reddit.com/user/SheLeaders/", "https://www.youtube.com/channel/UC3iI03zXeBwvij9kD_aSsjA" ],
-    "social-links-count" : 8,
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 7.241724572547084E-8,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 7.23874681515679E-8,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://www.sheleaders.one/"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
@@ -39,9 +33,9 @@
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
   "place" : 351,
-  "snapshot-date" : "2020-01-02T02:12:16.006Z"
+  "snapshot-date" : "2020-01-03T02:12:12.272Z"
 }

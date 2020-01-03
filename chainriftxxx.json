@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "chainriftxxx",
-    "total_votes" : "148607558150114144.00000000000000000",
+    "total_votes" : "148660471431080704.00000000000000000",
     "producer_key" : "EOS7RQ6fJTDzZTSoL6tmzXwfs9FLZTUPWDe6pNAhqqWHvcAxG7qdN",
     "is_active" : 1,
     "url" : "https://eos.chainrift.com",
@@ -15,7 +15,7 @@
     "url" : "https://eos.chainrift.com/bp.json"
   },
   "webpage-error" : "clj-http: status 503",
-  "vote-percentage" : 0.001175300095677556,
+  "vote-percentage" : 0.0011752351245900975,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 79,
-  "snapshot-date" : "2020-01-02T02:12:16.006Z"
+  "snapshot-date" : "2020-01-03T02:12:12.272Z"
 }

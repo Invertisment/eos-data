@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "big.one",
-    "total_votes" : "3300409406877155328.00000000000000000",
+    "total_votes" : "3304703259332962304.00000000000000000",
     "producer_key" : "EOS8MpYyXwn3DLqk9Y9XTHYcd6wGGijNqJefFoQEwEoXTq1awZ42w",
     "is_active" : 1,
     "url" : "https://eos.big.one",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-01-01T05:54:59.500",
+    "last_claim_time" : "2020-01-02T05:55:14.500",
     "location" : 392,
     "prepared-url" : "https://eos.big.one"
   },
@@ -14,14 +14,19 @@
     "url" : "https://eos.big.one/bp.json",
     "logo" : "https://storage.googleapis.com/static-61cdd52e-15d8-4b00-9e92-b7052710674d/logo/bigone/logo_256.png"
   },
-  "webpage-error" : "Read timed out",
-  "vote-percentage" : 0.026102114454767702,
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.026125326452472702,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "Read timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eos.big.one"
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -32,9 +37,9 @@
       "mood" : "bad",
       "paragraphs" : [ "value-empty" ]
     } ],
-    "score" : 1,
+    "score" : 2,
     "max" : 3
   },
   "place" : 22,
-  "snapshot-date" : "2020-01-02T02:12:16.006Z"
+  "snapshot-date" : "2020-01-03T02:12:12.272Z"
 }

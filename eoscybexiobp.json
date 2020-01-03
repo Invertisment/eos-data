@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eoscybexiobp",
-    "total_votes" : "3801598314443310.00000000000000000",
+    "total_votes" : "3776075064621448.00000000000000000",
     "producer_key" : "EOS5dN7CQRh98Ecx4mZNgq9DWLFJALPGmaFuuG3MYCRrVfUmDTV45",
     "is_active" : 1,
     "url" : "https://eos.cybex.io/",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-01-01T23:20:10.000",
+    "last_claim_time" : "2020-01-02T23:23:03.500",
     "location" : 0,
     "prepared-url" : "https://eos.cybex.io/"
   },
@@ -15,7 +15,7 @@
     "url" : "https://eos.cybex.io/bp.json"
   },
   "webpage-error" : "eos.cybex.io: No address associated with hostname",
-  "vote-percentage" : 3.0065892464093527E-5,
+  "vote-percentage" : 2.985175552257891E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 119,
-  "snapshot-date" : "2020-01-02T02:12:16.006Z"
+  "snapshot-date" : "2020-01-03T02:12:12.272Z"
 }
