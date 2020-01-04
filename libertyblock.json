@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "libertyblock",
-    "total_votes" : "245294677085774400.00000000000000000",
+    "total_votes" : "245352271580048704.00000000000000000",
     "producer_key" : "EOS7TqVs7LpMzJwikiWkGTG9UGSwcQVhxP2ZKBM7FCbUwcrryNgHP",
     "is_active" : 1,
     "url" : "https://libertyblock.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-01-02T02:05:04.000",
+    "last_claim_time" : "2020-01-03T02:10:02.500",
     "location" : 124,
     "prepared-url" : "https://libertyblock.io"
   },
@@ -24,7 +24,7 @@
     "popularity-boosters-count" : 3
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.0019391766863852203,
+  "vote-percentage" : 0.0019387712660974066,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +45,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 71,
-  "snapshot-date" : "2020-01-03T02:12:12.272Z"
+  "place" : 72,
+  "snapshot-date" : "2020-01-04T02:12:42.208Z"
 }

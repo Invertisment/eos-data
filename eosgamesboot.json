@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosgamesboot",
-    "total_votes" : "110243630564262.64062500000000000",
+    "total_votes" : "112129734350045.67187500000000000",
     "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
     "is_active" : 0,
     "url" : "http://eos.games",
@@ -11,11 +11,11 @@
     "prepared-url" : "http://eos.games"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "clj-http: status 403",
     "url" : "http://eos.games/bp.json"
   },
   "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 8.715308491505839E-7,
+  "vote-percentage" : 8.86048071342502E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -27,7 +27,7 @@
       "mood" : "warn",
       "url" : "http://eos.games/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "clj-http: status 403"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 245,
-  "snapshot-date" : "2020-01-03T02:12:12.272Z"
+  "place" : 243,
+  "snapshot-date" : "2020-01-04T02:12:42.208Z"
 }
