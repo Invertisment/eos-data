@@ -11,11 +11,11 @@
     "prepared-url" : "http://eosoasis.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "Read timed out",
     "url" : "http://eosoasis.io/bp.json"
   },
   "webpage-error" : "connect timed out",
-  "vote-percentage" : 1.0134557850948505E-6,
+  "vote-percentage" : 1.0092643387479234E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -27,7 +27,7 @@
       "mood" : "warn",
       "url" : "http://eosoasis.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "Read timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 239,
-  "snapshot-date" : "2020-01-04T02:12:42.208Z"
+  "snapshot-date" : "2020-01-05T02:12:33.412Z"
 }
