@@ -1,21 +1,21 @@
 {
   "bp-header" : {
-    "owner" : "cypherblocks",
-    "total_votes" : "340724878846096.87500000000000000",
-    "producer_key" : "EOS6P9Lzfedgch3GXhNy4oKYY7WRVxTWNjGSNAaxnncJxqPtzB58n",
+    "owner" : "eosx.game",
+    "total_votes" : "1112417207294.61328125000000000",
+    "producer_key" : "EOS7UPVD1BcirVcD33HW2ADa9pYi3Ro189Jc3u34nMpb7zZnEqKRd",
     "is_active" : 1,
-    "url" : "https://cypherblock.io",
+    "url" : "https://chain.game",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2018-10-27T01:36:37.000",
-    "location" : 0,
-    "prepared-url" : "https://cypherblock.io"
+    "last_claim_time" : "2020-01-06T06:26:03.500",
+    "location" : 156,
+    "prepared-url" : "https://chain.game"
   },
   "bp-json-summary" : {
     "dl-error" : "unable to find valid certification path to requested target",
-    "url" : "https://cypherblock.io/bp.json"
+    "url" : "https://chain.game/bp.json"
   },
   "webpage-error" : "unable to find valid certification path to requested target",
-  "vote-percentage" : 2.6707218655984132E-6,
+  "vote-percentage" : 8.71951871918225E-9,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -25,7 +25,7 @@
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
-      "url" : "https://cypherblock.io/bp.json",
+      "url" : "https://chain.game/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
       "error" : "unable to find valid certification path to requested target"
     }, {
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 194,
+  "place" : 419,
   "snapshot-date" : "2020-01-07T02:12:25.295Z"
 }
