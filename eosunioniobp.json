@@ -6,28 +6,28 @@
     "is_active" : 1,
     "url" : "https://eosunion.club",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-01-06T07:27:31.500",
+    "last_claim_time" : "2020-01-07T07:27:35.000",
     "location" : 0,
     "prepared-url" : "https://eosunion.club"
   },
   "bp-json-summary" : {
-    "dl-error" : "Certificate for <eosunion.club> doesn't match any of the subject alternative names: [*.unicox.one, unicox.one]",
+    "dl-error" : "connect timed out",
     "url" : "https://eosunion.club/bp.json"
   },
-  "webpage-error" : "Certificate for <eosunion.club> doesn't match any of the subject alternative names: [*.unicox.one, unicox.one]",
-  "vote-percentage" : 3.104321103196287E-7,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 3.10224267925364E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Certificate for <eosunion.club> doesn't match any of the subject alternative names: [*.unicox.one, unicox.one]",
+      "error" : "connect timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eosunion.club/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Certificate for <eosunion.club> doesn't match any of the subject alternative names: [*.unicox.one, unicox.one]"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 282,
-  "snapshot-date" : "2020-01-07T02:12:25.295Z"
+  "place" : 283,
+  "snapshot-date" : "2020-01-08T02:12:42.834Z"
 }

@@ -11,36 +11,31 @@
     "prepared-url" : "http://bp.0618tech.co/"
   },
   "bp-json-summary" : {
-    "url" : "http://bp.0618tech.co/bp.json",
-    "logo" : ""
+    "dl-error" : "connect timed out",
+    "url" : "http://bp.0618tech.co/bp.json"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "https://0618tech.co/", "https://www.godaddy.com/websites/website-builder?isc=pwugc&utm_source=wsb&utm_medium=applications&utm_campaign=zh-hk_corp_applications_base" ],
-    "popularity-boosters-count" : 2
-  },
-  "p-ram-amounts" : [ ],
+  "webpage-error" : "connect timed out",
   "vote-percentage" : 0.0,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "http://bp.0618tech.co/"
-    }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "http://bp.0618tech.co/bp.json"
-    }, {
-      "title" : "no-coc",
       "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "title" : "no-web",
+      "error" : "connect timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://bp.0618tech.co/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "connect timed out"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 0,
     "max" : 3
   },
   "place" : 581,
-  "snapshot-date" : "2020-01-07T02:12:25.295Z"
+  "snapshot-date" : "2020-01-08T02:12:42.834Z"
 }

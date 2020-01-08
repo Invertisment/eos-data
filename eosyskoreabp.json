@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosyskoreabp",
-    "total_votes" : "168393348663167200.00000000000000000",
+    "total_votes" : "168410270543293856.00000000000000000",
     "producer_key" : "EOS7TjKVBkBcSmjsXF4jJfZ1QU9RqVHuBkkcHNJoEcHGR79CoLf2f",
     "is_active" : 1,
     "url" : "https://eosys.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-01-06T03:30:14.500",
+    "last_claim_time" : "2020-01-07T03:30:27.500",
     "location" : 410,
     "prepared-url" : "https://eosys.io"
   },
@@ -15,7 +15,7 @@
     "url" : "https://eosys.io/bp.json"
   },
   "webpage-error" : "eosys.io: No address associated with hostname",
-  "vote-percentage" : 0.0013199265043959375,
+  "vote-percentage" : 0.0013191753300397394,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 77,
-  "snapshot-date" : "2020-01-07T02:12:25.295Z"
+  "snapshot-date" : "2020-01-08T02:12:42.834Z"
 }
