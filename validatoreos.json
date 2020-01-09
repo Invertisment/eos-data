@@ -1,41 +1,45 @@
 {
   "bp-header" : {
     "owner" : "validatoreos",
-    "total_votes" : "653915614556665728.00000000000000000",
+    "total_votes" : "653993191875132800.00000000000000000",
     "producer_key" : "EOS8h87g5rpLg77ZCJy1J2JPJaCtEeNTAbhGmEsQoz5ngGt3cRaHX",
     "is_active" : 1,
     "url" : "http://validatoreos.xyz",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-01-07T07:27:35.000",
+    "last_claim_time" : "2020-01-08T07:27:52.000",
     "location" : 0,
     "prepared-url" : "http://validatoreos.xyz"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
-    "url" : "http://validatoreos.xyz/bp.json"
+    "url" : "http://validatoreos.xyz/bp.json",
+    "logo" : ""
   },
-  "webpage-error" : "Read timed out",
-  "vote-percentage" : 0.00512218966140292,
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.00511176941501537,
   "scoring" : {
     "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://validatoreos.xyz"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "http://validatoreos.xyz/bp.json"
+    }, {
+      "title" : "no-coc",
       "mood" : "bad",
-      "title" : "no-web",
-      "error" : "Read timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
-    }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "http://validatoreos.xyz/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
-    }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "paragraphs" : [ "value-empty" ]
     } ],
-    "score" : 0,
+    "score" : 2,
     "max" : 3
   },
-  "place" : 51,
-  "snapshot-date" : "2020-01-08T02:12:42.834Z"
+  "place" : 52,
+  "snapshot-date" : "2020-01-09T02:12:31.875Z"
 }
