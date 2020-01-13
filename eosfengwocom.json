@@ -11,37 +11,31 @@
     "prepared-url" : "https://eosfengwo.com"
   },
   "bp-json-summary" : {
-    "url" : "https://eosfengwo.com/bp.json",
-    "logo" : "https://eosfengwo.com/img/logo_256.png"
+    "dl-error" : "Read timed out",
+    "url" : "https://eosfengwo.com/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 7,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://t.me/eosfengwo", "https://twitter.com/eosfengwo" ],
-    "social-links-count" : 2,
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 9.928172084945212E-6,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 9.898551972756199E-6,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eosfengwo.com"
-    }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://eosfengwo.com/bp.json"
-    }, {
-      "title" : "no-coc",
       "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eosfengwo.com/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "Read timed out"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 148,
-  "snapshot-date" : "2020-01-12T02:12:28.940Z"
+  "place" : 147,
+  "snapshot-date" : "2020-01-13T02:12:33.645Z"
 }

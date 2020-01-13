@@ -1,54 +1,41 @@
 {
   "bp-header" : {
     "owner" : "blocksmithio",
-    "total_votes" : "179217839293238656.00000000000000000",
+    "total_votes" : "178854421311538304.00000000000000000",
     "producer_key" : "EOS6XVaKPQNJeyCdKXG3VbLD7VZZbah8jNQBafCySPgzEtnNiM7L8",
     "is_active" : 1,
     "url" : "https://eosblocksmith.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-01-11T04:21:09.500",
+    "last_claim_time" : "2020-01-12T04:23:05.000",
     "location" : 840,
     "prepared-url" : "https://eosblocksmith.io"
   },
   "bp-json-summary" : {
-    "url" : "https://eosblocksmith.io/bp.json",
-    "logo" : "https://eosblocksmith.io/assets/images/logos/eosblocksmith_256.jpg",
-    "code_of_conduct" : "https://medium.com/@eosBlockSmith/block-producer-independence-and-integrity-pledge-119f72b49131"
+    "dl-error" : "clj-http: status 525",
+    "url" : "https://eosblocksmith.io/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 6,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/eosBlockSmith", "https://medium.com/@eosBlockSmith", "https://medium.com/@eosBlockSmith/block-producer-independence-and-integrity-pledge-119f72b49131", "https://medium.com/@eosBlockSmith/eos-blocksmith-an-introduction-24f79d3d47a5", "https://medium.com/@eosBlockSmith/eos-blocksmith-disclosure-of-ownership-fcfc57fe3613", "https://steemit.com/@eosblocksmith", "https://t.me/eosBlockSmith", "https://twitter.com/eosBlockSmith", "https://www.facebook.com/eosblocksmith/", "https://www.youtube.com/channel/UC0UaoraKSMrjBQ7OH-i_XPw" ],
-    "social-links-count" : 10,
-    "popularity-boosters" : [ "http://html5up.net", "https://axonibyte.com", "https://bitbucket.org/eosblocksmith", "https://strongblock.io/" ],
-    "popularity-boosters-count" : 4
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.0013916190893496802,
+  "webpage-error" : "clj-http: status 525",
+  "vote-percentage" : 0.0013846537698793853,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eosblocksmith.io"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "clj-http: status 525",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://eosblocksmith.io/bp.json"
-    }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://medium.com/@eosBlockSmith/block-producer-independence-and-integrity-pledge-119f72b49131"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eosblocksmith.io/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 525"
     }, {
       "mood" : "warn",
-      "title" : "t-coc-social",
-      "paragraphs" : [ "p-coc-social" ]
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 0,
     "max" : 3
   },
   "place" : 74,
-  "snapshot-date" : "2020-01-12T02:12:28.940Z"
+  "snapshot-date" : "2020-01-13T02:12:33.645Z"
 }
