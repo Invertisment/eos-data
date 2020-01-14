@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosiosg11111",
-    "total_votes" : "3663293680433870336.00000000000000000",
+    "total_votes" : "3667572779617028608.00000000000000000",
     "producer_key" : "EOS7zVBQMhV7dZ5zRQwBgDmmbFCHA6YcmwW6Dq5CePGpqLR1ZsVAc",
     "is_active" : 1,
     "url" : "https://eosio.sg",
-    "unpaid_blocks" : 5722,
-    "last_claim_time" : "2020-01-12T08:39:32.500",
+    "unpaid_blocks" : 5780,
+    "last_claim_time" : "2020-01-13T08:39:42.000",
     "location" : 702,
     "prepared-url" : "https://eosio.sg"
   },
@@ -21,7 +21,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.028360458565084717,
+  "vote-percentage" : 0.028365636555319384,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -41,6 +41,6 @@
     "score" : 2,
     "max" : 3
   },
-  "place" : 17,
-  "snapshot-date" : "2020-01-13T02:12:33.645Z"
+  "place" : 18,
+  "snapshot-date" : "2020-01-14T02:12:34.822Z"
 }

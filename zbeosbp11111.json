@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "zbeosbp11111",
-    "total_votes" : "3680084487422353920.00000000000000000",
+    "total_votes" : "3684456863182719488.00000000000000000",
     "producer_key" : "EOS7rhgVPWWyfMqjSbNdndtCK8Gkza3xnDbUupsPLMZ6gjfQ4nX81",
     "is_active" : 1,
     "url" : "https://www.zbeos.com",
-    "unpaid_blocks" : 4699,
-    "last_claim_time" : "2020-01-12T11:54:00.000",
+    "unpaid_blocks" : 4665,
+    "last_claim_time" : "2020-01-13T11:54:02.500",
     "location" : 156,
     "prepared-url" : "https://www.zbeos.com"
   },
@@ -15,22 +15,14 @@
     "logo" : "https://www.zbeos.com/img/zbeos-256.png",
     "code_of_conduct" : "https://steemit.com/zbeos/@zbcom/zbeos-or-code-of-conduct-statement"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 10,
-    "duplicate-urls" : null,
-    "social-links" : [ "http://eosportal.io/chain/12/producers", "https://github.com/EOSIO/eos", "https://mobile.twitter.com/ZB_EOS", "https://steemit.com/@zbcom", "https://t.me/ZBEOS", "https://www.reddit.com/r/eos/" ],
-    "social-links-count" : 6,
-    "popularity-boosters" : [ "http://eostoken.im/", "https://airdropsforeos.com/", "https://bepal.pro/Download", "https://block.one/", "https://chaince.com/", "https://eos.io/", "https://eoscorearbitration.io/", "https://eosdrops.io/", "https://eoseco.com/", "https://eosflare.io/", "https://eosio.stackexchange.com/", "https://eospark.com/", "https://eosq.app", "https://forums.eosgo.io/", "https://meet.one/", "https://scaneos.io/", "https://token.im/", "https://whaleex.com/", "https://www.hadax.com/zh-cn/", "https://www.mytokenpocket.vip/", "https://www.okb.com/", "https://www.zb.com/" ],
-    "popularity-boosters-count" : 22
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.028490449504226353,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 0.028496220951805182,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://www.zbeos.com"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -42,9 +34,9 @@
       "title" : "coc",
       "url" : "https://steemit.com/zbeos/@zbcom/zbeos-or-code-of-conduct-statement"
     } ],
-    "score" : 3,
+    "score" : 2,
     "max" : 3
   },
   "place" : 13,
-  "snapshot-date" : "2020-01-13T02:12:33.645Z"
+  "snapshot-date" : "2020-01-14T02:12:34.822Z"
 }

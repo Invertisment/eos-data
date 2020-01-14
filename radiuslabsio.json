@@ -15,11 +15,10 @@
     "url" : "http://radiuslabs.io/bp.json"
   },
   "analyzed-urls" : {
+    "relative-links-count" : 2,
     "duplicate-urls" : null,
-    "social-links" : [ "https://medium.com/@radiuslabsio" ],
-    "social-links-count" : 1,
-    "popularity-boosters" : [ "https://thawing-scrubland-94209.herokuapp.com/" ],
-    "popularity-boosters-count" : 1
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
   "vote-percentage" : 0.0,
@@ -44,5 +43,5 @@
     "max" : 3
   },
   "place" : 577,
-  "snapshot-date" : "2020-01-13T02:12:33.645Z"
+  "snapshot-date" : "2020-01-14T02:12:34.822Z"
 }
