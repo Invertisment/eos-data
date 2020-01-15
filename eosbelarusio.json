@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosbelarusio",
-    "total_votes" : "143865334053795.81250000000000000",
+    "total_votes" : "143876933666584.65625000000000000",
     "producer_key" : "EOS5BQQpSF96kvYT77xzSCBYqfGqHSN5y2F42vD2GESSrovmG4d6p",
     "is_active" : 1,
     "url" : "https://eosbelarus.com",
@@ -11,37 +11,31 @@
     "prepared-url" : "https://eosbelarus.com"
   },
   "bp-json-summary" : {
-    "url" : "https://eosbelarus.com/bp.json",
-    "logo" : "https://eosbelarus.com/images/eosbelarusio_256.png"
+    "dl-error" : "SSL peer shut down incorrectly",
+    "url" : "https://eosbelarus.com/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 4,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://twitter.com/eosbelarusio" ],
-    "social-links-count" : 1,
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.1126791542786261E-6,
+  "webpage-error" : "SSL peer shut down incorrectly",
+  "vote-percentage" : 1.1092540476627075E-6,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eosbelarus.com"
-    }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://eosbelarus.com/bp.json"
-    }, {
-      "title" : "no-coc",
       "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "title" : "no-web",
+      "error" : "SSL peer shut down incorrectly",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eosbelarus.com/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "SSL peer shut down incorrectly"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 0,
     "max" : 3
   },
   "place" : 237,
-  "snapshot-date" : "2020-01-14T02:12:34.822Z"
+  "snapshot-date" : "2020-01-15T02:12:45.304Z"
 }
