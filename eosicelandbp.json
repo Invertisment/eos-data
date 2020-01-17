@@ -11,23 +11,23 @@
     "prepared-url" : "https://eosiceland.is"
   },
   "bp-json-summary" : {
-    "dl-error" : "Certificate for <eosiceland.is> doesn't match any of the subject alternative names: [*.squarespace.com, *.campaign-preferences.com, campaign-preferences.com, *.engage.squarespace-mail.com, engage.squarespace-mail.com, squarespace.com]",
+    "dl-error" : "Certificate for <eosiceland.is> doesn't match any of the subject alternative names: [*.squarespace.com, squarespace.com, *.campaign-preferences.com, campaign-preferences.com, *.engage.squarespace-mail.com, engage.squarespace-mail.com, sqsp.net]",
     "url" : "https://eosiceland.is/bp.json"
   },
-  "webpage-error" : "Certificate for <eosiceland.is> doesn't match any of the subject alternative names: [*.squarespace.com, *.campaign-preferences.com, campaign-preferences.com, *.engage.squarespace-mail.com, engage.squarespace-mail.com, squarespace.com]",
-  "vote-percentage" : 1.1373015786107968E-6,
+  "webpage-error" : "Certificate for <eosiceland.is> doesn't match any of the subject alternative names: [*.squarespace.com, squarespace.com, *.campaign-preferences.com, campaign-preferences.com, *.engage.squarespace-mail.com, engage.squarespace-mail.com, sqsp.net]",
+  "vote-percentage" : 1.1421181710713915E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Certificate for <eosiceland.is> doesn't match any of the subject alternative names: [*.squarespace.com, *.campaign-preferences.com, campaign-preferences.com, *.engage.squarespace-mail.com, engage.squarespace-mail.com, squarespace.com]",
+      "error" : "Certificate for <eosiceland.is> doesn't match any of the subject alternative names: [*.squarespace.com, squarespace.com, *.campaign-preferences.com, campaign-preferences.com, *.engage.squarespace-mail.com, engage.squarespace-mail.com, sqsp.net]",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eosiceland.is/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Certificate for <eosiceland.is> doesn't match any of the subject alternative names: [*.squarespace.com, *.campaign-preferences.com, campaign-preferences.com, *.engage.squarespace-mail.com, engage.squarespace-mail.com, squarespace.com]"
+      "error" : "Certificate for <eosiceland.is> doesn't match any of the subject alternative names: [*.squarespace.com, squarespace.com, *.campaign-preferences.com, campaign-preferences.com, *.engage.squarespace-mail.com, engage.squarespace-mail.com, sqsp.net]"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 235,
-  "snapshot-date" : "2020-01-16T02:12:29.891Z"
+  "snapshot-date" : "2020-01-17T02:12:39.631Z"
 }
