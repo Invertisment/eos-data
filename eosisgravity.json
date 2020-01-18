@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosisgravity",
-    "total_votes" : "246576013530154880.00000000000000000",
+    "total_votes" : "243156125441020736.00000000000000000",
     "producer_key" : "EOS8UFLCQ8n2PzbKFv8CU87fQKXeyNXr3fn2oMwFayEYyCpkFG3YF",
     "is_active" : 1,
     "url" : "http://eosgravity.com",
@@ -11,20 +11,18 @@
     "prepared-url" : "http://eosgravity.com"
   },
   "bp-json-summary" : {
-    "url" : "http://eosgravity.com/bp.json",
-    "logo" : "http://eosgravity.com/wp-content/uploads/2018/06/logo1_eosgravity_256.png",
-    "code_of_conduct" : "https://steemit.com/eosgravity/@eosgravity/eos-gravity-code-of-conduct"
+    "dl-error" : "clj-http: status 404",
+    "url" : "http://eosgravity.com/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 5,
     "duplicate-urls" : null,
     "social-links" : [ "http://www.facebook.com/share.php?u=http%3A%2F%2Feosgravity.com%2F", "https://plus.google.com/share?url=http%3A%2F%2Feosgravity.com%2F", "https://steemit.com/eosgravity/@eosgravity/dividend-statement-and-investor-disclaimer-eos-gravity" ],
     "social-links-count" : 3,
-    "popularity-boosters" : [ "http://facebook.com", "http://linkedin.com" ],
+    "popularity-boosters" : [ "http://facebook.com/", "http://linkedin.com/" ],
     "popularity-boosters-count" : 2
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.0019085308188164709,
+  "vote-percentage" : 0.0018894594689923812,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -32,19 +30,19 @@
       "title" : "web",
       "url" : "http://eosgravity.com"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "http://eosgravity.com/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://eosgravity.com/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://steemit.com/eosgravity/@eosgravity/eos-gravity-code-of-conduct"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 1,
     "max" : 3
   },
   "place" : 73,
-  "snapshot-date" : "2020-01-17T02:12:39.631Z"
+  "snapshot-date" : "2020-01-18T02:12:39.127Z"
 }

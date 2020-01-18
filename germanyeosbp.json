@@ -14,13 +14,13 @@
     "dl-error" : "eosdusseldorf.de",
     "url" : "http://eosdusseldorf.de/bp.json"
   },
-  "webpage-error" : "eosdusseldorf.de: No address associated with hostname",
+  "webpage-error" : "eosdusseldorf.de: Name or service not known",
   "vote-percentage" : 0.0,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "eosdusseldorf.de: No address associated with hostname",
+      "error" : "eosdusseldorf.de: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 590,
-  "snapshot-date" : "2020-01-17T02:12:39.631Z"
+  "snapshot-date" : "2020-01-18T02:12:39.127Z"
 }
