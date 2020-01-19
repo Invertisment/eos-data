@@ -1,50 +1,41 @@
 {
   "bp-header" : {
     "owner" : "eosphereiobp",
-    "total_votes" : "556166929657431296.00000000000000000",
+    "total_votes" : "558109796546945856.00000000000000000",
     "producer_key" : "EOS5FYRrG3ThNU56d3uZ8d4bo4MsN5Fig9WPY3xYSpH3RqPhpoH3A",
     "is_active" : 1,
     "url" : "https://www.eosphere.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-01-18T01:20:52.500",
+    "last_claim_time" : "2020-01-19T01:21:12.000",
     "location" : 36,
     "prepared-url" : "https://www.eosphere.io"
   },
   "bp-json-summary" : {
-    "url" : "https://www.eosphere.io/bp.json",
-    "logo" : "https://www.eosphere.io/eospherelogosquare256.png",
-    "code_of_conduct" : "https://www.eosphere.io/code-of-conduct/"
+    "dl-error" : "connect timed out",
+    "url" : "https://www.eosphere.io/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 10,
-    "duplicate-urls" : null,
-    "social-links" : [ "http://www.youtube.com/eosphere", "https://medium.com/emanate-live/announcement-emanate-forms-strategic-alliance-with-aussie-block-producer-eosphere-fc09ce73948", "https://medium.com/eosphere", "https://steemit.com/@eosphere", "https://steemit.com/eos/@eosphere/eosphere-s-position-on-dividends", "https://t.me/eosphere_io", "https://twitter.com/EmanateOfficial/status/1217887532723122177", "https://twitter.com/airdropsdac", "https://twitter.com/airdropsdac/status/1218316986771496961", "https://twitter.com/eosphere_io", "https://twitter.com/eosphere_io/status/1218067591601606656", "https://twitter.com/eosphere_io/status/1218202005342044161", "https://twitter.com/intent/like?tweet_id=1218067591601606656&related=eosphere_io", "https://twitter.com/intent/like?tweet_id=1218202005342044161&related=eosphere_io", "https://twitter.com/intent/like?tweet_id=1218316986771496961&related=airdropsdac", "https://twitter.com/intent/like?tweet_id=1218320959393783808&related=scotto_au", "https://twitter.com/intent/retweet?tweet_id=1218067591601606656&related=eosphere_io", "https://twitter.com/intent/retweet?tweet_id=1218202005342044161&related=eosphere_io", "https://twitter.com/intent/retweet?tweet_id=1218316986771496961&related=airdropsdac", "https://twitter.com/intent/retweet?tweet_id=1218320959393783808&related=scotto_au", "https://twitter.com/intent/user?screen_name=eosphere_io", "https://twitter.com/scotto_au", "https://twitter.com/scotto_au/status/1218320959393783808", "https://www.facebook.com/eosphereio", "https://www.instagram.com/eosphere_io/" ],
-    "social-links-count" : 25,
-    "popularity-boosters" : [ "https://altshiftdev.com/", "https://chintai.io/", "https://connectonline.asic.gov.au/RegistrySearch/faces/landing/panelSearch.jspx?searchTab=search&searchText=624+333+035&searchType=OrgAndBusNm&_adf.ctrl-state=6b1hb27c8_12", "https://eos.io/", "https://eosvoter.eosphere.io/", "https://trybe.one/trybe-announces-partnership-with-eosphere-bp/", "https://www.chintai-eos.io", "https://www.slant.li/", "https://www.slant.li/privEOS/" ],
-    "popularity-boosters-count" : 9
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.004321728970124364,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 0.004299459930263201,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://www.eosphere.io"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "connect timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://www.eosphere.io/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://www.eosphere.io/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "connect timed out"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://www.eosphere.io/code-of-conduct/"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 0,
     "max" : 3
   },
   "place" : 63,
-  "snapshot-date" : "2020-01-18T02:12:39.127Z"
+  "snapshot-date" : "2020-01-19T02:12:40.898Z"
 }

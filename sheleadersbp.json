@@ -11,37 +11,31 @@
     "prepared-url" : "https://www.sheleaders.one/"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "dl-error" : "clj-http: status 500",
     "url" : "https://www.sheleaders.one/bp.json"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ "http://www.facebook.com/wix", "https://github.com/SheLeaders", "https://steemit.com/@eosmatrix", "https://t.me/sheleaders", "https://twitter.com/SheLeaders_", "https://www.linkedin.com/company/sheleaders/", "https://www.reddit.com/user/SheLeaders/", "https://www.youtube.com/channel/UC3iI03zXeBwvij9kD_aSsjA" ],
-    "social-links-count" : 8,
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 7.535060883859444E-8,
+  "webpage-error" : "clj-http: status 500",
+  "vote-percentage" : 7.470138605961111E-8,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://www.sheleaders.one/"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "clj-http: status 500",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://www.sheleaders.one/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "error" : "clj-http: status 500"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
   "place" : 350,
-  "snapshot-date" : "2020-01-18T02:12:39.127Z"
+  "snapshot-date" : "2020-01-19T02:12:40.898Z"
 }
