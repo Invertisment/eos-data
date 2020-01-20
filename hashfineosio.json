@@ -1,29 +1,28 @@
 {
   "bp-header" : {
     "owner" : "hashfineosio",
-    "total_votes" : "3700150858946440704.00000000000000000",
+    "total_votes" : "3724174534579186688.00000000000000000",
     "producer_key" : "EOS7jSfvStvbKDmGvQdtrQsCyNkWczXfvh6CHmBVmeypJyHsUrMqj",
     "is_active" : 1,
     "url" : "https://www.hashfin.com",
-    "unpaid_blocks" : 6502,
-    "last_claim_time" : "2020-01-18T02:29:15.500",
+    "unpaid_blocks" : 6763,
+    "last_claim_time" : "2020-01-19T02:29:24.500",
     "location" : 0,
     "prepared-url" : "https://www.hashfin.com"
   },
   "bp-json-summary" : {
-    "url" : "https://www.hashfin.com/bp.json",
-    "logo" : "https://www.hashfin.com/Hashfin-icon.png",
-    "code_of_conduct" : "https://hashfin.zendesk.com"
+    "dl-error" : "clj-http: status 404",
+    "url" : "https://www.hashfin.com/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 6,
+    "relative-links-count" : 7,
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ "http://www.hicoin.com", "http://www.nodecap.com/", "https://hashfin.zendesk.com/hc/zh-cn/articles/360033230594-%E5%85%AC%E5%8F%B8%E4%BB%8B%E7%BB%8D", "https://hashfin.zendesk.com/hc/zh-cn/articles/360033230674-%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC", "https://hashfin.zendesk.com/hc/zh-cn/articles/360033761473-%E9%9A%90%E7%A7%81%E6%94%BF%E7%AD%96", "https://hashfin.zendesk.com/hc/zh-cn/articles/360033761493-%E7%94%A8%E6%88%B7%E5%8D%8F%E8%AE%AE", "https://hashfin.zendesk.com/hc/zh-cn/sections/360004957734-HashFin%E5%85%AC%E5%91%8A", "https://iost.io/", "https://tnb.fund/", "https://www.biki.com/", "https://www.chainup.com", "https://www.jinse.com/", "https://www.pchain.org/cn" ],
-    "popularity-boosters-count" : 13
+    "popularity-boosters" : [ "http://www.hicoin.com", "http://www.nodecap.com/", "http://www.vite.org/zh/", "https://arpachain.io/", "https://cosmos.network/", "https://ethereum.org/", "https://hashfin.zendesk.com/hc/zh-cn/articles/360033230594-%E5%85%AC%E5%8F%B8%E4%BB%8B%E7%BB%8D", "https://hashfin.zendesk.com/hc/zh-cn/articles/360033230674-%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC", "https://hashfin.zendesk.com/hc/zh-cn/articles/360033761473-%E9%9A%90%E7%A7%81%E6%94%BF%E7%AD%96", "https://hashfin.zendesk.com/hc/zh-cn/articles/360033761493-%E7%94%A8%E6%88%B7%E5%8D%8F%E8%AE%AE", "https://hashfin.zendesk.com/hc/zh-cn/sections/360004957734-HashFin%E5%85%AC%E5%91%8A", "https://iost.io/", "https://mdukey.org", "https://tnb.fund/", "https://tron.network/", "https://www.biki.com/", "https://www.chainup.com", "https://www.eos.io/", "https://www.jinse.com/", "https://www.youchain.cc/" ],
+    "popularity-boosters-count" : 20
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.02850451730537043,
+  "vote-percentage" : 0.02854716575602421,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -31,19 +30,19 @@
       "title" : "web",
       "url" : "https://www.hashfin.com"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://www.hashfin.com/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://www.hashfin.com/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://hashfin.zendesk.com"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 1,
     "max" : 3
   },
   "place" : 14,
-  "snapshot-date" : "2020-01-19T02:12:40.898Z"
+  "snapshot-date" : "2020-01-20T02:12:33.219Z"
 }

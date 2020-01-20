@@ -11,23 +11,23 @@
     "prepared-url" : "http://eos.college"
   },
   "bp-json-summary" : {
-    "dl-error" : "eos.college",
+    "dl-error" : "connect timed out",
     "url" : "http://eos.college/bp.json"
   },
-  "webpage-error" : "eos.college: Temporary failure in name resolution",
-  "vote-percentage" : 1.8573834065663702E-6,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 1.8481630019389634E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "eos.college: Temporary failure in name resolution",
+      "error" : "connect timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://eos.college/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "eos.college"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 212,
-  "snapshot-date" : "2020-01-19T02:12:40.898Z"
+  "snapshot-date" : "2020-01-20T02:12:33.219Z"
 }
