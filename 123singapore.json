@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "123singapore",
-    "total_votes" : "1790791913037018.50000000000000000",
+    "total_votes" : "1803467098162109.25000000000000000",
     "producer_key" : "EOS71UbkZzuz55WNBpsEVQzkXrZAJ2XyLoQiEcS9WKwbYambhFxWb",
     "is_active" : 1,
     "url" : "http://eos.vote",
@@ -11,23 +11,23 @@
     "prepared-url" : "http://eos.vote"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "Connection refused (Connection refused)",
     "url" : "http://eos.vote/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 1.3727077799749791E-5,
+  "webpage-error" : "Connection refused (Connection refused)",
+  "vote-percentage" : 1.3920222913305623E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "Connection refused (Connection refused)",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://eos.vote/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "Connection refused (Connection refused)"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 139,
-  "snapshot-date" : "2020-01-20T02:12:33.219Z"
+  "snapshot-date" : "2020-01-21T02:12:33.517Z"
 }
