@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "oasisproduce",
-    "total_votes" : "128552830775203.00000000000000000",
+    "total_votes" : "128632342684754.34375000000000000",
     "producer_key" : "EOS5wqMLH1t9dTGsgYmKKcNps2mdrzdBmJ8mL3PnNC2M8ktrLvEgs",
     "is_active" : 1,
     "url" : "http://eosoasis.io",
@@ -14,13 +14,13 @@
     "dl-error" : "Read timed out",
     "url" : "http://eosoasis.io/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 9.922465801294194E-7,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 9.923584027437704E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "Read timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 238,
-  "snapshot-date" : "2020-01-21T02:12:33.517Z"
+  "snapshot-date" : "2020-01-22T02:12:38.283Z"
 }
