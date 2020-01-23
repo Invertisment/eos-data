@@ -1,41 +1,50 @@
 {
   "bp-header" : {
     "owner" : "helloeoscnbp",
-    "total_votes" : "3739367220054541312.00000000000000000",
+    "total_votes" : "3743260498955305984.00000000000000000",
     "producer_key" : "EOS79cHpaEittzgJWgj79tdRhgzLEWy8wXmmQ3fL7kkDjmYYiGNet",
     "is_active" : 1,
     "url" : "https://www.helloeos.com.cn",
-    "unpaid_blocks" : 73,
-    "last_claim_time" : "2020-01-22T01:46:04.000",
+    "unpaid_blocks" : 72,
+    "last_claim_time" : "2020-01-23T01:48:19.000",
     "location" : 156,
     "prepared-url" : "https://www.helloeos.com.cn"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
-    "url" : "https://www.helloeos.com.cn/bp.json"
+    "url" : "https://www.helloeos.com.cn/bp.json",
+    "logo" : "https://www.helloeos.com.cn/images/helloeos_256.png",
+    "code_of_conduct" : "https://steemit.com/eos/@helloeos/helloeos-code-of-conduct"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 0.028848051775438473,
+  "analyzed-urls" : {
+    "relative-links-count" : 8,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://eosio.github.io/eos/", "https://github.com/eosio", "https://t.me/helloeos123", "https://twitter.com/helloEOS ", "https://weibo.com/helloEOS123" ],
+    "social-links-count" : 5,
+    "popularity-boosters" : [ "en/", "https://fibos.io/", "https://www.biask.com/", "https://www.chainnode.com/", "https://www.eos.io/", "https://www.helloeos.one/" ],
+    "popularity-boosters-count" : 6
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.028835386739213178,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "connect timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://www.helloeos.com.cn"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://www.helloeos.com.cn/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://www.helloeos.com.cn/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/eos/@helloeos/helloeos-code-of-conduct"
     } ],
-    "score" : 0,
+    "score" : 3,
     "max" : 3
   },
   "place" : 13,
-  "snapshot-date" : "2020-01-22T02:12:38.283Z"
+  "snapshot-date" : "2020-01-23T02:12:33.645Z"
 }
