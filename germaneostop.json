@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "germaneostop",
-    "total_votes" : "438909448628172.31250000000000000",
+    "total_votes" : "439091977206554.81250000000000000",
     "producer_key" : "EOS83SYvZgxFZxugkzjy1n5cxNr4xYL27wGxDY4yvszDxXWwx9RnW",
     "is_active" : 1,
     "url" : "http://www.germaneos.de",
@@ -11,39 +11,31 @@
     "prepared-url" : "http://www.germaneos.de"
   },
   "bp-json-summary" : {
-    "url" : "http://www.germaneos.de/bp.json",
-    "logo" : "http://www.germaneos.de/img/logo-middle.png",
-    "code_of_conduct" : "https://steemit.com/germaneos/@germaneos/germaneos-the-eos-block-producer-candidate-made-in-germany-update-25-05-2018"
+    "dl-error" : "NotAfter: Sat Jan 25 18:56:26 UTC 2020",
+    "url" : "http://www.germaneos.de/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 5,
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "https://snax.one" ],
-    "popularity-boosters-count" : 1
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 3.3767669362115587E-6,
+  "webpage-error" : "NotAfter: Sat Jan 25 18:56:26 UTC 2020",
+  "vote-percentage" : 3.3467876690406914E-6,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "http://www.germaneos.de"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "NotAfter: Sat Jan 25 18:56:26 UTC 2020",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "http://www.germaneos.de/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://www.germaneos.de/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "NotAfter: Sat Jan 25 18:56:26 UTC 2020"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://steemit.com/germaneos/@germaneos/germaneos-the-eos-block-producer-candidate-made-in-germany-update-25-05-2018"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 0,
     "max" : 3
   },
   "place" : 185,
-  "snapshot-date" : "2020-01-25T02:12:38.673Z"
+  "snapshot-date" : "2020-01-26T02:12:37.075Z"
 }
