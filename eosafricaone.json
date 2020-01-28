@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosafricaone",
-    "total_votes" : "4067608146884242.50000000000000000",
+    "total_votes" : "4067613911727480.50000000000000000",
     "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
     "is_active" : 0,
     "url" : "https://www.eosio.africa",
@@ -14,13 +14,13 @@
     "dl-error" : "www.eosio.africa",
     "url" : "https://www.eosio.africa/bp.json"
   },
-  "webpage-error" : "www.eosio.africa: Temporary failure in name resolution",
-  "vote-percentage" : 3.098639518536683E-5,
+  "webpage-error" : "www.eosio.africa: Name or service not known",
+  "vote-percentage" : 3.0975121131111917E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "www.eosio.africa: Temporary failure in name resolution",
+      "error" : "www.eosio.africa: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 116,
-  "snapshot-date" : "2020-01-27T02:12:34.330Z"
+  "snapshot-date" : "2020-01-28T02:12:43.406Z"
 }
