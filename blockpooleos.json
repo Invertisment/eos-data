@@ -1,17 +1,17 @@
 {
   "bp-header" : {
     "owner" : "blockpooleos",
-    "total_votes" : "3801206102735523328.00000000000000000",
+    "total_votes" : "3755071423191099392.00000000000000000",
     "producer_key" : "EOS61FDJz3GC42GhaPSsmKh7SxuesyZhjm7hBwBKqN52v1HukEqBu",
     "is_active" : 1,
-    "url" : "http://www.blockpool.com",
-    "unpaid_blocks" : 2333,
-    "last_claim_time" : "2020-01-28T18:31:15.000",
+    "url" : "https://www.blockpool.com",
+    "unpaid_blocks" : 621,
+    "last_claim_time" : "2020-01-29T21:47:52.000",
     "location" : 0,
-    "prepared-url" : "http://www.blockpool.com"
+    "prepared-url" : "https://www.blockpool.com"
   },
   "bp-json-summary" : {
-    "url" : "http://www.blockpool.com/bp.json",
+    "url" : "https://www.blockpool.com/bp.json",
     "logo" : "http://www.blockpool.com/logo/blockpool-256.png"
   },
   "analyzed-urls" : {
@@ -23,18 +23,18 @@
     "popularity-boosters-count" : 2
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.028952487845138545,
+  "vote-percentage" : 0.028658133160446343,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
       "mood" : "good",
       "title" : "web",
-      "url" : "http://www.blockpool.com"
+      "url" : "https://www.blockpool.com"
     }, {
       "score" : "positive",
       "mood" : "good",
       "title" : "bp-json",
-      "url" : "http://www.blockpool.com/bp.json"
+      "url" : "https://www.blockpool.com/bp.json"
     }, {
       "title" : "no-coc",
       "mood" : "bad",
@@ -43,6 +43,6 @@
     "score" : 2,
     "max" : 3
   },
-  "place" : 11,
-  "snapshot-date" : "2020-01-29T02:12:34.806Z"
+  "place" : 16,
+  "snapshot-date" : "2020-01-30T02:12:44.244Z"
 }
