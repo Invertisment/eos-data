@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "dexeosbpnode",
-    "total_votes" : "721645327682275328.00000000000000000",
+    "total_votes" : "721620580905569536.00000000000000000",
     "producer_key" : "EOS5qraVVdEwHaouJEqpFWJfZuxQViDxP3WZ826wGwt2bxnfuEGRF",
     "is_active" : 1,
     "url" : "https://dexeos.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-01-29T15:10:23.500",
+    "last_claim_time" : "2020-01-30T15:11:22.500",
     "location" : 0,
     "prepared-url" : "https://dexeos.io"
   },
@@ -16,7 +16,7 @@
     "code_of_conduct" : "https://medium.com/@DEXEOS/dexeos-bp-code-of-conduct-64cc1c9137ec"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 3,
+    "relative-links-count" : 4,
     "duplicate-urls" : null,
     "social-links" : [ "https://github.com/DEXEOS/dexeos-api-public", "https://t.me/dexeos_io_kr", "https://twitter.com/dexeosio" ],
     "social-links-count" : 3,
@@ -24,7 +24,7 @@
     "popularity-boosters-count" : 31
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.005507487225837542,
+  "vote-percentage" : 0.00550482744862641,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -50,5 +50,5 @@
     "max" : 3
   },
   "place" : 45,
-  "snapshot-date" : "2020-01-30T02:12:44.244Z"
+  "snapshot-date" : "2020-01-31T02:12:32.560Z"
 }
