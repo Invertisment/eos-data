@@ -11,23 +11,23 @@
     "prepared-url" : "http://eosoasis.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "Read timed out",
+    "dl-error" : "Connection refused (Connection refused)",
     "url" : "http://eosoasis.io/bp.json"
   },
-  "webpage-error" : "Read timed out",
-  "vote-percentage" : 9.997575540082481E-7,
+  "webpage-error" : "Connection refused (Connection refused)",
+  "vote-percentage" : 1.001046754843907E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Read timed out",
+      "error" : "Connection refused (Connection refused)",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://eosoasis.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Read timed out"
+      "error" : "Connection refused (Connection refused)"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 237,
-  "snapshot-date" : "2020-01-31T02:12:32.560Z"
+  "snapshot-date" : "2020-02-01T02:12:39.150Z"
 }
