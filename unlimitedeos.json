@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "unlimitedeos",
-    "total_votes" : "694901599773869952.00000000000000000",
+    "total_votes" : "694887303952800384.00000000000000000",
     "producer_key" : "EOS8jjSeSmwX4kxMbpo8G4uibMnhf52QrGi4f9N7Zd3jY6oYVt9g6",
     "is_active" : 1,
     "url" : "http://uipeos.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-01-31T02:19:50.000",
+    "last_claim_time" : "2020-02-01T02:20:01.000",
     "location" : 0,
     "prepared-url" : "http://uipeos.com"
   },
@@ -23,7 +23,7 @@
     "popularity-boosters-count" : 5
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.005307839458918337,
+  "vote-percentage" : 0.005291918506480226,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -44,6 +44,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 51,
-  "snapshot-date" : "2020-02-01T02:12:39.150Z"
+  "place" : 55,
+  "snapshot-date" : "2020-02-02T02:12:35.384Z"
 }
