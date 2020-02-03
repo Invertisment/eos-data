@@ -1,33 +1,33 @@
 {
   "bp-header" : {
     "owner" : "moreisfuture",
-    "total_votes" : "807484145524948992.00000000000000000",
+    "total_votes" : "815606917024799488.00000000000000000",
     "producer_key" : "EOS671RDSn2embqDJhFHKWZqqCfVgNAmi2p3vQZfQBX77GypcGoF2",
     "is_active" : 1,
     "url" : "https://more.top",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-02-01T18:02:43.500",
+    "last_claim_time" : "2020-02-02T18:03:10.500",
     "location" : 156,
     "prepared-url" : "https://more.top"
   },
   "bp-json-summary" : {
-    "dl-error" : "Read timed out",
+    "dl-error" : "clj-http: status 502",
     "url" : "https://more.top/bp.json"
   },
-  "webpage-error" : "Read timed out",
-  "vote-percentage" : 0.006149400441029067,
+  "webpage-error" : "clj-http: status 502",
+  "vote-percentage" : 0.006194054824094973,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Read timed out",
+      "error" : "clj-http: status 502",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://more.top/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Read timed out"
+      "error" : "clj-http: status 502"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 38,
-  "snapshot-date" : "2020-02-02T02:12:35.384Z"
+  "snapshot-date" : "2020-02-03T02:12:35.592Z"
 }
