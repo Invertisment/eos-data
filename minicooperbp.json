@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "minicooperbp",
-    "total_votes" : "37311734208460.00000000000000000",
+    "total_votes" : "21045287557076.12500000000000000",
     "producer_key" : "EOS4yJfXfBWf36XmevMsqutnuiaU6iPN8mes6D61bwtHpjwuWxdc9",
     "is_active" : 1,
     "url" : "http://www.serviceuptime.net",
@@ -15,7 +15,7 @@
     "url" : "http://www.serviceuptime.net/bp.json"
   },
   "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 2.8336067589068016E-7,
+  "vote-percentage" : 1.6003055628624474E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 284,
-  "snapshot-date" : "2020-02-03T02:12:35.592Z"
+  "place" : 297,
+  "snapshot-date" : "2020-02-04T02:12:48.130Z"
 }

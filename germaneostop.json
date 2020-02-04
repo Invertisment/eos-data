@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "germaneostop",
-    "total_votes" : "431836491906557.43750000000000000",
+    "total_votes" : "411761702031279.18750000000000000",
     "producer_key" : "EOS83SYvZgxFZxugkzjy1n5cxNr4xYL27wGxDY4yvszDxXWwx9RnW",
     "is_active" : 1,
     "url" : "http://www.germaneos.de",
@@ -11,31 +11,39 @@
     "prepared-url" : "http://www.germaneos.de"
   },
   "bp-json-summary" : {
-    "dl-error" : "NotAfter: Sat Jan 25 18:56:26 UTC 2020",
-    "url" : "http://www.germaneos.de/bp.json"
+    "url" : "http://www.germaneos.de/bp.json",
+    "logo" : "http://www.germaneos.de/img/logo-middle.png",
+    "code_of_conduct" : "https://steemit.com/germaneos/@germaneos/germaneos-the-eos-block-producer-candidate-made-in-germany-update-25-05-2018"
   },
-  "webpage-error" : "NotAfter: Sat Jan 25 18:56:26 UTC 2020",
-  "vote-percentage" : 3.2795441653086555E-6,
+  "analyzed-urls" : {
+    "relative-links-count" : 5,
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ "https://snax.one" ],
+    "popularity-boosters-count" : 1
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 3.1310788248783353E-6,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "NotAfter: Sat Jan 25 18:56:26 UTC 2020",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://www.germaneos.de"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "http://www.germaneos.de/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "NotAfter: Sat Jan 25 18:56:26 UTC 2020"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "http://www.germaneos.de/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/germaneos/@germaneos/germaneos-the-eos-block-producer-candidate-made-in-germany-update-25-05-2018"
     } ],
-    "score" : 0,
+    "score" : 3,
     "max" : 3
   },
-  "place" : 186,
-  "snapshot-date" : "2020-02-03T02:12:35.592Z"
+  "place" : 187,
+  "snapshot-date" : "2020-02-04T02:12:48.130Z"
 }

@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "blockmatrix1",
-    "total_votes" : "116980167965569248.00000000000000000",
+    "total_votes" : "117026749128621664.00000000000000000",
     "producer_key" : "EOS6oNSm6QKnMBzJDHiA32KsEjSgKKt1nGdPYfc2wZU34HA9GjP9q",
     "is_active" : 1,
     "url" : "https://blockmatrix.network",
@@ -16,15 +16,15 @@
     "code_of_conduct" : "https://blockmatrix.network#validators-#codeOfConduct"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 19,
+    "relative-links-count" : 8,
     "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/BlockMatrixNetwork", "https://t.me/eosinfra", "https://twitter.com/block_matrix", "https://www.linkedin.com/in/joshua-welsh-735190131/", "https://www.linkedin.com/in/joshuagedwards/", "https://www.linkedin.com/in/petercheyne/" ],
+    "social-links" : [ "https://github.com/BlockMatrixNetwork", "https://t.me/bottlepay", "https://twitter.com/bottlepay", "https://www.linkedin.com/in/joshua-welsh-735190131/", "https://www.linkedin.com/in/joshuagedwards/", "https://www.linkedin.com/in/petercheyne/" ],
     "social-links-count" : 6,
-    "popularity-boosters" : [ "https://about.bottle.li", "https://beta.companieshouse.gov.uk/company/11266919", "https://bottle.li/", "https://eosinfra.io", "https://eosnode.tools", "https://eosnode.tools/", "https://www.eosinfra.io/" ],
-    "popularity-boosters-count" : 7
+    "popularity-boosters" : [ "https://bottle.li/" ],
+    "popularity-boosters-count" : 1
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 8.883955721632786E-4,
+  "vote-percentage" : 8.898835766740191E-4,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -46,5 +46,5 @@
     "max" : 3
   },
   "place" : 72,
-  "snapshot-date" : "2020-02-03T02:12:35.592Z"
+  "snapshot-date" : "2020-02-04T02:12:48.130Z"
 }
