@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "dutcheosxxxx",
-    "total_votes" : "2623541001408729.50000000000000000",
+    "total_votes" : "2569605483339933.50000000000000000",
     "producer_key" : "EOS7zv7RMS5SuSRDfBzv7DUbS9ovf3MRvDyAkBum6AitpDs5NtMmT",
     "is_active" : 1,
     "url" : "https://dutcheos.io",
@@ -15,14 +15,22 @@
     "logo" : "https://dutcheos.io/assets/dutcheos_256.png",
     "code_of_conduct" : "https://dutcheos.io/code-of-conduct/"
   },
-  "webpage-error" : "Read timed out",
-  "vote-percentage" : 1.99496787466819E-5,
+  "analyzed-urls" : {
+    "relative-links-count" : 5,
+    "duplicate-urls" : null,
+    "social-links" : [ "http://t.me/DutchEOS", "https://steemit.com/@eos-nl", "https://twitter.com/DutchEOS", "https://www.reddit.com/user/dutcheos" ],
+    "social-links-count" : 4,
+    "popularity-boosters" : [ "https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fdutcheos.io%2F&linkname=DutchEOS%20%E2%80%93%20A%20Block%20Producer%20in%20the%20Netherlands", "https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fdutcheos.io%2F&linkname=DutchEOS%20%E2%80%93%20A%20Block%20Producer%20in%20the%20Netherlands", "https://www.addtoany.com/add_to/pocket?linkurl=https%3A%2F%2Fdutcheos.io%2F&linkname=DutchEOS%20%E2%80%93%20A%20Block%20Producer%20in%20the%20Netherlands", "https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fdutcheos.io%2F&linkname=DutchEOS%20%E2%80%93%20A%20Block%20Producer%20in%20the%20Netherlands", "https://www.addtoany.com/add_to/telegram?linkurl=https%3A%2F%2Fdutcheos.io%2F&linkname=DutchEOS%20%E2%80%93%20A%20Block%20Producer%20in%20the%20Netherlands", "https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fdutcheos.io%2F&linkname=DutchEOS%20%E2%80%93%20A%20Block%20Producer%20in%20the%20Netherlands" ],
+    "popularity-boosters-count" : 6
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 1.9482524289426016E-5,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "Read timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://dutcheos.io"
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -34,9 +42,9 @@
       "title" : "coc",
       "url" : "https://dutcheos.io/code-of-conduct/"
     } ],
-    "score" : 2,
+    "score" : 3,
     "max" : 3
   },
-  "place" : 127,
-  "snapshot-date" : "2020-02-04T02:12:48.130Z"
+  "place" : 128,
+  "snapshot-date" : "2020-02-05T02:12:43.346Z"
 }

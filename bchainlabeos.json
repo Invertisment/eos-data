@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "bchainlabeos",
-    "total_votes" : "3002647101066167.50000000000000000",
+    "total_votes" : "2994900158266131.00000000000000000",
     "producer_key" : "EOS6n6RZi6EXHKBX53HyuXgzMw5sUzWWQomwDLYLc1PcjZY3CCzzE",
     "is_active" : 1,
     "url" : "https://blockchainlab.me",
@@ -18,13 +18,13 @@
   "analyzed-urls" : {
     "relative-links-count" : 8,
     "duplicate-urls" : null,
-    "social-links" : [ "https://steemit.com/eos/@blockchainlabme/presenting-blockchainlab-as-an-eos-block-producer-candidate" ],
+    "social-links" : [ "https://www.facebook.com/CoinTelegram.News/" ],
     "social-links-count" : 1,
-    "popularity-boosters" : [ "https://blockchainart.io/", "https://btcu.ua", "https://cointelegram.news/", "https://cryptowhisky.io", "https://dep.exchange/", "https://icokit.me/", "https://litego.io" ],
-    "popularity-boosters-count" : 7
+    "popularity-boosters" : [ "https://blockchainart.io/", "https://btcu.ua", "https://cryptowhisky.io", "https://litego.io" ],
+    "popularity-boosters-count" : 4
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.2832440973387117E-5,
+  "vote-percentage" : 2.2707071360225154E-5,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -46,5 +46,5 @@
     "max" : 3
   },
   "place" : 125,
-  "snapshot-date" : "2020-02-04T02:12:48.130Z"
+  "snapshot-date" : "2020-02-05T02:12:43.346Z"
 }
