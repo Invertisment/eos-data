@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "okcapitalbp1",
-    "total_votes" : "3878682656794405376.00000000000000000",
+    "total_votes" : "3866504057614358016.00000000000000000",
     "producer_key" : "EOS6NqWZ1i9KSNoeBiby6Nmf1seAbEfhvrDoCbwSi1hV4cuqqnYRP",
     "is_active" : 1,
     "url" : "https://www.okex.com/eosbp/",
-    "unpaid_blocks" : 533,
-    "last_claim_time" : "2020-02-05T00:30:14.000",
+    "unpaid_blocks" : 512,
+    "last_claim_time" : "2020-02-06T00:32:05.500",
     "location" : 0,
     "prepared-url" : "https://www.okex.com/eosbp/"
   },
@@ -16,15 +16,15 @@
     "code_of_conduct" : "https://steemit.com/eos/@okpool/okpool-code-of-conduct"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 35,
+    "relative-links-count" : 37,
     "duplicate-urls" : null,
     "social-links" : [ "https://www.linkedin.com/company/okex/jobs/" ],
     "social-links-count" : 1,
-    "popularity-boosters" : [ "http://www.120btc.com/", "http://www.btc126.com", "http://www.coinvoice.cn/", "https://bbx.vip/", "https://blog.okex.com/", "https://tiger.cloud/", "https://www.99ex.com/", "https://www.aicoin.cn", "https://www.chainfor.com", "https://www.chainwhy.com", "https://www.coinall.live", "https://www.coinfarm.online/", "https://www.f2pool.com/", "https://www.feixiaohao.com/exchange/okex/", "https://www.fmz.com", "https://www.ok.cn", "https://www.qkl123.com/" ],
-    "popularity-boosters-count" : 17
+    "popularity-boosters" : [ "http://www.120btc.com/", "http://www.btc126.com", "http://www.coinvoice.cn/", "https://bbx.vip/", "https://tiger.cloud/", "https://www.99ex.com/", "https://www.aicoin.cn", "https://www.chainfor.com", "https://www.chainwhy.com", "https://www.coinall.live", "https://www.coinfarm.online/", "https://www.f2pool.com/", "https://www.feixiaohao.com/exchange/okex/", "https://www.fmz.com", "https://www.ok.cn", "https://www.qkl123.com/" ],
+    "popularity-boosters-count" : 16
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.029407833055272063,
+  "vote-percentage" : 0.029355625013710713,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -46,5 +46,5 @@
     "max" : 3
   },
   "place" : 5,
-  "snapshot-date" : "2020-02-05T02:12:43.346Z"
+  "snapshot-date" : "2020-02-06T02:12:34.173Z"
 }

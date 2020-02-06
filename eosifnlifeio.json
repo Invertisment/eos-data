@@ -1,38 +1,37 @@
 {
   "bp-header" : {
-    "owner" : "eosadddddddd",
-    "total_votes" : "1944733671232795.50000000000000000",
-    "producer_key" : "EOS8RBVQtaZRWNq5iRoKK3b5nnWHPmqoLgUZbK3TfAtyvucy4QR65",
+    "owner" : "eosifnlifeio",
+    "total_votes" : "0.00000000000000000",
+    "producer_key" : "EOS5thFmAd2CukzY4bj3EL8CrKGPNFuQMeR8Mt9PDMzrkkwGzZy8K",
     "is_active" : 1,
-    "url" : "http://eosadd.com",
+    "url" : "http://ifnlife.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2018-06-23T15:12:41.000",
+    "last_claim_time" : "2020-02-05T12:21:52.500",
     "location" : 0,
-    "prepared-url" : "http://eosadd.com"
+    "prepared-url" : "http://ifnlife.com"
   },
   "bp-json-summary" : {
     "dl-error" : "clj-http: status 404",
-    "url" : "http://eosadd.com/bp.json"
+    "url" : "http://ifnlife.com/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 7,
+    "relative-links-count" : 3,
     "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/EOSADD/EOSADD.github.io/raw/master/" ],
-    "social-links-count" : 1,
+    "social-links" : [ ],
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.4764984480443267E-5,
+  "vote-percentage" : 0.0,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
       "mood" : "good",
       "title" : "web",
-      "url" : "http://eosadd.com"
+      "url" : "http://ifnlife.com"
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
-      "url" : "http://eosadd.com/bp.json",
+      "url" : "http://ifnlife.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
       "error" : "clj-http: status 404"
     }, {
@@ -43,6 +42,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 134,
+  "place" : 598,
   "snapshot-date" : "2020-02-06T02:12:34.173Z"
 }
