@@ -1,45 +1,41 @@
 {
   "bp-header" : {
     "owner" : "big.one",
-    "total_votes" : "3331982959739501568.00000000000000000",
+    "total_votes" : "3345082406796400640.00000000000000000",
     "producer_key" : "EOS8MpYyXwn3DLqk9Y9XTHYcd6wGGijNqJefFoQEwEoXTq1awZ42w",
     "is_active" : 1,
     "url" : "https://eos.big.one",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-02-05T06:38:21.000",
+    "last_claim_time" : "2020-02-06T06:38:28.500",
     "location" : 392,
     "prepared-url" : "https://eos.big.one"
   },
   "bp-json-summary" : {
-    "url" : "https://eos.big.one/bp.json",
-    "logo" : "https://storage.googleapis.com/static-61cdd52e-15d8-4b00-9e92-b7052710674d/logo/bigone/logo_256.png"
+    "dl-error" : "Read timed out",
+    "url" : "https://eos.big.one/bp.json"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.02529738514707192,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 0.025319450915125583,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eos.big.one"
-    }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://eos.big.one/bp.json"
-    }, {
-      "title" : "no-coc",
       "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eos.big.one/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "Read timed out"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 0,
     "max" : 3
   },
   "place" : 22,
-  "snapshot-date" : "2020-02-06T02:12:34.173Z"
+  "snapshot-date" : "2020-02-07T02:12:30.966Z"
 }

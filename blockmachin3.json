@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "blockmachin3",
-    "total_votes" : "107511235813890.65625000000000000",
+    "total_votes" : "112294188414715.98437500000000000",
     "producer_key" : "EOS8fjUbfts4RAAUE4NM91dLVJm3LTscR21hbxoLck6bpwzV4y9Cw",
     "is_active" : 1,
     "url" : "https://blockmachine.io",
@@ -11,40 +11,31 @@
     "prepared-url" : "https://blockmachine.io"
   },
   "bp-json-summary" : {
-    "url" : "https://blockmachine.io/bp.json",
-    "logo" : "https://blockmachine.io/blockmachine-logo-256.jpg",
-    "code_of_conduct" : "https://blockmachine.io#services"
+    "dl-error" : "blockmachine.io",
+    "url" : "https://blockmachine.io/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 5,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/blockmachine", "https://t.me/EOSUSDcom", "https://www.linkedin.com/in/andrewbryan/", "https://www.meetup.com/EOS-blockchain-project-eosUSD" ],
-    "social-links-count" : 4,
-    "popularity-boosters" : [ "http://startbootstrap.com", "https://eosusd.com" ],
-    "popularity-boosters-count" : 2
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 8.16256617421086E-7,
+  "webpage-error" : "blockmachine.io: Name or service not known",
+  "vote-percentage" : 8.49972241593664E-7,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://blockmachine.io"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "blockmachine.io: Name or service not known",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://blockmachine.io/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://blockmachine.io/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "blockmachine.io"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://blockmachine.io#services"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 244,
-  "snapshot-date" : "2020-02-06T02:12:34.173Z"
+  "place" : 242,
+  "snapshot-date" : "2020-02-07T02:12:30.966Z"
 }
