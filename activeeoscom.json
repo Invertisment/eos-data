@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "activeeoscom",
-    "total_votes" : "522657629003406.81250000000000000",
+    "total_votes" : "512363510977221.12500000000000000",
     "producer_key" : "EOS788SrVzZ3mJt3WUZkmYadjFJCisJGhZRTp85EznxEaqsARN26w",
     "is_active" : 1,
     "url" : "https://www.activeeos.com",
@@ -15,7 +15,7 @@
     "url" : "https://www.activeeos.com/bp.json"
   },
   "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 3.908498307624187E-6,
+  "vote-percentage" : 3.838853263215042E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 178,
-  "snapshot-date" : "2020-02-09T02:12:21.637Z"
+  "snapshot-date" : "2020-02-10T02:12:28.305Z"
 }

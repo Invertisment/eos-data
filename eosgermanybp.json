@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosgermanybp",
-    "total_votes" : "4932760896538623.00000000000000000",
+    "total_votes" : "4899406092442108.00000000000000000",
     "producer_key" : "EOS6KTbE5ktt6snuTGoQYFibvC3w86T7NVpYLhUFamNNPNJxgUSZ8",
     "is_active" : 1,
     "url" : "https://eosgermany.one",
@@ -11,40 +11,31 @@
     "prepared-url" : "https://eosgermany.one"
   },
   "bp-json-summary" : {
-    "url" : "https://eosgermany.one/bp.json",
-    "logo" : "https://eosgermanybp.keybase.pub/branding/logo_256.png",
-    "code_of_conduct" : "https://steemit.com/eosgermany/@eosgermany/code-of-conduct-eos-germany"
+    "dl-error" : "connect timed out",
+    "url" : "https://eosgermany.one/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 14,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://api.whatsapp.com/send?text=https%3A%2F%2Feosgermany.one%2F%20Home", "https://steemit.com/@eosgermany", "https://telegram.me/share/url?url=https%3A%2F%2Feosgermany.one%2F&text=Home", "https://twitter.com/EOSGermany1", "https://twitter.com/share?url=https%3A%2F%2Feosgermany.one%2F&text=Home", "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Feosgermany.one%2F", "https://www.linkedin.com/company/eos-germany/", "https://www.pinterest.com/pin/create/link/?url=https%3A%2F%2Feosgermany.one%2F&media=https%3A%2F%2Feosgermany.one%2Fwp-content%2Fplugins%2Fshariff%2Fimages%2FdefaultHint.png&description=Home" ],
-    "social-links-count" : 8,
-    "popularity-boosters" : [ "?s=", "http://ct.de/-2467514", "https://www.xing.com/spi/shares/new?url=https%3A%2F%2Feosgermany.one%2F", "sms:?&body=https%3A%2F%2Feosgermany.one%2F" ],
-    "popularity-boosters-count" : 4
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 3.688779527201793E-5,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 3.670850999891603E-5,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eosgermany.one"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "connect timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://eosgermany.one/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eosgermany.one/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "connect timed out"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://steemit.com/eosgermany/@eosgermany/code-of-conduct-eos-germany"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 112,
-  "snapshot-date" : "2020-02-09T02:12:21.637Z"
+  "place" : 111,
+  "snapshot-date" : "2020-02-10T02:12:28.305Z"
 }
