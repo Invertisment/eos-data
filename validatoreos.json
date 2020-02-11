@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "validatoreos",
-    "total_votes" : "709598521948131328.00000000000000000",
+    "total_votes" : "709452236685355648.00000000000000000",
     "producer_key" : "EOS8h87g5rpLg77ZCJy1J2JPJaCtEeNTAbhGmEsQoz5ngGt3cRaHX",
     "is_active" : 1,
     "url" : "http://validatoreos.xyz",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-02-09T11:45:38.500",
+    "last_claim_time" : "2020-02-10T11:56:50.000",
     "location" : 0,
     "prepared-url" : "http://validatoreos.xyz"
   },
@@ -20,7 +20,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.005316624902420621,
+  "vote-percentage" : 0.0053007940140188175,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -41,5 +41,5 @@
     "max" : 3
   },
   "place" : 51,
-  "snapshot-date" : "2020-02-10T02:12:28.305Z"
+  "snapshot-date" : "2020-02-11T02:12:27.744Z"
 }
