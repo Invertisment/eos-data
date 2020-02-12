@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "moreisfuture",
-    "total_votes" : "780237340431412480.00000000000000000",
+    "total_votes" : "776999858143446656.00000000000000000",
     "producer_key" : "EOS671RDSn2embqDJhFHKWZqqCfVgNAmi2p3vQZfQBX77GypcGoF2",
     "is_active" : 1,
     "url" : "https://more.top",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-02-10T23:16:29.000",
+    "last_claim_time" : "2020-02-11T23:16:54.000",
     "location" : 156,
     "prepared-url" : "https://more.top"
   },
@@ -15,7 +15,7 @@
     "url" : "https://more.top/bp.json"
   },
   "webpage-error" : "clj-http: status 502",
-  "vote-percentage" : 0.005829677051969136,
+  "vote-percentage" : 0.005811485148933355,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 40,
-  "snapshot-date" : "2020-02-11T02:12:27.744Z"
+  "snapshot-date" : "2020-02-12T02:12:36.677Z"
 }

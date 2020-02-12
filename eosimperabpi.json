@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosimperabpi",
-    "total_votes" : "1121471469396769.25000000000000000",
+    "total_votes" : "1117510186432461.25000000000000000",
     "producer_key" : "EOS63rCidUQkvk4e4YABXMRzHoPdUYKuSBG38ra8KFnK2vWgHkPf3",
     "is_active" : 1,
     "url" : "https://eosimpera.io",
@@ -11,31 +11,40 @@
     "prepared-url" : "https://eosimpera.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "NotAfter: Sun Feb 09 18:36:37 UTC 2020",
-    "url" : "https://eosimpera.io/bp.json"
+    "url" : "https://eosimpera.io/bp.json",
+    "logo" : "https://eosimpera.io/LogoI_256.jpg",
+    "code_of_conduct" : "https://steemit.com/eos/@eosimperabpi/eos-impera-code-of-conduct"
   },
-  "webpage-error" : "NotAfter: Sun Feb 09 18:36:37 UTC 2020",
-  "vote-percentage" : 8.379266347295724E-6,
+  "analyzed-urls" : {
+    "relative-links-count" : 2,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://github.com/eosimperabpi", "https://github.com/greymass/eos-voter", "https://steemit.com/@eosimperabpi", "https://t.me/Imperabp", "https://t.me/eosimpera", "https://t.me/joinchat/AAAAAFJIWcbQIPdDksJvhQ", "https://twitter.com/EOS_Italy", "https://www.youtube.com/channel/UCoSjOxM7ycy2fW7nicEutsg" ],
+    "social-links-count" : 8,
+    "popularity-boosters" : [ "https://discordapp.com/invite/a7TUdNE", "https://monitor.telosfoundation.io/", "https://telostracker.io/monitor", "https://www.eosx.io/account/eosimperabpi" ],
+    "popularity-boosters-count" : 4
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 8.35829477208865E-6,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "NotAfter: Sun Feb 09 18:36:37 UTC 2020",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eosimpera.io"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://eosimpera.io/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "NotAfter: Sun Feb 09 18:36:37 UTC 2020"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eosimpera.io/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/eos/@eosimperabpi/eos-impera-code-of-conduct"
     } ],
-    "score" : 0,
+    "score" : 3,
     "max" : 3
   },
   "place" : 150,
-  "snapshot-date" : "2020-02-11T02:12:27.744Z"
+  "snapshot-date" : "2020-02-12T02:12:36.677Z"
 }

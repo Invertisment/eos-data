@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosrealbpcsg",
-    "total_votes" : "311320092282041.62500000000000000",
+    "total_votes" : "322440256300649.56250000000000000",
     "producer_key" : "EOS6fcpQu16GAASdLwK6BbTQTMK5EZSh1ecci2oKQJdioQvxp8DRs",
     "is_active" : 1,
     "url" : "http://www.eosreal.com",
@@ -15,19 +15,14 @@
     "logo" : "http://www.eosreal.com/logo_256.png",
     "code_of_conduct" : "http://eosreal.com/news/?id=464"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.3260814418213195E-6,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 2.411656503241659E-6,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "http://www.eosreal.com"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -39,9 +34,9 @@
       "title" : "coc",
       "url" : "http://eosreal.com/news/?id=464"
     } ],
-    "score" : 3,
+    "score" : 2,
     "max" : 3
   },
-  "place" : 197,
-  "snapshot-date" : "2020-02-11T02:12:27.744Z"
+  "place" : 196,
+  "snapshot-date" : "2020-02-12T02:12:36.677Z"
 }
