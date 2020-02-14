@@ -16,12 +16,12 @@
     "code_of_conduct" : "https://blokcrafters.com/code_of_conduct.html"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 13,
+    "relative-links-count" : 7,
     "duplicate-urls" : null,
-    "social-links" : [ "https://medium.com/@bc_18207", "https://t.me/blokcrafters", "https://twitter.com/BrandonDickey16", "https://twitter.com/NKerkinni", "https://twitter.com/blokcrafters", "https://www.linkedin.com/in/dan-dickey-2b600236", "https://www.linkedin.com/in/fuat-kerkinni" ],
+    "social-links" : [ "https://medium.com/@bc_18207", "https://t.me/blokcrafters", "https://twitter.com/BrandonDickey16", "https://twitter.com/blokcrafters?lang=en", "https://twitter.com/nkerkinni", "https://www.linkedin.com/in/dan-dickey-2b600236", "https://www.linkedin.com/in/fuat-kerkinni" ],
     "social-links-count" : 7,
-    "popularity-boosters" : [ "https://wax.bloks.io/vote" ],
-    "popularity-boosters-count" : 1
+    "popularity-boosters" : [ "https://wax.bloks.io/vote?producers=blokcrafters", "map-tool/map-tool.php" ],
+    "popularity-boosters-count" : 2
   },
   "p-ram-amounts" : [ ],
   "vote-percentage" : 0.0,
@@ -46,5 +46,5 @@
     "max" : 3
   },
   "place" : 579,
-  "snapshot-date" : "2020-02-13T02:12:23.763Z"
+  "snapshot-date" : "2020-02-14T02:12:29.106Z"
 }
