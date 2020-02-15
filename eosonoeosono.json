@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosonoeosono",
-    "total_votes" : "4363727585204635.00000000000000000",
+    "total_votes" : "4381573967563293.50000000000000000",
     "producer_key" : "EOS5AHfFwaJxjMPkrufw4aCTFvJJUVgpwqwvghhYrFahik7oxaXah",
     "is_active" : 1,
     "url" : "https://ono.chat",
@@ -11,23 +11,23 @@
     "prepared-url" : "https://ono.chat"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "ono.chat",
     "url" : "https://ono.chat/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 3.287446960560005E-5,
+  "webpage-error" : "ono.chat: Name or service not known",
+  "vote-percentage" : 3.3241284200290514E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "ono.chat: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://ono.chat/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "ono.chat"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 113,
-  "snapshot-date" : "2020-02-14T02:12:29.106Z"
+  "place" : 112,
+  "snapshot-date" : "2020-02-15T02:12:26.955Z"
 }

@@ -15,12 +15,15 @@
     "url" : "http://mixbytes.io/bp.json"
   },
   "analyzed-urls" : {
+    "relative-links-count" : 20,
     "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
+    "social-links" : [ "https://github.com/mixbytes", "https://github.com/mixbytes/audits_public/blob/master/solidity/PoA%20Consensus/audit_en.md", "https://github.com/mixbytes/storiqa_ico", "https://github.com/smartzplatform", "https://medium.com/mixbytes", "https://t.me/MixBytes", "https://t.me/darya_dao", "https://t.me/vadimbuyanov", "https://twitter.com/MixBytes", "https://www.facebook.com/mixbyteslabs/", "https://www.linkedin.com/company/mixbytes/", "https://www.linkedin.com/in/aleksey-makeyev-98471884/", "https://www.linkedin.com/in/darya-vystavkina-043b3b181/", "https://www.linkedin.com/in/sergey-prilutskiy-2a619951/", "https://www.linkedin.com/in/vadim-buyanov/" ],
+    "social-links-count" : 15,
+    "popularity-boosters" : [ "blog", "https://smartz.io/", "https://techreviewer.co/top-blockchain-development-companies-in-2019/", "https://www.goodfirms.co/companies/view/12506/mixbytes" ],
+    "popularity-boosters-count" : 4
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.8617496458998555E-8,
+  "vote-percentage" : 1.874855503796893E-8,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -42,5 +45,5 @@
     "max" : 3
   },
   "place" : 391,
-  "snapshot-date" : "2020-02-14T02:12:29.106Z"
+  "snapshot-date" : "2020-02-15T02:12:26.955Z"
 }
