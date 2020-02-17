@@ -11,23 +11,23 @@
     "prepared-url" : "https://eos.diandianbear.cn"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "Certificate for <eos.diandianbear.cn> doesn't match any of the subject alternative names: [ssl952271.cloudflaressl.com, *.iww.org, iww.org]",
     "url" : "https://eos.diandianbear.cn/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 3.215581203217245E-10,
+  "webpage-error" : "Certificate for <eos.diandianbear.cn> doesn't match any of the subject alternative names: [ssl952271.cloudflaressl.com, *.iww.org, iww.org]",
+  "vote-percentage" : 3.2281028902705015E-10,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "Certificate for <eos.diandianbear.cn> doesn't match any of the subject alternative names: [ssl952271.cloudflaressl.com, *.iww.org, iww.org]",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eos.diandianbear.cn/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "Certificate for <eos.diandianbear.cn> doesn't match any of the subject alternative names: [ssl952271.cloudflaressl.com, *.iww.org, iww.org]"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 488,
-  "snapshot-date" : "2020-02-16T02:12:27.479Z"
+  "snapshot-date" : "2020-02-17T02:12:35.743Z"
 }
