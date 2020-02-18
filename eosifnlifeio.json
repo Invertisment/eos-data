@@ -15,9 +15,10 @@
     "url" : "http://ifnlife.com/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 3,
+    "relative-links-count" : 2,
     "duplicate-urls" : null,
-    "social-links" : [ ],
+    "social-links" : [ "http://facebook.com/ifnlife", "http://instagram.com/ifnote.me", "http://linkedin.com/company/ifnlfe/", "http://twitter.com/ifnlife" ],
+    "social-links-count" : 4,
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
@@ -43,5 +44,5 @@
     "max" : 3
   },
   "place" : 598,
-  "snapshot-date" : "2020-02-17T02:12:35.743Z"
+  "snapshot-date" : "2020-02-18T02:12:44.438Z"
 }

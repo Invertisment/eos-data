@@ -1,33 +1,33 @@
 {
   "bp-header" : {
     "owner" : "eosyskoreabp",
-    "total_votes" : "105628366870922224.00000000000000000",
+    "total_votes" : "105127649975905392.00000000000000000",
     "producer_key" : "EOS7TjKVBkBcSmjsXF4jJfZ1QU9RqVHuBkkcHNJoEcHGR79CoLf2f",
     "is_active" : 1,
     "url" : "https://eosys.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-02-14T03:30:07.000",
+    "last_claim_time" : "2020-02-17T03:30:03.000",
     "location" : 410,
     "prepared-url" : "https://eosys.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "eosys.io",
+    "dl-error" : "Connection refused (Connection refused)",
     "url" : "https://eosys.io/bp.json"
   },
-  "webpage-error" : "eosys.io: No address associated with hostname",
-  "vote-percentage" : 8.034160891451867E-4,
+  "webpage-error" : "Connection refused (Connection refused)",
+  "vote-percentage" : 8.045792637179944E-4,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "eosys.io: No address associated with hostname",
+      "error" : "Connection refused (Connection refused)",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eosys.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "eosys.io"
+      "error" : "Connection refused (Connection refused)"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 74,
-  "snapshot-date" : "2020-02-17T02:12:35.743Z"
+  "snapshot-date" : "2020-02-18T02:12:44.438Z"
 }

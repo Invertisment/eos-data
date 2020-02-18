@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosromania22",
-    "total_votes" : "271613786456517.03125000000000000",
+    "total_votes" : "271608290607687.21875000000000000",
     "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
     "is_active" : 0,
     "url" : "http://eos.romania22.com",
@@ -11,31 +11,39 @@
     "prepared-url" : "http://eos.romania22.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "read-error" : "read:'http://eos.romania22.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
     "url" : "http://eos.romania22.com/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 2.0659117672383792E-6,
+  "analyzed-urls" : {
+    "relative-links-count" : 26,
+    "duplicate-urls" : null,
+    "social-links" : [ "http://l.facebook.com/l.php?u=http%3A%2F%2Feos.romania22.com%2F&h=AT1-f6fCzEFt5BEodxxdZyNaNmWHFLgdMLOO2JuFAvoF2drKibrdcChSdZzA0-W8OqnIUfA98szrfx5v6LaYsHYlMMQ2GhWJNLEb0vQ_dZUOmp9SzIALVtcedSsaTyRRKYK540zTql4cfEK2U0c", "http://l.facebook.com/l.php?u=http%3A%2F%2Feos.romania22.com%2F&h=AT1Kq4Yj4SoJWeZrb6BsVPnGEI7Rc6yBeEr0W_Ui1dcibwEgKZ74Q2Ck8RSLVzLxvEGaan9IP6I81AOggV-7xOxVJYWJNgDgplMjci3eqHxU94HlWeI9hngJFpzxvUyw14NYE2tCFtGSMyh7", "https://l.facebook.com/l.php?u=https%3A%2F%2Fkeybase.io%2Finv%2F02f5d131b2&h=AT00ctSqNzv7vYTIjJaUUcZyTUx4_TjE0nqm6Y7lDy8C5jOsXmOHdGMueDy-WxDgvW1Saq0xcssRUzUoj5cqSfgwrzrhQPcw5OaL5C6-xLxc6_RbMAue3wBx1moCn1dkHEWGrwuwdY6CwB27xiq5qcT0EaPkPETRX73WshaPASD8XQ", "https://l.facebook.com/l.php?u=https%3A%2F%2Fkeybase.io%2Finv%2F02f5d131b2&h=AT0yadMPDAKHKgOPe6jvyal-lp1jmTqgdYjzSyb_Hc_eTt5bLr2DzAelqBIjDzxjNRU2-59PAyblZF_aEbLiWu4_pFe8LS79H2Mqh9P5sXXs6ak3iUHMvUPK4Q6Z2R5vp_UuST9BE3dAynO6AEaEaKGznOk85Q1pMkc", "https://l.facebook.com/l.php?u=https%3A%2F%2Fsteemit.com%2Feos%2F%40greymass%2Fannouncing-eos-voter-an-eos-block-producer-voting-tool-and-light-wallet&h=AT2UuYU4gEipMICIyOD0H0yE8gNLPbNn7DpeNF6WxjDqEA5AF3dcD7-ZUremAd_4f7928IV33Q0IdpqaNlreivLXwb3AFkQu91Qn4XHo2bueoJJPvdSn6e_cNQPX1gA-rSwTf_YOPF3o4AHwiBUmJbrsVZUVUJluNxzg0aAruGs0Ig", "https://l.facebook.com/l.php?u=https%3A%2F%2Fsteemit.com%2Feos%2F%40unus%2Fhow-to-vote-for-eos-romania-block-producer&h=AT1USc8Q5wxkde8yM8h-VE9EBV0qV3EgtzJ-5q-Nx0MlQGNqR29S55v8vGjh7SBRHCf1m64T1M406OpWFJF34eX4xaRf86ps59O-N-HGR4xXwP7b1yoZb09iVF6rIHdvISjkC2Yfis40A8yPHm1XvGeB0lN9nHBhbiIEPNvcY6RWwg", "https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2F_hWRAjLKa8w&h=AT3cEKE0_XyE4U3uYpxOGgOVPspnf7KN9Lf4IoS0OmfHrkai7xUt85UE1RNclJLFzhvRem0Er-5eB_vc7t0VfJ9YCaXCS_UoachcpRwxPqSoN29A1r6DKnA05fIPGE4x3NMy0YKizcD9xwrbt8RsEHEs-he3IGVcUhpDf0cxFIIFpg", "https://www.facebook.com/1ClickMiners/?ref=py_c", "https://www.facebook.com/ADS-Agentia-De-Securitate-915315025294021/?ref=py_c", "https://www.facebook.com/AIrisVision/?ref=py_c", "https://www.facebook.com/Cold-Steel-Defense-Concept-583688551814637/?ref=py_c", "https://www.facebook.com/Cupcake-179809742597380/?ref=py_c", "https://www.facebook.com/EOSro/?hc_ref=ARRtZFZh96vgS5mjytdpU6tqm_g458Eaa0BCFGhgIB2pvpmwBF8gMXf_ynYjwOdDpBk&fref=nf", "https://www.facebook.com/EOSro/?hc_ref=ARSP88JYlnwHxvMsiEYgmG-vzvjiNgQW2TKT4Xyr-JEm8eC15axz8Ui1YoClKkSO59o&ref=nf_target", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARR17BaubB9acUohUt2W_3gkS3yXNvn_XzCS27lTN1Zlc8LgImsVdSLTk6njiv-SP58", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARSh1qQciWEt2x1wLU7j17ZktMMy_tcYu-ScbdM6pP7n5WRaDjpYG334LdcWJqpDR3s", "https://www.facebook.com/EOSro/likes", "https://www.facebook.com/EOSro/likes?ref=page_internal", "https://www.facebook.com/EOSro/posts", "https://www.facebook.com/Giulia-Avon-Reggio-Calabria-144236755997784/?ref=py_c", "https://www.facebook.com/MuzicaEsteLeaculInimii/?ref=py_c", "https://www.facebook.com/RomaniaEarthship/?ref=py_c", "https://www.facebook.com/Yonchim-Drive-SRL-123718561513183/?ref=py_c", "https://www.facebook.com/ad_campaign/landing.php?placement=pf_rhc&campaign_id=242449722530626&extra_1=auto", "https://www.facebook.com/astabimdesign/?ref=py_c", "https://www.facebook.com/certipro.ro/?ref=py_c", "https://www.facebook.com/despreautomobile/?ref=py_c", "https://www.facebook.com/dgpimobiliare/?ref=py_c", "https://www.facebook.com/diadecor.ro/?ref=py_c", "https://www.facebook.com/electricistaeco/?ref=py_c", "https://www.facebook.com/eosdac/?ref=py_c", "https://www.facebook.com/eosgoio/?ref=py_c", "https://www.facebook.com/eosphereio/?ref=py_c", "https://www.facebook.com/eosswedenorg/?ref=py_c", "https://www.facebook.com/help/568137493302217", "https://www.facebook.com/help/cookies?ref_type=sitefooter", "https://www.facebook.com/lectii.info/?ref=py_c", "https://www.facebook.com/policies?ref=pf", "https://www.facebook.com/privacy/explanation", "https://www.facebook.com/recover/initiate?lwv=110&ars=royal_blue_bar" ],
+    "social-links-count" : 40,
+    "popularity-boosters" : [ "https://www.facebook.com/" ],
+    "popularity-boosters-count" : 1
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 2.0787147674938215E-6,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "connect timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://eos.romania22.com"
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://eos.romania22.com/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'http://eos.romania22.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 0,
+    "score" : 1,
     "max" : 3
   },
   "place" : 205,
-  "snapshot-date" : "2020-02-17T02:12:35.743Z"
+  "snapshot-date" : "2020-02-18T02:12:44.438Z"
 }
