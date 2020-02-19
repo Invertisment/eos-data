@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosrussiacom",
-    "total_votes" : "1028362172165379.00000000000000000",
+    "total_votes" : "1029196721041780.62500000000000000",
     "producer_key" : "EOS5ph2U56qqMfT5TLPyf3PinfCJQ3w2iTV1KjmSnbEV2Yisn21dD",
     "is_active" : 1,
     "url" : "http://eos.adenso.ru",
@@ -11,31 +11,35 @@
     "prepared-url" : "http://eos.adenso.ru"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
     "url" : "http://eos.adenso.ru/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 7.870421145206734E-6,
+  "analyzed-urls" : {
+    "relative-links-count" : 1,
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ "64G RAM" ],
+  "vote-percentage" : 7.892448158335946E-6,
   "scoring" : {
     "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://eos.adenso.ru"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "http://eos.adenso.ru/bp.json"
+    }, {
+      "title" : "no-coc",
       "mood" : "bad",
-      "title" : "no-web",
-      "error" : "connect timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
-    }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "http://eos.adenso.ru/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
-    }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "paragraphs" : [ "value-empty" ]
     } ],
-    "score" : 0,
+    "score" : 2,
     "max" : 3
   },
   "place" : 151,
-  "snapshot-date" : "2020-02-18T02:12:44.438Z"
+  "snapshot-date" : "2020-02-19T02:12:26.331Z"
 }
