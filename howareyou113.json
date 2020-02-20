@@ -11,23 +11,23 @@
     "prepared-url" : "https://eos.diandianbear.cn"
   },
   "bp-json-summary" : {
-    "dl-error" : "Certificate for <eos.diandianbear.cn> doesn't match any of the subject alternative names: [api.tvalacarta.info]",
+    "dl-error" : "connect timed out",
     "url" : "https://eos.diandianbear.cn/bp.json"
   },
-  "webpage-error" : "Certificate for <eos.diandianbear.cn> doesn't match any of the subject alternative names: [api.tvalacarta.info]",
-  "vote-percentage" : 3.254623479602444E-10,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 3.25616232673824E-10,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Certificate for <eos.diandianbear.cn> doesn't match any of the subject alternative names: [api.tvalacarta.info]",
+      "error" : "connect timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eos.diandianbear.cn/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Certificate for <eos.diandianbear.cn> doesn't match any of the subject alternative names: [api.tvalacarta.info]"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 488,
-  "snapshot-date" : "2020-02-19T02:12:26.331Z"
+  "snapshot-date" : "2020-02-20T02:12:30.692Z"
 }

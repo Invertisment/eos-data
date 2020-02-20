@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "syndicateoss",
-    "total_votes" : "152883308653947.06250000000000000",
+    "total_votes" : "152856734858358.09375000000000000",
     "producer_key" : "EOS6qsU2AEjWvyx9Ah7qmTd4AMzFVTrPdjeM3MVf28txouDp5HDDh",
     "is_active" : 1,
     "url" : "https://syndicateos.com",
@@ -11,23 +11,23 @@
     "prepared-url" : "https://syndicateos.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "Certificate for <syndicateos.com> doesn't match any of the subject alternative names: [*.hawkhost.com, hawkhost.com]",
+    "dl-error" : "connect timed out",
     "url" : "https://syndicateos.com/bp.json"
   },
-  "webpage-error" : "Certificate for <syndicateos.com> doesn't match any of the subject alternative names: [*.hawkhost.com, hawkhost.com]",
-  "vote-percentage" : 1.1723935406680789E-6,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 1.1727439914886802E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Certificate for <syndicateos.com> doesn't match any of the subject alternative names: [*.hawkhost.com, hawkhost.com]",
+      "error" : "connect timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://syndicateos.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Certificate for <syndicateos.com> doesn't match any of the subject alternative names: [*.hawkhost.com, hawkhost.com]"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 226,
-  "snapshot-date" : "2020-02-19T02:12:26.331Z"
+  "place" : 225,
+  "snapshot-date" : "2020-02-20T02:12:30.692Z"
 }
