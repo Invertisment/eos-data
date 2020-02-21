@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosiodetroit",
-    "total_votes" : "279042383778112544.00000000000000000",
+    "total_votes" : "278707187858205824.00000000000000000",
     "producer_key" : "EOS6cGjgMnrdsBt5zAjpvqUdPiSjHjdQdsF1tpTG8Dpz9rPitHUMd",
     "is_active" : 1,
     "url" : "https://eosdetroit.io",
@@ -19,11 +19,10 @@
     "relative-links-count" : 10,
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ "http://www.faboba.com" ],
-    "popularity-boosters-count" : 1
+    "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.002140862679355906,
+  "vote-percentage" : 0.0021467665490929374,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,5 +44,5 @@
     "max" : 3
   },
   "place" : 66,
-  "snapshot-date" : "2020-02-20T02:12:30.692Z"
+  "snapshot-date" : "2020-02-21T02:12:31.986Z"
 }
