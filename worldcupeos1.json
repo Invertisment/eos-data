@@ -14,22 +14,14 @@
     "dl-error" : "clj-http: status 404",
     "url" : "https://www.fifa.com/worldcup/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 43,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://twitter.com/FifaWorldCup", "https://www.facebook.com/fifaworldcup", "https://www.instagram.com/fifaworldcup/", "https://www.weibo.com/FIFAWorldCup?is_hot=1", "https://www.youtube.com/FIFATV" ],
-    "social-links-count" : 5,
-    "popularity-boosters" : [ "https://account.fifa.com/5a7baeb7-e706-4830-ad9f-103eba126311/oauth2/v2.0/authorize?p=b2c_1a_fifa_signuporsignin&client_Id=64e9afa8-c5c0-413d-882b-bc9e6a81e264&nonce=defaultNonce&prompt=login&redirect_uri=https%3A%2F%2Fwww.fifa.com%2Ftheclub%2Ftools%2Fcomment%2F_ms_login_handler.htmx&scope=openid%20offline_access&response_type=code&response_mode=form_post", "https://ar.fifa.com", "https://ar.fifa.com/worldcup/", "https://de.fifa.com", "https://en.fifa.com", "https://es.fifa.com", "https://fr.fifa.com" ],
-    "popularity-boosters-count" : 7
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.0273091071531316E-9,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 1.0373591545973635E-9,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://www.fifa.com/worldcup/"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
@@ -41,9 +33,9 @@
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 445,
-  "snapshot-date" : "2020-02-21T02:12:31.986Z"
+  "place" : 446,
+  "snapshot-date" : "2020-02-22T02:12:36.811Z"
 }
