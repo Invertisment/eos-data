@@ -11,38 +11,31 @@
     "prepared-url" : "http://www.cybchain.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 403",
+    "dl-error" : "Network is unreachable (connect failed)",
     "url" : "http://www.cybchain.com/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 3,
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "http://flash.cybeye.com/test/cybchain-release.apk", "http://live.cybchain.com/", "http://wdoc.io/en/Index.html", "http://web.cybchain.com/", "http://www.adrolling.com", "http://www.livegram.net", "http://www.trendscape.com", "https://mobirise.com", "https://mobirise.info/v", "https://play.google.com/store/apps/details?id=com.cybeye.cybchain", "https://testflight.apple.com/join/fnzUQB9i" ],
-    "popularity-boosters-count" : 11
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.9411115171703427E-8,
+  "webpage-error" : "Network is unreachable (connect failed)",
+  "vote-percentage" : 2.926127337420176E-8,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "http://www.cybchain.com"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Network is unreachable (connect failed)",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://www.cybchain.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 403"
+      "error" : "Network is unreachable (connect failed)"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
   "place" : 377,
-  "snapshot-date" : "2020-02-22T02:12:36.811Z"
+  "snapshot-date" : "2020-02-23T02:12:49.370Z"
 }
