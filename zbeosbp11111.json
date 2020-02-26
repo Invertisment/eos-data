@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "zbeosbp11111",
-    "total_votes" : "3830401214642045440.00000000000000000",
+    "total_votes" : "3888177075317068288.00000000000000000",
     "producer_key" : "EOS7rhgVPWWyfMqjSbNdndtCK8Gkza3xnDbUupsPLMZ6gjfQ4nX81",
     "is_active" : 1,
     "url" : "https://www.zbeos.com",
-    "unpaid_blocks" : 4816,
-    "last_claim_time" : "2020-02-24T11:59:06.000",
+    "unpaid_blocks" : 4836,
+    "last_claim_time" : "2020-02-25T11:59:25.500",
     "location" : 156,
     "prepared-url" : "https://www.zbeos.com"
   },
@@ -16,15 +16,14 @@
     "code_of_conduct" : "https://steemit.com/zbeos/@zbcom/zbeos-or-code-of-conduct-statement"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 10,
+    "relative-links-count" : 5,
     "duplicate-urls" : null,
-    "social-links" : [ "http://eosportal.io/chain/12/producers", "https://github.com/EOSIO/eos", "https://mobile.twitter.com/ZB_EOS", "https://steemit.com/@zbcom", "https://t.me/ZBEOS", "https://www.reddit.com/r/eos/" ],
-    "social-links-count" : 6,
-    "popularity-boosters" : [ "http://eostoken.im/", "https://airdropsforeos.com/", "https://bepal.pro/Download", "https://block.one/", "https://chaince.com/", "https://eos.io/", "https://eoscorearbitration.io/", "https://eosdrops.io/", "https://eoseco.com/", "https://eosflare.io/", "https://eosio.stackexchange.com/", "https://eospark.com/", "https://eosq.app", "https://forums.eosgo.io/", "https://meet.one/", "https://scaneos.io/", "https://token.im/", "https://whaleex.com/", "https://www.hadax.com/zh-cn/", "https://www.mytokenpocket.vip/", "https://www.okb.com/", "https://www.zb.com/" ],
-    "popularity-boosters-count" : 22
+    "social-links" : [ "https://steemit.com/@zbcom", "https://t.me/ZBEOS" ],
+    "social-links-count" : 2,
+    "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.02928181789546573,
+  "vote-percentage" : 0.029496926922900762,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +44,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 7,
-  "snapshot-date" : "2020-02-25T02:12:33.199Z"
+  "place" : 4,
+  "snapshot-date" : "2020-02-26T02:12:31.837Z"
 }
