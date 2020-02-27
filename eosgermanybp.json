@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosgermanybp",
-    "total_votes" : "4395650547342461.00000000000000000",
+    "total_votes" : "4369313669214174.00000000000000000",
     "producer_key" : "EOS6KTbE5ktt6snuTGoQYFibvC3w86T7NVpYLhUFamNNPNJxgUSZ8",
     "is_active" : 1,
     "url" : "https://eosgermany.one",
@@ -11,23 +11,23 @@
     "prepared-url" : "https://eosgermany.one"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "Connection refused (Connection refused)",
     "url" : "https://eosgermany.one/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 3.334677934208953E-5,
+  "webpage-error" : "Connection refused (Connection refused)",
+  "vote-percentage" : 3.309708513763315E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "Connection refused (Connection refused)",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eosgermany.one/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "Connection refused (Connection refused)"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 111,
-  "snapshot-date" : "2020-02-26T02:12:31.837Z"
+  "place" : 112,
+  "snapshot-date" : "2020-02-27T02:12:38.555Z"
 }
