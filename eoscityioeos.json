@@ -11,19 +11,16 @@
     "prepared-url" : "https://eoscity.io"
   },
   "bp-json-summary" : {
-    "url" : "https://eoscity.io/bp.json",
-    "logo" : "https://eoscity.io/img/eosCityLogoTextOnly.svg"
+    "read-error" : "read:'https://eoscity.io/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "url" : "https://eoscity.io/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 63,
     "duplicate-urls" : null,
-    "social-links" : [ "https://t.me/eoscity", "https://twitter.com/eoscityio", "https://www.facebook.com/groups/eoscity/" ],
-    "social-links-count" : 3,
-    "popularity-boosters" : [ "http://boxdapp.io", "http://t.cn/ES2ggI7", "https://cpuemergency.com/", "https://eospark.com/", "https://eoswing.io", "https://gateway.eosdt.com/zh", "https://imeos.one", "https://imeos.one/", "https://teloscanton.io/", "https://wooko.ng/cn", "https://www.eostw.info", "https://www.more.top", "https://www.teloscanton.io/", "https://www.tokenpocket.pro/" ],
-    "popularity-boosters-count" : 14
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.5246540209159758E-8,
+  "vote-percentage" : 2.5424320535330632E-8,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -31,18 +28,19 @@
       "title" : "web",
       "url" : "https://eoscity.io"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://eoscity.io/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eoscity.io/bp.json",
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'https://eoscity.io/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
     }, {
-      "title" : "no-coc",
-      "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 1,
     "max" : 3
   },
   "place" : 383,
-  "snapshot-date" : "2020-02-28T02:12:51.081Z"
+  "snapshot-date" : "2020-02-29T02:12:35.018Z"
 }
