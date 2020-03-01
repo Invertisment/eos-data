@@ -14,13 +14,13 @@
     "dl-error" : "no protocol: www.dilidili.name/bp.json",
     "url" : "www.dilidili.name/bp.json"
   },
-  "webpage-error" : "Connection reset",
-  "vote-percentage" : 3.927539437223479E-5,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 3.9244565273841786E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Connection reset",
+      "error" : "connect timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 110,
-  "snapshot-date" : "2020-02-29T02:12:35.018Z"
+  "snapshot-date" : "2020-03-01T02:12:31.194Z"
 }

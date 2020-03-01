@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "newdex.bp",
-    "total_votes" : "3873594312083517440.00000000000000000",
+    "total_votes" : "3870061196672241152.00000000000000000",
     "producer_key" : "EOS688SnH8tQ7NiyhamiCzWXAGPDLF9S7K8ga79UBHKFgjS1MhqhB",
     "is_active" : 1,
     "url" : "https://newpool.io",
-    "unpaid_blocks" : 8135,
-    "last_claim_time" : "2020-02-28T02:23:46.000",
+    "unpaid_blocks" : 8122,
+    "last_claim_time" : "2020-02-29T02:24:45.000",
     "location" : 392,
     "prepared-url" : "https://newpool.io"
   },
@@ -15,14 +15,19 @@
     "logo" : "https://newpool.io/static/newpool/logo-256.png",
     "code_of_conduct" : "https://steemit.com/blockchain/@newdex/newdex-block-producer-announcement"
   },
-  "webpage-error" : "clj-http: status 500",
-  "vote-percentage" : 0.029541316634719855,
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.029491204709008557,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "clj-http: status 500",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://newpool.io"
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -34,9 +39,9 @@
       "title" : "coc",
       "url" : "https://steemit.com/blockchain/@newdex/newdex-block-producer-announcement"
     } ],
-    "score" : 2,
+    "score" : 3,
     "max" : 3
   },
   "place" : 3,
-  "snapshot-date" : "2020-02-29T02:12:35.018Z"
+  "snapshot-date" : "2020-03-01T02:12:31.194Z"
 }
