@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "dilidilifans",
-    "total_votes" : "5150590364166287.00000000000000000",
+    "total_votes" : "5150588864232530.00000000000000000",
     "producer_key" : "EOS7b3KnyRNxu4jVVnroB7T54gquXD5wYfcPnovDz2DjYuGBUwehq",
     "is_active" : 1,
     "url" : "www.dilidili.name",
@@ -14,13 +14,13 @@
     "dl-error" : "no protocol: www.dilidili.name/bp.json",
     "url" : "www.dilidili.name/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 3.9268984931966854E-5,
+  "webpage-error" : "Connection reset",
+  "vote-percentage" : 3.885720865224697E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "Connection reset",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 110,
-  "snapshot-date" : "2020-03-02T02:12:35.064Z"
+  "snapshot-date" : "2020-03-03T02:12:40.569Z"
 }

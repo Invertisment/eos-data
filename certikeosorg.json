@@ -1,30 +1,26 @@
 {
   "bp-header" : {
     "owner" : "certikeosorg",
-    "total_votes" : "2279611779291865600.00000000000000000",
+    "total_votes" : "2321755436377929728.00000000000000000",
     "producer_key" : "EOS57kRcpx1QT4Wn4uA6agwYdJNGew4cfrzKnzrvQZiVE85huUBAB",
     "is_active" : 1,
     "url" : "https://certik.org",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-03-01T22:50:53.500",
+    "last_claim_time" : "2020-03-02T22:52:04.500",
     "location" : 840,
     "prepared-url" : "https://certik.org"
   },
   "bp-json-summary" : {
-    "url" : "https://certik.org/bp.json",
-    "logo" : "https://certik.org/img/logo_256.png",
-    "code_of_conduct" : "https://certik.org/eos"
+    "read-error" : "read:'https://certik.org/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "url" : "https://certik.org/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 20,
     "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/CertiKProject", "https://medium.com/certik", "https://t.me/certikorg", "https://twitter.com/certikorg", "https://www.linkedin.com/company/certik/", "https://www.youtube.com/channel/UCCcFr6FTUeWDIqUdY8i1W5w" ],
-    "social-links-count" : 6,
-    "popularity-boosters" : [ "http://www.cointime.com/news/blockchain/11333.html", "https://cointelegraph.com/news/ethereum-foundation-funds-columbia-yale-researchers-work-on-smart-contract-language", "https://ocr.yale.edu/news/yale-technology-could-fix-blockchain-s-security-issues-and-make-it-lot-more-viable", "https://web.wechat.com/" ],
-    "popularity-boosters-count" : 4
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.017380151454975293,
+  "vote-percentage" : 0.017515848732816457,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -32,19 +28,19 @@
       "title" : "web",
       "url" : "https://certik.org"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://certik.org/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://certik.org/bp.json",
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'https://certik.org/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://certik.org/eos"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 25,
-  "snapshot-date" : "2020-03-02T02:12:35.064Z"
+  "place" : 24,
+  "snapshot-date" : "2020-03-03T02:12:40.569Z"
 }
