@@ -1,33 +1,33 @@
 {
   "bp-header" : {
     "owner" : "eosnairobike",
-    "total_votes" : "758672090584384128.00000000000000000",
+    "total_votes" : "750402157402190336.00000000000000000",
     "producer_key" : "EOS8AUQK2XQo9StudQqDFn1riSHKaDwXiUjDPNGtDad6hLd2PnDGc",
     "is_active" : 1,
     "url" : "https://www.eosnairobi.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-03-02T23:40:10.500",
+    "last_claim_time" : "2020-03-03T23:40:48.000",
     "location" : 404,
     "prepared-url" : "https://www.eosnairobi.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "NotAfter: Mon Dec 16 23:59:59 UTC 2019",
+    "dl-error" : "Certificate for <www.eosnairobi.io> doesn't match any of the subject alternative names: [firebaseapp.com, *.firebaseapp.com]",
     "url" : "https://www.eosnairobi.io/bp.json"
   },
-  "webpage-error" : "NotAfter: Mon Dec 16 23:59:59 UTC 2019",
-  "vote-percentage" : 0.005723594039351947,
+  "webpage-error" : "Certificate for <www.eosnairobi.io> doesn't match any of the subject alternative names: [firebaseapp.com, *.firebaseapp.com]",
+  "vote-percentage" : 0.0056270307591357776,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "NotAfter: Mon Dec 16 23:59:59 UTC 2019",
+      "error" : "Certificate for <www.eosnairobi.io> doesn't match any of the subject alternative names: [firebaseapp.com, *.firebaseapp.com]",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://www.eosnairobi.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "NotAfter: Mon Dec 16 23:59:59 UTC 2019"
+      "error" : "Certificate for <www.eosnairobi.io> doesn't match any of the subject alternative names: [firebaseapp.com, *.firebaseapp.com]"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 41,
-  "snapshot-date" : "2020-03-03T02:12:40.569Z"
+  "snapshot-date" : "2020-03-04T02:12:38.971Z"
 }
