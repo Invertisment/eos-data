@@ -15,15 +15,15 @@
     "url" : "https://www.fifa.com/worldcup/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 43,
+    "relative-links-count" : 44,
     "duplicate-urls" : null,
     "social-links" : [ "https://twitter.com/FifaWorldCup", "https://www.facebook.com/fifaworldcup", "https://www.instagram.com/fifaworldcup/", "https://www.weibo.com/FIFAWorldCup?is_hot=1", "https://www.youtube.com/FIFATV" ],
     "social-links-count" : 5,
-    "popularity-boosters" : [ "https://account.fifa.com/5a7baeb7-e706-4830-ad9f-103eba126311/oauth2/v2.0/authorize?p=b2c_1a_fifa_signuporsignin&client_Id=64e9afa8-c5c0-413d-882b-bc9e6a81e264&nonce=defaultNonce&prompt=login&redirect_uri=https%3A%2F%2Fwww.fifa.com%2Ftheclub%2Ftools%2Fcomment%2F_ms_login_handler.htmx&scope=openid%20offline_access&response_type=code&response_mode=form_post", "https://ar.fifa.com", "https://ar.fifa.com/worldcup/", "https://de.fifa.com", "https://en.fifa.com", "https://es.fifa.com", "https://fr.fifa.com" ],
+    "popularity-boosters" : [ "https://account.fifa.com/5a7baeb7-e706-4830-ad9f-103eba126311/oauth2/v2.0/authorize?p=b2c_1a_fifa_signuporsignin&client_Id= 64e9afa8-c5c0-413d-882b-bc9e6a81e264&nonce=defaultNonce&prompt=login&redirect_uri=https%3A%2F%2Fwww.fifa.com%2Fapi%2FmsLoginHandler&scope=openid%20offline_access&response_type=code&response_mode=form_post&ui_locales=en", "https://ar.fifa.com", "https://ar.fifa.com/worldcup/", "https://de.fifa.com", "https://en.fifa.com", "https://es.fifa.com", "https://fr.fifa.com" ],
     "popularity-boosters-count" : 7
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.0001144523511136E-9,
+  "vote-percentage" : 9.97251725903346E-10,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,5 +45,5 @@
     "max" : 3
   },
   "place" : 446,
-  "snapshot-date" : "2020-03-04T02:12:38.971Z"
+  "snapshot-date" : "2020-03-05T02:12:42.531Z"
 }

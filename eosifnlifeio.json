@@ -4,15 +4,16 @@
     "total_votes" : "0.00000000000000000",
     "producer_key" : "EOS5thFmAd2CukzY4bj3EL8CrKGPNFuQMeR8Mt9PDMzrkkwGzZy8K",
     "is_active" : 1,
-    "url" : "http://ifnlife.com",
+    "url" : "https://ifnlife.com",
     "unpaid_blocks" : 0,
     "last_claim_time" : "2020-02-05T12:21:52.500",
     "location" : 0,
-    "prepared-url" : "http://ifnlife.com"
+    "prepared-url" : "https://ifnlife.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
-    "url" : "http://ifnlife.com/bp.json"
+    "url" : "https://ifnlife.com/bp.json",
+    "logo" : "https://ifnlife.com/json/256.png",
+    "code_of_conduct" : "https://ifnlife.com/conduct_disclosure.html"
   },
   "analyzed-urls" : {
     "relative-links-count" : 2,
@@ -29,21 +30,21 @@
       "score" : "positive",
       "mood" : "good",
       "title" : "web",
-      "url" : "http://ifnlife.com"
+      "url" : "https://ifnlife.com"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "http://ifnlife.com/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://ifnlife.com/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://ifnlife.com/conduct_disclosure.html"
     } ],
-    "score" : 1,
+    "score" : 3,
     "max" : 3
   },
   "place" : 600,
-  "snapshot-date" : "2020-03-04T02:12:38.971Z"
+  "snapshot-date" : "2020-03-05T02:12:42.531Z"
 }

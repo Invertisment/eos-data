@@ -11,40 +11,31 @@
     "prepared-url" : "https://eossweden.eu"
   },
   "bp-json-summary" : {
-    "url" : "https://eossweden.eu/bp.json",
-    "logo" : "https://eossweden.eu/logo/swedencornet-logo_256.png",
-    "code_of_conduct" : "https://eossweden.eu/core-values"
+    "dl-error" : "NotAfter: Wed Mar 04 23:16:19 UTC 2020",
+    "url" : "https://eossweden.eu/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 4,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/eossweden", "https://medium.com/@eossweden", "https://steemit.com/@corenet", "https://steemit.com/@eos.sweden", "https://t.me/joinchat/JCmUOFAsOgOibNuQkEMzHg", "https://twitter.com/SwedenEos", "https://www.facebook.com/cryptpoint", "https://www.linkedin.com/company/eos-sweden/", "https://www.linkedin.com/in/maliha-mushabbar/", "https://www.youtube.com/c/swedencornet", "https://www.youtube.com/channel/UC6GwuAAhLBI8gcvljKr_Diw", "https://www.youtube.com/channel/UC6GwuAAhLBI8gcvljKr_Diw/", "https://youtu.be/64JwBVa0S4c", "https://youtu.be/PgKf-MIaty4", "https://youtu.be/RX1ub57kCAs" ],
-    "social-links-count" : 15,
-    "popularity-boosters" : [ "https://busy.org/@eos.sweden", "https://eosforce.io/", "https://icon.foundation", "https://snax.one/", "https://tracker.icon.foundation/governance" ],
-    "popularity-boosters-count" : 5
-  },
-  "p-ram-amounts" : [ "RAM" ],
-  "vote-percentage" : 9.351409970087935E-6,
+  "webpage-error" : "NotAfter: Wed Mar 04 23:16:19 UTC 2020",
+  "vote-percentage" : 9.324642505041954E-6,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eossweden.eu"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "NotAfter: Wed Mar 04 23:16:19 UTC 2020",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://eossweden.eu/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eossweden.eu/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "NotAfter: Wed Mar 04 23:16:19 UTC 2020"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://eossweden.eu/core-values"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 0,
     "max" : 3
   },
   "place" : 145,
-  "snapshot-date" : "2020-03-04T02:12:38.971Z"
+  "snapshot-date" : "2020-03-05T02:12:42.531Z"
 }
