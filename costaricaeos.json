@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "costaricaeos",
-    "total_votes" : "19490624648450960.00000000000000000",
+    "total_votes" : "19530746921260032.00000000000000000",
     "producer_key" : "EOS7phU8qE6nPCfpkCQ2T3HmRwGg6z4v61RTLvPBBVmPWmPisZoWY",
     "is_active" : 1,
     "url" : "https://eoscostarica.io",
@@ -16,15 +16,15 @@
     "code_of_conduct" : "https://eoscostarica.io/transparency/"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 2,
+    "relative-links-count" : 3,
     "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/eoscostarica/eos-local", "https://twitter.com/EOSCostaRica", "https://twitter.com/EOSCostaRica/status/1235234368156831746", "https://twitter.com/EOS_CryptoLions/status/1010944968242946049", "https://www.facebook.com/costaricaeos/", "https://www.instagram.com/eoscostarica/", "https://www.linkedin.com/company/11800177", "https://www.twitter.com/eoscostarica" ],
+    "social-links" : [ "https://github.com/eoscostarica/eos-local", "https://twitter.com/EOSCostaRica", "https://twitter.com/EOSCostaRica/status/1235669034710036486", "https://twitter.com/EOS_CryptoLions/status/1010944968242946049", "https://www.facebook.com/costaricaeos/", "https://www.instagram.com/eoscostarica/", "https://www.linkedin.com/company/11800177", "https://www.twitter.com/eoscostarica" ],
     "social-links-count" : 8,
     "popularity-boosters" : [ "http://monitor.jungletestnet.io/", "http://waterloo.media", "https://edenia.com", "https://eos.io/", "https://eosrate.io", "https://eosurf.com/", "https://ticoblockchain.cr", "https://worbli.io/", "https://worbli.io/network/" ],
     "popularity-boosters-count" : 9
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.4573573865250006E-4,
+  "vote-percentage" : 1.4538484145695368E-4,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -46,5 +46,5 @@
     "max" : 3
   },
   "place" : 93,
-  "snapshot-date" : "2020-03-05T02:12:42.531Z"
+  "snapshot-date" : "2020-03-06T02:12:33.193Z"
 }
