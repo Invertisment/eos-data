@@ -1,47 +1,48 @@
 {
   "bp-header" : {
     "owner" : "wizznetwork1",
-    "total_votes" : "535594208290897.68750000000000000",
-    "producer_key" : "EOS8S4V1znYv72vedfLWMLecZEQ3ZCSLD5oPNmStUYKdbu9PdLJ48",
+    "total_votes" : "535594203369047.81250000000000000",
+    "producer_key" : "EOS7CQQrn6iR9S4VedZiYkkWB9TiyaSpZxcau2Kf5ZbB14UEpSkPr",
     "is_active" : 1,
-    "url" : "https://wizz.network/eos/",
+    "url" : "http://producer.site",
     "unpaid_blocks" : 0,
     "last_claim_time" : "2019-09-23T10:36:39.000",
-    "location" : 840,
-    "prepared-url" : "https://wizz.network/eos/"
+    "location" : 0,
+    "prepared-url" : "http://producer.site"
   },
   "bp-json-summary" : {
-    "url" : "https://wizz.network/eos/bp.json",
-    "logo" : "https://wizz.network/wizz256.png",
-    "code_of_conduct" : "https://wizz.network"
+    "read-error" : "read:'http://producer.site/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 4]",
+    "url" : "http://producer.site/bp.json"
   },
   "analyzed-urls" : {
+    "relative-links-count" : 2,
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ ]
+    "popularity-boosters" : [ "https://www.efty.com/", "https://www.elephantmilk.com", "https://www.elephantmilk.com/search/" ],
+    "popularity-boosters-count" : 3
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 3.986907381041992E-6,
+  "vote-percentage" : 4.027408650259432E-6,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
       "mood" : "good",
       "title" : "web",
-      "url" : "https://wizz.network/eos/"
+      "url" : "http://producer.site"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://wizz.network/eos/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://producer.site/bp.json",
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'http://producer.site/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 4]"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://wizz.network"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 172,
-  "snapshot-date" : "2020-03-06T02:12:33.193Z"
+  "place" : 173,
+  "snapshot-date" : "2020-03-07T02:12:33.338Z"
 }
