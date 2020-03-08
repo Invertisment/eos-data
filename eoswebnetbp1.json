@@ -11,23 +11,23 @@
     "prepared-url" : "https://eosweb.net"
   },
   "bp-json-summary" : {
-    "dl-error" : "Read timed out",
+    "dl-error" : "clj-http: status 521",
     "url" : "https://eosweb.net/bp.json"
   },
-  "webpage-error" : "Read timed out",
-  "vote-percentage" : 1.5999325574652288E-6,
+  "webpage-error" : "clj-http: status 521",
+  "vote-percentage" : 2.1128162203439342E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Read timed out",
+      "error" : "clj-http: status 521",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eosweb.net/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Read timed out"
+      "error" : "clj-http: status 521"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 217,
-  "snapshot-date" : "2020-03-07T02:12:33.338Z"
+  "place" : 168,
+  "snapshot-date" : "2020-03-08T02:10:25.363Z"
 }
