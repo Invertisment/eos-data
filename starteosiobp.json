@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "starteosiobp",
-    "total_votes" : "3931287186974016000.00000000000000000",
+    "total_votes" : "3931085208860900864.00000000000000000",
     "producer_key" : "EOS4wZZXm994byKANLuwHD6tV3R3Mu3ktc41aSVXCBaGnXJZJ4pwF",
     "is_active" : 1,
     "url" : "https://www.starteos.io",
-    "unpaid_blocks" : 7896,
-    "last_claim_time" : "2020-03-09T03:04:11.000",
+    "unpaid_blocks" : 7872,
+    "last_claim_time" : "2020-03-10T03:10:13.000",
     "location" : 156,
     "prepared-url" : "https://www.starteos.io"
   },
@@ -21,7 +21,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.029219068203383103,
+  "vote-percentage" : 0.029223838032885203,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -42,6 +42,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 8,
-  "snapshot-date" : "2020-03-10T02:12:41.478Z"
+  "place" : 7,
+  "snapshot-date" : "2020-03-11T02:12:45.958Z"
 }
