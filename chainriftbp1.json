@@ -14,13 +14,13 @@
     "dl-error" : "clj-http: status 404",
     "url" : "https://eospublic.chainrift.com/bp.json"
   },
-  "webpage-error" : "clj-http: status 404",
+  "webpage-error" : "Read timed out",
   "vote-percentage" : 0.0,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "clj-http: status 404",
+      "error" : "Read timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 607,
-  "snapshot-date" : "2020-03-11T02:12:45.958Z"
+  "snapshot-date" : "2020-03-12T02:12:29.241Z"
 }
