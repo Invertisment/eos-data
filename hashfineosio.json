@@ -1,19 +1,18 @@
 {
   "bp-header" : {
     "owner" : "hashfineosio",
-    "total_votes" : "3945834506131074048.00000000000000000",
+    "total_votes" : "3943676581902624768.00000000000000000",
     "producer_key" : "EOS7jSfvStvbKDmGvQdtrQsCyNkWczXfvh6CHmBVmeypJyHsUrMqj",
     "is_active" : 1,
     "url" : "https://www.hashfin.com",
-    "unpaid_blocks" : 7836,
-    "last_claim_time" : "2020-03-11T03:01:26.000",
+    "unpaid_blocks" : 7908,
+    "last_claim_time" : "2020-03-12T03:01:38.000",
     "location" : 0,
     "prepared-url" : "https://www.hashfin.com"
   },
   "bp-json-summary" : {
-    "url" : "https://www.hashfin.com/bp.json",
-    "logo" : "https://www.hashfin.com/Hashfin-icon.png",
-    "code_of_conduct" : "https://hashfin.zendesk.com"
+    "dl-error" : "clj-http: status 404",
+    "url" : "https://www.hashfin.com/bp.json"
   },
   "analyzed-urls" : {
     "relative-links-count" : 7,
@@ -23,7 +22,7 @@
     "popularity-boosters-count" : 20
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.028827649756969942,
+  "vote-percentage" : 0.028932803721014484,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -31,19 +30,19 @@
       "title" : "web",
       "url" : "https://www.hashfin.com"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://www.hashfin.com/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://www.hashfin.com/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://hashfin.zendesk.com"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 16,
-  "snapshot-date" : "2020-03-12T02:12:29.241Z"
+  "place" : 12,
+  "snapshot-date" : "2020-03-13T02:12:30.956Z"
 }

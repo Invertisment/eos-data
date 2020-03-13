@@ -15,14 +15,13 @@
     "url" : "http://bitcoineos.fun/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 1,
+    "relative-links-count" : 2,
     "duplicate-urls" : null,
-    "social-links" : [ "https://t.me/joinchat/Fuo_mUvFgHN241Xhut-mMA", "https://twitter.com/bitcoineos" ],
-    "social-links-count" : 2,
+    "social-links" : [ ],
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.0783779951069772E-7,
+  "vote-percentage" : 1.0829037956889452E-7,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -43,6 +42,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 311,
-  "snapshot-date" : "2020-03-12T02:12:29.241Z"
+  "place" : 309,
+  "snapshot-date" : "2020-03-13T02:12:30.956Z"
 }

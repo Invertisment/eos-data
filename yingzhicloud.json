@@ -14,13 +14,13 @@
     "dl-error" : "mainnet.doteos.com",
     "url" : "http://mainnet.doteos.com/bp.json"
   },
-  "webpage-error" : "mainnet.doteos.com: Temporary failure in name resolution",
-  "vote-percentage" : 1.2350841464536985E-10,
+  "webpage-error" : "mainnet.doteos.com: Name or service not known",
+  "vote-percentage" : 1.240267620684592E-10,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "mainnet.doteos.com: Temporary failure in name resolution",
+      "error" : "mainnet.doteos.com: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 512,
-  "snapshot-date" : "2020-03-12T02:12:29.241Z"
+  "snapshot-date" : "2020-03-13T02:12:30.956Z"
 }

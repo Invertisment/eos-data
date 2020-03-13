@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "teamgreymass",
-    "total_votes" : "667756287278660608.00000000000000000",
+    "total_votes" : "663952975203649408.00000000000000000",
     "producer_key" : "EOS4xurP5oZk4WvMUp9neKkw94DJ2iq48GtMD5Dff3GKe6krh2ctR",
     "is_active" : 1,
     "url" : "https://greymass.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-03-11T21:48:43.500",
+    "last_claim_time" : "2020-03-12T21:48:51.000",
     "location" : 124,
     "prepared-url" : "https://greymass.com"
   },
@@ -16,15 +16,12 @@
     "code_of_conduct" : "https://greymass.com/code_of_conduct"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 11,
     "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/aaroncox", "https://github.com/aaroncox/anchor", "https://github.com/aaroncox/chainbb", "https://github.com/aaroncox/chainsync", "https://github.com/aaroncox/reprint", "https://github.com/greymass", "https://github.com/greymass/customtokens", "https://github.com/greymass/eos", "https://github.com/greymass/eos-voter", "https://github.com/greymass/eosio-api-ext", "https://github.com/greymass/producerjson", "https://github.com/greymass/smart_account_creator", "https://steemit.com/@anyx", "https://steemit.com/@greymass", "https://steemit.com/@jesta", "https://steemit.com/cheetah/@cheetah/faq-about-cheetah", "https://steemit.com/steemcleaners/@anyx/introducing-guard-a-proactive-measure-to-limit-phishing-on-steemit", "https://steemit.com/steemcleaners/@steemcleaners/announcing-steemcleaners-the-steemit-abuse-fighting-team", "https://t.me/eoswalletgreymass", "https://twitter.com/greymass", "https://www.reddit.com/r/eos/comments/bjop0u/rex_support_released_in_077_of_eosvoter_aka/", "https://www.reddit.com/r/eos/comments/brcr6z/the_future_of_the_greymass_wallet_beta_version/" ],
-    "social-links-count" : 22,
-    "popularity-boosters" : [ "https://steemdb.com/" ],
-    "popularity-boosters-count" : 1
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.004878522995014932,
+  "vote-percentage" : 0.00487109445021552,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +42,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 59,
-  "snapshot-date" : "2020-03-12T02:12:29.241Z"
+  "place" : 58,
+  "snapshot-date" : "2020-03-13T02:12:30.956Z"
 }
