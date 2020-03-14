@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "sheleaders21",
-    "total_votes" : "26377003438279212.00000000000000000",
+    "total_votes" : "26711147856760680.00000000000000000",
     "producer_key" : "EOS7LGK4aCwe69AB9f796fdTaiz4zCQPCUV1mLU8Qwm4voAgWbQ96",
     "is_active" : 1,
     "url" : "https://www.sheleaders.one/",
@@ -11,7 +11,7 @@
     "prepared-url" : "https://www.sheleaders.one/"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "dl-error" : "Read timed out",
     "url" : "https://www.sheleaders.one/bp.json"
   },
   "analyzed-urls" : {
@@ -21,7 +21,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.9351502268983483E-4,
+  "vote-percentage" : 1.9666654658560026E-4,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -33,7 +33,7 @@
       "mood" : "warn",
       "url" : "https://www.sheleaders.one/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "error" : "Read timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -43,5 +43,5 @@
     "max" : 3
   },
   "place" : 88,
-  "snapshot-date" : "2020-03-13T02:12:30.956Z"
+  "snapshot-date" : "2020-03-14T02:12:36.499Z"
 }

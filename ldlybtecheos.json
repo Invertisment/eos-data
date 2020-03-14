@@ -11,17 +11,17 @@
     "prepared-url" : "http://bp.0618tech.co/"
   },
   "bp-json-summary" : {
-    "url" : "http://bp.0618tech.co/bp.json",
-    "logo" : ""
+    "dl-error" : "clj-http: status 404",
+    "url" : "http://bp.0618tech.co/bp.json"
   },
   "analyzed-urls" : {
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ "https://0618tech.co/", "https://www.godaddy.com/websites/website-builder?isc=pwugc&utm_source=wsb&utm_medium=applications&utm_campaign=zh-hk_corp_applications_base" ],
+    "popularity-boosters" : [ "http://nginx.com/", "http://nginx.org/" ],
     "popularity-boosters-count" : 2
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 4.61294740743061E-11,
+  "vote-percentage" : 4.629426724273951E-11,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -29,18 +29,19 @@
       "title" : "web",
       "url" : "http://bp.0618tech.co/"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "http://bp.0618tech.co/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://bp.0618tech.co/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
     }, {
-      "title" : "no-coc",
-      "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 1,
     "max" : 3
   },
   "place" : 550,
-  "snapshot-date" : "2020-03-13T02:12:30.956Z"
+  "snapshot-date" : "2020-03-14T02:12:36.499Z"
 }

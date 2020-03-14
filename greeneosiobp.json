@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "greeneosiobp",
-    "total_votes" : "2925048537459461.00000000000000000",
+    "total_votes" : "2927220181737276.00000000000000000",
     "producer_key" : "EOS6q4CQ2CVLXJJidH4tbgmKSqWFN71gFDEG34MP53Q629A8HU3v8",
     "is_active" : 1,
     "url" : "https://greeneosio.com",
@@ -16,15 +16,15 @@
     "code_of_conduct" : "https://greeneosio.com/coc.html"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 12,
+    "relative-links-count" : 13,
     "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/telosgreen", "https://medium.com/telosgreen", "https://t.me/TelosGreen", "https://twitter.com/greeneosio" ],
-    "social-links-count" : 4,
-    "popularity-boosters" : [ "https://busy.org/@sukeshtedla/eosgreen-block-producer-code-of-conduct", "https://mobirise.info/e", "https://unbiased.cc", "https://www.quillhash.com/", "https://zeptagram.com" ],
+    "social-links" : [ "https://github.com/telosgreen", "https://medium.com/greeneosio", "https://t.me/eosgreenio", "https://twitter.com/eosgreen_io", "https://www.facebook.com/eosgreen.io/" ],
+    "social-links-count" : 5,
+    "popularity-boosters" : [ "https://busy.org/@sukeshtedla/eosgreen-block-producer-code-of-conduct", "https://mobirise.info/v", "https://unbiased.cc", "https://www.quillhash.com/", "https://zeptagram.com" ],
     "popularity-boosters-count" : 5
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.1459633783641924E-5,
+  "vote-percentage" : 2.1552285484887357E-5,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -46,5 +46,5 @@
     "max" : 3
   },
   "place" : 121,
-  "snapshot-date" : "2020-03-13T02:12:30.956Z"
+  "snapshot-date" : "2020-03-14T02:12:36.499Z"
 }
