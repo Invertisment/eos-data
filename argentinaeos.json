@@ -1,47 +1,41 @@
 {
   "bp-header" : {
     "owner" : "argentinaeos",
-    "total_votes" : "884804711591028992.00000000000000000",
+    "total_votes" : "884950211351905920.00000000000000000",
     "producer_key" : "EOS7jq4FHrFrtCXxpRQ39dBeDMa5AjM4VaRbqBECkSa5aZnizJzrx",
     "is_active" : 1,
     "url" : "https://www.eosargentina.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-03-14T18:32:54.500",
+    "last_claim_time" : "2020-03-15T18:33:30.500",
     "location" : 32,
     "prepared-url" : "https://www.eosargentina.io"
   },
   "bp-json-summary" : {
-    "url" : "https://www.eosargentina.io/bp.json",
-    "logo" : "https://www.eosargentina.io/assets/img/eosar_logo_256.png",
-    "code_of_conduct" : "https://www.eosargentina.io/disclosures.html#codeofconduct"
+    "dl-error" : "Connection refused (Connection refused)",
+    "url" : "https://www.eosargentina.io/bp.json"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.006489771098385445,
+  "webpage-error" : "Connection refused (Connection refused)",
+  "vote-percentage" : 0.006479194524941587,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://www.eosargentina.io"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Connection refused (Connection refused)",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://www.eosargentina.io/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://www.eosargentina.io/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "Connection refused (Connection refused)"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://www.eosargentina.io/disclosures.html#codeofconduct"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 0,
     "max" : 3
   },
   "place" : 37,
-  "snapshot-date" : "2020-03-15T02:12:42.546Z"
+  "snapshot-date" : "2020-03-16T02:12:30.007Z"
 }
