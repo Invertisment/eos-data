@@ -1,50 +1,41 @@
 {
   "bp-header" : {
     "owner" : "eoscafeblock",
-    "total_votes" : "896936593038025984.00000000000000000",
+    "total_votes" : "894679135692051072.00000000000000000",
     "producer_key" : "EOS7MAPWVuYcxNtc2n9e6WaEedEZd9thGVHn2Wpu2PoMhNiteTTqL",
     "is_active" : 1,
     "url" : "https://www.eoscafeblock.com/",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-03-16T01:24:27.000",
+    "last_claim_time" : "2020-03-17T01:24:36.500",
     "location" : 124,
     "prepared-url" : "https://www.eoscafeblock.com/"
   },
   "bp-json-summary" : {
-    "url" : "https://www.eoscafeblock.com/bp.json",
-    "logo" : "https://eoscafeblock.com/cafe_logo_256.png",
-    "code_of_conduct" : "https://steemit.com/blockproducer/@eoscafe/eos-cafe-calgary-code-of-conduct-roadmap-finances-and-voting"
+    "dl-error" : "unable to find valid certification path to requested target",
+    "url" : "https://www.eoscafeblock.com/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 5,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://medium.com/@eoscafeblock", "https://steemit.com/@eoscafeblock", "https://steemit.com/blockproducer/@eoscafe/eos-cafe-calgary-code-of-conduct-roadmap-finances-and-voting", "https://t.me/eoscafeblock", "https://twitter.com/eoscafeblock", "https://www.youtube.com/channel/UCvcdjggvJLe5gxM3hm7Fkvw" ],
-    "social-links-count" : 6,
-    "popularity-boosters" : [ "http://dabble.cafe", "https://bihu.com/people/379276", "https://bloks.io/vote", "https://karmaapp.io", "https://ndax.io", "https://raw.githubusercontent.com/eoscafe/ownership-disclosure/master/README.md", "https://unico.global" ],
-    "popularity-boosters-count" : 7
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.006566953245825927,
+  "webpage-error" : "unable to find valid certification path to requested target",
+  "vote-percentage" : 0.0065029161020421665,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://www.eoscafeblock.com/"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "unable to find valid certification path to requested target",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://www.eoscafeblock.com/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://www.eoscafeblock.com/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "unable to find valid certification path to requested target"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://steemit.com/blockproducer/@eoscafe/eos-cafe-calgary-code-of-conduct-roadmap-finances-and-voting"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 0,
     "max" : 3
   },
   "place" : 36,
-  "snapshot-date" : "2020-03-16T02:12:30.007Z"
+  "snapshot-date" : "2020-03-17T02:12:42.883Z"
 }
