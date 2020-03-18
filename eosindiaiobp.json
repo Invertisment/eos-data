@@ -11,23 +11,23 @@
     "prepared-url" : "https://eosindia.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "eosindia.io",
+    "dl-error" : "connect timed out",
     "url" : "https://eosindia.io/bp_info.json"
   },
-  "webpage-error" : "eosindia.io: Temporary failure in name resolution",
-  "vote-percentage" : 4.294605817204188E-6,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 4.29549425303352E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "eosindia.io: Temporary failure in name resolution",
+      "error" : "connect timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eosindia.io/bp_info.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "eosindia.io"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 168,
-  "snapshot-date" : "2020-03-17T02:12:42.883Z"
+  "place" : 169,
+  "snapshot-date" : "2020-03-18T02:12:28.390Z"
 }
