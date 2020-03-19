@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eospaceioeos",
-    "total_votes" : "10484501564337614.00000000000000000",
+    "total_votes" : "10494338057998390.00000000000000000",
     "producer_key" : "EOS7dZPHgFJXwHz84JWf5QgybxLpp95cxYE5c4yngsrSqgVFczaPs",
     "is_active" : 1,
     "url" : "https://eospacex.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-03-17T02:25:39.500",
+    "last_claim_time" : "2020-03-18T02:25:50.500",
     "location" : 156,
     "prepared-url" : "https://eospacex.com"
   },
@@ -15,22 +15,14 @@
     "logo" : "https://eospacex.com/images/logo/eospace_logo_256x256.png",
     "code_of_conduct" : "https://eospacex.com/code-of-conduct.html"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 12,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/eospace", "https://github.com/espritblock/eos-mars", "https://t.me/eospace", "https://twitter.com/EospaceI" ],
-    "social-links-count" : 4,
-    "popularity-boosters" : [ "http://eblock.io/", "https://eosblock.co", "https://eosblock.co/", "https://mp.weixin.qq.com/s/atZqseld5uIHI-vz8XTuqQ", "https://www.51kuangke.com", "https://www.mytokenpocket.vip", "https://www.xpet.io/" ],
-    "popularity-boosters-count" : 7
-  },
-  "p-ram-amounts" : [ "RAM" ],
-  "vote-percentage" : 7.622167082770587E-5,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 7.61135253179947E-5,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eospacex.com"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -42,9 +34,9 @@
       "title" : "coc",
       "url" : "https://eospacex.com/code-of-conduct.html"
     } ],
-    "score" : 3,
+    "score" : 2,
     "max" : 3
   },
   "place" : 99,
-  "snapshot-date" : "2020-03-18T02:12:28.390Z"
+  "snapshot-date" : "2020-03-19T02:12:42.060Z"
 }

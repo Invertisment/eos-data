@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "acgeoscomeos",
-    "total_votes" : "6611596965892.47460937500000000",
+    "total_votes" : "3811853724414.55566406250000000",
     "producer_key" : "EOS4yrdVJfRDD2jfxV2pNT8UcgaXmZEoa84kuKFJeTsJbZFLtdpVJ",
     "is_active" : 1,
     "url" : "https://www.acgeos.com",
@@ -11,23 +11,23 @@
     "prepared-url" : "https://www.acgeos.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "Connection refused (Connection refused)",
     "url" : "https://www.acgeos.com/bp.json"
   },
-  "webpage-error" : "Read timed out",
-  "vote-percentage" : 4.8065896550949035E-8,
+  "webpage-error" : "Connection refused (Connection refused)",
+  "vote-percentage" : 2.7646681797199276E-8,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Read timed out",
+      "error" : "Connection refused (Connection refused)",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://www.acgeos.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "Connection refused (Connection refused)"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 353,
-  "snapshot-date" : "2020-03-18T02:12:28.390Z"
+  "place" : 378,
+  "snapshot-date" : "2020-03-19T02:12:42.060Z"
 }
