@@ -1,45 +1,41 @@
 {
   "bp-header" : {
     "owner" : "big.one",
-    "total_votes" : "4041533119373847040.00000000000000000",
+    "total_votes" : "4040375984613730816.00000000000000000",
     "producer_key" : "EOS8MpYyXwn3DLqk9Y9XTHYcd6wGGijNqJefFoQEwEoXTq1awZ42w",
     "is_active" : 1,
     "url" : "https://eos.big.one",
-    "unpaid_blocks" : 6212,
-    "last_claim_time" : "2020-03-18T07:02:30.500",
+    "unpaid_blocks" : 6532,
+    "last_claim_time" : "2020-03-19T07:02:35.000",
     "location" : 392,
     "prepared-url" : "https://eos.big.one"
   },
   "bp-json-summary" : {
-    "url" : "https://eos.big.one/bp.json",
-    "logo" : "https://storage.googleapis.com/static-61cdd52e-15d8-4b00-9e92-b7052710674d/logo/bigone/logo_256.png"
+    "dl-error" : "Read timed out",
+    "url" : "https://eos.big.one/bp.json"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.029312504676797843,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 0.029341486984744033,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eos.big.one"
-    }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://eos.big.one/bp.json"
-    }, {
-      "title" : "no-coc",
       "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eos.big.one/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "Read timed out"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 6,
-  "snapshot-date" : "2020-03-19T02:12:42.060Z"
+  "place" : 4,
+  "snapshot-date" : "2020-03-20T02:12:38.070Z"
 }

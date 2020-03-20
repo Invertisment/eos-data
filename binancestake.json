@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "binancestake",
-    "total_votes" : "2406738862416684544.00000000000000000",
+    "total_votes" : "2375223127358623232.00000000000000000",
     "producer_key" : "EOS7unwwVJfmKonrT6Gj46LDiNUPpFhpPALpTe2eofmFeoG74bKKn",
     "is_active" : 1,
     "url" : "https://www.binance.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-03-18T11:08:08.500",
+    "last_claim_time" : "2020-03-19T11:09:06.500",
     "location" : 392,
     "prepared-url" : "https://www.binance.com"
   },
@@ -19,11 +19,11 @@
     "duplicate-urls" : null,
     "social-links" : [ "https://binance-docs.github.io/apidocs/spot/en/", "https://twitter.com/binance", "https://vk.com/binancerussia", "https://www.facebook.com/binance", "https://www.instagram.com/Binance/", "https://www.reddit.com/r/binanceexchange", "https://www.youtube.com/binanceyoutube" ],
     "social-links-count" : 7,
-    "popularity-boosters" : [ "http://status.binance.com", "https://apps.apple.com/hk/app/binance/id1436799971?l=en", "https://binance.zendesk.com/hc/en-us/categories/115000056351", "https://binance.zendesk.com/hc/en-us/requests/new", "https://c2c.binance.com/en", "https://cloud.binance.com", "https://coinmarketcap.com/exchanges/binance/", "https://ftp.binance.com/desktop/Binance.dmg", "https://ftp.binance.com/pack/Binance.apk", "https://ftp.binance.com/pc_pack/Binance.exe", "https://info.binance.com", "https://labs.binance.com", "https://launchpad.binance.com/en", "https://play.google.com/store/apps/details?id=com.binance.dev", "https://research.binance.com", "https://trustwallet.com", "https://www.binance.charity", "https://www.binance.vision" ],
-    "popularity-boosters-count" : 18
+    "popularity-boosters" : [ "http://status.binance.com", "https://apps.apple.com/hk/app/binance/id1436799971?l=en", "https://binance.zendesk.com/hc/en-us/articles/360041172051", "https://binance.zendesk.com/hc/en-us/categories/115000056351", "https://binance.zendesk.com/hc/en-us/requests/new", "https://c2c.binance.com/en", "https://cloud.binance.com", "https://coinmarketcap.com/exchanges/binance/", "https://ftp.binance.com/desktop/Binance.dmg", "https://ftp.binance.com/pack/Binance.apk", "https://ftp.binance.com/pc_pack/Binance.exe", "https://info.binance.com", "https://labs.binance.com", "https://launchpad.binance.com/en", "https://play.google.com/store/apps/details?id=com.binance.dev", "https://research.binance.com", "https://trustwallet.com", "https://www.binance.charity", "https://www.binance.vision" ],
+    "popularity-boosters-count" : 19
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.017455639252895717,
+  "vote-percentage" : 0.017249032947095597,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,5 +45,5 @@
     "max" : 3
   },
   "place" : 24,
-  "snapshot-date" : "2020-03-19T02:12:42.060Z"
+  "snapshot-date" : "2020-03-20T02:12:38.070Z"
 }

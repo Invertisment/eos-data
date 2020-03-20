@@ -14,13 +14,13 @@
     "dl-error" : "eosio.lt",
     "url" : "https://eosio.lt/bp.json"
   },
-  "webpage-error" : "eosio.lt: No address associated with hostname",
-  "vote-percentage" : 4.838551659113396E-6,
+  "webpage-error" : "eosio.lt: Temporary failure in name resolution",
+  "vote-percentage" : 4.844722802589899E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "eosio.lt: No address associated with hostname",
+      "error" : "eosio.lt: Temporary failure in name resolution",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 162,
-  "snapshot-date" : "2020-03-19T02:12:42.060Z"
+  "place" : 161,
+  "snapshot-date" : "2020-03-20T02:12:38.070Z"
 }

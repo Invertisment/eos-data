@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosnewyorkio",
-    "total_votes" : "686307376853491840.00000000000000000",
+    "total_votes" : "690139368383972480.00000000000000000",
     "producer_key" : "EOS6GVX8eUqC1gN1293B3ivCNbifbr1BT6gzTFaQBXzWH9QNKVM4X",
     "is_active" : 1,
     "url" : "https://bp.eosnewyork.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-03-18T15:28:35.500",
+    "last_claim_time" : "2020-03-19T16:35:51.000",
     "location" : 184,
     "prepared-url" : "https://bp.eosnewyork.io"
   },
@@ -21,7 +21,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.0049776625848498846,
+  "vote-percentage" : 0.005011839336787295,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -42,6 +42,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 55,
-  "snapshot-date" : "2020-03-19T02:12:42.060Z"
+  "place" : 54,
+  "snapshot-date" : "2020-03-20T02:12:38.070Z"
 }
