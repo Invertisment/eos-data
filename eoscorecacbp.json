@@ -11,31 +11,39 @@
     "prepared-url" : "https://www.ecac.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
-    "url" : "https://www.ecac.io/bp.json"
+    "url" : "https://www.ecac.io/bp.json",
+    "logo" : "https://www.ecac.io/images/ecac_logo_256.png",
+    "code_of_conduct" : "https://steemit.com/eos/@ecac/ecac-block-producer-announcement"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 6.948505978084589E-8,
+  "analyzed-urls" : {
+    "relative-links-count" : 8,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://medium.com/@ECAC", "https://steemit.com/@ecac", "https://t.me/EOS_ECAC", "https://twitter.com/EOS_ECAC" ],
+    "social-links-count" : 4,
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 6.914427051262341E-8,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "connect timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://www.ecac.io"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://www.ecac.io/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://www.ecac.io/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/eos/@ecac/ecac-block-producer-announcement"
     } ],
-    "score" : 0,
+    "score" : 3,
     "max" : 3
   },
   "place" : 335,
-  "snapshot-date" : "2020-03-21T02:12:27.903Z"
+  "snapshot-date" : "2020-03-22T02:12:31.677Z"
 }
