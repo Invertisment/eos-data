@@ -1,26 +1,29 @@
 {
   "bp-header" : {
     "owner" : "certikeosorg",
-    "total_votes" : "2452228018847431680.00000000000000000",
+    "total_votes" : "2446524681528186880.00000000000000000",
     "producer_key" : "EOS57kRcpx1QT4Wn4uA6agwYdJNGew4cfrzKnzrvQZiVE85huUBAB",
     "is_active" : 1,
     "url" : "https://certik.org",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-03-21T23:13:11.000",
+    "last_claim_time" : "2020-03-22T23:14:24.500",
     "location" : 840,
     "prepared-url" : "https://certik.org"
   },
   "bp-json-summary" : {
-    "read-error" : "read:'https://certik.org/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "dl-error" : "clj-http: status 404",
     "url" : "https://certik.org/bp.json"
   },
   "analyzed-urls" : {
+    "relative-links-count" : 6,
     "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
+    "social-links" : [ "https://github.com/certikfoundation/chain", "https://medium.com/certik-foundation", "https://medium.com/certik-foundation/certik-chain-governance-overview-ce0eb8d0597a", "https://medium.com/certik-foundation/certik-foundation-to-launch-certik-chain-testnet-3-0-open-beta-certik-f0aefc5407cd", "https://medium.com/certik-foundation/introducing-the-certik-chain-b1d8a74fe009", "https://twitter.com/certikorg" ],
+    "social-links-count" : 6,
+    "popularity-boosters" : [ "http://forum.certik.foundation/", "https://explorer.certik.foundation/" ],
+    "popularity-boosters-count" : 2
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.01764560437458352,
+  "vote-percentage" : 0.01759440276028835,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -31,8 +34,8 @@
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://certik.org/bp.json",
-      "paragraphs" : [ "bp-json-invalid" ],
-      "error" : "read:'https://certik.org/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -42,5 +45,5 @@
     "max" : 3
   },
   "place" : 25,
-  "snapshot-date" : "2020-03-22T02:12:31.677Z"
+  "snapshot-date" : "2020-03-23T02:13:49.361Z"
 }
