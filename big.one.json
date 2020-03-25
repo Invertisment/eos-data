@@ -1,45 +1,41 @@
 {
   "bp-header" : {
     "owner" : "big.one",
-    "total_votes" : "4068145207063184896.00000000000000000",
+    "total_votes" : "4069610207083086848.00000000000000000",
     "producer_key" : "EOS8MpYyXwn3DLqk9Y9XTHYcd6wGGijNqJefFoQEwEoXTq1awZ42w",
     "is_active" : 1,
     "url" : "https://eos.big.one",
-    "unpaid_blocks" : 6538,
+    "unpaid_blocks" : 14754,
     "last_claim_time" : "2020-03-23T07:03:08.500",
     "location" : 392,
     "prepared-url" : "https://eos.big.one"
   },
   "bp-json-summary" : {
-    "url" : "https://eos.big.one/bp.json",
-    "logo" : "https://storage.googleapis.com/static-61cdd52e-15d8-4b00-9e92-b7052710674d/logo/bigone/logo_256.png"
+    "dl-error" : "clj-http: status 503",
+    "url" : "https://eos.big.one/bp.json"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.029232674254218077,
+  "webpage-error" : "clj-http: status 503",
+  "vote-percentage" : 0.029228793711795716,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eos.big.one"
-    }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://eos.big.one/bp.json"
-    }, {
-      "title" : "no-coc",
       "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "title" : "no-web",
+      "error" : "clj-http: status 503",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eos.big.one/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 503"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 0,
     "max" : 3
   },
   "place" : 5,
-  "snapshot-date" : "2020-03-24T02:12:36.412Z"
+  "snapshot-date" : "2020-03-25T02:12:29.704Z"
 }

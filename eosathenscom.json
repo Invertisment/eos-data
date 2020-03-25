@@ -20,10 +20,11 @@
     "duplicate-urls" : null,
     "social-links" : [ "https://twitter.com/eosathenscom", "https://www.facebook.com/eosathenscom/", "https://www.instagram.com/eosathenscom/", "https://www.linkedin.com/company/eosathenscom/" ],
     "social-links-count" : 4,
-    "popularity-boosters" : [ ]
+    "popularity-boosters" : [ "http://miniorange.com/cyber-security" ],
+    "popularity-boosters-count" : 1
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.2326515804148315E-7,
+  "vote-percentage" : 2.2315515880296397E-7,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,5 +46,5 @@
     "max" : 3
   },
   "place" : 272,
-  "snapshot-date" : "2020-03-24T02:12:36.412Z"
+  "snapshot-date" : "2020-03-25T02:12:29.704Z"
 }
