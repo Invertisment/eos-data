@@ -1,33 +1,33 @@
 {
   "bp-header" : {
     "owner" : "geosoneforbp",
-    "total_votes" : "760664259403850496.00000000000000000",
+    "total_votes" : "762137604173196544.00000000000000000",
     "producer_key" : "EOS7CjPeMYUj2Ydmw667JJNsQA5mige9YE4FVxMCT81Jst3SRVbX3",
     "is_active" : 1,
     "url" : "https://www.geos.one",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-03-24T13:10:12.500",
+    "last_claim_time" : "2020-03-25T13:12:12.000",
     "location" : 0,
     "prepared-url" : "https://www.geos.one"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 502",
+    "dl-error" : "www.geos.one",
     "url" : "https://www.geos.one/bp.json"
   },
-  "webpage-error" : "clj-http: status 502",
-  "vote-percentage" : 0.005463250186308835,
+  "webpage-error" : "www.geos.one: No address associated with hostname",
+  "vote-percentage" : 0.005476018202086744,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "clj-http: status 502",
+      "error" : "www.geos.one: No address associated with hostname",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://www.geos.one/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 502"
+      "error" : "www.geos.one"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 41,
-  "snapshot-date" : "2020-03-25T02:12:29.704Z"
+  "snapshot-date" : "2020-03-26T02:12:32.227Z"
 }

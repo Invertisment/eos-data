@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosstorebest",
-    "total_votes" : "36845116357027016.00000000000000000",
+    "total_votes" : "36837470225392168.00000000000000000",
     "producer_key" : "EOS857vKqpcN7Tt7zCab47CCpjvGcaKbf7MpTwN3ktGsDToynSuTA",
     "is_active" : 1,
     "url" : "https://www.eosstore.co",
@@ -11,23 +11,23 @@
     "prepared-url" : "https://www.eosstore.co"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 503",
+    "dl-error" : "www.eosstore.co",
     "url" : "https://www.eosstore.co/bp.json"
   },
-  "webpage-error" : "clj-http: status 503",
-  "vote-percentage" : 2.6462935035209516E-4,
+  "webpage-error" : "www.eosstore.co: Name or service not known",
+  "vote-percentage" : 2.6468010024503964E-4,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "clj-http: status 503",
+      "error" : "www.eosstore.co: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://www.eosstore.co/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 503"
+      "error" : "www.eosstore.co"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 83,
-  "snapshot-date" : "2020-03-25T02:12:29.704Z"
+  "snapshot-date" : "2020-03-26T02:12:32.227Z"
 }

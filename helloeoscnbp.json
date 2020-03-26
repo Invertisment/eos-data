@@ -1,41 +1,50 @@
 {
   "bp-header" : {
     "owner" : "helloeoscnbp",
-    "total_votes" : "3981749064752425984.00000000000000000",
+    "total_votes" : "3982464006680394752.00000000000000000",
     "producer_key" : "EOS79cHpaEittzgJWgj79tdRhgzLEWy8wXmmQ3fL7kkDjmYYiGNet",
     "is_active" : 1,
     "url" : "https://www.helloeos.com.cn",
-    "unpaid_blocks" : 7559,
-    "last_claim_time" : "2020-03-24T04:04:41.000",
+    "unpaid_blocks" : 7536,
+    "last_claim_time" : "2020-03-25T04:05:31.000",
     "location" : 156,
     "prepared-url" : "https://www.helloeos.com.cn"
   },
   "bp-json-summary" : {
-    "dl-error" : "NotAfter: Tue Mar 24 12:00:00 UTC 2020",
-    "url" : "https://www.helloeos.com.cn/bp.json"
+    "url" : "https://www.helloeos.com.cn/bp.json",
+    "logo" : "https://www.helloeos.com.cn/images/helloeos_256.png",
+    "code_of_conduct" : "https://steemit.com/eos/@helloeos/helloeos-code-of-conduct"
   },
-  "webpage-error" : "NotAfter: Tue Mar 24 12:00:00 UTC 2020",
-  "vote-percentage" : 0.028597756567256438,
+  "analyzed-urls" : {
+    "relative-links-count" : 8,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://eosio.github.io/eos/", "https://github.com/eosio", "https://t.me/helloeos123", "https://twitter.com/helloEOS ", "https://weibo.com/helloEOS123" ],
+    "social-links-count" : 5,
+    "popularity-boosters" : [ "en/", "https://fibos.io/", "https://www.biask.com/", "https://www.chainnode.com/", "https://www.eos.io/", "https://www.helloeos.one/" ],
+    "popularity-boosters-count" : 6
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.02861431488267209,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "NotAfter: Tue Mar 24 12:00:00 UTC 2020",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://www.helloeos.com.cn"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://www.helloeos.com.cn/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "NotAfter: Tue Mar 24 12:00:00 UTC 2020"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://www.helloeos.com.cn/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/eos/@helloeos/helloeos-code-of-conduct"
     } ],
-    "score" : 0,
+    "score" : 3,
     "max" : 3
   },
   "place" : 20,
-  "snapshot-date" : "2020-03-25T02:12:29.704Z"
+  "snapshot-date" : "2020-03-26T02:12:32.227Z"
 }

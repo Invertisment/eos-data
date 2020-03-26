@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosindiaiobp",
-    "total_votes" : "597210074745600.62500000000000000",
+    "total_votes" : "596046237299625.12500000000000000",
     "producer_key" : "EOS5CDcGnvygWYfCT9kig3KjAsLeMAngc47m3oUWeA3Fs641f4n3B",
     "is_active" : 1,
     "url" : "https://eosindia.io/bp_info.json",
@@ -11,23 +11,23 @@
     "prepared-url" : "https://eosindia.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "Connection refused (Connection refused)",
+    "dl-error" : "connect timed out",
     "url" : "https://eosindia.io/bp_info.json"
   },
-  "webpage-error" : "Connection refused (Connection refused)",
-  "vote-percentage" : 4.289287963491899E-6,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 4.282638760856004E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Connection refused (Connection refused)",
+      "error" : "connect timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eosindia.io/bp_info.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Connection refused (Connection refused)"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 167,
-  "snapshot-date" : "2020-03-25T02:12:29.704Z"
+  "snapshot-date" : "2020-03-26T02:12:32.227Z"
 }
