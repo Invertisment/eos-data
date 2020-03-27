@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eossiriussbp",
-    "total_votes" : "486925938511362.62500000000000000",
+    "total_votes" : "488099577544741.50000000000000000",
     "producer_key" : "EOS6R99FWXvh53cN6dtgNRrcJWXzvr49QM1JnSgvNJe6ZTXyjGBTe",
     "is_active" : 1,
     "url" : "https://eossirius.xyz",
@@ -14,13 +14,13 @@
     "dl-error" : "eossirius.xyz",
     "url" : "https://eossirius.xyz/bp.json"
   },
-  "webpage-error" : "eossirius.xyz: Temporary failure in name resolution",
-  "vote-percentage" : 3.4986008927469836E-6,
+  "webpage-error" : "eossirius.xyz: Name or service not known",
+  "vote-percentage" : 3.4690736279871467E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "eossirius.xyz: Temporary failure in name resolution",
+      "error" : "eossirius.xyz: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 176,
-  "snapshot-date" : "2020-03-26T02:12:32.227Z"
+  "snapshot-date" : "2020-03-27T02:12:34.555Z"
 }

@@ -11,23 +11,23 @@
     "prepared-url" : "https://cadeos.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "Received fatal alert: internal_error",
+    "dl-error" : "connect timed out",
     "url" : "https://cadeos.io/bp.json"
   },
-  "webpage-error" : "Received fatal alert: internal_error",
-  "vote-percentage" : 3.8378709857947565E-12,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 3.796330065707934E-12,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Received fatal alert: internal_error",
+      "error" : "connect timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://cadeos.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Received fatal alert: internal_error"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 563,
-  "snapshot-date" : "2020-03-26T02:12:32.227Z"
+  "snapshot-date" : "2020-03-27T02:12:34.555Z"
 }
