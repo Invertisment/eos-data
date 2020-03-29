@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosaustralia",
-    "total_votes" : "41987663058672.55468750000000000",
+    "total_votes" : "65052019928577.56250000000000000",
     "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
     "is_active" : 0,
     "url" : "https://www.genereos-sydney.io/",
@@ -15,7 +15,7 @@
     "url" : "https://www.genereos-sydney.io/bp.json"
   },
   "webpage-error" : "Certificate for <www.genereos-sydney.io> doesn't match any of the subject alternative names: [*.ap-southeast-2.cluster.meridian.amazonaws.com]",
-  "vote-percentage" : 2.8730081953196E-7,
+  "vote-percentage" : 4.420408699636359E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 262,
-  "snapshot-date" : "2020-03-28T02:12:41.154Z"
+  "place" : 254,
+  "snapshot-date" : "2020-03-29T01:12:35.140Z"
 }

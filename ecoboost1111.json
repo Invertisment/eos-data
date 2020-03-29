@@ -1,47 +1,41 @@
 {
   "bp-header" : {
     "owner" : "ecoboost1111",
-    "total_votes" : "714930861299941760.00000000000000000",
+    "total_votes" : "720712059950687488.00000000000000000",
     "producer_key" : "EOS5g9D7uJuEwNzby2uAu1qVxLishXJm1T2odBPxdU3UzP7xYwVA5",
     "is_active" : 1,
     "url" : "https://ecoboost.app/",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-03-27T19:08:49.500",
+    "last_claim_time" : "2020-03-28T19:09:02.000",
     "location" : 0,
     "prepared-url" : "https://ecoboost.app/"
   },
   "bp-json-summary" : {
-    "url" : "https://ecoboost.app/bp.json",
-    "logo" : ""
+    "dl-error" : "connect timed out",
+    "url" : "https://ecoboost.app/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 1,
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "https://www.eosx.io/tools/vote?voteTo=ecoboost1111" ],
-    "popularity-boosters-count" : 1
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.004891918420730916,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 0.0048973757667120634,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://ecoboost.app/"
-    }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://ecoboost.app/bp.json"
-    }, {
-      "title" : "no-coc",
       "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "title" : "no-web",
+      "error" : "connect timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://ecoboost.app/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "connect timed out"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 58,
-  "snapshot-date" : "2020-03-28T02:12:41.154Z"
+  "place" : 59,
+  "snapshot-date" : "2020-03-29T01:12:35.140Z"
 }
