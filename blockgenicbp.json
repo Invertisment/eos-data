@@ -11,9 +11,8 @@
     "prepared-url" : "http://blockgenic.io"
   },
   "bp-json-summary" : {
-    "url" : "http://blockgenic.io/bp.json",
-    "logo" : "https://blockgenic.keybase.pub/blockgeniclogo.jpg",
-    "code_of_conduct" : "https://steemit.com/eos/@block21/blockgenic-code-of-conduct"
+    "dl-error" : "Read timed out",
+    "url" : "http://blockgenic.io/bp.json"
   },
   "analyzed-urls" : {
     "relative-links-count" : 7,
@@ -24,7 +23,7 @@
     "popularity-boosters-count" : 12
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.0574734335322838E-5,
+  "vote-percentage" : 1.0481028505238478E-5,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -32,19 +31,19 @@
       "title" : "web",
       "url" : "http://blockgenic.io"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "http://blockgenic.io/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://blockgenic.io/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "Read timed out"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://steemit.com/eos/@block21/blockgenic-code-of-conduct"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 1,
     "max" : 3
   },
   "place" : 139,
-  "snapshot-date" : "2020-03-29T01:12:35.140Z"
+  "snapshot-date" : "2020-03-30T01:12:34.579Z"
 }

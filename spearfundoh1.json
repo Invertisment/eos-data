@@ -14,13 +14,13 @@
     "dl-error" : "clj-http: status 404",
     "url" : "http://spear.fund/bp.json"
   },
-  "webpage-error" : "clj-http: status 404",
-  "vote-percentage" : 2.6303252456332884E-8,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 2.6070171602745286E-8,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "clj-http: status 404",
+      "error" : "Read timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 382,
-  "snapshot-date" : "2020-03-29T01:12:35.140Z"
+  "snapshot-date" : "2020-03-30T01:12:34.579Z"
 }

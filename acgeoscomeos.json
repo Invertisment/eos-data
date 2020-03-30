@@ -11,23 +11,23 @@
     "prepared-url" : "https://www.acgeos.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "Connection reset",
+    "dl-error" : "Connection refused (Connection refused)",
     "url" : "https://www.acgeos.com/bp.json"
   },
-  "webpage-error" : "Connection reset",
-  "vote-percentage" : 2.0097822899701663E-8,
+  "webpage-error" : "Connection refused (Connection refused)",
+  "vote-percentage" : 1.9919730181909764E-8,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Connection reset",
+      "error" : "Connection refused (Connection refused)",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://www.acgeos.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Connection reset"
+      "error" : "Connection refused (Connection refused)"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 389,
-  "snapshot-date" : "2020-03-29T01:12:35.140Z"
+  "snapshot-date" : "2020-03-30T01:12:34.579Z"
 }
