@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "nodeshanghai",
-    "total_votes" : "109605283804195.90625000000000000",
+    "total_votes" : "109646562743069.89062500000000000",
     "producer_key" : "EOS8VV8BCF5nQfTC8G5G6YpU1YWYWk5Y9SCvMfRuVUfc17KKXQp3S",
     "is_active" : 1,
     "url" : "https://fish.one",
@@ -11,23 +11,23 @@
     "prepared-url" : "https://fish.one"
   },
   "bp-json-summary" : {
-    "dl-error" : "Certificate for <fish.one> doesn't match any of the subject alternative names: [web.buyu.im]",
+    "dl-error" : "Connection reset",
     "url" : "https://fish.one/bp.json"
   },
-  "webpage-error" : "Certificate for <fish.one> doesn't match any of the subject alternative names: [web.buyu.im]",
-  "vote-percentage" : 7.381889944402633E-7,
+  "webpage-error" : "Connection reset",
+  "vote-percentage" : 7.351182532918432E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Certificate for <fish.one> doesn't match any of the subject alternative names: [web.buyu.im]",
+      "error" : "Connection reset",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://fish.one/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Certificate for <fish.one> doesn't match any of the subject alternative names: [web.buyu.im]"
+      "error" : "Connection reset"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 232,
-  "snapshot-date" : "2020-03-30T01:12:34.579Z"
+  "snapshot-date" : "2020-03-31T01:12:34.171Z"
 }

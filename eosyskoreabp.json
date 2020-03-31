@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosyskoreabp",
-    "total_votes" : "110783343603647632.00000000000000000",
+    "total_votes" : "110777336125988224.00000000000000000",
     "producer_key" : "EOS7TjKVBkBcSmjsXF4jJfZ1QU9RqVHuBkkcHNJoEcHGR79CoLf2f",
     "is_active" : 1,
     "url" : "https://eosys.io",
@@ -11,23 +11,23 @@
     "prepared-url" : "https://eosys.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "Connection refused (Connection refused)",
+    "dl-error" : "eosys.io",
     "url" : "https://eosys.io/bp.json"
   },
-  "webpage-error" : "Connection refused (Connection refused)",
-  "vote-percentage" : 7.461231993304337E-4,
+  "webpage-error" : "eosys.io: Name or service not known",
+  "vote-percentage" : 7.426994499415518E-4,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Connection refused (Connection refused)",
+      "error" : "eosys.io: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eosys.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Connection refused (Connection refused)"
+      "error" : "eosys.io"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 74,
-  "snapshot-date" : "2020-03-30T01:12:34.579Z"
+  "snapshot-date" : "2020-03-31T01:12:34.171Z"
 }
