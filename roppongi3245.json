@@ -14,22 +14,14 @@
     "dl-error" : "no protocol: “https://www.eosdocs.io/resources/apiendpoints/”/bp.json",
     "url" : "“https://www.eosdocs.io/resources/apiendpoints/”/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 34,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/eosnewyork/eosdocs.io/tree/master/PublicWebsite/content/Resources/apiendpoints/_index.md" ],
-    "social-links-count" : 1,
-    "popularity-boosters" : [ "http://eosnetworkmonitor.io/", "https://blockmatrix.network/", "https://eosnode.tools/blocks", "https://eostracker.io/producers" ],
-    "popularity-boosters-count" : 4
-  },
-  "p-ram-amounts" : [ "16GB or ram" ],
-  "vote-percentage" : 1.9517463098903633E-9,
+  "webpage-error" : "clj-http: status 404",
+  "vote-percentage" : 1.923557280529881E-9,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "“https://www.eosdocs.io/resources/apiendpoints/”"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "clj-http: status 404",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
@@ -41,9 +33,9 @@
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
   "place" : 444,
-  "snapshot-date" : "2020-03-31T01:12:34.171Z"
+  "snapshot-date" : "2020-04-01T01:12:32.040Z"
 }

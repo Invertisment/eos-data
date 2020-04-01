@@ -14,13 +14,13 @@
     "dl-error" : "radiuslabs.io",
     "url" : "http://radiuslabs.io/bp.json"
   },
-  "webpage-error" : "radiuslabs.io: No address associated with hostname",
-  "vote-percentage" : 8.249555690223892E-15,
+  "webpage-error" : "radiuslabs.io: Name or service not known",
+  "vote-percentage" : 8.130407537421329E-15,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "radiuslabs.io: No address associated with hostname",
+      "error" : "radiuslabs.io: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 572,
-  "snapshot-date" : "2020-03-31T01:12:34.171Z"
+  "snapshot-date" : "2020-04-01T01:12:32.040Z"
 }

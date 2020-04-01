@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "certikeosorg",
-    "total_votes" : "2537904715806085632.00000000000000000",
+    "total_votes" : "2538810542253995520.00000000000000000",
     "producer_key" : "EOS57kRcpx1QT4Wn4uA6agwYdJNGew4cfrzKnzrvQZiVE85huUBAB",
     "is_active" : 1,
     "url" : "https://certik.org",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-03-31T00:19:20.500",
+    "last_claim_time" : "2020-04-01T00:20:25.500",
     "location" : 840,
     "prepared-url" : "https://certik.org"
   },
@@ -15,15 +15,15 @@
     "url" : "https://certik.org/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 6,
+    "relative-links-count" : 9,
     "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/certikfoundation/chain", "https://medium.com/certik-foundation", "https://medium.com/certik-foundation/certik-chain-governance-overview-ce0eb8d0597a", "https://medium.com/certik-foundation/certik-foundation-to-launch-certik-chain-testnet-3-0-open-beta-certik-f0aefc5407cd", "https://medium.com/certik-foundation/introducing-the-certik-chain-b1d8a74fe009", "https://twitter.com/certikorg" ],
-    "social-links-count" : 6,
-    "popularity-boosters" : [ "http://forum.certik.foundation/", "https://explorer.certik.foundation/", "https://mailchi.mp/certik/chain-signup" ],
-    "popularity-boosters-count" : 3
+    "social-links" : [ "https://github.com/certikfoundation/chain", "https://medium.com/certik-foundation", "https://twitter.com/certikorg" ],
+    "social-links-count" : 3,
+    "popularity-boosters" : [ "http://forum.certik.foundation/", "https://docs.certik.foundation/certik-chain/", "https://explorer.certik.foundation/", "https://mailchi.mp/certik/chain-signup", "https://wallet.certik.foundation/" ],
+    "popularity-boosters-count" : 5
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.01701521721274768,
+  "vote-percentage" : 0.01677545214342011,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,5 +45,5 @@
     "max" : 3
   },
   "place" : 25,
-  "snapshot-date" : "2020-03-31T01:12:34.171Z"
+  "snapshot-date" : "2020-04-01T01:12:32.040Z"
 }

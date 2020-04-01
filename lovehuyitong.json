@@ -17,11 +17,11 @@
   "analyzed-urls" : {
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ "http://home.baidu.com", "http://ir.baidu.com", "http://jianyi.baidu.com/", "http://map.baidu.com", "http://news.baidu.com", "http://tieba.baidu.com", "http://v.baidu.com", "http://www.hao123.com" ],
+    "popularity-boosters" : [ "http://home.baidu.com", "http://ir.baidu.com", "http://jianyi.baidu.com/", "http://map.baidu.com", "http://news.baidu.com", "http://tieba.baidu.com", "http://v.baidu.com", "https://www.hao123.com" ],
     "popularity-boosters-count" : 8
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.1327633554265174E-9,
+  "vote-percentage" : 1.1164028790045636E-9,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -43,5 +43,5 @@
     "max" : 3
   },
   "place" : 445,
-  "snapshot-date" : "2020-03-31T01:12:34.171Z"
+  "snapshot-date" : "2020-04-01T01:12:32.040Z"
 }
