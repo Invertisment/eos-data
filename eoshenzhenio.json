@@ -1,33 +1,33 @@
 {
   "bp-header" : {
     "owner" : "eoshenzhenio",
-    "total_votes" : "731929790654179712.00000000000000000",
+    "total_votes" : "744763994599144960.00000000000000000",
     "producer_key" : "EOS8EJrMphgHJx5EkHQ4ryodbvnocZEC1xp5T1FnRsT7XtzYA1FE7",
     "is_active" : 1,
     "url" : "https://info.eoshenzhen.io:1443",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-03-31T07:07:42.500",
+    "last_claim_time" : "2020-04-01T07:08:16.500",
     "location" : 156,
     "prepared-url" : "https://info.eoshenzhen.io:1443"
   },
   "bp-json-summary" : {
-    "dl-error" : "NotAfter: Wed Feb 12 01:36:26 UTC 2020",
+    "dl-error" : "connect timed out",
     "url" : "https://info.eoshenzhen.io:1443/bp.json"
   },
-  "webpage-error" : "NotAfter: Wed Feb 12 01:36:26 UTC 2020",
-  "vote-percentage" : 0.0048363014770537735,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 0.004867462796802423,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "NotAfter: Wed Feb 12 01:36:26 UTC 2020",
+      "error" : "connect timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://info.eoshenzhen.io:1443/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "NotAfter: Wed Feb 12 01:36:26 UTC 2020"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 61,
-  "snapshot-date" : "2020-04-01T01:12:32.040Z"
+  "place" : 58,
+  "snapshot-date" : "2020-04-02T01:12:24.340Z"
 }

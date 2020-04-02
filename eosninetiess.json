@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosninetiess",
-    "total_votes" : "582104147197129.87500000000000000",
+    "total_votes" : "582363717212598.00000000000000000",
     "producer_key" : "EOS7eMeo7dgG42NQPy4x45X2VhG8T3gjnwuSdsoGeGzz1w3Hwrr7m",
     "is_active" : 1,
     "url" : "http://www.eos90s.io/",
@@ -11,38 +11,31 @@
     "prepared-url" : "http://www.eos90s.io/"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "dl-error" : "unable to find valid certification path to requested target",
     "url" : "http://www.eos90s.io/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 2,
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "http://athemes.com/theme/intro", "http://wordpress.org/", "https://maps.google.com/maps?z=16&q=3999%2Bmission%2Bboulevard%2C%2Bsan%2Bdiego%2Bca%2B92109", "https://www.fortuneme.tw/", "https://www.fortuneme.tw/about/", "https://www.fortuneme.tw/astro/", "https://www.fortuneme.tw/author/user/", "https://www.fortuneme.tw/console/", "https://www.fortuneme.tw/consoler/", "https://www.fortuneme.tw/fanplus/", "https://www.fortuneme.tw/new-page/", "https://www.fortuneme.tw/sample-page/", "https://www.fortuneme.tw/tarot/", "https://www.fortuneme.tw/tarot/%e7%b2%89%e7%b5%b2plus%e8%a8%88%e7%95%ab-%e8%a8%82%e9%96%b1%e5%88%b6%e8%ae%8a%e7%8f%be%e6%a8%a1%e5%bc%8f/", "top" ],
-    "popularity-boosters-count" : 15
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 3.846313106578743E-6,
+  "webpage-error" : "unable to find valid certification path to requested target",
+  "vote-percentage" : 3.80608319990761E-6,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "http://www.eos90s.io/"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "unable to find valid certification path to requested target",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://www.eos90s.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "error" : "unable to find valid certification path to requested target"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 177,
-  "snapshot-date" : "2020-04-01T01:12:32.040Z"
+  "place" : 181,
+  "snapshot-date" : "2020-04-02T01:12:24.340Z"
 }
