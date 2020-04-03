@@ -11,8 +11,8 @@
     "prepared-url" : "https://eoscity.io"
   },
   "bp-json-summary" : {
-    "read-error" : "read:'https://eoscity.io/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
-    "url" : "https://eoscity.io/bp.json"
+    "url" : "https://eoscity.io/bp.json",
+    "logo" : "https://eoscity.io/img/eosCityLogoTextOnly.svg"
   },
   "analyzed-urls" : {
     "duplicate-urls" : null,
@@ -20,7 +20,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.1788012219949476E-8,
+  "vote-percentage" : 2.166665630411549E-8,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -28,19 +28,18 @@
       "title" : "web",
       "url" : "https://eoscity.io"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://eoscity.io/bp.json",
-      "paragraphs" : [ "bp-json-invalid" ],
-      "error" : "read:'https://eoscity.io/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eoscity.io/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "title" : "no-coc",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
     } ],
-    "score" : 1,
+    "score" : 2,
     "max" : 3
   },
   "place" : 390,
-  "snapshot-date" : "2020-04-02T01:12:24.340Z"
+  "snapshot-date" : "2020-04-03T01:12:22.209Z"
 }
