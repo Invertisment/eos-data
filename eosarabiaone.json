@@ -11,31 +11,40 @@
     "prepared-url" : "https://eosarabia.one"
   },
   "bp-json-summary" : {
-    "dl-error" : "Connection refused (Connection refused)",
-    "url" : "https://eosarabia.one/bp.json"
+    "url" : "https://eosarabia.one/bp.json",
+    "logo" : "https://eosarabia.one/EOSArabia-Logo256.png",
+    "code_of_conduct" : "https://eosarabia.one/code-of-conduct"
   },
-  "webpage-error" : "Connection refused (Connection refused)",
-  "vote-percentage" : 1.0316759861296065E-7,
+  "analyzed-urls" : {
+    "relative-links-count" : 7,
+    "duplicate-urls" : null,
+    "social-links" : [ "http://t.me/EOS_Arabia", "https://github.com/EOSIO/Documentation/pull/125", "https://github.com/Takafuly/mobeos", "https://medium.com/@takafuly/takafuly-a-decentralized-service-exchange-marketplace-where-everybody-connects-afbcad5f3ecd", "https://medium.com/eos-arabia-official", "https://steemit.com/@eos.arabia", "https://t.me/EOS_Arabia", "https://twitter.com/caramellaapp", "https://twitter.com/eos_arabia", "https://www.facebook.com/caramellaapp", "https://www.instagram.com/eosarabia/", "https://www.meetup.com/EOS_Arabia/", "https://www.youtube.com/channel/UCku8FY8kPuJ7asKw5LKTDIg" ],
+    "social-links-count" : 13,
+    "popularity-boosters" : [ "http://AllThingsEOS.one", "http://discuss.caramel.la/", "https://WhatIsEOS.io", "https://caramel.la/help", "https://caramel.la/help/HyA0Ie95X/terms-and-conditions", "https://caramel.la/help/rJEZsJq9Q/privacy-policy", "https://eosarabia.net/4qsy1qlIm/code-of-conduct", "https://eosarabia.net/YPpT2v_N3/ownership", "https://eosarabia.net/Yi1RLRX6/eos-arabia-announces-its-wax-guild-candidacy", "https://eosarabia.net/blog", "https://whatiseos.io/LhrsnUYMI/qamws-mstlhat-alamlat-almshfrh-w-eos", "https://whatiseos.io/p42J18x9h/ma-hw-blwktshyn-eos" ],
+    "popularity-boosters-count" : 12
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 1.0325177232094082E-7,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "Connection refused (Connection refused)",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eosarabia.one"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://eosarabia.one/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Connection refused (Connection refused)"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eosarabia.one/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://eosarabia.one/code-of-conduct"
     } ],
-    "score" : 0,
+    "score" : 3,
     "max" : 3
   },
   "place" : 320,
-  "snapshot-date" : "2020-04-03T01:12:22.209Z"
+  "snapshot-date" : "2020-04-04T01:12:27.659Z"
 }

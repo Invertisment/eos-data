@@ -11,23 +11,23 @@
     "prepared-url" : "https://zeroxeos.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "Certificate for <zeroxeos.com> doesn't match any of the subject alternative names: [hellohome.it]",
+    "dl-error" : "Certificate for <zeroxeos.com> doesn't match any of the subject alternative names: [eurogroupconsulting.it]",
     "url" : "https://zeroxeos.com/bp.json"
   },
-  "webpage-error" : "Certificate for <zeroxeos.com> doesn't match any of the subject alternative names: [hellohome.it]",
-  "vote-percentage" : 2.2675642522062292E-7,
+  "webpage-error" : "Certificate for <zeroxeos.com> doesn't match any of the subject alternative names: [eurogroupconsulting.it]",
+  "vote-percentage" : 2.2694143417087247E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Certificate for <zeroxeos.com> doesn't match any of the subject alternative names: [hellohome.it]",
+      "error" : "Certificate for <zeroxeos.com> doesn't match any of the subject alternative names: [eurogroupconsulting.it]",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://zeroxeos.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Certificate for <zeroxeos.com> doesn't match any of the subject alternative names: [hellohome.it]"
+      "error" : "Certificate for <zeroxeos.com> doesn't match any of the subject alternative names: [eurogroupconsulting.it]"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 280,
-  "snapshot-date" : "2020-04-03T01:12:22.209Z"
+  "snapshot-date" : "2020-04-04T01:12:27.659Z"
 }

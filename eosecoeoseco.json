@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosecoeoseco",
-    "total_votes" : "29162941669896240.00000000000000000",
+    "total_votes" : "29165155953976640.00000000000000000",
     "producer_key" : "EOS57oitM7gnt9aU2eWCDrSzw4C9x3ez8nXE24mnVfZAD3EqPhFXf",
     "is_active" : 1,
     "url" : "https://eoseco.com",
@@ -11,23 +11,23 @@
     "prepared-url" : "https://eoseco.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "eoseco.com",
     "url" : "https://eoseco.com/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 1.8953507060517105E-4,
+  "webpage-error" : "eoseco.com: Name or service not known",
+  "vote-percentage" : 1.8970411367959578E-4,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "eoseco.com: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eoseco.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "eoseco.com"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 88,
-  "snapshot-date" : "2020-04-03T01:12:22.209Z"
+  "snapshot-date" : "2020-04-04T01:12:27.659Z"
 }
