@@ -11,23 +11,23 @@
     "prepared-url" : "http://eos.college"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "eos.college",
     "url" : "http://eos.college/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 5.421310398293434E-7,
+  "webpage-error" : "eos.college: No address associated with hostname",
+  "vote-percentage" : 5.339857270244097E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "eos.college: No address associated with hostname",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://eos.college/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "eos.college"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 247,
-  "snapshot-date" : "2020-04-04T01:12:27.659Z"
+  "snapshot-date" : "2020-04-05T01:12:26.273Z"
 }

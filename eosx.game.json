@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosx.game",
-    "total_votes" : "68897437521895224.00000000000000000",
+    "total_votes" : "68683493024262704.00000000000000000",
     "producer_key" : "EOS7UPVD1BcirVcD33HW2ADa9pYi3Ro189Jc3u34nMpb7zZnEqKRd",
     "is_active" : 1,
     "url" : "https://chain.game",
@@ -11,8 +11,8 @@
     "prepared-url" : "https://chain.game"
   },
   "bp-json-summary" : {
-    "url" : "https://chain.game/bp.json",
-    "logo" : "https://chain.game/eosx.game-logo/png/eosx-game-logo-256.png"
+    "read-error" : "read:'https://chain.game/bp.json': Unexpected character ('﻿' (code 65279 / 0xfeff)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "url" : "https://chain.game/bp.json"
   },
   "analyzed-urls" : {
     "duplicate-urls" : null,
@@ -20,7 +20,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 4.48141862862364E-4,
+  "vote-percentage" : 4.4003801266885307E-4,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -28,18 +28,19 @@
       "title" : "web",
       "url" : "https://chain.game"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://chain.game/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://chain.game/bp.json",
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'https://chain.game/bp.json': Unexpected character ('﻿' (code 65279 / 0xfeff)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
     }, {
-      "title" : "no-coc",
-      "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 1,
     "max" : 3
   },
   "place" : 80,
-  "snapshot-date" : "2020-04-04T01:12:27.659Z"
+  "snapshot-date" : "2020-04-05T01:12:26.273Z"
 }

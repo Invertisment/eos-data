@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "123singapore",
-    "total_votes" : "1740526941200233.00000000000000000",
+    "total_votes" : "1742645647640077.00000000000000000",
     "producer_key" : "EOS71UbkZzuz55WNBpsEVQzkXrZAJ2XyLoQiEcS9WKwbYambhFxWb",
     "is_active" : 1,
     "url" : "http://eos.vote",
@@ -15,7 +15,7 @@
     "url" : "http://eos.vote/bp.json"
   },
   "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 1.132121910257873E-5,
+  "vote-percentage" : 1.1164696112684312E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 138,
-  "snapshot-date" : "2020-04-04T01:12:27.659Z"
+  "snapshot-date" : "2020-04-05T01:12:26.273Z"
 }
