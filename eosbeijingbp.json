@@ -1,41 +1,50 @@
 {
   "bp-header" : {
     "owner" : "eosbeijingbp",
-    "total_votes" : "2605884824844894720.00000000000000000",
+    "total_votes" : "2608303757586721280.00000000000000000",
     "producer_key" : "EOS5dGpcEhwB4VEhhXEcqtZs9EQj5HeetuXDnsAGVHMXHAFdMjbdj",
     "is_active" : 1,
     "url" : "https://www.eosbeijing.one",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-04-05T13:28:01.000",
+    "last_claim_time" : "2020-04-06T13:28:06.500",
     "location" : 392,
     "prepared-url" : "https://www.eosbeijing.one"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
-    "url" : "https://www.eosbeijing.one/bp.json"
+    "url" : "https://www.eosbeijing.one/bp.json",
+    "logo" : "https://www.eosbeijing.one/logo_256.png",
+    "code_of_conduct" : "https://steemit.com/eos/@eosbeijing/eos-beijing-block-producer-candidate-introduction"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 0.01666873243258098,
+  "analyzed-urls" : {
+    "relative-links-count" : 1,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://steemit.com/eos/@eosbeijing/79lqkq-eos-beijing-ownership-disclosure", "https://twitter.com/eosbeijing" ],
+    "social-links-count" : 2,
+    "popularity-boosters" : [ "http://ipads.se.sjtu.edu.cn/", "http://three.modern.themerella.com/", "http://three.modern.themerella.com/about/", "http://three.modern.themerella.com/contact/", "https://teex.io", "https://www.atoken.com/", "https://www.bituniverse.org/", "https://www.shensi.com" ],
+    "popularity-boosters-count" : 8
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.02187568746130207,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "connect timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://www.eosbeijing.one"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://www.eosbeijing.one/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://www.eosbeijing.one/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/eos/@eosbeijing/eos-beijing-block-producer-candidate-introduction"
     } ],
-    "score" : 0,
+    "score" : 3,
     "max" : 3
   },
-  "place" : 25,
-  "snapshot-date" : "2020-04-06T01:12:24.144Z"
+  "place" : 19,
+  "snapshot-date" : "2020-04-07T01:10:47.245Z"
 }

@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosonoeosono",
-    "total_votes" : "5128302623814799.00000000000000000",
+    "total_votes" : "5137994234006666.00000000000000000",
     "producer_key" : "EOS5AHfFwaJxjMPkrufw4aCTFvJJUVgpwqwvghhYrFahik7oxaXah",
     "is_active" : 1,
     "url" : "https://ono.chat",
@@ -15,14 +15,13 @@
     "url" : "https://ono.chat/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 2,
+    "relative-links-count" : 1,
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ "https://wordpress.org/" ],
-    "popularity-boosters-count" : 1
+    "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 3.2803561943594295E-5,
+  "vote-percentage" : 4.309205003986771E-5,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -43,6 +42,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 115,
-  "snapshot-date" : "2020-04-06T01:12:24.144Z"
+  "place" : 87,
+  "snapshot-date" : "2020-04-07T01:10:47.245Z"
 }
