@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "jedaaaaaaaaa",
-    "total_votes" : "41022830002086016.00000000000000000",
+    "total_votes" : "40801223391891952.00000000000000000",
     "producer_key" : "EOS6nB9Ar5sghWjqk27bszCiA9zxQtXZCaAaEkf2nwUm9iP5MEJTT",
     "is_active" : 1,
     "url" : "https://www.eosjapan.org",
@@ -11,40 +11,31 @@
     "prepared-url" : "https://www.eosjapan.org"
   },
   "bp-json-summary" : {
-    "url" : "https://www.eosjapan.org/bp.json",
-    "logo" : "https://www.eosjapan.org/jeda-logo-256.jpg",
-    "code_of_conduct" : "https://steemit.com/eos/@eosjapan/jeda-statement-of-ownership-disclosure-and-code-of-conduct"
+    "dl-error" : "Connection refused (Connection refused)",
+    "url" : "https://www.eosjapan.org/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 5,
-    "duplicate-urls" : null,
-    "social-links" : [ "http://t.me/eosjapan", "https://line.me/R/ti/p/@xnk8984e", "https://twitter.com/eosjapan_jeda", "https://www.facebook.com/eosjapan/", "https://www.instagram.com/eosjapan/" ],
-    "social-links-count" : 5,
-    "popularity-boosters" : [ "http://japanfintech.org/", "https://bitcoin-news.tokyo/profile/", "https://coin-otaku.com/", "https://eosjapan.org", "https://www.infinitowallet.io/", "https://www.tokenpocket.pro/" ],
-    "popularity-boosters-count" : 6
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.624055255292136E-4,
+  "webpage-error" : "Connection refused (Connection refused)",
+  "vote-percentage" : 2.601772001632737E-4,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://www.eosjapan.org"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Connection refused (Connection refused)",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://www.eosjapan.org/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://www.eosjapan.org/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "Connection refused (Connection refused)"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://steemit.com/eos/@eosjapan/jeda-statement-of-ownership-disclosure-and-code-of-conduct"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 0,
     "max" : 3
   },
   "place" : 83,
-  "snapshot-date" : "2020-04-06T01:12:24.144Z"
+  "snapshot-date" : "2020-04-08T01:12:32.601Z"
 }

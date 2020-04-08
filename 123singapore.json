@@ -11,23 +11,23 @@
     "prepared-url" : "http://eos.vote"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 403",
+    "dl-error" : "eos.vote",
     "url" : "http://eos.vote/bp.json"
   },
-  "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 1.466497767170903E-5,
+  "webpage-error" : "eos.vote: Name or service not known",
+  "vote-percentage" : 1.114997551540297E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "clj-http: status 403",
+      "error" : "eos.vote: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://eos.vote/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 403"
+      "error" : "eos.vote"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 108,
-  "snapshot-date" : "2020-04-07T01:10:47.245Z"
+  "place" : 138,
+  "snapshot-date" : "2020-04-08T01:12:32.601Z"
 }

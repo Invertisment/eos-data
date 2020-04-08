@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "okcapitalbp1",
-    "total_votes" : "4154147385692660736.00000000000000000",
+    "total_votes" : "4165358107587090944.00000000000000000",
     "producer_key" : "EOS6NqWZ1i9KSNoeBiby6Nmf1seAbEfhvrDoCbwSi1hV4cuqqnYRP",
     "is_active" : 1,
     "url" : "https://www.okex.com/eosbp/",
-    "unpaid_blocks" : 7752,
-    "last_claim_time" : "2020-04-05T02:30:13.000",
+    "unpaid_blocks" : 7728,
+    "last_claim_time" : "2020-04-07T02:34:03.500",
     "location" : 0,
     "prepared-url" : "https://www.okex.com/eosbp/"
   },
@@ -20,11 +20,11 @@
     "duplicate-urls" : null,
     "social-links" : [ "https://www.linkedin.com/company/okex/jobs" ],
     "social-links-count" : 1,
-    "popularity-boosters" : [ "http://www.btc126.com", "http://www.coinvoice.cn", "https://bbx.vip", "https://tiger.cloud", "https://www.99ex.com", "https://www.aicoin.cn", "https://www.chainfor.com", "https://www.chainwhy.com", "https://www.coinall.live", "https://www.coinfarm.online", "https://www.f2pool.com", "https://www.ok.cn" ],
+    "popularity-boosters" : [ "http://www.btc126.com", "http://www.coinvoice.cn", "https://bbx.vip", "https://tiger.cloud", "https://www.99ex.com", "https://www.aicoin.cn", "https://www.chainfor.com", "https://www.chainwhy.com", "https://www.coinall.com", "https://www.coinfarm.online", "https://www.f2pool.com", "https://www.ok.cn" ],
     "popularity-boosters-count" : 12
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.026572306879195342,
+  "vote-percentage" : 0.026561243022060005,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +45,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 12,
-  "snapshot-date" : "2020-04-06T01:12:24.144Z"
+  "place" : 10,
+  "snapshot-date" : "2020-04-08T01:12:32.601Z"
 }
