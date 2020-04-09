@@ -15,12 +15,14 @@
     "url" : "http://eblock.io/bp.json"
   },
   "analyzed-urls" : {
+    "relative-links-count" : 1,
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ ]
+    "popularity-boosters" : [ "https://www.sedo.com/services/parking.php3" ],
+    "popularity-boosters-count" : 1
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 4.8959945866034506E-11,
+  "vote-percentage" : 4.8789790335111257E-11,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -42,5 +44,5 @@
     "max" : 3
   },
   "place" : 533,
-  "snapshot-date" : "2020-04-08T01:12:32.601Z"
+  "snapshot-date" : "2020-04-09T01:12:29.823Z"
 }

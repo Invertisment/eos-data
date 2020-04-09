@@ -13,21 +13,14 @@
   "bp-json-summary" : {
     "url" : "https://regreen.xyz/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 2,
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "https://colorlib.com/", "https://wordpress.org/", "https://www.eosx.io/tools/vote?voteTo=regreeneosio" ],
-    "popularity-boosters-count" : 3
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 3.7331334580998547E-11,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 3.7201593157813886E-11,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://regreen.xyz"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -38,9 +31,9 @@
       "mood" : "bad",
       "paragraphs" : [ "value-empty" ]
     } ],
-    "score" : 2,
+    "score" : 1,
     "max" : 3
   },
   "place" : 538,
-  "snapshot-date" : "2020-04-08T01:12:32.601Z"
+  "snapshot-date" : "2020-04-09T01:12:29.823Z"
 }
