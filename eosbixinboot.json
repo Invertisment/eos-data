@@ -1,33 +1,33 @@
 {
   "bp-header" : {
     "owner" : "eosbixinboot",
-    "total_votes" : "801571568756217216.00000000000000000",
+    "total_votes" : "801565549434984192.00000000000000000",
     "producer_key" : "EOS7QC1XfAtkYeLjbHQjcDWVqUsxuSJ3YRhNyG93VAv2u3uHopGVp",
     "is_active" : 1,
     "url" : "https://en.eosbixin.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-04-07T01:00:03.000",
+    "last_claim_time" : "2020-04-10T01:00:03.500",
     "location" : 7,
     "prepared-url" : "https://en.eosbixin.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "Connection refused (Connection refused)",
+    "dl-error" : "en.eosbixin.com",
     "url" : "https://en.eosbixin.com/bp.json"
   },
-  "webpage-error" : "Connection refused (Connection refused)",
-  "vote-percentage" : 0.005093618076134933,
+  "webpage-error" : "en.eosbixin.com: No address associated with hostname",
+  "vote-percentage" : 0.005092603842030831,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Connection refused (Connection refused)",
+      "error" : "en.eosbixin.com: No address associated with hostname",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://en.eosbixin.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Connection refused (Connection refused)"
+      "error" : "en.eosbixin.com"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 53,
-  "snapshot-date" : "2020-04-09T01:12:29.823Z"
+  "snapshot-date" : "2020-04-10T01:12:28.761Z"
 }
