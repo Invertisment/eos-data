@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosonoeosono",
-    "total_votes" : "5137646490698426.00000000000000000",
+    "total_votes" : "5134903856588051.00000000000000000",
     "producer_key" : "EOS5AHfFwaJxjMPkrufw4aCTFvJJUVgpwqwvghhYrFahik7oxaXah",
     "is_active" : 1,
     "url" : "https://ono.chat",
@@ -18,10 +18,11 @@
     "relative-links-count" : 1,
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ ]
+    "popularity-boosters" : [ "https://pottertheme.com/" ],
+    "popularity-boosters-count" : 1
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 3.2641121210822705E-5,
+  "vote-percentage" : 3.251184319929767E-5,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -43,5 +44,5 @@
     "max" : 3
   },
   "place" : 113,
-  "snapshot-date" : "2020-04-10T01:12:28.761Z"
+  "snapshot-date" : "2020-04-11T01:12:24.824Z"
 }

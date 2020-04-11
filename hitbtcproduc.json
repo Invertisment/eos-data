@@ -11,23 +11,23 @@
     "prepared-url" : "https://hitblockproducer.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "Unrecognized SSL message, plaintext connection?",
     "url" : "https://hitblockproducer.com/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 3.768291237808974E-7,
+  "webpage-error" : "Unrecognized SSL message, plaintext connection?",
+  "vote-percentage" : 3.7553713242338096E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "Unrecognized SSL message, plaintext connection?",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://hitblockproducer.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "Unrecognized SSL message, plaintext connection?"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 262,
-  "snapshot-date" : "2020-04-10T01:12:28.761Z"
+  "snapshot-date" : "2020-04-11T01:12:24.824Z"
 }

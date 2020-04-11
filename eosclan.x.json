@@ -11,23 +11,23 @@
     "prepared-url" : "https://eosclan.dev"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "eosclan.dev",
     "url" : "https://eosclan.dev/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 6.35045169706808E-9,
+  "webpage-error" : "eosclan.dev: Name or service not known",
+  "vote-percentage" : 6.328678622241442E-9,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "eosclan.dev: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eosclan.dev/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "eosclan.dev"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 426,
-  "snapshot-date" : "2020-04-10T01:12:28.761Z"
+  "snapshot-date" : "2020-04-11T01:12:24.824Z"
 }

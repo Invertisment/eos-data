@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "blockmatrix1",
-    "total_votes" : "11832648453343596.00000000000000000",
+    "total_votes" : "11832703864406114.00000000000000000",
     "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
     "is_active" : 0,
     "url" : "https://blockmatrix.network",
@@ -11,12 +11,11 @@
     "prepared-url" : "https://blockmatrix.network"
   },
   "bp-json-summary" : {
-    "url" : "https://blockmatrix.network/bp.json",
-    "logo" : "https://blockmatrix.network/images/logos/block_matrix_logo_white_bg_256.png",
-    "code_of_conduct" : "https://blockmatrix.network#validators-#codeOfConduct"
+    "dl-error" : "Read timed out",
+    "url" : "https://blockmatrix.network/bp.json"
   },
   "webpage-error" : "Read timed out",
-  "vote-percentage" : 7.517662281939855E-5,
+  "vote-percentage" : 7.491922408045157E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -24,19 +23,19 @@
       "error" : "Read timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://blockmatrix.network/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://blockmatrix.network/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "Read timed out"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://blockmatrix.network#validators-#codeOfConduct"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 0,
     "max" : 3
   },
   "place" : 101,
-  "snapshot-date" : "2020-04-10T01:12:28.761Z"
+  "snapshot-date" : "2020-04-11T01:12:24.824Z"
 }

@@ -14,22 +14,14 @@
     "dl-error" : "clj-http: status 404",
     "url" : "http://mixbytes.io/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 20,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/mixbytes", "https://github.com/mixbytes/audits_public/blob/master/solidity/Aragon/voting-connectors/README.md", "https://github.com/mixbytes/audits_public/blob/master/solidity/PoA%20Consensus/audit_en.md", "https://github.com/smartzplatform", "https://medium.com/mixbytes", "https://t.me/MixBytes", "https://t.me/darya_dao", "https://t.me/vadimbuyanov", "https://twitter.com/MixBytes", "https://www.facebook.com/mixbyteslabs/", "https://www.linkedin.com/company/mixbytes/", "https://www.linkedin.com/in/aleksey-makeyev-98471884/", "https://www.linkedin.com/in/darya-vystavkina-043b3b181/", "https://www.linkedin.com/in/sergey-prilutskiy-2a619951/", "https://www.linkedin.com/in/vadim-buyanov/" ],
-    "social-links-count" : 15,
-    "popularity-boosters" : [ "blog", "https://aragon.one/", "https://daobet.org/", "https://smartz.io/", "https://techreviewer.co/top-blockchain-development-companies-in-2019/", "https://www.goodfirms.co/companies/view/12506/mixbytes" ],
-    "popularity-boosters-count" : 6
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.5700771973756523E-8,
+  "webpage-error" : "Circular redirect to 'https://mixbytes.io/'",
+  "vote-percentage" : 1.564694051430642E-8,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "http://mixbytes.io"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Circular redirect to 'https://mixbytes.io/'",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
@@ -41,9 +33,9 @@
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
   "place" : 408,
-  "snapshot-date" : "2020-04-10T01:12:28.761Z"
+  "snapshot-date" : "2020-04-11T01:12:24.824Z"
 }
