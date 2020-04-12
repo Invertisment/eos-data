@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eossandiego1",
-    "total_votes" : "4294901234281453.50000000000000000",
+    "total_votes" : "4221592281032258.00000000000000000",
     "producer_key" : "EOS5uvviewoQV5z1afft5Pk11GYa7W16EgFNnvEDo5Ayr3TBmznaN",
     "is_active" : 1,
     "url" : "https://eossandiego.com/",
@@ -11,35 +11,31 @@
     "prepared-url" : "https://eossandiego.com/"
   },
   "bp-json-summary" : {
-    "url" : "https://eossandiego.com/bp.json",
-    "logo" : ""
+    "dl-error" : "Read timed out",
+    "url" : "https://eossandiego.com/bp.json"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.7193333971828425E-5,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 2.657487859754779E-5,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eossandiego.com/"
-    }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://eossandiego.com/bp.json"
-    }, {
-      "title" : "no-coc",
       "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eossandiego.com/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "Read timed out"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 0,
     "max" : 3
   },
   "place" : 117,
-  "snapshot-date" : "2020-04-11T01:12:24.824Z"
+  "snapshot-date" : "2020-04-12T01:12:44.142Z"
 }
