@@ -1,12 +1,12 @@
 {
   "bp-header" : {
-    "owner" : "g44tsnrwgyge",
-    "total_votes" : "16372470007.38134765625000000",
-    "producer_key" : "EOS5n5Y5uMMzi1wyCH5WAkWw7ixz642SPWZ3vqpxJaT3fS7hPhHLq",
+    "owner" : "tetrisblocks",
+    "total_votes" : "0.00000000000000000",
+    "producer_key" : "EOS6bnUjWkcbJrc2LJycgk977Rd2vdFYd4j4FZTQxWZVG5bKrcuLe",
     "is_active" : 1,
     "url" : "",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "last_claim_time" : "2020-04-12T08:12:08.500",
     "location" : 0,
     "prepared-url" : null
   },
@@ -17,7 +17,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.0305085546479499E-10,
+  "vote-percentage" : 0.0,
   "scoring" : {
     "comp" : [ {
       "title" : "no-web",
@@ -35,6 +35,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 515,
+  "place" : 584,
   "snapshot-date" : "2020-04-13T01:12:33.977Z"
 }
