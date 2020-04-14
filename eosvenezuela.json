@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosvenezuela",
-    "total_votes" : "15150030492788792.00000000000000000",
+    "total_votes" : "15151325208011060.00000000000000000",
     "producer_key" : "EOS7pUMws312EjWwCcyMvV8hJiN5DFePdxsCknTJsrthp1an2AZXu",
     "is_active" : 1,
     "url" : "https://eosvenezuela.io",
@@ -11,31 +11,40 @@
     "prepared-url" : "https://eosvenezuela.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
-    "url" : "https://eosvenezuela.io/bp.json"
+    "url" : "https://eosvenezuela.io/bp.json",
+    "logo" : "https://eosvenezuela.io/vnzlalogo_256.jpg",
+    "code_of_conduct" : "https://steemit.com/eos/@eosvenezuela/code-of-conduct-eos-venezuela"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 9.535663231606191E-5,
+  "analyzed-urls" : {
+    "relative-links-count" : 12,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://instagram.com/mobirise", "https://plus.google.com/u/0/+Mobirise", "https://steemit.com/@eosvenezuela", "https://steemit.com/@provenezuela", "https://steemit.com/eos/@alfrednoyed/eosvenezuela-community-challenge", "https://steemit.com/eos/@ambarabby/mi-entrada-para-eosvenezuela-community-challenge", "https://steemit.com/eos/@andresgo2000/mi-entrada-para-eosvenezuela-community-challenge", "https://steemit.com/eos/@darthgexe/mi-participacion-en-el-eosvenezuela-community-challenge", "https://steemit.com/eos/@dianaabreu/mi-entrada-para-eosvenezuela-community-challenge", "https://steemit.com/eos/@dldb1604/eosvenezuela-community-challenge", "https://steemit.com/eos/@eesu03/juntos-por-venezuela-eosvenezuela-community-challenge", "https://steemit.com/eos/@eosvenezuela/code-of-conduct-eos-venezuela", "https://steemit.com/eos/@eosvenezuela/eos-venezuela-ownership", "https://steemit.com/eos/@eosvenezuela/tutorial-secure-eos-block-producer-voting-tokenika-offline-tool", "https://steemit.com/eos/@ferod23/eosvenezuela-community-challenge-mi-entrada", "https://steemit.com/eos/@fujoshi94/eosvenezuela-community-challenge-tienen-mi-apoyo", "https://steemit.com/eos/@glokdm/eosvenezuela-community-challenge", "https://steemit.com/eos/@kts/eosvenezuela-community-challenge", "https://steemit.com/eos/@machiqui63/eosvenezuela-community-challenge", "https://steemit.com/eos/@maeugenia/eosvenezuela-community-challenge", "https://steemit.com/eos/@norkamoran/mi-entrada-para-eosvenezuela-community-challenge", "https://steemit.com/eos/@puskas/juntos-por-venezuela-eosvenezuela-community-challenge", "https://steemit.com/eos/@vida-blanca/mi-entrada-para-eosvenezuela-community-challenge", "https://t.me/eosvenezuela", "https://twitter.com/eosvenezuela", "https://twitter.com/eosvzla", "https://www.facebook.com/groups/eosvenezuela/", "https://www.facebook.com/pages/Mobirise/1616226671953247", "https://www.instagram.com/mobirise/", "https://www.linkedin.com/in/albertoguerreromontilla/", "https://www.linkedin.com/in/cristian-medina-abbadini-bb598611a/", "https://www.linkedin.com/in/mobirise", "https://www.steemit.com/@eosvenezuela", "https://www.youtube.com/c/mobirise", "https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw", "https://www.youtube.com/watch?v=SIZDtOKTDNM", "https://youtu.be/BcUawXO-AN0", "https://youtu.be/IbTQZLlYjb4?t=4m38s", "https://youtu.be/S1gUR8wM5vA" ],
+    "social-links-count" : 39,
+    "popularity-boosters" : [ "https://bos.eosx.io/", "https://bos.eosx.io/account/venezuelabos", "https://developers.eos.io/eosio-home/docs", "https://eosauthority.com/green/", "https://eostoolkit.io/home", "https://everipedia.org/", "https://get-scatter.com/", "https://mobirise.info/m", "https://monitor.telosfoundation.io/producer/eosvenezuela", "https://pesovpn.com", "https://priceofeos.com", "https://www.behance.net/Mobirise", "https://www.eosdocs.io/", "https://www.eospedia.io/", "https://www.eosrp.io/", "https://www.eosx.io/" ],
+    "popularity-boosters-count" : 16
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 9.542351119904457E-5,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "connect timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eosvenezuela.io"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://eosvenezuela.io/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eosvenezuela.io/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/eos/@eosvenezuela/code-of-conduct-eos-venezuela"
     } ],
-    "score" : 0,
+    "score" : 3,
     "max" : 3
   },
-  "place" : 96,
-  "snapshot-date" : "2020-04-13T01:12:33.977Z"
+  "place" : 94,
+  "snapshot-date" : "2020-04-14T01:12:25.450Z"
 }

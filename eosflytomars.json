@@ -1,33 +1,33 @@
 {
   "bp-header" : {
     "owner" : "eosflytomars",
-    "total_votes" : "4197220210350001664.00000000000000000",
+    "total_votes" : "4194069300363189760.00000000000000000",
     "producer_key" : "EOS6Agpfp38bTyRjJDmB4Qb1EpQSq7wnEAsALXgXE7KFSzKjokkFD",
     "is_active" : 1,
     "url" : "https://www.bitmars.one",
     "unpaid_blocks" : 1488,
-    "last_claim_time" : "2020-04-12T20:45:57.000",
+    "last_claim_time" : "2020-04-13T20:45:57.500",
     "location" : 156,
     "prepared-url" : "https://www.bitmars.one"
   },
   "bp-json-summary" : {
-    "dl-error" : "Received fatal alert: internal_error",
+    "dl-error" : "SSL peer shut down incorrectly",
     "url" : "https://www.bitmars.one/bp.json"
   },
-  "webpage-error" : "Received fatal alert: internal_error",
-  "vote-percentage" : 0.026417952395435408,
+  "webpage-error" : "SSL peer shut down incorrectly",
+  "vote-percentage" : 0.026414377182080992,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Received fatal alert: internal_error",
+      "error" : "SSL peer shut down incorrectly",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://www.bitmars.one/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Received fatal alert: internal_error"
+      "error" : "SSL peer shut down incorrectly"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 14,
-  "snapshot-date" : "2020-04-13T01:12:33.977Z"
+  "place" : 13,
+  "snapshot-date" : "2020-04-14T01:12:25.450Z"
 }
