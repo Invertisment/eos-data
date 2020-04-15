@@ -11,23 +11,23 @@
     "prepared-url" : "https://fish.one"
   },
   "bp-json-summary" : {
-    "dl-error" : "Connection reset",
+    "dl-error" : "Connection refused (Connection refused)",
     "url" : "https://fish.one/bp.json"
   },
-  "webpage-error" : "Connection reset",
-  "vote-percentage" : 6.996965910292397E-7,
+  "webpage-error" : "Connection refused (Connection refused)",
+  "vote-percentage" : 7.006130841961404E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Connection reset",
+      "error" : "Connection refused (Connection refused)",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://fish.one/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Connection reset"
+      "error" : "Connection refused (Connection refused)"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 237,
-  "snapshot-date" : "2020-04-14T01:12:25.450Z"
+  "snapshot-date" : "2020-04-15T01:12:23.238Z"
 }
