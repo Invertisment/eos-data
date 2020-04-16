@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosvietnambp",
-    "total_votes" : "5308250641867749.00000000000000000",
+    "total_votes" : "5308168470288906.00000000000000000",
     "producer_key" : "EOS6LThT4JZmqbqPjzk1Sf8VCBQg6XWX6hjaVmHJDSRkfWsTxZdLG",
     "is_active" : 1,
     "url" : "https://eosviet.io",
@@ -15,22 +15,14 @@
     "logo" : "https://www.eosviet.io/EOSVIET-256x256.png",
     "code_of_conduct" : "https://www.eosviet.io/#corporate-pledge"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 1,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://steemit.com/@eosvietnam/", "https://t.me/EOSViet" ],
-    "social-links-count" : 2,
-    "popularity-boosters" : [ "http://www.highlandscoffee.com.vn/en/home", "https://athemes.com/theme/sydney", "https://wordpress.org/" ],
-    "popularity-boosters-count" : 3
-  },
-  "p-ram-amounts" : [ "RAM" ],
-  "vote-percentage" : 3.347531554118626E-5,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 3.3465836984238365E-5,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eosviet.io"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -42,9 +34,9 @@
       "title" : "coc",
       "url" : "https://www.eosviet.io/#corporate-pledge"
     } ],
-    "score" : 3,
+    "score" : 2,
     "max" : 3
   },
   "place" : 111,
-  "snapshot-date" : "2020-04-15T01:12:23.238Z"
+  "snapshot-date" : "2020-04-16T01:12:28.472Z"
 }
