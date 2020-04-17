@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "blockmatrix1",
-    "total_votes" : "11130166823569064.00000000000000000",
+    "total_votes" : "11131999335760732.00000000000000000",
     "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
     "is_active" : 0,
     "url" : "https://blockmatrix.network",
@@ -11,31 +11,40 @@
     "prepared-url" : "https://blockmatrix.network"
   },
   "bp-json-summary" : {
-    "dl-error" : "Read timed out",
-    "url" : "https://blockmatrix.network/bp.json"
+    "url" : "https://blockmatrix.network/bp.json",
+    "logo" : "https://blockmatrix.network/images/logos/block_matrix_logo_white_bg_256.png",
+    "code_of_conduct" : "https://blockmatrix.network#validators-#codeOfConduct"
   },
-  "webpage-error" : "Read timed out",
-  "vote-percentage" : 7.017116178768673E-5,
+  "analyzed-urls" : {
+    "relative-links-count" : 8,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://github.com/BlockMatrixNetwork", "https://t.me/bottlepay", "https://twitter.com/bottlepay", "https://www.linkedin.com/in/joshua-welsh-735190131/", "https://www.linkedin.com/in/joshuagedwards/", "https://www.linkedin.com/in/petercheyne/" ],
+    "social-links-count" : 6,
+    "popularity-boosters" : [ "https://bottle.li/" ],
+    "popularity-boosters-count" : 1
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 7.015700878556234E-5,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "Read timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://blockmatrix.network"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://blockmatrix.network/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Read timed out"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://blockmatrix.network/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://blockmatrix.network#validators-#codeOfConduct"
     } ],
-    "score" : 0,
+    "score" : 3,
     "max" : 3
   },
   "place" : 101,
-  "snapshot-date" : "2020-04-16T01:12:28.472Z"
+  "snapshot-date" : "2020-04-17T01:12:28.736Z"
 }
