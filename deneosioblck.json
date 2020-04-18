@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "deneosioblck",
-    "total_votes" : "79480093532905.34375000000000000",
+    "total_votes" : "77589667602070.01562500000000000",
     "producer_key" : "EOS5xAL439sddjLdSP8TieVUxfV6stkbiNuJaCZZtV8ZjW3SsdnAQ",
     "is_active" : 1,
     "url" : "https://deneos_io.keybase.pub/bp_info.json",
@@ -15,13 +15,13 @@
     "logo" : "",
     "code_of_conduct" : "http://www.deneos.io/#code-of-conduct-section"
   },
-  "webpage-error" : "Read timed out",
-  "vote-percentage" : 5.009060324278487E-7,
+  "webpage-error" : "clj-http: status 404",
+  "vote-percentage" : 4.888687630905962E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Read timed out",
+      "error" : "clj-http: status 404",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "score" : "positive",
@@ -37,6 +37,6 @@
     "score" : 2,
     "max" : 3
   },
-  "place" : 248,
-  "snapshot-date" : "2020-04-17T01:12:28.736Z"
+  "place" : 249,
+  "snapshot-date" : "2020-04-18T01:12:35.855Z"
 }
