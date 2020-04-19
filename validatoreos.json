@@ -1,47 +1,41 @@
 {
   "bp-header" : {
     "owner" : "validatoreos",
-    "total_votes" : "806722220329082368.00000000000000000",
+    "total_votes" : "812912463113085568.00000000000000000",
     "producer_key" : "EOS8h87g5rpLg77ZCJy1J2JPJaCtEeNTAbhGmEsQoz5ngGt3cRaHX",
     "is_active" : 1,
     "url" : "http://validatoreos.xyz",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-04-17T07:19:32.500",
+    "last_claim_time" : "2020-04-18T07:20:25.500",
     "location" : 0,
     "prepared-url" : "http://validatoreos.xyz"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "dl-error" : "connect timed out",
     "url" : "http://validatoreos.xyz/bp.json"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "http://nginx.com/", "http://nginx.org/" ],
-    "popularity-boosters-count" : 2
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.005082909956936795,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 0.005106378356404772,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "http://validatoreos.xyz"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "connect timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://validatoreos.xyz/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 57,
-  "snapshot-date" : "2020-04-18T01:12:35.855Z"
+  "place" : 56,
+  "snapshot-date" : "2020-04-19T01:12:38.398Z"
 }
