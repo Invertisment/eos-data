@@ -1,21 +1,21 @@
 {
   "bp-header" : {
     "owner" : "validatoreos",
-    "total_votes" : "812912463113085568.00000000000000000",
+    "total_votes" : "813106861568223488.00000000000000000",
     "producer_key" : "EOS8h87g5rpLg77ZCJy1J2JPJaCtEeNTAbhGmEsQoz5ngGt3cRaHX",
     "is_active" : 1,
     "url" : "http://validatoreos.xyz",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-04-18T07:20:25.500",
+    "last_claim_time" : "2020-04-19T07:21:38.500",
     "location" : 0,
     "prepared-url" : "http://validatoreos.xyz"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "Read timed out",
     "url" : "http://validatoreos.xyz/bp.json"
   },
   "webpage-error" : "connect timed out",
-  "vote-percentage" : 0.005106378356404772,
+  "vote-percentage" : 0.005106862928900796,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -27,7 +27,7 @@
       "mood" : "warn",
       "url" : "http://validatoreos.xyz/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "Read timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 56,
-  "snapshot-date" : "2020-04-19T01:12:38.398Z"
+  "snapshot-date" : "2020-04-20T01:12:36.025Z"
 }

@@ -11,11 +11,11 @@
     "prepared-url" : "http://bp.0618tech.co/"
   },
   "bp-json-summary" : {
-    "dl-error" : "Read timed out",
+    "dl-error" : "connect timed out",
     "url" : "http://bp.0618tech.co/bp.json"
   },
   "webpage-error" : "Read timed out",
-  "vote-percentage" : 7.72925405550579E-15,
+  "vote-percentage" : 7.728139433532134E-15,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -27,7 +27,7 @@
       "mood" : "warn",
       "url" : "http://bp.0618tech.co/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Read timed out"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 576,
-  "snapshot-date" : "2020-04-19T01:12:38.398Z"
+  "snapshot-date" : "2020-04-20T01:12:36.025Z"
 }
