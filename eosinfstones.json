@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosinfstones",
-    "total_votes" : "4160539774104530944.00000000000000000",
+    "total_votes" : "4213855691221520384.00000000000000000",
     "producer_key" : "EOS6CSvGzNhNxVYbcnWSuheNcfzjGeGBY9trR4YAJ4Yvakq4oCh6y",
     "is_active" : 1,
     "url" : "http://infinitystones.io",
-    "unpaid_blocks" : 7788,
-    "last_claim_time" : "2020-04-19T02:24:08.000",
+    "unpaid_blocks" : 7766,
+    "last_claim_time" : "2020-04-20T02:25:12.500",
     "location" : 1,
     "prepared-url" : "http://infinitystones.io"
   },
@@ -24,7 +24,7 @@
     "popularity-boosters-count" : 3
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.026131013450818075,
+  "vote-percentage" : 0.026413208173398508,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +45,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 19,
-  "snapshot-date" : "2020-04-20T01:12:36.025Z"
+  "place" : 12,
+  "snapshot-date" : "2020-04-21T01:12:45.959Z"
 }

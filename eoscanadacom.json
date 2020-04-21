@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eoscanadacom",
-    "total_votes" : "624000000509371008.00000000000000000",
+    "total_votes" : "624033723587546624.00000000000000000",
     "producer_key" : "EOS7eycxAbCtKyfoJc8uRZcmt1AmArjXcz8aonLUTzahk5rHc18NJ",
     "is_active" : 1,
     "url" : "https://eoscanada.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-04-19T12:01:48.000",
+    "last_claim_time" : "2020-04-20T12:02:01.000",
     "location" : 0,
     "prepared-url" : "https://eoscanada.com"
   },
@@ -15,14 +15,22 @@
     "logo" : "https://www.eoscanada.com/hubfs/eos-canada-logo-square-256px.png",
     "code_of_conduct" : "https://www.eoscanada.com/en/code-of-conduct"
   },
-  "webpage-error" : "Read timed out",
-  "vote-percentage" : 0.0039191434986654665,
+  "analyzed-urls" : {
+    "relative-links-count" : 4,
+    "duplicate-urls" : null,
+    "social-links" : [ "http://i.youku.com/eoscanada", "https://github.com/eoscanada", "https://github.com/eoscanada/", "https://github.com/eoscanada/eosio.forum", "https://steemit.com/@eos-canada", "https://t.me/eoscanada", "https://twitter.com/EOS_Canada", "https://www.facebook.com/eoscanadacom", "https://www.linkedin.com/company/eoscanada/", "https://www.reddit.com/user/EOSCanada/", "https://www.weibo.com/eoscanada", "https://www.youtube.com/channel/UCoTHlEOVdeN9NOc5b5C1-vQ" ],
+    "social-links-count" : 12,
+    "popularity-boosters" : [ "https://bihu.com/people/460474", "https://dfuse.io", "https://dfuse.io/", "https://eosc.app", "https://eosq.app" ],
+    "popularity-boosters-count" : 5
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.0039115560323236525,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "Read timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eoscanada.com"
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -34,9 +42,9 @@
       "title" : "coc",
       "url" : "https://www.eoscanada.com/en/code-of-conduct"
     } ],
-    "score" : 2,
+    "score" : 3,
     "max" : 3
   },
   "place" : 67,
-  "snapshot-date" : "2020-04-20T01:12:36.025Z"
+  "snapshot-date" : "2020-04-21T01:12:45.959Z"
 }
