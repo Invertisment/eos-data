@@ -11,23 +11,23 @@
     "prepared-url" : "http://www.aibilink.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "www.aibilink.com",
     "url" : "http://www.aibilink.com/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 3.678751046854581E-8,
+  "webpage-error" : "www.aibilink.com: Name or service not known",
+  "vote-percentage" : 3.6803996743656886E-8,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "www.aibilink.com: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://www.aibilink.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "www.aibilink.com"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 368,
-  "snapshot-date" : "2020-04-21T01:12:45.959Z"
+  "snapshot-date" : "2020-04-22T01:12:40.752Z"
 }
