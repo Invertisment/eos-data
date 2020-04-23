@@ -11,11 +11,11 @@
     "prepared-url" : "https://www.acgeos.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "No route to host (Host unreachable)",
+    "dl-error" : "connect timed out",
     "url" : "https://www.acgeos.com/bp.json"
   },
   "webpage-error" : "Read timed out",
-  "vote-percentage" : 1.7028074313441285E-8,
+  "vote-percentage" : 1.70220746311046E-8,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -27,7 +27,7 @@
       "mood" : "warn",
       "url" : "https://www.acgeos.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "No route to host (Host unreachable)"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 394,
-  "snapshot-date" : "2020-04-22T01:12:40.752Z"
+  "snapshot-date" : "2020-04-23T01:12:43.115Z"
 }
