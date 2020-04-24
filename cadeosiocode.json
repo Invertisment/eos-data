@@ -11,23 +11,23 @@
     "prepared-url" : "https://cadeos.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "Connection refused (Connection refused)",
+    "dl-error" : "Network is unreachable (connect failed)",
     "url" : "https://cadeos.io/bp.json"
   },
-  "webpage-error" : "Connection refused (Connection refused)",
-  "vote-percentage" : 3.348435308053432E-12,
+  "webpage-error" : "Network is unreachable (connect failed)",
+  "vote-percentage" : 3.3396645882910885E-12,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Connection refused (Connection refused)",
+      "error" : "Network is unreachable (connect failed)",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://cadeos.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Connection refused (Connection refused)"
+      "error" : "Network is unreachable (connect failed)"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 564,
-  "snapshot-date" : "2020-04-23T01:12:43.115Z"
+  "snapshot-date" : "2020-04-24T01:12:35.419Z"
 }

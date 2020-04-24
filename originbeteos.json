@@ -11,17 +11,18 @@
     "prepared-url" : "http://producer.site"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 410",
+    "read-error" : "read:'http://producer.site/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
     "url" : "http://producer.site/bp.json"
   },
   "analyzed-urls" : {
+    "relative-links-count" : 1,
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ "?new_locale=de-de", "?new_locale=es-es", "?new_locale=fr-fr", "?new_locale=hi-in", "?new_locale=nl-nl", "?new_locale=zh-cn", "https://dan.com/", "https://dan.com/domain-seller/samuel-pye" ],
-    "popularity-boosters-count" : 8
+    "popularity-boosters" : [ "https://www.sedo.com/services/parking.php3" ],
+    "popularity-boosters-count" : 1
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.8356379218600332E-9,
+  "vote-percentage" : 1.8308297460057643E-9,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -32,8 +33,8 @@
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://producer.site/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 410"
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'http://producer.site/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -43,5 +44,5 @@
     "max" : 3
   },
   "place" : 439,
-  "snapshot-date" : "2020-04-23T01:12:43.115Z"
+  "snapshot-date" : "2020-04-24T01:12:35.419Z"
 }
