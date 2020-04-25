@@ -11,9 +11,8 @@
     "prepared-url" : "http://www.eosreal.com"
   },
   "bp-json-summary" : {
-    "url" : "http://www.eosreal.com/bp.json",
-    "logo" : "http://www.eosreal.com/logo_256.png",
-    "code_of_conduct" : "http://eosreal.com/news/?id=464"
+    "read-error" : "read:'http://www.eosreal.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "url" : "http://www.eosreal.com/bp.json"
   },
   "analyzed-urls" : {
     "duplicate-urls" : null,
@@ -21,7 +20,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.3102286638049932E-6,
+  "vote-percentage" : 2.3067175240479005E-6,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -29,19 +28,19 @@
       "title" : "web",
       "url" : "http://www.eosreal.com"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "http://www.eosreal.com/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://www.eosreal.com/bp.json",
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'http://www.eosreal.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "http://eosreal.com/news/?id=464"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 1,
     "max" : 3
   },
   "place" : 198,
-  "snapshot-date" : "2020-04-24T01:12:35.419Z"
+  "snapshot-date" : "2020-04-25T01:12:43.585Z"
 }

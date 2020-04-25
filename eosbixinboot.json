@@ -1,33 +1,33 @@
 {
   "bp-header" : {
     "owner" : "eosbixinboot",
-    "total_votes" : "821939645579653120.00000000000000000",
+    "total_votes" : "821946895758530432.00000000000000000",
     "producer_key" : "EOS7QC1XfAtkYeLjbHQjcDWVqUsxuSJ3YRhNyG93VAv2u3uHopGVp",
     "is_active" : 1,
     "url" : "https://en.eosbixin.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-04-23T03:25:06.500",
+    "last_claim_time" : "2020-04-24T03:30:03.500",
     "location" : 7,
     "prepared-url" : "https://en.eosbixin.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "en.eosbixin.com",
+    "dl-error" : "Certificate for <en.eosbixin.com> doesn't match any of the subject alternative names: [raa.namecheap.com, www.raa.namecheap.com]",
     "url" : "https://en.eosbixin.com/bp.json"
   },
-  "webpage-error" : "en.eosbixin.com: No address associated with hostname",
-  "vote-percentage" : 0.005139062525586964,
+  "webpage-error" : "Certificate for <en.eosbixin.com> doesn't match any of the subject alternative names: [raa.namecheap.com, www.raa.namecheap.com]",
+  "vote-percentage" : 0.0051312973195517374,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "en.eosbixin.com: No address associated with hostname",
+      "error" : "Certificate for <en.eosbixin.com> doesn't match any of the subject alternative names: [raa.namecheap.com, www.raa.namecheap.com]",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://en.eosbixin.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "en.eosbixin.com"
+      "error" : "Certificate for <en.eosbixin.com> doesn't match any of the subject alternative names: [raa.namecheap.com, www.raa.namecheap.com]"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 57,
-  "snapshot-date" : "2020-04-24T01:12:35.419Z"
+  "place" : 58,
+  "snapshot-date" : "2020-04-25T01:12:43.585Z"
 }

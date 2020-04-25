@@ -11,17 +11,16 @@
     "prepared-url" : "http://www.eos9cat.com"
   },
   "bp-json-summary" : {
-    "read-error" : "read:'http://www.eos9cat.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "dl-error" : "clj-http: status 404",
     "url" : "http://www.eos9cat.com/bp.json"
   },
   "analyzed-urls" : {
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ "https://lfuws.cc/3e3GIoG" ],
-    "popularity-boosters-count" : 1
+    "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 3.5532784097085036E-7,
+  "vote-percentage" : 3.5478780537663356E-7,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -32,8 +31,8 @@
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://www.eos9cat.com/bp.json",
-      "paragraphs" : [ "bp-json-invalid" ],
-      "error" : "read:'http://www.eos9cat.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -43,5 +42,5 @@
     "max" : 3
   },
   "place" : 263,
-  "snapshot-date" : "2020-04-24T01:12:35.419Z"
+  "snapshot-date" : "2020-04-25T01:12:43.585Z"
 }

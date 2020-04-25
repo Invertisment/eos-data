@@ -11,18 +11,18 @@
     "prepared-url" : "http://producer.site"
   },
   "bp-json-summary" : {
-    "read-error" : "read:'http://producer.site/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "read-error" : "read:'http://producer.site/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 4]",
     "url" : "http://producer.site/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 1,
+    "relative-links-count" : 2,
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ "https://www.sedo.com/services/parking.php3" ],
-    "popularity-boosters-count" : 1
+    "popularity-boosters" : [ "http://www.elephantmilk.com", "http://www.elephantmilk.com/search/", "https://www.efty.com/", "https://www.efty.com/market/buy_it_now_paypal/domain/1xdvl/" ],
+    "popularity-boosters-count" : 4
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.8308297460057643E-9,
+  "vote-percentage" : 1.8280472079780865E-9,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -34,7 +34,7 @@
       "mood" : "warn",
       "url" : "http://producer.site/bp.json",
       "paragraphs" : [ "bp-json-invalid" ],
-      "error" : "read:'http://producer.site/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
+      "error" : "read:'http://producer.site/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 4]"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -44,5 +44,5 @@
     "max" : 3
   },
   "place" : 439,
-  "snapshot-date" : "2020-04-24T01:12:35.419Z"
+  "snapshot-date" : "2020-04-25T01:12:43.585Z"
 }
