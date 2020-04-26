@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosninetiess",
-    "total_votes" : "600239502061232.62500000000000000",
+    "total_votes" : "601545272794192.75000000000000000",
     "producer_key" : "EOS7eMeo7dgG42NQPy4x45X2VhG8T3gjnwuSdsoGeGzz1w3Hwrr7m",
     "is_active" : 1,
     "url" : "http://www.eos90s.io/",
@@ -14,13 +14,13 @@
     "dl-error" : "clj-http: status 403",
     "url" : "http://www.eos90s.io/bp.json"
   },
-  "webpage-error" : "Read timed out",
-  "vote-percentage" : 3.747209660270692E-6,
+  "webpage-error" : "clj-http: status 403",
+  "vote-percentage" : 3.7403426845069736E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Read timed out",
+      "error" : "clj-http: status 403",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 180,
-  "snapshot-date" : "2020-04-25T01:12:43.585Z"
+  "snapshot-date" : "2020-04-26T01:12:42.735Z"
 }
