@@ -11,23 +11,23 @@
     "prepared-url" : "https://eospublic.chainrift.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 502",
+    "dl-error" : "eospublic.chainrift.com",
     "url" : "https://eospublic.chainrift.com/bp.json"
   },
-  "webpage-error" : "Read timed out",
+  "webpage-error" : "eospublic.chainrift.com: Name or service not known",
   "vote-percentage" : 0.0,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Read timed out",
+      "error" : "eospublic.chainrift.com: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eospublic.chainrift.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 502"
+      "error" : "eospublic.chainrift.com"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 609,
-  "snapshot-date" : "2020-04-26T01:12:42.735Z"
+  "snapshot-date" : "2020-04-27T01:12:39.530Z"
 }

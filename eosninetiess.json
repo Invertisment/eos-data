@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosninetiess",
-    "total_votes" : "601545272794192.75000000000000000",
+    "total_votes" : "550750919619828.06250000000000000",
     "producer_key" : "EOS7eMeo7dgG42NQPy4x45X2VhG8T3gjnwuSdsoGeGzz1w3Hwrr7m",
     "is_active" : 1,
     "url" : "http://www.eos90s.io/",
@@ -11,23 +11,23 @@
     "prepared-url" : "http://www.eos90s.io/"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 403",
+    "dl-error" : "Read timed out",
     "url" : "http://www.eos90s.io/bp.json"
   },
-  "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 3.7403426845069736E-6,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 3.4196385953625815E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "clj-http: status 403",
+      "error" : "Read timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://www.eos90s.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 403"
+      "error" : "Read timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 180,
-  "snapshot-date" : "2020-04-26T01:12:42.735Z"
+  "place" : 184,
+  "snapshot-date" : "2020-04-27T01:12:39.530Z"
 }

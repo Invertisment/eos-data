@@ -15,7 +15,7 @@
     "url" : "https://www.genereos-sydney.io/bp.json"
   },
   "webpage-error" : "Certificate for <www.genereos-sydney.io> doesn't match any of the subject alternative names: [*.ap-southeast-2.cluster.meridian.amazonaws.com]",
-  "vote-percentage" : 4.1541582334954814E-7,
+  "vote-percentage" : 4.1482501624301533E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 256,
-  "snapshot-date" : "2020-04-26T01:12:42.735Z"
+  "place" : 255,
+  "snapshot-date" : "2020-04-27T01:12:39.530Z"
 }

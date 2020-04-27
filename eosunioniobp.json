@@ -11,23 +11,23 @@
     "prepared-url" : "https://eosunion.club"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "Read timed out",
     "url" : "https://eosunion.club/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 6.202130200177316E-8,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 6.19330948995891E-8,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "Read timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eosunion.club/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "Read timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 356,
-  "snapshot-date" : "2020-04-26T01:12:42.735Z"
+  "place" : 355,
+  "snapshot-date" : "2020-04-27T01:12:39.530Z"
 }
