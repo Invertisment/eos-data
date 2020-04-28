@@ -11,17 +11,17 @@
     "prepared-url" : "http://www.aibilink.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "read-error" : "read:'http://www.aibilink.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
     "url" : "http://www.aibilink.com/bp.json"
   },
   "analyzed-urls" : {
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ "https://www.bt.cn" ],
-    "popularity-boosters-count" : 1
+    "popularity-boosters" : [ "http://www.beian.miit.gov.cn", "http://www.jihongkong.cn/060434.html", "http://www.jihongkong.cn/152231.html", "http://www.jihongkong.cn/259814.html", "http://www.jihongkong.cn/428167.html", "http://www.jihongkong.cn/sitemap.xml" ],
+    "popularity-boosters-count" : 6
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 3.64404626441992E-8,
+  "vote-percentage" : 3.646337966150317E-8,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -32,8 +32,8 @@
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://www.aibilink.com/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'http://www.aibilink.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -43,5 +43,5 @@
     "max" : 3
   },
   "place" : 368,
-  "snapshot-date" : "2020-04-27T01:12:39.530Z"
+  "snapshot-date" : "2020-04-28T01:12:35.364Z"
 }
