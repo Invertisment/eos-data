@@ -11,23 +11,23 @@
     "prepared-url" : "https://eosq.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "Connection refused (Connection refused)",
+    "dl-error" : "connect timed out",
     "url" : "https://eosq.io/bp.json"
   },
-  "webpage-error" : "Connection refused (Connection refused)",
+  "webpage-error" : "connect timed out",
   "vote-percentage" : 0.0,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Connection refused (Connection refused)",
+      "error" : "connect timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eosq.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Connection refused (Connection refused)"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 602,
-  "snapshot-date" : "2020-04-28T01:12:35.364Z"
+  "snapshot-date" : "2020-04-29T01:12:47.128Z"
 }

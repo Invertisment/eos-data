@@ -15,13 +15,15 @@
     "url" : "https://mainnet.eoscanada.com/bp.json"
   },
   "analyzed-urls" : {
+    "relative-links-count" : 14,
     "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "https://www.eoscanada.com" ],
-    "popularity-boosters-count" : 1
+    "social-links" : [ "https://github.com/dfuse-io", "https://github.com/dfuse-io/", "https://github.com/dfuse-io/dfuse-eosio", "https://t.me/dfuseAPI", "https://t.me/dfuseETH", "https://twitter.com/dfuseio", "https://weibo.com/dfuseio", "https://www.linkedin.com/company/dfuse-io/", "https://www.youtube.com/channel/UCT_wVH42n6jv-IG8C7QsHGg" ],
+    "social-links-count" : 9,
+    "popularity-boosters" : [ "?hsLang=en", "https://app.dfuse.io", "https://app.dfuse.io/", "https://app.dfuse.io/login", "https://blog.csdn.net/weixin_43891115", "https://dfuse.io", "https://dfuse.io/en/privacy-policy/", "https://dfuse.io/en/terms/", "https://docs.dfuse.io", "https://docs.dfuse.io/", "https://everipedia.org/", "https://hackerone.com/dfuse/", "https://help.dfuse.io/", "https://labs.dfuse.io", "https://pixeos.io/", "https://www.chainnode.com/forum/333", "https://www.cypherglass.com/", "https://www.dfuse.io/built-with-dfuse", "https://www.dfuse.io/en/abc", "https://www.dfuse.io/en/about-us", "https://www.dfuse.io/en/blog", "https://www.dfuse.io/en/blog/dfuse-announces-a-partnership-with-solana-to-collaborate-on-a-powerful-data-solution-for-its-high-throughput-blockchain?hsLang=en", "https://www.dfuse.io/en/blog/dfuse-joins-the-blockchain-game-alliance?hsLang=en", "https://www.dfuse.io/en/blog/dfuse-releases-source-code-for-eosio-integration?hsLang=en", "https://www.dfuse.io/en/blog?hsLang=en", "https://www.dfuse.io/en/careers", "https://www.dfuse.io/en/hackathons", "https://www.dfuse.io/en/technology", "https://www.dfuse.io/en?hsLang=en", "https://www.dfuse.io/help", "https://www.dfuse.io/pricing", "https://www.dfuse.io/zh/主页" ],
+    "popularity-boosters-count" : 32
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.254426187789151E-9,
+  "vote-percentage" : 2.2549466120679337E-9,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -43,5 +45,5 @@
     "max" : 3
   },
   "place" : 433,
-  "snapshot-date" : "2020-04-28T01:12:35.364Z"
+  "snapshot-date" : "2020-04-29T01:12:47.128Z"
 }

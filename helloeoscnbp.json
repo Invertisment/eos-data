@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "helloeoscnbp",
-    "total_votes" : "4162443695074562560.00000000000000000",
+    "total_votes" : "4164355283340702720.00000000000000000",
     "producer_key" : "EOS79cHpaEittzgJWgj79tdRhgzLEWy8wXmmQ3fL7kkDjmYYiGNet",
     "is_active" : 1,
     "url" : "https://www.helloeos.com.cn",
-    "unpaid_blocks" : 3648,
-    "last_claim_time" : "2020-04-27T04:31:49.500",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2020-04-28T04:32:37.500",
     "location" : 156,
     "prepared-url" : "https://www.helloeos.com.cn"
   },
@@ -24,7 +24,7 @@
     "popularity-boosters-count" : 6
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.025861063953067507,
+  "vote-percentage" : 0.025878913213188103,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -46,5 +46,5 @@
     "max" : 3
   },
   "place" : 21,
-  "snapshot-date" : "2020-04-28T01:12:35.364Z"
+  "snapshot-date" : "2020-04-29T01:12:47.128Z"
 }

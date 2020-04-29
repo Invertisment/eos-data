@@ -14,13 +14,13 @@
     "dl-error" : "Read timed out",
     "url" : "http://bp.0618tech.co/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 7.644804614049056E-15,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 7.646569383261394E-15,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "Read timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 576,
-  "snapshot-date" : "2020-04-28T01:12:35.364Z"
+  "snapshot-date" : "2020-04-29T01:12:47.128Z"
 }
