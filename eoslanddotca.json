@@ -11,34 +11,31 @@
     "prepared-url" : "http://www.eosland.ca"
   },
   "bp-json-summary" : {
+    "dl-error" : "Read timed out",
     "url" : "http://www.eosland.ca/bp.json"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.1464564484202262E-7,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 2.1441154197728724E-7,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "http://www.eosland.ca"
-    }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "http://www.eosland.ca/bp.json"
-    }, {
-      "title" : "no-coc",
       "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://www.eosland.ca/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "Read timed out"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 277,
-  "snapshot-date" : "2020-04-29T01:12:47.128Z"
+  "place" : 279,
+  "snapshot-date" : "2020-04-30T01:12:55.005Z"
 }

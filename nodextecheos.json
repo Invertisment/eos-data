@@ -11,23 +11,23 @@
     "prepared-url" : "https://dexnode.net"
   },
   "bp-json-summary" : {
-    "dl-error" : "NotAfter: Sun Feb 23 11:16:05 UTC 2020",
+    "dl-error" : "connect timed out",
     "url" : "https://dexnode.net/bp.json"
   },
-  "webpage-error" : "NotAfter: Sun Feb 23 11:16:05 UTC 2020",
-  "vote-percentage" : 1.248057024438976E-7,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 1.2466958334164922E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "NotAfter: Sun Feb 23 11:16:05 UTC 2020",
+      "error" : "connect timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://dexnode.net/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "NotAfter: Sun Feb 23 11:16:05 UTC 2020"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 299,
-  "snapshot-date" : "2020-04-29T01:12:47.128Z"
+  "place" : 300,
+  "snapshot-date" : "2020-04-30T01:12:55.005Z"
 }
