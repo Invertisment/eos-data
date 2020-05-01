@@ -14,21 +14,14 @@
     "dl-error" : "clj-http: status 404",
     "url" : "http://agjcoin.com/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 3,
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "https://asp.net", "https://go.microsoft.com/fwlink/?LinkId=301865", "https://go.microsoft.com/fwlink/?LinkId=301866", "https://go.microsoft.com/fwlink/?LinkId=301867" ],
-    "popularity-boosters-count" : 4
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.8867615605377565E-11,
+  "webpage-error" : "clj-http: status 404",
+  "vote-percentage" : 2.8866092512825945E-11,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "http://agjcoin.com"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "clj-http: status 404",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
@@ -40,9 +33,9 @@
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
   "place" : 543,
-  "snapshot-date" : "2020-04-30T01:12:55.005Z"
+  "snapshot-date" : "2020-05-01T01:12:39.870Z"
 }

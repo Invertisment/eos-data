@@ -11,11 +11,11 @@
     "prepared-url" : "https://popcorn-api.io/"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "dl-error" : "Read timed out",
     "url" : "https://popcorn-api.io/bp.json"
   },
   "webpage-error" : "Read timed out",
-  "vote-percentage" : 7.638229666891482E-15,
+  "vote-percentage" : 7.637826664063946E-15,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -27,7 +27,7 @@
       "mood" : "warn",
       "url" : "https://popcorn-api.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "error" : "Read timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 576,
-  "snapshot-date" : "2020-04-30T01:12:55.005Z"
+  "snapshot-date" : "2020-05-01T01:12:39.870Z"
 }

@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "alohaeosprod",
-    "total_votes" : "1310755056632381440.00000000000000000",
+    "total_votes" : "1310680936023827456.00000000000000000",
     "producer_key" : "EOS53pfXfxZ4tH3EGccdnGvBZVJsrcSf2nbCKiLLMphgaii9XxxhM",
     "is_active" : 1,
     "url" : "https://www.alohaeos.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-04-29T20:06:40.500",
+    "last_claim_time" : "2020-04-30T20:06:41.000",
     "location" : 840,
     "prepared-url" : "https://www.alohaeos.com"
   },
@@ -20,11 +20,11 @@
     "duplicate-urls" : null,
     "social-links" : [ "https://github.com/AlohaEOS", "https://keybase.io/alohaeos", "https://medium.com/meet-one/chain/home", "https://t.me/AlohaEOS", "https://twitter.com/eosaloha", "https://www.reddit.com/user/alohaeos" ],
     "social-links-count" : 6,
-    "popularity-boosters" : [ "https://aikon.com/ore-protocol", "https://boscore.io/", "https://busy.org/@alohaeos/an-update-on-our-infrastructure", "https://eos.io/", "https://eosmechanics.com/", "https://fio.foundation/", "https://insights.network/", "https://lynxwallet.io/lynxchain", "https://meet.one/", "https://strongblock.io/", "https://telosfoundation.io/", "https://wax.io/", "https://www.slant.li/priveos/", "https://www.tokenpocket.pro/" ],
+    "popularity-boosters" : [ "https://aikon.com/ore-protocol", "https://boscore.io/", "https://busy.org/@alohaeos/an-update-on-our-infrastructure", "https://eos.io/", "https://eosmechanics.com/", "https://fio.foundation/", "https://insights.network/", "https://meet.one/", "https://strongblock.io/", "https://telosfoundation.io/", "https://wax.io/", "https://www.protonchain.com/", "https://www.slant.li/priveos/", "https://www.tokenpocket.pro/" ],
     "popularity-boosters-count" : 14
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.008136654599792023,
+  "vote-percentage" : 0.008135765211959106,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -46,5 +46,5 @@
     "max" : 3
   },
   "place" : 39,
-  "snapshot-date" : "2020-04-30T01:12:55.005Z"
+  "snapshot-date" : "2020-05-01T01:12:39.870Z"
 }
