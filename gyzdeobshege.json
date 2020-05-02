@@ -15,15 +15,15 @@
     "url" : "https://mainnet.eoscanada.com/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 14,
+    "relative-links-count" : 8,
     "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/dfuse-io", "https://github.com/dfuse-io/", "https://github.com/dfuse-io/dfuse-eosio", "https://t.me/dfuseAPI", "https://t.me/dfuseETH", "https://twitter.com/dfuseio", "https://weibo.com/dfuseio", "https://www.linkedin.com/company/dfuse-io/", "https://www.youtube.com/channel/UCT_wVH42n6jv-IG8C7QsHGg" ],
-    "social-links-count" : 9,
-    "popularity-boosters" : [ "?hsLang=en", "https://app.dfuse.io", "https://app.dfuse.io/", "https://app.dfuse.io/login", "https://blog.csdn.net/weixin_43891115", "https://dfuse.io", "https://dfuse.io/en/privacy-policy/", "https://dfuse.io/en/terms/", "https://docs.dfuse.io", "https://docs.dfuse.io/", "https://everipedia.org/", "https://hackerone.com/dfuse/", "https://help.dfuse.io/", "https://labs.dfuse.io", "https://pixeos.io/", "https://www.chainnode.com/forum/333", "https://www.cypherglass.com/", "https://www.dfuse.io/built-with-dfuse", "https://www.dfuse.io/en/abc", "https://www.dfuse.io/en/about-us", "https://www.dfuse.io/en/blog", "https://www.dfuse.io/en/blog/dfuse-announces-a-partnership-with-solana-to-collaborate-on-a-powerful-data-solution-for-its-high-throughput-blockchain?hsLang=en", "https://www.dfuse.io/en/blog/dfuse-joins-the-blockchain-game-alliance?hsLang=en", "https://www.dfuse.io/en/blog/dfuse-releases-source-code-for-eosio-integration?hsLang=en", "https://www.dfuse.io/en/blog?hsLang=en", "https://www.dfuse.io/en/careers", "https://www.dfuse.io/en/hackathons", "https://www.dfuse.io/en/technology", "https://www.dfuse.io/en?hsLang=en", "https://www.dfuse.io/help", "https://www.dfuse.io/pricing", "https://www.dfuse.io/zh/主页" ],
-    "popularity-boosters-count" : 32
+    "social-links" : [ "http://i.youku.com/eoscanada", "https://github.com/dfuse-io/dfuse-eosio", "https://github.com/eoscanada", "https://github.com/eoscanada/", "https://github.com/eoscanada/eosio.forum", "https://steemit.com/@eos-canada", "https://t.me/eoscanada", "https://twitter.com/EOS_Canada", "https://www.facebook.com/eoscanadacom", "https://www.linkedin.com/company/eoscanada/", "https://www.reddit.com/user/EOSCanada/", "https://www.weibo.com/eoscanada", "https://www.youtube.com/channel/UCoTHlEOVdeN9NOc5b5C1-vQ" ],
+    "social-links-count" : 13,
+    "popularity-boosters" : [ "http://eoscanada.com/en/tools", "https://bihu.com/people/460474", "https://cta-redirect.hubspot.com/cta/redirect/4518039/5faebaac-2c5b-447e-af93-674745ca4f24", "https://dfuse.io", "https://dfuse.io/", "https://eosc.app", "https://eoscanada.com/", "https://eoscanada.com/en", "https://eoscanada.com/en/about-us", "https://eoscanada.com/en/knowledge-search", "https://eosq.app", "https://www.dfuse.io?hsLang=en", "https://www.eoscanada.com/en", "https://www.eoscanada.com/en/abc-eos?hsLang=en", "https://www.eoscanada.com/en/about-us", "https://www.eoscanada.com/en/eos-canada-is-shutting-down-its-eos-mainnet-block-producer-operations-to-focus-on-dfuse?hsLang=en", "https://www.eoscanada.com/en/eos-canada-welcomes-the-new-eos-user-agreement?hsLang=en", "https://www.eoscanada.com/en/media?hsLang=en", "https://www.eoscanada.com/en/privacy-policy?hsLang=en", "https://www.eoscanada.com/en/rex-a-technical-understanding-from-the-source-code?hsLang=en", "https://www.eoscanada.com/en/tools", "https://www.eoscanada.com/en/tools/eos-bios?hsLang=en", "https://www.eoscanada.com/en/tools/eos-go?hsLang=en", "https://www.eoscanada.com/zh/home", "https://www.eoscanada.com?hsLang=en" ],
+    "popularity-boosters-count" : 25
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.2523684147030205E-9,
+  "vote-percentage" : 2.2487806138077636E-9,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,5 +45,5 @@
     "max" : 3
   },
   "place" : 441,
-  "snapshot-date" : "2020-05-01T01:12:39.870Z"
+  "snapshot-date" : "2020-05-02T01:12:50.928Z"
 }
