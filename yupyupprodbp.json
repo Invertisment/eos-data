@@ -14,13 +14,13 @@
     "dl-error" : "no protocol: “http://bp.yup.io”/bp.json",
     "url" : "“http://bp.yup.io”/bp.json"
   },
-  "webpage-error" : "clj-http: status 400",
-  "vote-percentage" : 8.542322112622851E-8,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 8.526959633932643E-8,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "clj-http: status 400",
+      "error" : "connect timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 341,
-  "snapshot-date" : "2020-05-02T01:12:50.928Z"
+  "place" : 342,
+  "snapshot-date" : "2020-05-03T01:12:31.159Z"
 }
