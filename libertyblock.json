@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "libertyblock",
-    "total_votes" : "126421071753295136.00000000000000000",
+    "total_votes" : "126497952941374592.00000000000000000",
     "producer_key" : "EOS7TqVs7LpMzJwikiWkGTG9UGSwcQVhxP2ZKBM7FCbUwcrryNgHP",
     "is_active" : 1,
     "url" : "https://libertyblock.io",
@@ -11,20 +11,16 @@
     "prepared-url" : "https://libertyblock.io"
   },
   "bp-json-summary" : {
-    "url" : "https://libertyblock.io/bp.json",
-    "logo" : "https://www.libertyblock.io/png-256-logo.png",
-    "code_of_conduct" : "https://libertyblock.io/codeofconduct"
+    "read-error" : "read:'https://libertyblock.io/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "url" : "https://libertyblock.io/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 2,
     "duplicate-urls" : null,
-    "social-links" : [ "http://twitter.com/teddef", "https://github.com/Byzantine-Works/EOS-Community/tree/master/airdrop", "https://github.com/LibertyBlock", "https://t.me/eoslibertyblock", "https://twitter.com/BlockLiberty", "https://twitter.com/anthony_emtman", "https://twitter.com/samkazemian", "https://twitter.com/sunshineincabo", "https://twitter.com/travismo123", "https://www.facebook.com/groups/1818056141549615/about/", "https://www.linkedin.com/in/anthonyemtman/", "https://www.linkedin.com/in/kedar-iyer-47552649/", "https://www.linkedin.com/in/romiezzo/", "https://www.linkedin.com/in/teddef/", "https://www.linkedin.com/in/timothytlewis", "https://www.linkedin.com/in/travis-moore-0a74a4135/", "https://www.reddit.com/user/libertyblock" ],
-    "social-links-count" : 17,
-    "popularity-boosters" : [ "http://byzantine.works/community", "https://avonetwork.com/lb/wp-content/uploads/2017/03/iStock-938569966.mp4" ],
-    "popularity-boosters-count" : 2
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 7.820721407405392E-4,
+  "vote-percentage" : 7.889922895382861E-4,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -32,19 +28,19 @@
       "title" : "web",
       "url" : "https://libertyblock.io"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://libertyblock.io/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://libertyblock.io/bp.json",
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'https://libertyblock.io/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://libertyblock.io/codeofconduct"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 1,
     "max" : 3
   },
   "place" : 75,
-  "snapshot-date" : "2020-05-03T01:12:31.159Z"
+  "snapshot-date" : "2020-05-04T01:12:33.246Z"
 }

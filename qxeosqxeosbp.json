@@ -11,23 +11,23 @@
     "prepared-url" : "https://www.blockpin.net/eos"
   },
   "bp-json-summary" : {
-    "dl-error" : "Connection refused (Connection refused)",
+    "dl-error" : "connect timed out",
     "url" : "https://www.blockpin.net/eos/bp.json"
   },
-  "webpage-error" : "Connection refused (Connection refused)",
-  "vote-percentage" : 5.5073649051260995E-6,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 5.552719898887009E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Connection refused (Connection refused)",
+      "error" : "connect timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://www.blockpin.net/eos/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Connection refused (Connection refused)"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 161,
-  "snapshot-date" : "2020-05-03T01:12:31.159Z"
+  "snapshot-date" : "2020-05-04T01:12:33.246Z"
 }

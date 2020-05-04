@@ -11,23 +11,23 @@
     "prepared-url" : "https://eosweb.net"
   },
   "bp-json-summary" : {
-    "dl-error" : "Certificate for <eosweb.net> doesn't match any of the subject alternative names: [matrix.cocoliso.cat]",
+    "dl-error" : "eosweb.net",
     "url" : "https://eosweb.net/bp.json"
   },
-  "webpage-error" : "Certificate for <eosweb.net> doesn't match any of the subject alternative names: [matrix.cocoliso.cat]",
-  "vote-percentage" : 1.5680286508522736E-6,
+  "webpage-error" : "eosweb.net: Temporary failure in name resolution",
+  "vote-percentage" : 1.580941891739969E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Certificate for <eosweb.net> doesn't match any of the subject alternative names: [matrix.cocoliso.cat]",
+      "error" : "eosweb.net: Temporary failure in name resolution",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eosweb.net/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Certificate for <eosweb.net> doesn't match any of the subject alternative names: [matrix.cocoliso.cat]"
+      "error" : "eosweb.net"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 214,
-  "snapshot-date" : "2020-05-03T01:12:31.159Z"
+  "snapshot-date" : "2020-05-04T01:12:33.246Z"
 }
