@@ -11,16 +11,17 @@
     "prepared-url" : "http://producer.site"
   },
   "bp-json-summary" : {
-    "read-error" : "read:'http://producer.site/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "dl-error" : "clj-http: status 410",
     "url" : "http://producer.site/bp.json"
   },
   "analyzed-urls" : {
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ ]
+    "popularity-boosters" : [ "?new_locale=de-de", "?new_locale=es-es", "?new_locale=fr-fr", "?new_locale=hi-in", "?new_locale=nl-nl", "?new_locale=zh-cn", "https://dan.com/", "https://dan.com/domain-seller/private-seller-0e13bbb9-0da3-4a47-8a8f-12c8099f2f07" ],
+    "popularity-boosters-count" : 8
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.8200928575741084E-9,
+  "vote-percentage" : 1.791999428107927E-9,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -31,8 +32,8 @@
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://producer.site/bp.json",
-      "paragraphs" : [ "bp-json-invalid" ],
-      "error" : "read:'http://producer.site/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 410"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -42,5 +43,5 @@
     "max" : 3
   },
   "place" : 446,
-  "snapshot-date" : "2020-05-07T01:12:32.700Z"
+  "snapshot-date" : "2020-05-08T01:12:33.228Z"
 }

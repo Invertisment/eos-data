@@ -11,23 +11,23 @@
     "prepared-url" : "http://agjcoin.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "dl-error" : "connect timed out",
     "url" : "http://agjcoin.com/bp.json"
   },
-  "webpage-error" : "clj-http: status 404",
-  "vote-percentage" : 2.890521028711047E-11,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 2.8459053662174088E-11,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "clj-http: status 404",
+      "error" : "connect timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://agjcoin.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 544,
-  "snapshot-date" : "2020-05-07T01:12:32.700Z"
+  "place" : 543,
+  "snapshot-date" : "2020-05-08T01:12:33.228Z"
 }

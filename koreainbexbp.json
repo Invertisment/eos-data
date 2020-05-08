@@ -1,18 +1,18 @@
 {
   "bp-header" : {
     "owner" : "koreainbexbp",
-    "total_votes" : "6883017623308254.00000000000000000",
+    "total_votes" : "6612630410490872.00000000000000000",
     "producer_key" : "EOS5etfhAtNFNzAxGQbrAHfZ5DsYheJ9B7apbvHMctdaKJ5Bti8g5",
     "is_active" : 1,
     "url" : "https://inbex.pro",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-05-06T07:24:57.500",
+    "last_claim_time" : "2020-05-07T07:25:00.000",
     "location" : 82,
     "prepared-url" : "https://inbex.pro"
   },
   "bp-json-summary" : {
-    "url" : "https://inbex.pro/bp.json",
-    "logo" : "https://b.peatio.com/inbex/256.png"
+    "dl-error" : "Read timed out",
+    "url" : "https://inbex.pro/bp.json"
   },
   "analyzed-urls" : {
     "relative-links-count" : 7,
@@ -22,7 +22,7 @@
     "popularity-boosters-count" : 4
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 4.278272468919059E-5,
+  "vote-percentage" : 4.0467663468317426E-5,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -30,18 +30,19 @@
       "title" : "web",
       "url" : "https://inbex.pro"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://inbex.pro/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://inbex.pro/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "Read timed out"
     }, {
-      "title" : "no-coc",
-      "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 1,
     "max" : 3
   },
   "place" : 107,
-  "snapshot-date" : "2020-05-07T01:12:32.700Z"
+  "snapshot-date" : "2020-05-08T01:12:33.228Z"
 }
