@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "zeroxeosnode",
-    "total_votes" : "49529600938909.92187500000000000",
+    "total_votes" : "38651892413619.53906250000000000",
     "producer_key" : "EOS7EkrrDTncTMka9n3VJDZomH49Zm82MHnzsLPc4gYayRcKqKpkw",
     "is_active" : 1,
     "url" : "https://zeroxeos.com",
@@ -15,7 +15,7 @@
     "url" : "https://zeroxeos.com/bp.json"
   },
   "webpage-error" : "Certificate for <zeroxeos.com> doesn't match any of the subject alternative names: [eurogroupconsulting.it]",
-  "vote-percentage" : 3.031089140164236E-7,
+  "vote-percentage" : 2.3636365913154384E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 269,
-  "snapshot-date" : "2020-05-08T01:12:33.228Z"
+  "place" : 276,
+  "snapshot-date" : "2020-05-09T01:12:32.322Z"
 }
