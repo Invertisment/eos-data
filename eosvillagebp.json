@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosvillagebp",
-    "total_votes" : "359737407329062.18750000000000000",
+    "total_votes" : "359701488015986.75000000000000000",
     "producer_key" : "EOS63VmFVSwsLBDdepSyx4yr1qeJkrLNq2v1Tgf45WH7sU5mnhLPw",
     "is_active" : 1,
     "url" : "https://eosvillage.io",
@@ -11,23 +11,23 @@
     "prepared-url" : "https://eosvillage.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "Certificate for <eosvillage.io> doesn't match any of the subject alternative names: [mobile-aws.staging.japanmusicnetwork.jp, *.staging.larc-mobile.com, *.stg-testing.larc-mobile.com, *.staging.sid-mobile.com, *.stg-testing.sid-mobile.com, *.staging.mucc-mobile.jp, *.stg-testing.mucc-mobile.jp, *.staging.spimo.net, *.stg-testing.spimo.net, *.staging.shogohamada-mobile.net, *.stg-testing.shogohamada-mobile.net, *.staging.unite-mobile.com, *.stg-testing.unite-mobile.com]",
+    "dl-error" : "connect timed out",
     "url" : "https://eosvillage.io/bp.json"
   },
-  "webpage-error" : "Certificate for <eosvillage.io> doesn't match any of the subject alternative names: [mobile-aws.staging.japanmusicnetwork.jp, *.staging.larc-mobile.com, *.stg-testing.larc-mobile.com, *.staging.sid-mobile.com, *.stg-testing.sid-mobile.com, *.staging.mucc-mobile.jp, *.stg-testing.mucc-mobile.jp, *.staging.spimo.net, *.stg-testing.spimo.net, *.staging.shogohamada-mobile.net, *.stg-testing.shogohamada-mobile.net, *.staging.unite-mobile.com, *.stg-testing.unite-mobile.com]",
-  "vote-percentage" : 2.1998625322891223E-6,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 2.197579960497415E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Certificate for <eosvillage.io> doesn't match any of the subject alternative names: [mobile-aws.staging.japanmusicnetwork.jp, *.staging.larc-mobile.com, *.stg-testing.larc-mobile.com, *.staging.sid-mobile.com, *.stg-testing.sid-mobile.com, *.staging.mucc-mobile.jp, *.stg-testing.mucc-mobile.jp, *.staging.spimo.net, *.stg-testing.spimo.net, *.staging.shogohamada-mobile.net, *.stg-testing.shogohamada-mobile.net, *.staging.unite-mobile.com, *.stg-testing.unite-mobile.com]",
+      "error" : "connect timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eosvillage.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Certificate for <eosvillage.io> doesn't match any of the subject alternative names: [mobile-aws.staging.japanmusicnetwork.jp, *.staging.larc-mobile.com, *.stg-testing.larc-mobile.com, *.staging.sid-mobile.com, *.stg-testing.sid-mobile.com, *.staging.mucc-mobile.jp, *.stg-testing.mucc-mobile.jp, *.staging.spimo.net, *.stg-testing.spimo.net, *.staging.shogohamada-mobile.net, *.stg-testing.shogohamada-mobile.net, *.staging.unite-mobile.com, *.stg-testing.unite-mobile.com]"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 199,
-  "snapshot-date" : "2020-05-09T01:12:32.322Z"
+  "snapshot-date" : "2020-05-10T01:12:37.460Z"
 }
