@@ -1,29 +1,26 @@
 {
   "bp-header" : {
     "owner" : "certikeosorg",
-    "total_votes" : "2620683735382209536.00000000000000000",
+    "total_votes" : "2622818373316388864.00000000000000000",
     "producer_key" : "EOS57kRcpx1QT4Wn4uA6agwYdJNGew4cfrzKnzrvQZiVE85huUBAB",
     "is_active" : 1,
     "url" : "https://certik.org",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-05-11T01:02:51.500",
+    "last_claim_time" : "2020-05-12T01:03:56.000",
     "location" : 840,
     "prepared-url" : "https://certik.org"
   },
   "bp-json-summary" : {
-    "dl-error" : "Read timed out",
+    "dl-error" : "clj-http: status 404",
     "url" : "https://certik.org/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 9,
     "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/certikfoundation/chain", "https://medium.com/certik-foundation", "https://twitter.com/certikorg" ],
-    "social-links-count" : 3,
-    "popularity-boosters" : [ "http://forum.certik.foundation/", "https://docs.certik.foundation/certik-chain/", "https://explorer.certik.foundation/", "https://mailchi.mp/certik/chain-signup", "https://wallet.certik.foundation/" ],
-    "popularity-boosters-count" : 5
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.04279286269930979,
+  "vote-percentage" : 0.02024568951815091,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -35,7 +32,7 @@
       "mood" : "warn",
       "url" : "https://certik.org/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Read timed out"
+      "error" : "clj-http: status 404"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -44,6 +41,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 10,
-  "snapshot-date" : "2020-05-11T01:07:58.348Z"
+  "place" : 21,
+  "snapshot-date" : "2020-05-12T01:11:12.370Z"
 }

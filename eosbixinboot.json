@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosbixinboot",
-    "total_votes" : "849621554605075712.00000000000000000",
+    "total_votes" : "855879881853845376.00000000000000000",
     "producer_key" : "EOS7QC1XfAtkYeLjbHQjcDWVqUsxuSJ3YRhNyG93VAv2u3uHopGVp",
     "is_active" : 1,
     "url" : "https://en.eosbixin.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-05-10T04:35:04.000",
+    "last_claim_time" : "2020-05-11T04:40:05.000",
     "location" : 7,
     "prepared-url" : "https://en.eosbixin.com"
   },
@@ -15,7 +15,7 @@
     "url" : "https://en.eosbixin.com/bp.json"
   },
   "webpage-error" : "Certificate for <en.eosbixin.com> doesn't match any of the subject alternative names: [raa.namecheap.com, www.raa.namecheap.com]",
-  "vote-percentage" : 0.013873378936083869,
+  "vote-percentage" : 0.006606587222787608,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 22,
-  "snapshot-date" : "2020-05-11T01:07:58.348Z"
+  "place" : 45,
+  "snapshot-date" : "2020-05-12T01:11:12.370Z"
 }
