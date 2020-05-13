@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "dilidilifans",
-    "total_votes" : "5535470694527959.00000000000000000",
+    "total_votes" : "5535430637446692.00000000000000000",
     "producer_key" : "EOS7b3KnyRNxu4jVVnroB7T54gquXD5wYfcPnovDz2DjYuGBUwehq",
     "is_active" : 1,
     "url" : "www.dilidili.name",
@@ -14,14 +14,21 @@
     "dl-error" : "no protocol: www.dilidili.name/bp.json",
     "url" : "www.dilidili.name/bp.json"
   },
-  "webpage-error" : "Read timed out",
-  "vote-percentage" : 4.2728624352486705E-5,
+  "analyzed-urls" : {
+    "relative-links-count" : 209,
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ "http://ad.dilidili.xin", "http://d.7short.com/szda", "http://www.t-c-k.cn", "https://app.dierna.com/6BNf" ],
+    "popularity-boosters-count" : 4
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 4.4107341095444305E-5,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "Read timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "www.dilidili.name"
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
@@ -33,9 +40,9 @@
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 0,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 82,
-  "snapshot-date" : "2020-05-12T01:11:12.370Z"
+  "place" : 80,
+  "snapshot-date" : "2020-05-13T01:10:58.510Z"
 }
