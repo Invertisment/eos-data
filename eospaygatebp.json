@@ -11,23 +11,23 @@
     "prepared-url" : "https://bp.eospay.host"
   },
   "bp-json-summary" : {
-    "dl-error" : "Connection refused (Connection refused)",
+    "dl-error" : "bp.eospay.host",
     "url" : "https://bp.eospay.host/bp.json"
   },
-  "webpage-error" : "Connection refused (Connection refused)",
-  "vote-percentage" : 2.441521022571002E-5,
+  "webpage-error" : "bp.eospay.host: No address associated with hostname",
+  "vote-percentage" : 1.8543588364382038E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Connection refused (Connection refused)",
+      "error" : "bp.eospay.host: No address associated with hostname",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://bp.eospay.host/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Connection refused (Connection refused)"
+      "error" : "bp.eospay.host"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 90,
-  "snapshot-date" : "2020-05-13T01:10:58.510Z"
+  "place" : 120,
+  "snapshot-date" : "2020-05-14T01:12:39.798Z"
 }

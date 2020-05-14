@@ -11,23 +11,23 @@
     "prepared-url" : "http://www.serviceuptime.net"
   },
   "bp-json-summary" : {
-    "dl-error" : "www.serviceuptime.net",
+    "dl-error" : "clj-http: status 404",
     "url" : "http://www.serviceuptime.net/bp.json"
   },
-  "webpage-error" : "www.serviceuptime.net: Temporary failure in name resolution",
-  "vote-percentage" : 8.52059183243325E-8,
+  "webpage-error" : "clj-http: status 403",
+  "vote-percentage" : 8.440342784881383E-8,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "www.serviceuptime.net: Temporary failure in name resolution",
+      "error" : "clj-http: status 403",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://www.serviceuptime.net/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "www.serviceuptime.net"
+      "error" : "clj-http: status 404"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 333,
-  "snapshot-date" : "2020-05-10T01:12:37.460Z"
+  "place" : 334,
+  "snapshot-date" : "2020-05-14T01:12:39.798Z"
 }

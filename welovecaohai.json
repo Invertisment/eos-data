@@ -11,7 +11,7 @@
     "prepared-url" : "http://www.zran.org"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "dl-error" : "connect timed out",
     "url" : "http://www.zran.org/bp.json"
   },
   "analyzed-urls" : {
@@ -21,7 +21,7 @@
     "popularity-boosters-count" : 10
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.9347449181716055E-6,
+  "vote-percentage" : 1.916523010586725E-6,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -33,7 +33,7 @@
       "mood" : "warn",
       "url" : "http://www.zran.org/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -43,5 +43,5 @@
     "max" : 3
   },
   "place" : 203,
-  "snapshot-date" : "2020-05-10T01:12:37.460Z"
+  "snapshot-date" : "2020-05-14T01:12:39.798Z"
 }
