@@ -11,7 +11,7 @@
     "prepared-url" : "http://www.eos9cat.com"
   },
   "bp-json-summary" : {
-    "read-error" : "read:'http://www.eos9cat.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "dl-error" : "Read timed out",
     "url" : "http://www.eos9cat.com/bp.json"
   },
   "analyzed-urls" : {
@@ -21,7 +21,7 @@
     "popularity-boosters-count" : 1
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 3.452041592806531E-7,
+  "vote-percentage" : 3.4496057750194523E-7,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -32,8 +32,8 @@
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://www.eos9cat.com/bp.json",
-      "paragraphs" : [ "bp-json-invalid" ],
-      "error" : "read:'http://www.eos9cat.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "Read timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -43,5 +43,5 @@
     "max" : 3
   },
   "place" : 262,
-  "snapshot-date" : "2020-05-15T01:12:53.172Z"
+  "snapshot-date" : "2020-05-16T01:12:46.371Z"
 }
