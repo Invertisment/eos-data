@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "costaricaeos",
-    "total_votes" : "19557296857242272.00000000000000000",
+    "total_votes" : "19445991026840292.00000000000000000",
     "producer_key" : "EOS7phU8qE6nPCfpkCQ2T3HmRwGg6z4v61RTLvPBBVmPWmPisZoWY",
     "is_active" : 1,
     "url" : "https://eoscostarica.io",
@@ -13,10 +13,10 @@
   "bp-json-summary" : {
     "url" : "https://eoscostarica.io/bp.json",
     "logo" : "https://eoscostarica.io/assets/eos-CostaRica-256x256.png",
-    "code_of_conduct" : "https://eoscostarica.io/transparency/"
+    "code_of_conduct" : "https://eoscostarica.io/en/transparency/#code_of_conduct"
   },
   "webpage-error" : "Read timed out",
-  "vote-percentage" : 1.1764724580548566E-4,
+  "vote-percentage" : 1.1654779997938381E-4,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -32,11 +32,11 @@
       "score" : "positive",
       "mood" : "good",
       "title" : "coc",
-      "url" : "https://eoscostarica.io/transparency/"
+      "url" : "https://eoscostarica.io/en/transparency/#code_of_conduct"
     } ],
     "score" : 2,
     "max" : 3
   },
   "place" : 92,
-  "snapshot-date" : "2020-05-16T01:12:46.371Z"
+  "snapshot-date" : "2020-05-17T01:12:38.602Z"
 }
