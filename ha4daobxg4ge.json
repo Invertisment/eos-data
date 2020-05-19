@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "ha4daobxg4ge",
-    "total_votes" : "751709567927159.50000000000000000",
+    "total_votes" : "753570319147999.87500000000000000",
     "producer_key" : "EOS5ewbBCj3ZrAy5yJnCqBM6Y6X9nCLzJ4DR8rphbqMhapeT3S5eJ",
     "is_active" : 1,
     "url" : "http://eos.medishares.org",
@@ -11,38 +11,31 @@
     "prepared-url" : "http://eos.medishares.org"
   },
   "bp-json-summary" : {
-    "url" : "http://eos.medishares.org/bp.json",
-    "logo" : "http://eos.medishares.org/images/logo256.png"
+    "dl-error" : "Connection refused (Connection refused)",
+    "url" : "http://eos.medishares.org/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 8,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/MediShares", "https://github.com/MediShares/eos-medishares-testnet", "https://steemit.com/@ericfish", "https://t.me/eosmedishares" ],
-    "social-links-count" : 4,
-    "popularity-boosters" : [ "http://www.medishares.org", "https://www.mathwallet.org" ],
-    "popularity-boosters-count" : 2
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 4.50094083906071E-6,
+  "webpage-error" : "Connection refused (Connection refused)",
+  "vote-percentage" : 4.498346919842413E-6,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "http://eos.medishares.org"
-    }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "http://eos.medishares.org/bp.json"
-    }, {
-      "title" : "no-coc",
       "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "title" : "no-web",
+      "error" : "Connection refused (Connection refused)",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://eos.medishares.org/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "Connection refused (Connection refused)"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 0,
     "max" : 3
   },
   "place" : 171,
-  "snapshot-date" : "2020-05-18T01:12:43.348Z"
+  "snapshot-date" : "2020-05-19T01:12:41.283Z"
 }

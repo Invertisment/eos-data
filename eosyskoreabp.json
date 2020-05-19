@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosyskoreabp",
-    "total_votes" : "112469704572368944.00000000000000000",
+    "total_votes" : "112534579827238992.00000000000000000",
     "producer_key" : "EOS7TjKVBkBcSmjsXF4jJfZ1QU9RqVHuBkkcHNJoEcHGR79CoLf2f",
     "is_active" : 1,
     "url" : "https://eosys.io",
@@ -11,23 +11,23 @@
     "prepared-url" : "https://eosys.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "eosys.io",
+    "dl-error" : "connect timed out",
     "url" : "https://eosys.io/bp.json"
   },
-  "webpage-error" : "eosys.io: Name or service not known",
-  "vote-percentage" : 6.734242958524123E-4,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 6.71761569794789E-4,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "eosys.io: Name or service not known",
+      "error" : "connect timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eosys.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "eosys.io"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 77,
-  "snapshot-date" : "2020-05-18T01:12:43.348Z"
+  "snapshot-date" : "2020-05-19T01:12:41.283Z"
 }

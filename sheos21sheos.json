@@ -1,27 +1,30 @@
 {
   "bp-header" : {
     "owner" : "sheos21sheos",
-    "total_votes" : "322768708515920256.00000000000000000",
+    "total_votes" : "322837416182068160.00000000000000000",
     "producer_key" : "EOS5nUybopuNRPp4Lgpt3BCxT3j2Zw3BftJha8gLbJFvMQBMC3ToL",
     "is_active" : 1,
     "url" : "https://sheos.org",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-05-18T00:49:24.000",
+    "last_claim_time" : "2020-05-19T01:01:54.000",
     "location" : 724,
     "prepared-url" : "https://sheos.org"
   },
   "bp-json-summary" : {
-    "read-error" : "read:'https://sheos.org/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
-    "url" : "https://sheos.org/bp.json"
+    "url" : "https://sheos.org/bp.json",
+    "logo" : "https://sheos.org/img/sheos-256.png",
+    "code_of_conduct" : "https://sheos.org#CODEOFCONDUCT"
   },
   "analyzed-urls" : {
+    "relative-links-count" : 8,
     "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "http://sedoparking.com/", "https://www.google.com/adsense/support/bin/request.py?contact=abg_afc&hideleadgen=1", "https://www.sedo.com/services/parking.php3" ],
+    "social-links" : [ "https://medium.com/@bensig/eos-block-producer-compliance-40888be3116", "https://medium.com/@liquideos/increasing-stability-of-the-eos-blockchain-11921477549e", "https://steemit.com/eos/@sheos/announcing-sheos-an-all-female-block-producer-candidate", "https://steemit.com/eos/@sheos/sheos-mission-statement-principles-and-code-of-conduct", "https://www.linkedin.com/company/sheos/", "https://www.weibo.com/sheos", "https://www.youtube.com/channel/UCRLYpKGNrxac7yTKmpzamvg" ],
+    "social-links-count" : 7,
+    "popularity-boosters" : [ "https://docs.google.com/document/d/1jIjJvTrIBwqhgyfsMpCKaSrExbmoCSLW2ggYMMy8lxE", "https://tinyletter.com", "https://www.diverseeos.com/" ],
     "popularity-boosters-count" : 3
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.0019326119071973289,
+  "vote-percentage" : 0.001927138927571367,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -29,19 +32,19 @@
       "title" : "web",
       "url" : "https://sheos.org"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://sheos.org/bp.json",
-      "paragraphs" : [ "bp-json-invalid" ],
-      "error" : "read:'https://sheos.org/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://sheos.org/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://sheos.org#CODEOFCONDUCT"
     } ],
-    "score" : 1,
+    "score" : 3,
     "max" : 3
   },
   "place" : 70,
-  "snapshot-date" : "2020-05-18T01:12:43.348Z"
+  "snapshot-date" : "2020-05-19T01:12:41.283Z"
 }
