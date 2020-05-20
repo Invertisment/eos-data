@@ -11,7 +11,7 @@
     "prepared-url" : "https://cadeos.io"
   },
   "bp-json-summary" : {
-    "read-error" : "read:'https://cadeos.io/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "dl-error" : "clj-http: status 404",
     "url" : "https://cadeos.io/bp.json"
   },
   "analyzed-urls" : {
@@ -20,7 +20,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 3.188511884376589E-12,
+  "vote-percentage" : 3.1880963240290737E-12,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -31,8 +31,8 @@
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://cadeos.io/bp.json",
-      "paragraphs" : [ "bp-json-invalid" ],
-      "error" : "read:'https://cadeos.io/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -42,5 +42,5 @@
     "max" : 3
   },
   "place" : 565,
-  "snapshot-date" : "2020-05-19T01:12:41.283Z"
+  "snapshot-date" : "2020-05-20T01:12:42.424Z"
 }

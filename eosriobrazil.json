@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosriobrazil",
-    "total_votes" : "1267691260266723584.00000000000000000",
+    "total_votes" : "1267424680427160064.00000000000000000",
     "producer_key" : "EOS62VTMkGDMWpK3ECNegVLt92UYQQMXC3uzcx5zjW64hrMCaL1rx",
     "is_active" : 1,
     "url" : "https://eosrio.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-05-18T18:40:39.500",
+    "last_claim_time" : "2020-05-19T18:40:41.500",
     "location" : 76,
     "prepared-url" : "https://eosrio.io"
   },
@@ -19,11 +19,10 @@
     "duplicate-urls" : null,
     "social-links" : [ "https://github.com/eosrio", "https://medium.com/eos-rio", "https://steemit.com/@eosrio", "https://t.me/eosrio", "https://twitter.com/eosriobrazil", "https://www.meetup.com/pt-BR/EOS-Rio/" ],
     "social-links-count" : 6,
-    "popularity-boosters" : [ "http://miniorange.com/cyber-security" ],
-    "popularity-boosters-count" : 1
+    "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.007567329724954305,
+  "vote-percentage" : 0.007564752362361097,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,5 +44,5 @@
     "max" : 3
   },
   "place" : 41,
-  "snapshot-date" : "2020-05-19T01:12:41.283Z"
+  "snapshot-date" : "2020-05-20T01:12:42.424Z"
 }
