@@ -11,23 +11,23 @@
     "prepared-url" : "https://eosxsina.com/"
   },
   "bp-json-summary" : {
-    "dl-error" : "Certificate for <eosxsina.com> doesn't match any of the subject alternative names: [shortener.secureserver.net, www.shortener.secureserver.net]",
+    "dl-error" : "connect timed out",
     "url" : "https://eosxsina.com/bp.json"
   },
-  "webpage-error" : "Certificate for <eosxsina.com> doesn't match any of the subject alternative names: [shortener.secureserver.net, www.shortener.secureserver.net]",
-  "vote-percentage" : 2.3325012881497983E-8,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 3.074798957742633E-8,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Certificate for <eosxsina.com> doesn't match any of the subject alternative names: [shortener.secureserver.net, www.shortener.secureserver.net]",
+      "error" : "connect timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eosxsina.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Certificate for <eosxsina.com> doesn't match any of the subject alternative names: [shortener.secureserver.net, www.shortener.secureserver.net]"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 396,
-  "snapshot-date" : "2020-05-20T01:12:42.424Z"
+  "place" : 286,
+  "snapshot-date" : "2020-05-21T01:10:30.308Z"
 }
