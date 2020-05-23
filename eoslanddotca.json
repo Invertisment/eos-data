@@ -11,17 +11,16 @@
     "prepared-url" : "http://www.eosland.ca"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "read-error" : "read:'http://www.eosland.ca/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
     "url" : "http://www.eosland.ca/bp.json"
   },
   "analyzed-urls" : {
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ "?C=D;O=A", "?C=M;O=A", "?C=N;O=D", "?C=S;O=A" ],
-    "popularity-boosters-count" : 4
+    "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.716785207122385E-7,
+  "vote-percentage" : 2.8382614177917047E-7,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -32,8 +31,8 @@
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://www.eosland.ca/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'http://www.eosland.ca/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -42,6 +41,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 214,
-  "snapshot-date" : "2020-05-22T01:11:04.558Z"
+  "place" : 205,
+  "snapshot-date" : "2020-05-23T01:09:52.398Z"
 }
