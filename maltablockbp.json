@@ -1,0 +1,50 @@
+{
+  "bp-header" : {
+    "owner" : "maltablockbp",
+    "total_votes" : "0.00000000000000000",
+    "producer_key" : "EOS5dpgUbDfsPptPLqHAifKXLM6ePtZFDEJn2mRTskfVHS9ZJA2Tg",
+    "is_active" : 1,
+    "url" : "https://maltablock.org",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2020-05-22T23:53:03.000",
+    "location" : 840,
+    "prepared-url" : "https://maltablock.org"
+  },
+  "bp-json-summary" : {
+    "url" : "https://maltablock.org/bp.json",
+    "logo" : "https://maltablock.org/img/bp-json/maltablock_logo_256x256.png",
+    "code_of_conduct" : "https://maltablock.org/wax/code-of-conduct.html"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 4,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://medium.com/@airdropsdac", "https://medium.com/@airdropsdac/malta-block-announces-candidacy-for-wax-guild-8e9b77d8afe1", "https://t.me/airdropsdac", "https://twitter.com/airdropsdac", "https://www.facebook.com/airdropsdac/" ],
+    "social-links-count" : 5,
+    "popularity-boosters" : [ "https://eos.io/", "https://liquidapps.io/", "https://telosfoundation.io/", "https://wax.io/" ],
+    "popularity-boosters-count" : 4
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.0,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://maltablock.org"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://maltablock.org/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://maltablock.org/wax/code-of-conduct.html"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 591,
+  "snapshot-date" : "2020-05-24T01:12:37.784Z"
+}

@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosrealbpcsg",
-    "total_votes" : "343708255393818.62500000000000000",
+    "total_votes" : "343755709041331.12500000000000000",
     "producer_key" : "EOS6fcpQu16GAASdLwK6BbTQTMK5EZSh1ecci2oKQJdioQvxp8DRs",
     "is_active" : 1,
     "url" : "http://www.eosreal.com",
@@ -15,7 +15,7 @@
     "url" : "http://www.eosreal.com/bp.json"
   },
   "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 2.824350137962215E-6,
+  "vote-percentage" : 2.0405697803135352E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 151,
-  "snapshot-date" : "2020-05-23T01:09:52.398Z"
+  "place" : 202,
+  "snapshot-date" : "2020-05-24T01:12:37.784Z"
 }

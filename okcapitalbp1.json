@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "okcapitalbp1",
-    "total_votes" : "4413592048284899328.00000000000000000",
+    "total_votes" : "4437374380856678400.00000000000000000",
     "producer_key" : "EOS6NqWZ1i9KSNoeBiby6Nmf1seAbEfhvrDoCbwSi1hV4cuqqnYRP",
     "is_active" : 1,
     "url" : "https://www.okex.com/eosbp/",
-    "unpaid_blocks" : 6455,
-    "last_claim_time" : "2020-05-19T06:16:16.500",
+    "unpaid_blocks" : 6408,
+    "last_claim_time" : "2020-05-23T06:24:04.500",
     "location" : 0,
     "prepared-url" : "https://www.okex.com/eosbp/"
   },
@@ -15,21 +15,14 @@
     "logo" : "https://img.bafang.com/cdn/assets/imgs/MjAxOTg/C3B8310FFC1B46DA82C8ED7910C2AD61.png",
     "code_of_conduct" : "https://steemit.com/eos/@okpool/okpool-code-of-conduct"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 44,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://www.linkedin.com/company/okex/jobs" ],
-    "social-links-count" : 1,
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.026342970426067987,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 0.026340717629870492,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://www.okex.com/eosbp/"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "connect timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -41,9 +34,9 @@
       "title" : "coc",
       "url" : "https://steemit.com/eos/@okpool/okpool-code-of-conduct"
     } ],
-    "score" : 3,
+    "score" : 2,
     "max" : 3
   },
   "place" : 10,
-  "snapshot-date" : "2020-05-20T01:12:42.424Z"
+  "snapshot-date" : "2020-05-24T01:12:37.784Z"
 }

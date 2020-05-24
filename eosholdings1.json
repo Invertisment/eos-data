@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosholdings1",
-    "total_votes" : "771693502000987.87500000000000000",
+    "total_votes" : "772467978904238.50000000000000000",
     "producer_key" : "EOS4uLtAMBg8QyeMKYMVxQfrurQqfKLRnCpwWq9c8MPMk2cmdWZ8y",
     "is_active" : 1,
     "url" : "http://eos.holdings",
@@ -11,19 +11,17 @@
     "prepared-url" : "http://eos.holdings"
   },
   "bp-json-summary" : {
-    "read-error" : "read:'http://eos.holdings/bp.json': Unexpected character ('“' (code 8220 / 0x201c)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 38, column: 23]",
+    "dl-error" : "clj-http: status 404",
     "url" : "http://eos.holdings/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 12,
+    "relative-links-count" : 2,
     "duplicate-urls" : null,
-    "social-links" : [ "https://twitter.com/EOSHoldingsCA", "https://www.linkedin.com/in/sshi100/" ],
-    "social-links-count" : 2,
-    "popularity-boosters" : [ "http://ece.ubc.ca/~weicai/", "http://www.cs.sfu.ca/~jcliu/", "http://www.ece.ubc.ca/~vleung/" ],
-    "popularity-boosters-count" : 3
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 6.341228686357099E-6,
+  "vote-percentage" : 4.585450575956371E-6,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -34,8 +32,8 @@
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://eos.holdings/bp.json",
-      "paragraphs" : [ "bp-json-invalid" ],
-      "error" : "read:'http://eos.holdings/bp.json': Unexpected character ('“' (code 8220 / 0x201c)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 38, column: 23]"
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -44,6 +42,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 126,
-  "snapshot-date" : "2020-05-23T01:09:52.398Z"
+  "place" : 168,
+  "snapshot-date" : "2020-05-24T01:12:37.784Z"
 }

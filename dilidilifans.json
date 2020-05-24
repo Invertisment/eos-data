@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "dilidilifans",
-    "total_votes" : "5534904018512932.00000000000000000",
+    "total_votes" : "5596675193142368.00000000000000000",
     "producer_key" : "EOS7b3KnyRNxu4jVVnroB7T54gquXD5wYfcPnovDz2DjYuGBUwehq",
     "is_active" : 1,
     "url" : "www.dilidili.name",
@@ -15,14 +15,14 @@
     "url" : "www.dilidili.name/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 212,
+    "relative-links-count" : 223,
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ "http://ad.dilidili.xin" ],
-    "popularity-boosters-count" : 1
+    "popularity-boosters" : [ "http://ad.dilidili.xin", "http://www.t-c-k.cn" ],
+    "popularity-boosters-count" : 2
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 4.548190706208961E-5,
+  "vote-percentage" : 3.3222448293894703E-5,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -43,6 +43,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 79,
-  "snapshot-date" : "2020-05-23T01:09:52.398Z"
+  "place" : 109,
+  "snapshot-date" : "2020-05-24T01:12:37.784Z"
 }
