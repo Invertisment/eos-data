@@ -11,23 +11,23 @@
     "prepared-url" : "https://eosbelarus.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "SSL peer shut down incorrectly",
+    "dl-error" : "unable to find valid certification path to requested target",
     "url" : "https://eosbelarus.com/bp.json"
   },
-  "webpage-error" : "SSL peer shut down incorrectly",
-  "vote-percentage" : 1.5157303184253827E-6,
+  "webpage-error" : "unable to find valid certification path to requested target",
+  "vote-percentage" : 1.514589417420025E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "SSL peer shut down incorrectly",
+      "error" : "unable to find valid certification path to requested target",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eosbelarus.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "SSL peer shut down incorrectly"
+      "error" : "unable to find valid certification path to requested target"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 171,
-  "snapshot-date" : "2020-05-25T01:10:39.019Z"
+  "snapshot-date" : "2020-05-26T01:10:53.764Z"
 }
