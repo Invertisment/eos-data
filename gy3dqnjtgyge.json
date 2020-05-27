@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "gy3dqnjtgyge",
-    "total_votes" : "397464498703734.25000000000000000",
+    "total_votes" : "397910016902248.62500000000000000",
     "producer_key" : "EOS6o9DdrLKio11s1WBsMfu1nbEiTw6Sq4APV1HcfYr3bLugEBTY3",
     "is_active" : 1,
     "url" : "http://eosbattles.com",
@@ -11,31 +11,37 @@
     "prepared-url" : "http://eosbattles.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "NotAfter: Thu Feb 06 13:58:54 UTC 2020",
+    "dl-error" : "clj-http: status 404",
     "url" : "http://eosbattles.com/bp.json"
   },
-  "webpage-error" : "NotAfter: Thu Feb 06 13:58:54 UTC 2020",
-  "vote-percentage" : 3.108325639499233E-6,
+  "analyzed-urls" : {
+    "relative-links-count" : 4,
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 2.360288635103386E-6,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "NotAfter: Thu Feb 06 13:58:54 UTC 2020",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://eosbattles.com"
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://eosbattles.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "NotAfter: Thu Feb 06 13:58:54 UTC 2020"
+      "error" : "clj-http: status 404"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 0,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 155,
-  "snapshot-date" : "2020-05-26T01:10:53.764Z"
+  "place" : 198,
+  "snapshot-date" : "2020-05-27T01:12:41.176Z"
 }

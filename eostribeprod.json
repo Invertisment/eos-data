@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eostribeprod",
-    "total_votes" : "206364959913008288.00000000000000000",
+    "total_votes" : "206370792683129920.00000000000000000",
     "producer_key" : "EOS7gD4EXA96SEQ9RQrLfbU19tLHmGPcJXSPXdkrQh4bCkUghg6QE",
     "is_active" : 1,
     "url" : "https://eostribe.io",
@@ -19,11 +19,11 @@
     "duplicate-urls" : null,
     "social-links" : [ "https://github.com/EOSTribe/" ],
     "social-links-count" : 1,
-    "popularity-boosters" : [ "https://bos.bloks.io/", "https://daobet.org/", "https://eosnetworkmonitor.io/", "https://kibisis.ch", "https://lynxwallet.io/", "https://meetone.eosx.io/", "https://monitor.telosfoundation.io/", "https://ripple.com/", "https://spectrumeos.io", "https://wax.io/", "https://worbli.bloks.io/", "https://www.algorand.com/" ],
-    "popularity-boosters-count" : 12
+    "popularity-boosters" : [ "https://bos.bloks.io/", "https://daobet.org/", "https://eosnetworkmonitor.io/", "https://lynxwallet.io/", "https://meetone.eosx.io/", "https://monitor.telosfoundation.io/", "https://ripple.com/", "https://spectrumeos.io", "https://wax.io/", "https://worbli.bloks.io/", "https://www.algorand.com/" ],
+    "popularity-boosters-count" : 11
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.00161385355945957,
+  "vote-percentage" : 0.0012241326327477934,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -44,6 +44,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 55,
-  "snapshot-date" : "2020-05-26T01:10:53.764Z"
+  "place" : 73,
+  "snapshot-date" : "2020-05-27T01:12:41.176Z"
 }

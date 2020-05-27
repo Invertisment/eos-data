@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eoswenzhoubp",
-    "total_votes" : "1375571124995851.25000000000000000",
+    "total_votes" : "1375754562133551.25000000000000000",
     "producer_key" : "EOS5SQjv1G8uaxqkXh6Z5nWbKqumhGj91NMq7qkYuvT9YS45QcZsA",
     "is_active" : 1,
     "url" : "http://eoswz.com",
@@ -11,23 +11,23 @@
     "prepared-url" : "http://eoswz.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "eoswz.com",
     "url" : "http://eoswz.com/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 1.0757496608436687E-5,
+  "webpage-error" : "eoswz.com: No address associated with hostname",
+  "vote-percentage" : 8.160583347398274E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "eoswz.com: No address associated with hostname",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://eoswz.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "eoswz.com"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 112,
-  "snapshot-date" : "2020-05-26T01:10:53.764Z"
+  "place" : 145,
+  "snapshot-date" : "2020-05-27T01:12:41.176Z"
 }
