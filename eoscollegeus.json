@@ -11,31 +11,36 @@
     "prepared-url" : "http://eos.college"
   },
   "bp-json-summary" : {
-    "dl-error" : "eos.college",
+    "read-error" : "read:'http://eos.college/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
     "url" : "http://eos.college/bp.json"
   },
-  "webpage-error" : "eos.college: No address associated with hostname",
-  "vote-percentage" : 4.6667619351666554E-7,
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 6.153254159315325E-7,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "eos.college: No address associated with hostname",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://eos.college"
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://eos.college/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "eos.college"
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'http://eos.college/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 0,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 249,
-  "snapshot-date" : "2020-05-27T01:12:41.176Z"
+  "place" : 193,
+  "snapshot-date" : "2020-05-28T01:10:30.229Z"
 }
