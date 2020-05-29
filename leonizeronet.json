@@ -11,23 +11,23 @@
     "prepared-url" : "https://popcorn-api.io/"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 403",
+    "dl-error" : "clj-http: status 521",
     "url" : "https://popcorn-api.io/bp.json"
   },
-  "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 7.298752162621115E-15,
+  "webpage-error" : "clj-http: status 521",
+  "vote-percentage" : 7.301121871915543E-15,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "clj-http: status 403",
+      "error" : "clj-http: status 521",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://popcorn-api.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 403"
+      "error" : "clj-http: status 521"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 575,
-  "snapshot-date" : "2020-05-27T01:12:41.176Z"
+  "snapshot-date" : "2020-05-29T01:12:43.569Z"
 }

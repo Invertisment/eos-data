@@ -11,11 +11,11 @@
     "prepared-url" : "http://www.eosreal.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "Read timed out",
+    "dl-error" : "clj-http: status 403",
     "url" : "http://www.eosreal.com/bp.json"
   },
   "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 2.689020772754801E-6,
+  "vote-percentage" : 2.0400740471117954E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -27,7 +27,7 @@
       "mood" : "warn",
       "url" : "http://www.eosreal.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Read timed out"
+      "error" : "clj-http: status 403"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 159,
-  "snapshot-date" : "2020-05-28T01:10:30.229Z"
+  "place" : 202,
+  "snapshot-date" : "2020-05-29T01:12:43.569Z"
 }
