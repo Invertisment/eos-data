@@ -11,11 +11,11 @@
     "prepared-url" : "http://eoswz.com"
   },
   "bp-json-summary" : {
-    "read-error" : "read:'http://eoswz.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 2, column: 2]",
+    "dl-error" : "connect timed out",
     "url" : "http://eoswz.com/bp.json"
   },
   "webpage-error" : "connect timed out",
-  "vote-percentage" : 8.116025516344693E-6,
+  "vote-percentage" : 1.0617235752062649E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -26,8 +26,8 @@
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://eoswz.com/bp.json",
-      "paragraphs" : [ "bp-json-invalid" ],
-      "error" : "read:'http://eoswz.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 2, column: 2]"
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 145,
-  "snapshot-date" : "2020-05-29T01:12:43.569Z"
+  "place" : 112,
+  "snapshot-date" : "2020-05-30T01:10:52.749Z"
 }
