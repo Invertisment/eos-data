@@ -1,0 +1,50 @@
+{
+  "bp-header" : {
+    "owner" : "pinknetworkx",
+    "total_votes" : "0.00000000000000000",
+    "producer_key" : "EOS6tV9F1UVUeckKK8qQKVih1L2Smd9FKFxVCgzyRuksTdP4hTgk9",
+    "is_active" : 1,
+    "url" : "https://pink.network",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2020-05-29T21:09:50.500",
+    "location" : 276,
+    "prepared-url" : "https://pink.network"
+  },
+  "bp-json-summary" : {
+    "url" : "https://pink.network/bp.json",
+    "logo" : "https://pink.network/image/guild/logo_256.png",
+    "code_of_conduct" : "https://pink.network/producer#code-of-conduct"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 6,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://github.com/pinknetworkx", "https://medium.com/@pinknetwork", "https://medium.com/@waxoig", "https://t.me/Jona_pinknetwork", "https://t.me/fabian_pinknetwork", "https://t.me/pinknetwork", "https://twitter.com/pinknetworkx" ],
+    "social-links-count" : 7,
+    "popularity-boosters" : [ "https://atomicassets.io", "https://create.wax.gg", "https://fabianemilius.com", "https://guide.wax.gg", "https://lnx.gg", "https://photo.wax.gg", "https://snapshots.pink.gg", "https://snapshots.wax.gg", "https://stats.wax.gg", "https://wax.gg", "https://wax.io/blog/the-25-000-buildonwax-competition", "https://www.notion.so/2019-11-18-Guild-Ratings-Report-f4ed8eaee11e49b2a364cafcaa996339" ],
+    "popularity-boosters-count" : 12
+  },
+  "p-ram-amounts" : [ "RAM" ],
+  "vote-percentage" : 0.0,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://pink.network"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://pink.network/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://pink.network/producer#code-of-conduct"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 590,
+  "snapshot-date" : "2020-05-31T01:12:47.385Z"
+}
