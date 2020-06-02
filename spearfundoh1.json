@@ -11,11 +11,11 @@
     "prepared-url" : "http://spear.fund"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "dl-error" : "clj-http: status 429",
     "url" : "http://spear.fund/bp.json"
   },
   "webpage-error" : "clj-http: status 404",
-  "vote-percentage" : 2.2652145040551113E-8,
+  "vote-percentage" : 2.2586385937384623E-8,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -27,7 +27,7 @@
       "mood" : "warn",
       "url" : "http://spear.fund/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "error" : "clj-http: status 429"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 397,
-  "snapshot-date" : "2020-05-31T01:12:47.385Z"
+  "snapshot-date" : "2020-06-02T01:12:46.278Z"
 }
