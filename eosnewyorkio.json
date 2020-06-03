@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosnewyorkio",
-    "total_votes" : "368008331839341056.00000000000000000",
+    "total_votes" : "367939241753603968.00000000000000000",
     "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
     "is_active" : 0,
     "url" : "https://bp.eosnewyork.io",
@@ -15,7 +15,7 @@
     "url" : "https://bp.eosnewyork.io/bp.json"
   },
   "webpage-error" : "clj-http: status 404",
-  "vote-percentage" : 0.0021473190717895448,
+  "vote-percentage" : 0.0021440951020462186,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 68,
-  "snapshot-date" : "2020-06-02T01:12:46.278Z"
+  "snapshot-date" : "2020-06-03T01:12:44.440Z"
 }

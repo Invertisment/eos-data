@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "bchainlabeos",
-    "total_votes" : "84290329037972.57812500000000000",
+    "total_votes" : "79797434380375.93750000000000000",
     "producer_key" : "EOS6n6RZi6EXHKBX53HyuXgzMw5sUzWWQomwDLYLc1PcjZY3CCzzE",
     "is_active" : 1,
     "url" : "https://blockchainlab.me",
@@ -15,14 +15,22 @@
     "logo" : "",
     "code_of_conduct" : "https://steemit.com/eos/@blockchainlabme/presenting-blockchainlab-as-an-eos-block-producer-candidate"
   },
-  "webpage-error" : "Read timed out",
-  "vote-percentage" : 4.918318838217821E-7,
+  "analyzed-urls" : {
+    "relative-links-count" : 8,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://www.facebook.com/CoinTelegram.News/" ],
+    "social-links-count" : 1,
+    "popularity-boosters" : [ "https://blockchainart.io/", "https://btcu.ua", "https://cryptowhisky.io", "https://litego.io" ],
+    "popularity-boosters-count" : 4
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 4.6500418763539704E-7,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "Read timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://blockchainlab.me"
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -34,9 +42,9 @@
       "title" : "coc",
       "url" : "https://steemit.com/eos/@blockchainlabme/presenting-blockchainlab-as-an-eos-block-producer-candidate"
     } ],
-    "score" : 2,
+    "score" : 3,
     "max" : 3
   },
   "place" : 248,
-  "snapshot-date" : "2020-06-02T01:12:46.278Z"
+  "snapshot-date" : "2020-06-03T01:12:44.440Z"
 }
