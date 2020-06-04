@@ -14,14 +14,22 @@
     "read-error" : "read:'http://eos.romania22.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
     "url" : "http://eos.romania22.com/bp.json"
   },
-  "webpage-error" : "Read timed out",
-  "vote-percentage" : 2.4598978454746367E-6,
+  "analyzed-urls" : {
+    "relative-links-count" : 25,
+    "duplicate-urls" : null,
+    "social-links" : [ "http://l.facebook.com/l.php?u=http%3A%2F%2Feos.romania22.com%2F&h=AT19FoX1sDW-T6yREa4O1PbIlyWhHphq-KQyhZu_cj7GTp4KSBSCLHnPoktjfNJUlnutC5iHwi0DGya3eVzFIIXJIligiWONiUNPXKisavJ3R2iqJXu2a4tsU42SjySl5gNKpJwickWXFat9", "http://l.facebook.com/l.php?u=http%3A%2F%2Feos.romania22.com%2F&h=AT1ITfaJ_9RSgMVi9dl2PlfPXi2taz5hKrXarM2LYYbzbf64fq38_JzqV0WpASbKtdf-Nqmke-fTsSU_igoH6xqjvf-jJmJpFQzboDd_kg6kJKBTgT9lQGDipU4mjKGkxosqF1b9-sucEL4CXLY", "https://l.facebook.com/l.php?u=https%3A%2F%2Fmedium.com%2F%40eosriobrazil%2Fhyperion-3-0-is-here-3230b4ae55e1&h=AT0C4MYs_H4138uSLb_DnLQ6dSjVRXlMfR5C0xjLe6j6e04NszYKufWy2no0kqZ-eoMzyn7Z6ZjMBLCrRa3wAjkgOuFUMDCY3xsOylkGFF7ABr4v6Akzr2tvQHd8Y6QmzG-5u9w8xoy4NTBx9EvKD_iZU-0tbmtZVbOyNueH3mtvNg", "https://l.facebook.com/l.php?u=https%3A%2F%2Fmedium.com%2F%40eosriobrazil%2Fhyperion-3-0-is-here-3230b4ae55e1&h=AT0KgdUqeBHY0H1mVISdu3V1GaDoNqFn4ZuMj6k6Y5n9sgYaG60grs7qtcVdTNTpk0LI4ZE-dLNlGgrfsomUbf7fYLvMSl_OyxoutoN9qDVm7nb7gR0Z4JhtLrQxf5AvhUp5__CKPe-FKWkzKOLduK1DUtk_2pP5EW4", "https://l.facebook.com/l.php?u=https%3A%2F%2Fmedium.com%2F%40eosriobrazil%2Fhyperion-3-0-is-here-3230b4ae55e1&h=AT0iRMsk-mvBvvcZnSklk6NWlqfyhe0INbsqztNgOxWKsPkF-p-t3N1yhwINlodPhtWjn24p4MhPg8zlvSQvBZ6AxEyNUZVZYwavL2_Bzhh44VuQjbZFOqyfkjZk63Vb1OaJZMCq7-GbqVk2jTsWZemiUhxl9Zkywtk", "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.binance.com%2Fen%2Fregister%3Fref%3DJVKYCGY9&h=AT0yww6Faj4blCsV97Uvu0r8fM8P6EqaPwY814OWfkS17X8BFO2uOqyUaj0TtQGdH4w8I7EcMttpxgQ1H-ZSQFvl9QfXhV5j_SWR1O1GrviiU7H16XciGdYv5dNi3xsOtw_Mfe5AVejzy-54qhj-gehWvObiBOBjQHyu9xSTwiMfGw", "https://www.facebook.com/1ClickMiners/?ref=py_c", "https://www.facebook.com/ADS-Agentia-De-Securitate-915315025294021/?ref=py_c", "https://www.facebook.com/Biblioteca-de-Arte-Martiale-428097800649338/?ref=py_c", "https://www.facebook.com/Chronorayro-1175577412649676/?ref=py_c", "https://www.facebook.com/DOM-PubGrill-1468677356679849/?ref=py_c", "https://www.facebook.com/DanubeFAB/?ref=py_c", "https://www.facebook.com/EOSro/?hc_ref=ARRESZCz6roJ39goP1kpkQoQXTQJwJEiNcYVXSPA68id7k71MMW3VM9JRI2CRPKeAwE&fref=nf", "https://www.facebook.com/EOSro/?hc_ref=ARSDXltde3LnQloMqxkF_9ENGoufkFnlXnieDRPCXY7YMRB-icVBGp2O0kzDXoudiTI&fref=nf", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARRDb3W1q_qHvlAQJxXC9K-j0Q69uwzRQvbjKOLGnjb7V4FkBk5EnF6BkVe-24h-63E", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARRztS7RZYuTsdh79cjwNYk7nky_tOYzjyMnbXN-EmXKaMgbFVK0GLx6jWaEMKLGh5I", "https://www.facebook.com/EOSro/likes", "https://www.facebook.com/EOSro/likes?ref=page_internal", "https://www.facebook.com/EOSro/posts", "https://www.facebook.com/EvoPixelRO/?ref=py_c", "https://www.facebook.com/Giulia-Avon-Reggio-Calabria-144236755997784/?ref=py_c", "https://www.facebook.com/Mecanica-443055392793153/?ref=py_c", "https://www.facebook.com/RomaniaEarthship/?ref=py_c", "https://www.facebook.com/TimisoaraMountainBikers/?ref=py_c", "https://www.facebook.com/Yonchim-Drive-SRL-123718561513183/?ref=py_c", "https://www.facebook.com/ad_campaign/landing.php?placement=pf_rhc&campaign_id=242449722530626&extra_1=auto", "https://www.facebook.com/astabimdesign/?ref=py_c", "https://www.facebook.com/dgpimobiliare/?ref=py_c", "https://www.facebook.com/diadecor.ro/?ref=py_c", "https://www.facebook.com/electricistaeco/?ref=py_c", "https://www.facebook.com/eosdac/?ref=py_c", "https://www.facebook.com/eosgoio/?ref=py_c", "https://www.facebook.com/help/568137493302217", "https://www.facebook.com/help/cookies?ref_type=sitefooter", "https://www.facebook.com/luckismade/?ref=py_c", "https://www.facebook.com/policies?ref=pf", "https://www.facebook.com/privacy/explanation", "https://www.facebook.com/psiholog.ioana.perieteanu/?ref=py_c", "https://www.facebook.com/recover/initiate?lwv=110&ars=royal_blue_bar" ],
+    "social-links-count" : 39,
+    "popularity-boosters" : [ "https://www.facebook.com/" ],
+    "popularity-boosters-count" : 1
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 3.2268265689235666E-6,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "Read timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://eos.romania22.com"
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
@@ -33,9 +41,9 @@
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 0,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 193,
-  "snapshot-date" : "2020-06-03T01:12:44.440Z"
+  "place" : 152,
+  "snapshot-date" : "2020-06-04T01:11:20.394Z"
 }
