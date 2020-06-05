@@ -11,31 +11,40 @@
     "prepared-url" : "https://www.eosathens.com/"
   },
   "bp-json-summary" : {
-    "dl-error" : "www.eosathens.com",
-    "url" : "https://www.eosathens.com/bp.json"
+    "url" : "https://www.eosathens.com/bp.json",
+    "logo" : "https://www.eosathens.com/public/eosathens_logo_256.png",
+    "code_of_conduct" : "https://www.eosathens.com/code-of-conduct/"
   },
-  "webpage-error" : "www.eosathens.com: Temporary failure in name resolution",
-  "vote-percentage" : 1.9341985322820332E-7,
+  "analyzed-urls" : {
+    "relative-links-count" : 2,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://twitter.com/eosathenscom", "https://www.facebook.com/eosathenscom/", "https://www.instagram.com/eosathenscom/", "https://www.linkedin.com/company/eosathenscom/" ],
+    "social-links-count" : 4,
+    "popularity-boosters" : [ "http://eosathens.com/athx-ico/", "http://miniorange.com/cyber-security" ],
+    "popularity-boosters-count" : 2
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 1.934105133137702E-7,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "www.eosathens.com: Temporary failure in name resolution",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://www.eosathens.com/"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://www.eosathens.com/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "www.eosathens.com"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://www.eosathens.com/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://www.eosathens.com/code-of-conduct/"
     } ],
-    "score" : 0,
+    "score" : 3,
     "max" : 3
   },
   "place" : 224,
-  "snapshot-date" : "2020-06-04T01:11:20.394Z"
+  "snapshot-date" : "2020-06-05T01:10:50.367Z"
 }

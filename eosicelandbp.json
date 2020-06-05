@@ -11,23 +11,23 @@
     "prepared-url" : "https://eosiceland.is"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "Certificate for <eosiceland.is> doesn't match any of the subject alternative names: [*.squarespace.com, squarespace.com, *.campaign-preferences.com, campaign-preferences.com, *.engage.squarespace-mail.com, engage.squarespace-mail.com, sqsp.net]",
     "url" : "https://eosiceland.is/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 4.586938526094766E-7,
+  "webpage-error" : "Certificate for <eosiceland.is> doesn't match any of the subject alternative names: [*.squarespace.com, squarespace.com, *.campaign-preferences.com, campaign-preferences.com, *.engage.squarespace-mail.com, engage.squarespace-mail.com, sqsp.net]",
+  "vote-percentage" : 4.586717030665891E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "Certificate for <eosiceland.is> doesn't match any of the subject alternative names: [*.squarespace.com, squarespace.com, *.campaign-preferences.com, campaign-preferences.com, *.engage.squarespace-mail.com, engage.squarespace-mail.com, sqsp.net]",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eosiceland.is/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "Certificate for <eosiceland.is> doesn't match any of the subject alternative names: [*.squarespace.com, squarespace.com, *.campaign-preferences.com, campaign-preferences.com, *.engage.squarespace-mail.com, engage.squarespace-mail.com, sqsp.net]"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 203,
-  "snapshot-date" : "2020-06-04T01:11:20.394Z"
+  "snapshot-date" : "2020-06-05T01:10:50.367Z"
 }

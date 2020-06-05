@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "bitfinexeos1",
-    "total_votes" : "4673482967782691840.00000000000000000",
+    "total_votes" : "4673703466298090496.00000000000000000",
     "producer_key" : "EOS4tkw7LgtURT3dvG3kQ4D1sg3aAtPDymmoatpuFkQMc7wzZdKxc",
     "is_active" : 1,
     "url" : "https://www.bitfinex.com",
-    "unpaid_blocks" : 5999,
-    "last_claim_time" : "2020-06-03T07:35:58.500",
+    "unpaid_blocks" : 4632,
+    "last_claim_time" : "2020-06-04T11:34:58.500",
     "location" : 0,
     "prepared-url" : "https://www.bitfinex.com"
   },
@@ -20,11 +20,11 @@
     "duplicate-urls" : null,
     "social-links" : [ "https://t.me/bitfinex", "https://twitter.com/bitfinex", "https://www.facebook.com/bitfinex", "https://www.facebook.com/bitfinex1", "https://www.linkedin.com/company/bitfinex/", "https://www.youtube.com/channel/UCxOndh75c7-4Zlw42BGXQkQ" ],
     "social-links-count" : 6,
-    "popularity-boosters" : [ "colocation", "demo", "http://blog.bitfinex.com", "http://blog.bitfinex.com/", "http://blog.bitfinex.com/category/changelogs/", "http://blog.bitfinex.com/newsletter/", "http://docs.bitfinex.com/", "https://bitfinex.com/pulse", "https://bitfinex.statuspage.io/", "https://ln.bitfinex.com/", "https://support.bitfinex.com/", "https://support.bitfinex.com/hc/en-us/articles/360021286193", "https://support.bitfinex.com/hc/en-us/sections/115001039645-Currencies-Tokens", "https://tokensales.bitfinex.com/token-sales", "pro" ],
+    "popularity-boosters" : [ "colocation", "demo", "http://blog.bitfinex.com", "http://blog.bitfinex.com/", "http://blog.bitfinex.com/category/changelogs/", "http://blog.bitfinex.com/newsletter/", "http://docs.bitfinex.com/", "https://bitfinex.com/pulse", "https://bitfinex.statuspage.io/", "https://ln.bitfinex.com/", "https://support.bitfinex.com/", "https://support.bitfinex.com/hc/en-us/articles/360021286193", "https://support.bitfinex.com/hc/en-us/sections/115001039645-Currencies-Tokens", "https://tokensales.bitfinex.com", "pro" ],
     "popularity-boosters-count" : 15
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.03572458167397675,
+  "vote-percentage" : 0.03572454202673753,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -46,5 +46,5 @@
     "max" : 3
   },
   "place" : 3,
-  "snapshot-date" : "2020-06-04T01:11:20.394Z"
+  "snapshot-date" : "2020-06-05T01:10:50.367Z"
 }

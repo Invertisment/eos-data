@@ -15,13 +15,13 @@
     "logo" : "https://i.imgur.com/gVijzUK.png",
     "code_of_conduct" : "https://steemit.com/eos/@distributedfund1/distributed-fund-bp-constitution-draft"
   },
-  "webpage-error" : "clj-http: status 404",
-  "vote-percentage" : 2.0318413352342934E-6,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 2.0317432210857404E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "clj-http: status 404",
+      "error" : "Read timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "score" : "positive",
@@ -38,5 +38,5 @@
     "max" : 3
   },
   "place" : 164,
-  "snapshot-date" : "2020-06-04T01:11:20.394Z"
+  "snapshot-date" : "2020-06-05T01:10:50.367Z"
 }

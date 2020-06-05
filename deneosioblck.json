@@ -15,13 +15,13 @@
     "logo" : "",
     "code_of_conduct" : "http://www.deneos.io/#code-of-conduct-section"
   },
-  "webpage-error" : "clj-http: status 404",
-  "vote-percentage" : 6.737327547813385E-7,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 6.737002213770606E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "clj-http: status 404",
+      "error" : "Read timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "score" : "positive",
@@ -38,5 +38,5 @@
     "max" : 3
   },
   "place" : 189,
-  "snapshot-date" : "2020-06-04T01:11:20.394Z"
+  "snapshot-date" : "2020-06-05T01:10:50.367Z"
 }
