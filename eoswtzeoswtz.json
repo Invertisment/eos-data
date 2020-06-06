@@ -14,13 +14,13 @@
     "dl-error" : "www.eoswtz.com",
     "url" : "http://www.eoswtz.com/bp.json"
   },
-  "webpage-error" : "www.eoswtz.com: Name or service not known",
-  "vote-percentage" : 6.644277911087675E-6,
+  "webpage-error" : "www.eoswtz.com: Temporary failure in name resolution",
+  "vote-percentage" : 6.602099579829693E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "www.eoswtz.com: Name or service not known",
+      "error" : "www.eoswtz.com: Temporary failure in name resolution",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 125,
-  "snapshot-date" : "2020-06-05T01:10:50.367Z"
+  "snapshot-date" : "2020-06-06T01:10:40.406Z"
 }

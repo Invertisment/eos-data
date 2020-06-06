@@ -11,31 +11,36 @@
     "prepared-url" : "https://bp.eosindex.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "clj-http: status 404",
     "url" : "https://bp.eosindex.io/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 2.0309921372013E-6,
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 2.0180992600080863E-6,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "connect timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://bp.eosindex.io"
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://bp.eosindex.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "clj-http: status 404"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 0,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 165,
-  "snapshot-date" : "2020-06-05T01:10:50.367Z"
+  "place" : 163,
+  "snapshot-date" : "2020-06-06T01:10:40.406Z"
 }
