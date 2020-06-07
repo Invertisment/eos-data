@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "sheleaders21",
-    "total_votes" : "30528274108383624.00000000000000000",
+    "total_votes" : "30812150145132812.00000000000000000",
     "producer_key" : "EOS7LGK4aCwe69AB9f796fdTaiz4zCQPCUV1mLU8Qwm4voAgWbQ96",
     "is_active" : 1,
     "url" : "https://www.sheleaders.one/",
@@ -14,20 +14,14 @@
     "dl-error" : "clj-http: status 404",
     "url" : "https://www.sheleaders.one/bp.json"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ "http://www.facebook.com/wix", "https://github.com/SheLeaders", "https://steemit.com/@eosmatrix", "https://t.me/sheleaders", "https://twitter.com/SheLeaders_", "https://www.linkedin.com/company/sheleaders/", "https://www.reddit.com/user/SheLeaders/", "https://www.youtube.com/channel/UC3iI03zXeBwvij9kD_aSsjA" ],
-    "social-links-count" : 8,
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.7789764059345154E-4,
+  "webpage-error" : "clj-http: status 404",
+  "vote-percentage" : 1.7644268366886681E-4,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://www.sheleaders.one/"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "clj-http: status 404",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
@@ -39,9 +33,9 @@
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 88,
-  "snapshot-date" : "2020-06-03T01:12:44.440Z"
+  "place" : 89,
+  "snapshot-date" : "2020-06-07T01:12:32.577Z"
 }

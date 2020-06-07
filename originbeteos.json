@@ -11,16 +11,18 @@
     "prepared-url" : "http://producer.site"
   },
   "bp-json-summary" : {
-    "read-error" : "read:'http://producer.site/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "read-error" : "read:'http://producer.site/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 4]",
     "url" : "http://producer.site/bp.json"
   },
   "analyzed-urls" : {
+    "relative-links-count" : 1,
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ ]
+    "popularity-boosters" : [ "https://www.efty.com/", "https://www.efty.com/market/buy_it_now_paypal/domain/1xdvl/", "https://www.elephantmilk.com", "https://www.elephantmilk.com/search/" ],
+    "popularity-boosters-count" : 4
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.7063649536817656E-9,
+  "vote-percentage" : 1.6768168763277174E-9,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -32,7 +34,7 @@
       "mood" : "warn",
       "url" : "http://producer.site/bp.json",
       "paragraphs" : [ "bp-json-invalid" ],
-      "error" : "read:'http://producer.site/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
+      "error" : "read:'http://producer.site/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 4]"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -41,6 +43,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 446,
-  "snapshot-date" : "2020-06-03T01:12:44.440Z"
+  "place" : 439,
+  "snapshot-date" : "2020-06-07T01:12:32.577Z"
 }

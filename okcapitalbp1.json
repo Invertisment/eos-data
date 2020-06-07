@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "okcapitalbp1",
-    "total_votes" : "4612923507271118848.00000000000000000",
+    "total_votes" : "4666073771079115776.00000000000000000",
     "producer_key" : "EOS6NqWZ1i9KSNoeBiby6Nmf1seAbEfhvrDoCbwSi1hV4cuqqnYRP",
     "is_active" : 1,
     "url" : "https://www.okex.com/eosbp/",
-    "unpaid_blocks" : 6071,
-    "last_claim_time" : "2020-06-02T07:24:04.000",
+    "unpaid_blocks" : 6024,
+    "last_claim_time" : "2020-06-06T07:32:03.500",
     "location" : 0,
     "prepared-url" : "https://www.okex.com/eosbp/"
   },
@@ -16,14 +16,15 @@
     "code_of_conduct" : "https://steemit.com/eos/@okpool/okpool-code-of-conduct"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 44,
+    "relative-links-count" : 45,
     "duplicate-urls" : null,
     "social-links" : [ "https://www.linkedin.com/company/okex/jobs" ],
     "social-links-count" : 1,
-    "popularity-boosters" : [ ]
+    "popularity-boosters" : [ "https://www.okex.me/freebitcoin" ],
+    "popularity-boosters-count" : 1
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.026880923738700376,
+  "vote-percentage" : 0.026719802885815783,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -44,6 +45,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 7,
-  "snapshot-date" : "2020-06-03T01:12:44.440Z"
+  "place" : 8,
+  "snapshot-date" : "2020-06-07T01:12:32.577Z"
 }

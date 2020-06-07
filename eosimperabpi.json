@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosimperabpi",
-    "total_votes" : "1381729446273314.75000000000000000",
+    "total_votes" : "1384623616185664.25000000000000000",
     "producer_key" : "EOS63rCidUQkvk4e4YABXMRzHoPdUYKuSBG38ra8KFnK2vWgHkPf3",
     "is_active" : 1,
     "url" : "https://eosimpera.io",
@@ -15,14 +15,22 @@
     "logo" : "https://eosimpera.io/LogoI_256.jpg",
     "code_of_conduct" : "https://steemit.com/eos/@eosimperabpi/eos-impera-code-of-conduct"
   },
-  "webpage-error" : "Read timed out",
-  "vote-percentage" : 1.0494525568635262E-5,
+  "analyzed-urls" : {
+    "relative-links-count" : 2,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://github.com/eosimperabpi", "https://github.com/greymass/eos-voter", "https://steemit.com/@eosimperabpi", "https://t.me/Imperabp", "https://t.me/eosimpera", "https://t.me/joinchat/AAAAAFJIWcbQIPdDksJvhQ", "https://twitter.com/EOS_Italy", "https://www.youtube.com/channel/UCoSjOxM7ycy2fW7nicEutsg" ],
+    "social-links-count" : 8,
+    "popularity-boosters" : [ "https://discordapp.com/invite/a7TUdNE", "https://monitor.telosfoundation.io/", "https://telostracker.io/monitor", "https://www.eosx.io/account/eosimperabpi" ],
+    "popularity-boosters-count" : 4
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 7.928908095032152E-6,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "Read timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eosimpera.io"
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -34,9 +42,9 @@
       "title" : "coc",
       "url" : "https://steemit.com/eos/@eosimperabpi/eos-impera-code-of-conduct"
     } ],
-    "score" : 2,
+    "score" : 3,
     "max" : 3
   },
-  "place" : 112,
-  "snapshot-date" : "2020-06-06T01:10:40.406Z"
+  "place" : 145,
+  "snapshot-date" : "2020-06-07T01:12:32.577Z"
 }
