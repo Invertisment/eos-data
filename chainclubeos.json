@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "chainclubeos",
-    "total_votes" : "311243708443669.06250000000000000",
+    "total_votes" : "310570016755939.56250000000000000",
     "producer_key" : "EOS6bTR5gkBdGQhbM6uFYMYdc2kugU2FUA3XD5soHSCt1pXbGjHjn",
     "is_active" : 1,
     "url" : "http://eosio.university/",
@@ -15,7 +15,7 @@
     "url" : "http://eosio.university/bp.json"
   },
   "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 1.7823058415001958E-6,
+  "vote-percentage" : 2.442292670965287E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 204,
-  "snapshot-date" : "2020-06-07T01:12:32.577Z"
+  "place" : 152,
+  "snapshot-date" : "2020-06-08T01:10:00.708Z"
 }
