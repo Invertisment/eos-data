@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosgermanybp",
-    "total_votes" : "5447789998936668.00000000000000000",
+    "total_votes" : "5379583185229964.00000000000000000",
     "producer_key" : "EOS6KTbE5ktt6snuTGoQYFibvC3w86T7NVpYLhUFamNNPNJxgUSZ8",
     "is_active" : 1,
     "url" : "https://eosgermany.one",
@@ -11,23 +11,23 @@
     "prepared-url" : "https://eosgermany.one"
   },
   "bp-json-summary" : {
-    "dl-error" : "Connection refused (Connection refused)",
+    "dl-error" : "eosgermany.one",
     "url" : "https://eosgermany.one/bp.json"
   },
-  "webpage-error" : "Connection refused (Connection refused)",
-  "vote-percentage" : 4.2840895352163954E-5,
+  "webpage-error" : "eosgermany.one: Name or service not known",
+  "vote-percentage" : 4.044966177421195E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Connection refused (Connection refused)",
+      "error" : "eosgermany.one: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eosgermany.one/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Connection refused (Connection refused)"
+      "error" : "eosgermany.one"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 80,
-  "snapshot-date" : "2020-06-08T01:10:00.708Z"
+  "place" : 82,
+  "snapshot-date" : "2020-06-09T01:10:37.837Z"
 }

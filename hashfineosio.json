@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "hashfineosio",
-    "total_votes" : "4521414282865340416.00000000000000000",
+    "total_votes" : "4560311206240461824.00000000000000000",
     "producer_key" : "EOS7jSfvStvbKDmGvQdtrQsCyNkWczXfvh6CHmBVmeypJyHsUrMqj",
     "is_active" : 1,
     "url" : "https://www.hashfin.com",
-    "unpaid_blocks" : 4236,
-    "last_claim_time" : "2020-06-06T03:05:08.000",
+    "unpaid_blocks" : 3000,
+    "last_claim_time" : "2020-06-08T03:05:10.500",
     "location" : 0,
     "prepared-url" : "https://www.hashfin.com"
   },
@@ -23,7 +23,7 @@
     "popularity-boosters-count" : 20
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.02589142485317676,
+  "vote-percentage" : 0.034289468073294575,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -44,6 +44,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 21,
-  "snapshot-date" : "2020-06-07T01:12:32.577Z"
+  "place" : 12,
+  "snapshot-date" : "2020-06-09T01:10:37.837Z"
 }

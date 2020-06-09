@@ -11,23 +11,23 @@
     "prepared-url" : "https://eosweb.net"
   },
   "bp-json-summary" : {
-    "dl-error" : "Certificate for <eosweb.net> doesn't match any of the subject alternative names: [*.domain-parking.space, domain-parking.space]",
+    "dl-error" : "Certificate for <eosweb.net> doesn't match any of the subject alternative names: [www.app.climkit.io]",
     "url" : "https://eosweb.net/bp.json"
   },
-  "webpage-error" : "Certificate for <eosweb.net> doesn't match any of the subject alternative names: [*.domain-parking.space, domain-parking.space]",
-  "vote-percentage" : 1.2143843964421454E-6,
+  "webpage-error" : "Certificate for <eosweb.net> doesn't match any of the subject alternative names: [www.app.climkit.io]",
+  "vote-percentage" : 1.161139140310634E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Certificate for <eosweb.net> doesn't match any of the subject alternative names: [*.domain-parking.space, domain-parking.space]",
+      "error" : "Certificate for <eosweb.net> doesn't match any of the subject alternative names: [www.app.climkit.io]",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eosweb.net/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Certificate for <eosweb.net> doesn't match any of the subject alternative names: [*.domain-parking.space, domain-parking.space]"
+      "error" : "Certificate for <eosweb.net> doesn't match any of the subject alternative names: [www.app.climkit.io]"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 165,
-  "snapshot-date" : "2020-06-08T01:10:00.708Z"
+  "place" : 172,
+  "snapshot-date" : "2020-06-09T01:10:37.837Z"
 }
