@@ -11,23 +11,23 @@
     "prepared-url" : "https://eosweb.net"
   },
   "bp-json-summary" : {
-    "dl-error" : "Certificate for <eosweb.net> doesn't match any of the subject alternative names: [www.app.climkit.io]",
+    "dl-error" : "eosweb.net",
     "url" : "https://eosweb.net/bp.json"
   },
-  "webpage-error" : "Certificate for <eosweb.net> doesn't match any of the subject alternative names: [www.app.climkit.io]",
-  "vote-percentage" : 1.161139140310634E-6,
+  "webpage-error" : "eosweb.net: Name or service not known",
+  "vote-percentage" : 1.198345515180372E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Certificate for <eosweb.net> doesn't match any of the subject alternative names: [www.app.climkit.io]",
+      "error" : "eosweb.net: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eosweb.net/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Certificate for <eosweb.net> doesn't match any of the subject alternative names: [www.app.climkit.io]"
+      "error" : "eosweb.net"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 172,
-  "snapshot-date" : "2020-06-09T01:10:37.837Z"
+  "place" : 168,
+  "snapshot-date" : "2020-06-10T01:10:21.198Z"
 }
