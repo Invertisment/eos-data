@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "aus1genereos",
-    "total_votes" : "1934278852263122944.00000000000000000",
+    "total_votes" : "1935759480330579200.00000000000000000",
     "producer_key" : "EOS57ZyzVjoEG2bvzmYmmeiH8YnYtRudxNKxppx17q7Hg29F8tW4t",
     "is_active" : 1,
     "url" : "https://www.genereos.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-06-09T22:42:21.000",
+    "last_claim_time" : "2020-06-10T22:42:27.500",
     "location" : 36,
     "prepared-url" : "https://www.genereos.io"
   },
@@ -20,11 +20,11 @@
     "duplicate-urls" : null,
     "social-links" : [ "https://medium.com/@generEOS", "https://medium.com/genereos/airgrab-evolution-of-the-ico-68f1c29fc41a", "https://medium.com/genereos/genereos-runs-first-eosio-workshop-at-western-sydney-university-99aa3424d9c8", "https://t.me/generEOS", "https://twitter.com/genereosaus?lang=en" ],
     "social-links-count" : 5,
-    "popularity-boosters" : [ "https://eostoolkit.io/home", "https://genpool.io/" ],
-    "popularity-boosters-count" : 2
+    "popularity-boosters" : [ "http://genereos.io/", "https://eostoolkit.io/home", "https://genpool.io/" ],
+    "popularity-boosters-count" : 3
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.015010084628644156,
+  "vote-percentage" : 0.014505958228639653,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +45,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 21,
-  "snapshot-date" : "2020-06-10T01:10:21.198Z"
+  "place" : 22,
+  "snapshot-date" : "2020-06-11T01:10:45.570Z"
 }

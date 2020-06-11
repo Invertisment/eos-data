@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosflytomars",
-    "total_votes" : "4681007227217599488.00000000000000000",
+    "total_votes" : "4680689705817206784.00000000000000000",
     "producer_key" : "EOS6Agpfp38bTyRjJDmB4Qb1EpQSq7wnEAsALXgXE7KFSzKjokkFD",
     "is_active" : 1,
     "url" : "https://www.bitmars.one",
-    "unpaid_blocks" : 1141,
-    "last_claim_time" : "2020-06-09T21:45:21.000",
+    "unpaid_blocks" : 1140,
+    "last_claim_time" : "2020-06-10T21:45:21.500",
     "location" : 156,
     "prepared-url" : "https://www.bitmars.one"
   },
@@ -15,14 +15,20 @@
     "logo" : "https://api.bitmars.one/logo-256.png",
     "code_of_conduct" : "https://medium.com/@bitmars/code-of-conduct-48b06093ff4c"
   },
-  "webpage-error" : "Read timed out",
-  "vote-percentage" : 0.036324811464295115,
+  "analyzed-urls" : {
+    "relative-links-count" : 15,
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.035075581467493455,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "Read timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://www.bitmars.one"
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -38,9 +44,9 @@
       "title" : "t-coc-social",
       "paragraphs" : [ "p-coc-social" ]
     } ],
-    "score" : 2,
+    "score" : 3,
     "max" : 3
   },
-  "place" : 8,
-  "snapshot-date" : "2020-06-10T01:10:21.198Z"
+  "place" : 7,
+  "snapshot-date" : "2020-06-11T01:10:45.570Z"
 }

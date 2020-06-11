@@ -1,12 +1,12 @@
 {
   "bp-header" : {
-    "owner" : "cadeosiocode",
-    "total_votes" : "534144644.94015312194824219",
-    "producer_key" : "EOS6bGfucpLq6P9iVPuPNLoGXusekbHjWLWbFeHvxYFEp9gXyhyks",
+    "owner" : "cadeosio1plm",
+    "total_votes" : "0.00000000000000000",
+    "producer_key" : "EOS65upk2S4fDwT6FBtcQCZKqwgePiZ5QnVJwapip4dVggH2D9ZFF",
     "is_active" : 1,
     "url" : "https://cadeos.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-02-27T19:57:33.000",
+    "last_claim_time" : "2020-06-10T03:13:25.000",
     "location" : 0,
     "prepared-url" : "https://cadeos.io"
   },
@@ -20,7 +20,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 4.002707973942201E-12,
+  "vote-percentage" : 0.0,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -41,6 +41,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 404,
+  "place" : 426,
   "snapshot-date" : "2020-06-11T01:10:45.570Z"
 }
