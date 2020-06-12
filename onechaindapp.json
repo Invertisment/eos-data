@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "onechaindapp",
-    "total_votes" : "318750549481738.75000000000000000",
+    "total_votes" : "226046022127899.56250000000000000",
     "producer_key" : "EOS68hRfmjQTwJmmoPrKA4gYWvdvhUm31PNXCnaez2rY3ZDP83heR",
     "is_active" : 1,
     "url" : "http://eosdapp.oneeos.org/",
@@ -11,23 +11,23 @@
     "prepared-url" : "http://eosdapp.oneeos.org/"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "clj-http: status 403",
     "url" : "http://eosdapp.oneeos.org/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 1.825293012872325E-6,
+  "webpage-error" : "clj-http: status 403",
+  "vote-percentage" : 1.285385671289563E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "clj-http: status 403",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://eosdapp.oneeos.org/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "clj-http: status 403"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 203,
-  "snapshot-date" : "2020-06-07T01:12:32.577Z"
+  "place" : 213,
+  "snapshot-date" : "2020-06-12T01:12:36.024Z"
 }

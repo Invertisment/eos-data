@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "qxeosqxeosbp",
-    "total_votes" : "858984175225833.37500000000000000",
+    "total_votes" : "855413295199387.00000000000000000",
     "producer_key" : "EOS6BSNQfe3t1Q13L4kVfWipzjvYa9aHQLhLyg1UzxNZLiGKVwKMu",
     "is_active" : 1,
     "url" : "https://www.blockpin.net/eos",
@@ -11,23 +11,23 @@
     "prepared-url" : "https://www.blockpin.net/eos"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "www.blockpin.net",
     "url" : "https://www.blockpin.net/eos/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 4.918886620766235E-6,
+  "webpage-error" : "www.blockpin.net: Name or service not known",
+  "vote-percentage" : 4.864212970125838E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "www.blockpin.net: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://www.blockpin.net/eos/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "www.blockpin.net"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 163,
-  "snapshot-date" : "2020-06-07T01:12:32.577Z"
+  "snapshot-date" : "2020-06-12T01:12:36.024Z"
 }

@@ -11,18 +11,18 @@
     "prepared-url" : "http://producer.site"
   },
   "bp-json-summary" : {
-    "read-error" : "read:'http://producer.site/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 4]",
+    "read-error" : "read:'http://producer.site/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
     "url" : "http://producer.site/bp.json"
   },
   "analyzed-urls" : {
     "relative-links-count" : 1,
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ "https://www.efty.com/", "https://www.efty.com/market/buy_it_now_paypal/domain/1xdvl/", "https://www.elephantmilk.com", "https://www.elephantmilk.com/search/" ],
-    "popularity-boosters-count" : 4
+    "popularity-boosters" : [ "https://www.sedo.com/services/parking.php3" ],
+    "popularity-boosters-count" : 1
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.6768168763277174E-9,
+  "vote-percentage" : 1.6651009649911955E-9,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -34,7 +34,7 @@
       "mood" : "warn",
       "url" : "http://producer.site/bp.json",
       "paragraphs" : [ "bp-json-invalid" ],
-      "error" : "read:'http://producer.site/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 4]"
+      "error" : "read:'http://producer.site/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -44,5 +44,5 @@
     "max" : 3
   },
   "place" : 439,
-  "snapshot-date" : "2020-06-07T01:12:32.577Z"
+  "snapshot-date" : "2020-06-12T01:12:36.024Z"
 }

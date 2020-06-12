@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "vote4scatter",
-    "total_votes" : "43721725174510040.00000000000000000",
+    "total_votes" : "43697125170317760.00000000000000000",
     "producer_key" : "EOS5VbrZEptQt43h2Gwe11eFqMwEWZ3cfAscLLeostkotntCRfgzm",
     "is_active" : 1,
     "url" : "https://get-scatter.com",
@@ -16,14 +16,14 @@
     "code_of_conduct" : "https://get-scatter.com/coc"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 16,
+    "relative-links-count" : 15,
     "duplicate-urls" : null,
     "social-links" : [ "https://github.com/GetScatter", "https://t.me/Scatter" ],
     "social-links-count" : 2,
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.5036806870298194E-4,
+  "vote-percentage" : 2.484788630285766E-4,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -44,6 +44,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 82,
-  "snapshot-date" : "2020-06-07T01:12:32.577Z"
+  "place" : 80,
+  "snapshot-date" : "2020-06-12T01:12:36.024Z"
 }
