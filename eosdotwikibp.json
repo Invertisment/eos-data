@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosdotwikibp",
-    "total_votes" : "4644208805427950592.00000000000000000",
+    "total_votes" : "4727156211867339776.00000000000000000",
     "producer_key" : "EOS7RsdDs8k8GDAdZrETnTjoGwiqAwwdNyxeH8q6fmHgpHjPPnyco",
     "is_active" : 1,
     "url" : "https://eos.wiki",
     "unpaid_blocks" : 3564,
-    "last_claim_time" : "2020-06-11T14:42:07.000",
+    "last_claim_time" : "2020-06-12T14:42:09.500",
     "location" : 276,
     "prepared-url" : "https://eos.wiki"
   },
@@ -21,7 +21,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.02640877904764117,
+  "vote-percentage" : 0.026466541343752134,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -41,6 +41,6 @@
     "score" : 2,
     "max" : 3
   },
-  "place" : 15,
-  "snapshot-date" : "2020-06-12T01:12:36.024Z"
+  "place" : 11,
+  "snapshot-date" : "2020-06-13T01:12:28.901Z"
 }

@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eospaceioeos",
-    "total_votes" : "941966683090999168.00000000000000000",
+    "total_votes" : "943055519973505664.00000000000000000",
     "producer_key" : "EOS7dZPHgFJXwHz84JWf5QgybxLpp95cxYE5c4yngsrSqgVFczaPs",
     "is_active" : 1,
     "url" : "https://eospacex.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-06-11T02:40:10.000",
+    "last_claim_time" : "2020-06-12T02:40:15.000",
     "location" : 156,
     "prepared-url" : "https://eospacex.com"
   },
@@ -20,11 +20,11 @@
     "duplicate-urls" : null,
     "social-links" : [ "https://github.com/eospace", "https://github.com/espritblock/eos-mars", "https://t.me/eospace", "https://twitter.com/EospaceI" ],
     "social-links-count" : 4,
-    "popularity-boosters" : [ "http://eblock.io/", "https://eosblock.co", "https://eosblock.co/", "https://mp.weixin.qq.com/s/atZqseld5uIHI-vz8XTuqQ", "https://www.51kuangke.com", "https://www.mytokenpocket.vip", "https://www.xpet.io/" ],
+    "popularity-boosters" : [ "http://chattle.vip/", "https://eosblock.co", "https://eosblock.co/", "https://mp.weixin.qq.com/s/atZqseld5uIHI-vz8XTuqQ", "https://www.51kuangke.com", "https://www.mytokenpocket.vip", "https://www.xpet.io/" ],
     "popularity-boosters-count" : 7
   },
   "p-ram-amounts" : [ "RAM" ],
-  "vote-percentage" : 0.005356389224988207,
+  "vote-percentage" : 0.005280007004247674,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -46,5 +46,5 @@
     "max" : 3
   },
   "place" : 61,
-  "snapshot-date" : "2020-06-12T01:12:36.024Z"
+  "snapshot-date" : "2020-06-13T01:12:28.901Z"
 }

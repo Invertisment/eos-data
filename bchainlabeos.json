@@ -11,20 +11,19 @@
     "prepared-url" : "https://blockchainlab.me"
   },
   "bp-json-summary" : {
-    "url" : "https://blockchainlab.me/bp.json",
-    "logo" : "",
-    "code_of_conduct" : "https://steemit.com/eos/@blockchainlabme/presenting-blockchainlab-as-an-eos-block-producer-candidate"
+    "read-error" : "read:'https://blockchainlab.me/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "url" : "https://blockchainlab.me/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 8,
+    "relative-links-count" : 9,
     "duplicate-urls" : null,
-    "social-links" : [ "https://www.facebook.com/CoinTelegram.News/" ],
-    "social-links-count" : 1,
-    "popularity-boosters" : [ "https://blockchainart.io/", "https://btcu.ua", "https://cryptowhisky.io", "https://litego.io" ],
-    "popularity-boosters-count" : 4
+    "social-links" : [ "https://www.facebook.com/1plus1.NataliaMoseichuk/?ref=py_c", "https://www.facebook.com/BlockchainArt/", "https://www.facebook.com/EGO1vaporizer/?ref=py_c", "https://www.facebook.com/FutureMagazine-631776816945037/?ref=py_c", "https://www.facebook.com/Kuftyryev/?ref=py_c", "https://www.facebook.com/SmartCellBioLab/?ref=py_c", "https://www.facebook.com/SyreckyPark/?ref=py_c", "https://www.facebook.com/ad_campaign/landing.php?placement=pf_rhc&campaign_id=242449722530626&extra_1=auto", "https://www.facebook.com/bebkofinanc/?ref=py_c", "https://www.facebook.com/doctoraUA/?ref=py_c", "https://www.facebook.com/dogpendant/?ref=py_c", "https://www.facebook.com/glush4enko/?ref=py_c", "https://www.facebook.com/hassansgibraltar/", "https://www.facebook.com/help/568137493302217", "https://www.facebook.com/help/cookies?ref_type=sitefooter", "https://www.facebook.com/hotmine.io/", "https://www.facebook.com/karpaty3d/?ref=py_c", "https://www.facebook.com/modex.one/", "https://www.facebook.com/momincube.project/?ref=py_c", "https://www.facebook.com/mycarapplication/?ref=py_c", "https://www.facebook.com/mysouldetox/?ref=py_c", "https://www.facebook.com/places/", "https://www.facebook.com/places/Business-Consultant-in-Kyiv-Ukraine/111227078906045/179672275401610/", "https://www.facebook.com/places/Business-Service-in-Kyiv-Ukraine/111227078906045/187133811318958/", "https://www.facebook.com/places/Things-to-do-in-Kyiv-Ukraine/111227078906045/", "https://www.facebook.com/policies?ref=pf", "https://www.facebook.com/powerfultraders/?ref=py_c", "https://www.facebook.com/privacy/explanation", "https://www.facebook.com/recover/initiate?lwv=110&ars=royal_blue_bar", "https://www.facebook.com/santehnika.kiev/?ref=py_c", "https://www.facebook.com/sdnukrainechapter/?ref=py_c", "https://www.facebook.com/seoschool.com.ua/?ref=py_c", "https://www.facebook.com/smartbacademy/?ref=py_c", "https://www.facebook.com/suhofruktopt/?ref=py_c", "https://www.facebook.com/unit.city/" ],
+    "social-links-count" : 35,
+    "popularity-boosters" : [ "https://www.facebook.com/" ],
+    "popularity-boosters-count" : 1
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 4.537592734110082E-7,
+  "vote-percentage" : 4.4677222446162665E-7,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -32,19 +31,19 @@
       "title" : "web",
       "url" : "https://blockchainlab.me"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://blockchainlab.me/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://blockchainlab.me/bp.json",
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'https://blockchainlab.me/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://steemit.com/eos/@blockchainlabme/presenting-blockchainlab-as-an-eos-block-producer-candidate"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 1,
     "max" : 3
   },
   "place" : 247,
-  "snapshot-date" : "2020-06-12T01:12:36.024Z"
+  "snapshot-date" : "2020-06-13T01:12:28.901Z"
 }

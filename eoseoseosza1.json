@@ -15,14 +15,22 @@
     "logo" : "https://eosza.io/logo_256.jpg",
     "code_of_conduct" : "https://steemit.com/eos/@eossouthafrica/eos-south-africa-code-of-conduct"
   },
-  "webpage-error" : "Read timed out",
-  "vote-percentage" : 1.130603539885896E-10,
+  "analyzed-urls" : {
+    "relative-links-count" : 3,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://github.com/EOSZAio", "https://steemit.com/eos/@eossouthafrica/eos-south-africa-code-of-conduct", "https://steemit.com/eos/@eossouthafrica/eos-south-africa-ownership-disclosure", "https://t.me/eoszaio", "https://twitter.com/EOSZAio", "https://www.meetup.com/EOSza-Meetup-Centurion", "https://www.youtube.com/watch?v=3kqkTYqTvDA", "https://www.youtube.com/watch?v=8dbdS87RI3E", "https://www.youtube.com/watch?v=s9xaZCScNL0" ],
+    "social-links-count" : 9,
+    "popularity-boosters" : [ "http://fb.me/eosza", "http://themegrill.com/themes/flash", "https://wordpress.org/" ],
+    "popularity-boosters-count" : 3
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 1.1131943479675823E-10,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "Read timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eosza.io"
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -34,9 +42,9 @@
       "title" : "coc",
       "url" : "https://steemit.com/eos/@eossouthafrica/eos-south-africa-code-of-conduct"
     } ],
-    "score" : 2,
+    "score" : 3,
     "max" : 3
   },
   "place" : 513,
-  "snapshot-date" : "2020-06-12T01:12:36.024Z"
+  "snapshot-date" : "2020-06-13T01:12:28.901Z"
 }
