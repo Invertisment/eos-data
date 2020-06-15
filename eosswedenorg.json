@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosswedenorg",
-    "total_votes" : "1778489126660654592.00000000000000000",
+    "total_votes" : "1778098192045279232.00000000000000000",
     "producer_key" : "EOS7SGSBsWhSob6TEric6u3TGodcc1uXFcqSrquJ3Etuqcbb3VnNY",
     "is_active" : 1,
     "url" : "https://eossweden.org",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-06-13T22:36:29.000",
+    "last_claim_time" : "2020-06-14T22:36:37.000",
     "location" : 752,
     "prepared-url" : "https://eossweden.org"
   },
@@ -23,7 +23,7 @@
     "popularity-boosters-count" : 1
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.013038263383894575,
+  "vote-percentage" : 0.009903697288995301,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -44,6 +44,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 23,
-  "snapshot-date" : "2020-06-14T01:10:37.695Z"
+  "place" : 32,
+  "snapshot-date" : "2020-06-15T01:12:33.273Z"
 }

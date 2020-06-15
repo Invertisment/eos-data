@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "onechaindapp",
-    "total_votes" : "226046022127899.56250000000000000",
+    "total_votes" : "226073104905742.37500000000000000",
     "producer_key" : "EOS68hRfmjQTwJmmoPrKA4gYWvdvhUm31PNXCnaez2rY3ZDP83heR",
     "is_active" : 1,
     "url" : "http://eosdapp.oneeos.org/",
@@ -15,7 +15,7 @@
     "url" : "http://eosdapp.oneeos.org/bp.json"
   },
   "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 1.2655931223976776E-6,
+  "vote-percentage" : 1.2591878256140402E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 213,
-  "snapshot-date" : "2020-06-13T01:12:28.901Z"
+  "snapshot-date" : "2020-06-15T01:12:33.273Z"
 }
