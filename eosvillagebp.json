@@ -11,23 +11,23 @@
     "prepared-url" : "https://eosvillage.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "eosvillage.io",
     "url" : "https://eosvillage.io/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 1.7572808913188547E-6,
+  "webpage-error" : "eosvillage.io: Name or service not known",
+  "vote-percentage" : 1.7569468432417335E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "eosvillage.io: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eosvillage.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "eosvillage.io"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 202,
-  "snapshot-date" : "2020-06-15T01:12:33.273Z"
+  "snapshot-date" : "2020-06-16T01:12:32.985Z"
 }

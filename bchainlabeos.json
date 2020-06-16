@@ -14,22 +14,14 @@
     "read-error" : "read:'https://blockchainlab.me/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
     "url" : "https://blockchainlab.me/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 9,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://www.facebook.com/BlockchainArt/", "https://www.facebook.com/EGO1vaporizer/?ref=py_c", "https://www.facebook.com/FutureMagazine-631776816945037/?ref=py_c", "https://www.facebook.com/Kuftyryev/?ref=py_c", "https://www.facebook.com/SMM.Marketing/?ref=py_c", "https://www.facebook.com/SmartCellBioLab/?ref=py_c", "https://www.facebook.com/SyreckyPark/?ref=py_c", "https://www.facebook.com/ad_campaign/landing.php?placement=pf_rhc&campaign_id=242449722530626&extra_1=auto", "https://www.facebook.com/bebkofinanc/?ref=py_c", "https://www.facebook.com/doctoraUA/?ref=py_c", "https://www.facebook.com/dogpendant/?ref=py_c", "https://www.facebook.com/glush4enko/?ref=py_c", "https://www.facebook.com/hassansgibraltar/", "https://www.facebook.com/help/568137493302217", "https://www.facebook.com/help/cookies?ref_type=sitefooter", "https://www.facebook.com/hotmine.io/", "https://www.facebook.com/karpaty3d/?ref=py_c", "https://www.facebook.com/modex.one/", "https://www.facebook.com/momincube.project/?ref=py_c", "https://www.facebook.com/mycarapplication/?ref=py_c", "https://www.facebook.com/mysouldetox/?ref=py_c", "https://www.facebook.com/places/", "https://www.facebook.com/places/Business-Consultant-in-Kyiv-Ukraine/111227078906045/179672275401610/", "https://www.facebook.com/places/Business-Service-in-Kyiv-Ukraine/111227078906045/187133811318958/", "https://www.facebook.com/places/Things-to-do-in-Kyiv-Ukraine/111227078906045/", "https://www.facebook.com/policies?ref=pf", "https://www.facebook.com/powerfultraders/?ref=py_c", "https://www.facebook.com/privacy/explanation", "https://www.facebook.com/recover/initiate?lwv=110&ars=royal_blue_bar", "https://www.facebook.com/sdnukrainechapter/?ref=py_c", "https://www.facebook.com/seoschool.com.ua/?ref=py_c", "https://www.facebook.com/smartbacademy/?ref=py_c", "https://www.facebook.com/suhofruktopt/?ref=py_c", "https://www.facebook.com/unit.city/", "https://www.facebook.com/ybc100/?ref=py_c" ],
-    "social-links-count" : 35,
-    "popularity-boosters" : [ "https://www.facebook.com/" ],
-    "popularity-boosters-count" : 1
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 4.444578134532994E-7,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 4.4437332481026064E-7,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://blockchainlab.me"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
@@ -41,9 +33,9 @@
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
   "place" : 247,
-  "snapshot-date" : "2020-06-15T01:12:33.273Z"
+  "snapshot-date" : "2020-06-16T01:12:32.985Z"
 }
