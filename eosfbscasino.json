@@ -11,11 +11,11 @@
     "prepared-url" : "http://eosfbs.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "Read timed out",
+    "dl-error" : "clj-http: status 403",
     "url" : "http://eosfbs.com/bp.json"
   },
   "webpage-error" : "Read timed out",
-  "vote-percentage" : 7.724145153516745E-8,
+  "vote-percentage" : 7.691920141023333E-8,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -27,7 +27,7 @@
       "mood" : "warn",
       "url" : "http://eosfbs.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Read timed out"
+      "error" : "clj-http: status 403"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 331,
-  "snapshot-date" : "2020-06-16T01:12:32.985Z"
+  "snapshot-date" : "2020-06-17T01:12:20.317Z"
 }
