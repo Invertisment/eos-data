@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosnovakorbp",
-    "total_votes" : "1295799968319740.00000000000000000",
+    "total_votes" : "1295800066002361.50000000000000000",
     "producer_key" : "EOS6TiwRHcJ3zrKsVXzYD8tgmVnGfaqRXQsniEhjieCEqUDjyqPXX",
     "is_active" : 1,
     "url" : "https://novawallet.io/",
@@ -11,36 +11,31 @@
     "prepared-url" : "https://novawallet.io/"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 403",
+    "dl-error" : "Connection refused (Connection refused)",
     "url" : "https://novawallet.io/bp.json"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 7.185903119217536E-6,
+  "webpage-error" : "Connection refused (Connection refused)",
+  "vote-percentage" : 7.17385003901275E-6,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://novawallet.io/"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Connection refused (Connection refused)",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://novawallet.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 403"
+      "error" : "Connection refused (Connection refused)"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
   "place" : 146,
-  "snapshot-date" : "2020-06-17T01:12:20.317Z"
+  "snapshot-date" : "2020-06-18T01:12:22.494Z"
 }
