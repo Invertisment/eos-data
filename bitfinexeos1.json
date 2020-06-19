@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "bitfinexeos1",
-    "total_votes" : "4814680590597544960.00000000000000000",
+    "total_votes" : "4815824991195039744.00000000000000000",
     "producer_key" : "EOS4tkw7LgtURT3dvG3kQ4D1sg3aAtPDymmoatpuFkQMc7wzZdKxc",
     "is_active" : 1,
     "url" : "https://www.bitfinex.com",
-    "unpaid_blocks" : 5688,
-    "last_claim_time" : "2020-06-17T08:30:01.000",
+    "unpaid_blocks" : 4211,
+    "last_claim_time" : "2020-06-18T12:40:57.000",
     "location" : 0,
     "prepared-url" : "https://www.bitfinex.com"
   },
@@ -16,15 +16,14 @@
     "code_of_conduct" : "https://steemit.com/eos/@bfx/bitfinex-block-producer-disclosure"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 44,
+    "relative-links-count" : 18,
     "duplicate-urls" : null,
-    "social-links" : [ "https://t.me/bitfinex", "https://twitter.com/bitfinex", "https://www.facebook.com/bitfinex", "https://www.facebook.com/bitfinex1", "https://www.linkedin.com/company/bitfinex/", "https://www.youtube.com/channel/UCxOndh75c7-4Zlw42BGXQkQ" ],
-    "social-links-count" : 6,
-    "popularity-boosters" : [ "colocation", "demo", "http://blog.bitfinex.com", "http://blog.bitfinex.com/", "http://blog.bitfinex.com/category/changelogs/", "http://blog.bitfinex.com/newsletter/", "http://docs.bitfinex.com/", "https://bitfinex.com/pulse", "https://bitfinex.statuspage.io/", "https://ln.bitfinex.com/", "https://support.bitfinex.com/", "https://support.bitfinex.com/hc/en-us/articles/360021286193", "https://support.bitfinex.com/hc/en-us/sections/115001039645-Currencies-Tokens", "https://tokensales.bitfinex.com", "pro" ],
-    "popularity-boosters-count" : 15
+    "social-links" : [ ],
+    "popularity-boosters" : [ "http://blog.bitfinex.com", "http://blog.bitfinex.com/newsletter/", "http://docs.bitfinex.com/", "https://bitfinex.statuspage.io/", "https://cs.bitfinex.com", "https://docs.bitfinex.com", "https://itunes.apple.com/us/app/bitfinex/id1436383182?ls=1&mt=8", "https://leaderboard.bitfinex.com", "https://leo.bitfinex.com", "https://play.google.com/store/apps/details?id=com.bitfinex.mobileapp&hl=en", "https://reporting.bitfinex.com/", "https://support.bitfinex.com/hc/en-us", "https://tokensales.bitfinex.com" ],
+    "popularity-boosters-count" : 13
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.026655189676946026,
+  "vote-percentage" : 0.026578547085463262,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +44,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 8,
-  "snapshot-date" : "2020-06-18T01:12:22.494Z"
+  "place" : 9,
+  "snapshot-date" : "2020-06-19T01:12:19.703Z"
 }

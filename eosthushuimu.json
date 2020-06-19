@@ -11,36 +11,31 @@
     "prepared-url" : "http://www.eosthu.com"
   },
   "bp-json-summary" : {
-    "read-error" : "read:'http://www.eosthu.com/bp.json': Unexpected character ('﻿' (code 65279 / 0xfeff)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "dl-error" : "connect timed out",
     "url" : "http://www.eosthu.com/bp.json"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.689247732852043E-4,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 1.6839903128833803E-4,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "http://www.eosthu.com"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "connect timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://www.eosthu.com/bp.json",
-      "paragraphs" : [ "bp-json-invalid" ],
-      "error" : "read:'http://www.eosthu.com/bp.json': Unexpected character ('﻿' (code 65279 / 0xfeff)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
   "place" : 89,
-  "snapshot-date" : "2020-06-18T01:12:22.494Z"
+  "snapshot-date" : "2020-06-19T01:12:19.703Z"
 }
