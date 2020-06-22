@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosminergate",
-    "total_votes" : "2399327155672373.00000000000000000",
+    "total_votes" : "2399334990470543.50000000000000000",
     "producer_key" : "EOS5dLSkjLYTxfJqZG4v7oGHx9qaXC2QbnjH9ZepP2ywdzC66CNjy",
     "is_active" : 1,
     "url" : "https://minergate.com",
@@ -11,8 +11,9 @@
     "prepared-url" : "https://minergate.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "Read timed out",
-    "url" : "https://minergate.com/bp.json"
+    "url" : "https://minergate.com/bp.json",
+    "logo" : "https://minergate.com/static/img/eos/logo-white_256.png",
+    "code_of_conduct" : "https://minergate.com/eos-block-producer/code-of-conduct"
   },
   "analyzed-urls" : {
     "relative-links-count" : 40,
@@ -23,7 +24,7 @@
     "popularity-boosters-count" : 6
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.319809505418695E-5,
+  "vote-percentage" : 1.3176737997461257E-5,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -31,19 +32,19 @@
       "title" : "web",
       "url" : "https://minergate.com"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://minergate.com/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Read timed out"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://minergate.com/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://minergate.com/eos-block-producer/code-of-conduct"
     } ],
-    "score" : 1,
+    "score" : 3,
     "max" : 3
   },
   "place" : 127,
-  "snapshot-date" : "2020-06-21T01:12:20.597Z"
+  "snapshot-date" : "2020-06-22T01:12:19.507Z"
 }

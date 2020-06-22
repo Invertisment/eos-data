@@ -1,46 +1,41 @@
 {
   "bp-header" : {
     "owner" : "moreisfuture",
-    "total_votes" : "1141873561326318208.00000000000000000",
+    "total_votes" : "1142073552054629120.00000000000000000",
     "producer_key" : "EOS671RDSn2embqDJhFHKWZqqCfVgNAmi2p3vQZfQBX77GypcGoF2",
     "is_active" : 1,
     "url" : "https://more.top",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-06-20T17:15:08.500",
+    "last_claim_time" : "2020-06-21T17:15:37.000",
     "location" : 156,
     "prepared-url" : "https://more.top"
   },
   "bp-json-summary" : {
-    "url" : "https://more.top/bp.json",
-    "logo" : "https://walletstatic.more.top/bp/icons/256.png"
+    "dl-error" : "NotAfter: Sun Jun 21 06:37:55 UTC 2020",
+    "url" : "https://more.top/bp.json"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "http://www.cocosbcx.io", "http://www.edapp.io/", "http://www.hoo.com", "https://horuspay.io", "https://minerhub.com/", "https://mixin.one/", "https://www.biask.com", "https://www.slowmist.com/", "https://www.starteos.io" ],
-    "popularity-boosters-count" : 9
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.00628115918524018,
+  "webpage-error" : "NotAfter: Sun Jun 21 06:37:55 UTC 2020",
+  "vote-percentage" : 0.006272072898958763,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://more.top"
-    }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://more.top/bp.json"
-    }, {
-      "title" : "no-coc",
       "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "title" : "no-web",
+      "error" : "NotAfter: Sun Jun 21 06:37:55 UTC 2020",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://more.top/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "NotAfter: Sun Jun 21 06:37:55 UTC 2020"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 49,
-  "snapshot-date" : "2020-06-21T01:12:20.597Z"
+  "place" : 50,
+  "snapshot-date" : "2020-06-22T01:12:19.507Z"
 }
