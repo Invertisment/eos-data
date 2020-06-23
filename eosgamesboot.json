@@ -14,13 +14,13 @@
     "dl-error" : "Read timed out",
     "url" : "http://eos.games/bp.json"
   },
-  "webpage-error" : "Read timed out",
-  "vote-percentage" : 6.002626268028995E-7,
+  "webpage-error" : "clj-http: status 403",
+  "vote-percentage" : 8.245160331521734E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Read timed out",
+      "error" : "clj-http: status 403",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 236,
-  "snapshot-date" : "2020-06-22T01:12:19.507Z"
+  "place" : 173,
+  "snapshot-date" : "2020-06-23T01:09:36.073Z"
 }
