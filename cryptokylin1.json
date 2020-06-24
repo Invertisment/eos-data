@@ -11,7 +11,7 @@
     "prepared-url" : "https://cryptokylin.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "dl-error" : "Read timed out",
     "url" : "https://cryptokylin.io/bp.json"
   },
   "analyzed-urls" : {
@@ -23,7 +23,7 @@
     "popularity-boosters-count" : 5
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 3.1362194462925696E-6,
+  "vote-percentage" : 3.0029796123302205E-6,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -35,7 +35,7 @@
       "mood" : "warn",
       "url" : "https://cryptokylin.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "error" : "Read timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -44,6 +44,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 145,
-  "snapshot-date" : "2020-06-23T01:09:36.073Z"
+  "place" : 151,
+  "snapshot-date" : "2020-06-24T01:10:12.192Z"
 }
