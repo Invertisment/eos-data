@@ -11,39 +11,31 @@
     "prepared-url" : "https://cryptokylin.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "dl-error" : "NotAfter: Fri Jun 26 00:04:24 UTC 2020",
     "url" : "https://cryptokylin.io/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 14,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/cryptokylin", "https://github.com/cryptokylin/CryptoKylin-Testnet", "https://github.com/cryptokylin/CryptoKylin-Testnet/issues", "https://github.com/cryptokylin/Cryptokylin-Doc", "https://github.com/cryptokylin/KEEP", "https://t.me/cryptokylin", "https://t.me/joinchat/BwCM5kbuUJlkeWvtuBbScw" ],
-    "social-links-count" : 7,
-    "popularity-boosters" : [ "https://kylin.bloks.io%C2%A0", "https://kylin.eosx.io", "https://osshkbk01.oss-cn-hongkong.aliyuncs.com/cryptokylin/docker-20180712.tar.bz2", "https://s3-ap-northeast-1.amazonaws.com/cryptokylin/index.html", "https://trello.com/b/u4cpl00f/cryptokylin" ],
-    "popularity-boosters-count" : 5
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.2810460305063425E-6,
+  "webpage-error" : "NotAfter: Fri Jun 26 00:04:24 UTC 2020",
+  "vote-percentage" : 3.002058987010452E-6,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://cryptokylin.io"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "NotAfter: Fri Jun 26 00:04:24 UTC 2020",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://cryptokylin.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "error" : "NotAfter: Fri Jun 26 00:04:24 UTC 2020"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 193,
-  "snapshot-date" : "2020-06-25T01:12:24.386Z"
+  "place" : 151,
+  "snapshot-date" : "2020-06-26T01:10:38.718Z"
 }

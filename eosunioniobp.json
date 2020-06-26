@@ -11,23 +11,23 @@
     "prepared-url" : "https://eosunion.club"
   },
   "bp-json-summary" : {
-    "dl-error" : "Certificate for <eosunion.club> doesn't match any of the subject alternative names: [eoshenzhen.io, www.eoshenzhen.io]",
+    "dl-error" : "connect timed out",
     "url" : "https://eosunion.club/bp.json"
   },
-  "webpage-error" : "Certificate for <eosunion.club> doesn't match any of the subject alternative names: [eoshenzhen.io, www.eoshenzhen.io]",
-  "vote-percentage" : 5.078867658677712E-8,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 6.684240517139253E-8,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Certificate for <eosunion.club> doesn't match any of the subject alternative names: [eoshenzhen.io, www.eoshenzhen.io]",
+      "error" : "connect timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eosunion.club/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Certificate for <eosunion.club> doesn't match any of the subject alternative names: [eoshenzhen.io, www.eoshenzhen.io]"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 356,
-  "snapshot-date" : "2020-06-25T01:12:24.386Z"
+  "place" : 275,
+  "snapshot-date" : "2020-06-26T01:10:38.718Z"
 }
