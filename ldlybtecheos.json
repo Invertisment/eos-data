@@ -11,37 +11,31 @@
     "prepared-url" : "http://bp.0618tech.co/"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "dl-error" : "connect timed out",
     "url" : "http://bp.0618tech.co/bp.json"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "http://nginx.com/", "http://nginx.org/" ],
-    "popularity-boosters-count" : 2
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 6.7510419015237446E-15,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 6.7454591528555786E-15,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "http://bp.0618tech.co/"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "connect timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://bp.0618tech.co/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
   "place" : 576,
-  "snapshot-date" : "2020-06-25T01:12:24.386Z"
+  "snapshot-date" : "2020-06-27T01:12:30.195Z"
 }
