@@ -11,23 +11,23 @@
     "prepared-url" : "https://www.eosoceania.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "Certificate for <www.eosoceania.io> doesn't match any of the subject alternative names: [1minphotog.com, www.1minphotog.com]",
+    "dl-error" : "connect timed out",
     "url" : "https://www.eosoceania.io/bp.json"
   },
-  "webpage-error" : "Certificate for <www.eosoceania.io> doesn't match any of the subject alternative names: [1minphotog.com, www.1minphotog.com]",
-  "vote-percentage" : 1.2975590766481651E-7,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 1.6985358129659538E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Certificate for <www.eosoceania.io> doesn't match any of the subject alternative names: [1minphotog.com, www.1minphotog.com]",
+      "error" : "connect timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://www.eosoceania.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Certificate for <www.eosoceania.io> doesn't match any of the subject alternative names: [1minphotog.com, www.1minphotog.com]"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 294,
-  "snapshot-date" : "2020-06-27T01:12:30.195Z"
+  "place" : 226,
+  "snapshot-date" : "2020-06-28T01:10:34.471Z"
 }

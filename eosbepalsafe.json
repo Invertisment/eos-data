@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosbepalsafe",
-    "total_votes" : "145422801914522.71875000000000000",
+    "total_votes" : "141406171657416.40625000000000000",
     "producer_key" : "EOS86hvMribS2cvz2NEHrT7LRzpxuW1v6oGJU47ec8C4HXsFKmRn3",
     "is_active" : 1,
     "url" : "https://eos.bepal.io",
@@ -11,34 +11,31 @@
     "prepared-url" : "https://eos.bepal.io"
   },
   "bp-json-summary" : {
+    "dl-error" : "connect timed out",
     "url" : "https://eos.bepal.io/bp.json"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 7.97215347799684E-7,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 1.014750036932189E-6,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eos.bepal.io"
-    }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://eos.bepal.io/bp.json"
-    }, {
-      "title" : "no-coc",
       "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "title" : "no-web",
+      "error" : "connect timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eos.bepal.io/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "connect timed out"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 223,
-  "snapshot-date" : "2020-06-27T01:12:30.195Z"
+  "place" : 172,
+  "snapshot-date" : "2020-06-28T01:10:34.471Z"
 }
