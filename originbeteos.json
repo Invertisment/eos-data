@@ -11,38 +11,31 @@
     "prepared-url" : "http://producer.site"
   },
   "bp-json-summary" : {
-    "read-error" : "read:'http://producer.site/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "dl-error" : "producer.site",
     "url" : "http://producer.site/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 1,
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "https://www.sedo.com/services/parking.php3" ],
-    "popularity-boosters-count" : 1
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.6052664534542515E-9,
+  "webpage-error" : "producer.site: No address associated with hostname",
+  "vote-percentage" : 1.5917159266719772E-9,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "http://producer.site"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "producer.site: No address associated with hostname",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://producer.site/bp.json",
-      "paragraphs" : [ "bp-json-invalid" ],
-      "error" : "read:'http://producer.site/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "producer.site"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
   "place" : 438,
-  "snapshot-date" : "2020-06-27T01:12:30.195Z"
+  "snapshot-date" : "2020-06-29T01:12:28.064Z"
 }

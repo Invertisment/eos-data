@@ -1,47 +1,41 @@
 {
   "bp-header" : {
     "owner" : "ecoboost1111",
-    "total_votes" : "906282414094144768.00000000000000000",
+    "total_votes" : "907113725207043712.00000000000000000",
     "producer_key" : "EOS5g9D7uJuEwNzby2uAu1qVxLishXJm1T2odBPxdU3UzP7xYwVA5",
     "is_active" : 1,
     "url" : "https://ecoboost.app/",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-06-27T19:26:44.000",
+    "last_claim_time" : "2020-06-28T19:26:55.500",
     "location" : 0,
     "prepared-url" : "https://ecoboost.app/"
   },
   "bp-json-summary" : {
-    "url" : "https://ecoboost.app/bp.json",
-    "logo" : ""
+    "dl-error" : "ecoboost.app",
+    "url" : "https://ecoboost.app/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 1,
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "https://www.eosx.io/tools/vote?voteTo=ecoboost1111" ],
-    "popularity-boosters-count" : 1
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.006503606613444396,
+  "webpage-error" : "ecoboost.app: Temporary failure in name resolution",
+  "vote-percentage" : 0.004930867277614987,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://ecoboost.app/"
-    }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://ecoboost.app/bp.json"
-    }, {
-      "title" : "no-coc",
       "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "title" : "no-web",
+      "error" : "ecoboost.app: Temporary failure in name resolution",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://ecoboost.app/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "ecoboost.app"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 51,
-  "snapshot-date" : "2020-06-28T01:10:34.471Z"
+  "place" : 65,
+  "snapshot-date" : "2020-06-29T01:12:28.064Z"
 }
