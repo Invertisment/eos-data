@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eossnzpoolbp",
-    "total_votes" : "1139833834274256896.00000000000000000",
+    "total_votes" : "1143822151873345152.00000000000000000",
     "producer_key" : "EOS6gQeftj3V2yuGdxAJcNfNAw2PpsjftYK4PrmW6uob6xgYcQHKw",
     "is_active" : 1,
     "url" : "http://snzholding.com/",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-06-29T02:33:08.000",
+    "last_claim_time" : "2020-06-30T02:34:12.500",
     "location" : 1,
     "prepared-url" : "http://snzholding.com/"
   },
@@ -22,7 +22,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.00816760385800007,
+  "vote-percentage" : 0.0062081446518907355,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -43,6 +43,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 38,
-  "snapshot-date" : "2020-06-30T01:10:39.404Z"
+  "place" : 50,
+  "snapshot-date" : "2020-07-01T01:12:31.429Z"
 }

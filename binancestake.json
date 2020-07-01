@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "binancestake",
-    "total_votes" : "3667647720027018752.00000000000000000",
+    "total_votes" : "3670146903790969856.00000000000000000",
     "producer_key" : "EOS7unwwVJfmKonrT6Gj46LDiNUPpFhpPALpTe2eofmFeoG74bKKn",
     "is_active" : 1,
     "url" : "https://www.binance.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-06-29T12:51:07.500",
+    "last_claim_time" : "2020-06-30T12:52:06.500",
     "location" : 392,
     "prepared-url" : "https://www.binance.com"
   },
@@ -23,7 +23,7 @@
     "popularity-boosters-count" : 16
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.02628093040153615,
+  "vote-percentage" : 0.019919882505428345,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -44,6 +44,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 17,
-  "snapshot-date" : "2020-06-30T01:10:39.404Z"
+  "place" : 23,
+  "snapshot-date" : "2020-07-01T01:12:31.429Z"
 }
