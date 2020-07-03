@@ -11,31 +11,36 @@
     "prepared-url" : "https://cadeos.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "Network is unreachable (connect failed)",
+    "read-error" : "read:'https://cadeos.io/bp.json': Unexpected character ('﻿' (code 65279 / 0xfeff)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
     "url" : "https://cadeos.io/bp.json"
   },
-  "webpage-error" : "Network is unreachable (connect failed)",
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
   "vote-percentage" : 0.0,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "Network is unreachable (connect failed)",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://cadeos.io"
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://cadeos.io/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Network is unreachable (connect failed)"
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'https://cadeos.io/bp.json': Unexpected character ('﻿' (code 65279 / 0xfeff)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 0,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 341,
-  "snapshot-date" : "2020-07-02T01:09:59.077Z"
+  "place" : 431,
+  "snapshot-date" : "2020-07-03T01:10:37.778Z"
 }

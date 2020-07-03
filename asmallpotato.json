@@ -2,32 +2,32 @@
   "bp-header" : {
     "owner" : "asmallpotato",
     "total_votes" : "1230462.47530937194824219",
-    "producer_key" : "EOS4wv3oe2W48P4bqfDJyUr4TZDrDocUGJPh2uYPWZA98m6zsQLtB",
+    "producer_key" : "EOS8infhRsijfSTMKPRNd7edY92pDHar52cbjZj4JyUxnKCbaKwM5",
     "is_active" : 1,
-    "url" : "https://chain.ga",
+    "url" : "https://eoscannon.i",
     "unpaid_blocks" : 0,
     "last_claim_time" : "2020-03-30T03:36:55.000",
     "location" : 156,
-    "prepared-url" : "https://chain.ga"
+    "prepared-url" : "https://eoscannon.i"
   },
   "bp-json-summary" : {
-    "dl-error" : "chain.ga",
-    "url" : "https://chain.ga/bp.json"
+    "dl-error" : "eoscannon.i",
+    "url" : "https://eoscannon.i/bp.json"
   },
-  "webpage-error" : "chain.ga: Name or service not known",
-  "vote-percentage" : 9.190229438180296E-15,
+  "webpage-error" : "eoscannon.i: Name or service not known",
+  "vote-percentage" : 8.758768406151813E-15,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "chain.ga: Name or service not known",
+      "error" : "eoscannon.i: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
-      "url" : "https://chain.ga/bp.json",
+      "url" : "https://eoscannon.i/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "chain.ga"
+      "error" : "eoscannon.i"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 327,
-  "snapshot-date" : "2020-07-02T01:09:59.077Z"
+  "place" : 413,
+  "snapshot-date" : "2020-07-03T01:10:37.778Z"
 }
