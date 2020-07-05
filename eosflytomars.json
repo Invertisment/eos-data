@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosflytomars",
-    "total_votes" : "4931918264362918912.00000000000000000",
+    "total_votes" : "4958434064515004416.00000000000000000",
     "producer_key" : "EOS6Agpfp38bTyRjJDmB4Qb1EpQSq7wnEAsALXgXE7KFSzKjokkFD",
     "is_active" : 1,
     "url" : "https://www.bitmars.one",
-    "unpaid_blocks" : 960,
-    "last_claim_time" : "2020-07-03T22:19:51.500",
+    "unpaid_blocks" : 348,
+    "last_claim_time" : "2020-07-05T00:05:32.000",
     "location" : 156,
     "prepared-url" : "https://www.bitmars.one"
   },
@@ -14,13 +14,13 @@
     "dl-error" : "connect timed out",
     "url" : "https://www.bitmars.one/bp.json"
   },
-  "webpage-error" : "Read timed out",
-  "vote-percentage" : 0.03509479428451272,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 0.03509395403702017,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Read timed out",
+      "error" : "connect timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 4,
-  "snapshot-date" : "2020-07-04T01:10:30.319Z"
+  "snapshot-date" : "2020-07-05T01:10:40.773Z"
 }
