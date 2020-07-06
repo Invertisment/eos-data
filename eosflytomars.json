@@ -1,41 +1,52 @@
 {
   "bp-header" : {
     "owner" : "eosflytomars",
-    "total_votes" : "4958434064515004416.00000000000000000",
+    "total_votes" : "4958599513171485696.00000000000000000",
     "producer_key" : "EOS6Agpfp38bTyRjJDmB4Qb1EpQSq7wnEAsALXgXE7KFSzKjokkFD",
     "is_active" : 1,
     "url" : "https://www.bitmars.one",
     "unpaid_blocks" : 348,
-    "last_claim_time" : "2020-07-05T00:05:32.000",
+    "last_claim_time" : "2020-07-06T00:05:32.500",
     "location" : 156,
     "prepared-url" : "https://www.bitmars.one"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
-    "url" : "https://www.bitmars.one/bp.json"
+    "url" : "https://www.bitmars.one/bp.json",
+    "logo" : "https://api.bitmars.one/logo-256.png",
+    "code_of_conduct" : "https://medium.com/@bitmars/code-of-conduct-48b06093ff4c"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 0.03509395403702017,
+  "analyzed-urls" : {
+    "relative-links-count" : 15,
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.03509335477933538,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "connect timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://www.bitmars.one"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://www.bitmars.one/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://www.bitmars.one/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://medium.com/@bitmars/code-of-conduct-48b06093ff4c"
     }, {
       "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "title" : "t-coc-social",
+      "paragraphs" : [ "p-coc-social" ]
     } ],
-    "score" : 0,
+    "score" : 3,
     "max" : 3
   },
   "place" : 4,
-  "snapshot-date" : "2020-07-05T01:10:40.773Z"
+  "snapshot-date" : "2020-07-06T01:10:39.793Z"
 }
