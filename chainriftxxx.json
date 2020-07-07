@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "chainriftxxx",
-    "total_votes" : "6648666584212497.00000000000000000",
+    "total_votes" : "6648673599924526.00000000000000000",
     "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
     "is_active" : 0,
     "url" : "https://eos.chainrift.com",
@@ -11,40 +11,31 @@
     "prepared-url" : "https://eos.chainrift.com"
   },
   "bp-json-summary" : {
-    "url" : "https://eos.chainrift.com/bp.json",
-    "logo" : "https://www.chainrift.com/images/chainrifteos_256.png",
-    "code_of_conduct" : "https://en.wikipedia.org/wiki/Golden_Rule"
+    "dl-error" : "Read timed out",
+    "url" : "https://eos.chainrift.com/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 5,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://medium.com/chainrift/chainrift-eos-team-rewarded-with-bounty-for-discovering-eos-ram-exploit-bc3bdb13b1a5", "https://medium.com/chainrift/find-out-which-block-producers-to-vote-for-in-under-a-minute-9703cee079da", "https://medium.com/chainrift/random-standby-solution-by-chainrift-eos-b20f9b3f0f70", "https://t.me/ChainRiftEOS", "https://twitter.com/ChainRiftEOS" ],
-    "social-links-count" : 5,
-    "popularity-boosters" : [ "http://eosboot.chainrift.com:9876", "http://ramtoken.io/", "http://wbiboot.chainrift.com:39876", "https://angel.co/chainrift", "https://docs.google.com/document/d/1YlLogVU5NHfFg5_ysNDJKgkVKyTdalZ_uUXogMhzGCI/edit", "https://eostitan.com/poll/decaf", "https://whichbpstovotefor.com/" ],
-    "popularity-boosters-count" : 7
-  },
-  "p-ram-amounts" : [ "RAM" ],
-  "vote-percentage" : 4.705441821415593E-5,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 4.70323908390213E-5,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eos.chainrift.com"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://eos.chainrift.com/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eos.chainrift.com/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "Read timed out"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://en.wikipedia.org/wiki/Golden_Rule"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 0,
     "max" : 3
   },
   "place" : 79,
-  "snapshot-date" : "2020-07-06T01:10:39.793Z"
+  "snapshot-date" : "2020-07-07T01:10:30.876Z"
 }

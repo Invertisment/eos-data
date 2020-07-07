@@ -11,19 +11,17 @@
     "prepared-url" : "http://can-play.ca"
   },
   "bp-json-summary" : {
-    "url" : "http://can-play.ca/bp.json",
-    "logo" : "https://www.can-play.ca/uploads/1/2/0/4/120448580/256_orig.png",
-    "code_of_conduct" : "https://can-play.ca/ownerdcs.html"
+    "dl-error" : "clj-http: status 404",
+    "url" : "http://can-play.ca/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 6,
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ "http://www.rebel.com", "uploads/1/2/0/4/120448580/cbln4-7jwwb.svg" ],
-    "popularity-boosters-count" : 2
+    "popularity-boosters" : [ "https://manage.bluebirdhosting.ca/submitticket.php?step=2&deptid=1" ],
+    "popularity-boosters-count" : 1
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 8.823506316062045E-7,
+  "vote-percentage" : 8.819366501118549E-7,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -31,19 +29,19 @@
       "title" : "web",
       "url" : "http://can-play.ca"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "http://can-play.ca/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://can-play.ca/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://can-play.ca/ownerdcs.html"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 177,
-  "snapshot-date" : "2020-07-06T01:10:39.793Z"
+  "place" : 176,
+  "snapshot-date" : "2020-07-07T01:10:30.876Z"
 }

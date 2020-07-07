@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "ha4daobxg4ge",
-    "total_votes" : "571202830696427.25000000000000000",
+    "total_votes" : "568244304793160.75000000000000000",
     "producer_key" : "EOS5ewbBCj3ZrAy5yJnCqBM6Y6X9nCLzJ4DR8rphbqMhapeT3S5eJ",
     "is_active" : 1,
     "url" : "http://eos.medishares.org",
@@ -11,23 +11,23 @@
     "prepared-url" : "http://eos.medishares.org"
   },
   "bp-json-summary" : {
-    "dl-error" : "Connection refused (Connection refused)",
+    "dl-error" : "clj-http: status 404",
     "url" : "http://eos.medishares.org/bp.json"
   },
-  "webpage-error" : "Connection refused (Connection refused)",
-  "vote-percentage" : 4.042557487319529E-6,
+  "webpage-error" : "clj-http: status 404",
+  "vote-percentage" : 4.019732332082487E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Connection refused (Connection refused)",
+      "error" : "clj-http: status 404",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://eos.medishares.org/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Connection refused (Connection refused)"
+      "error" : "clj-http: status 404"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 139,
-  "snapshot-date" : "2020-07-06T01:10:39.793Z"
+  "snapshot-date" : "2020-07-07T01:10:30.876Z"
 }

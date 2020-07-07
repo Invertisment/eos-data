@@ -1,41 +1,50 @@
 {
   "bp-header" : {
     "owner" : "eoslambdacom",
-    "total_votes" : "2082954304518479360.00000000000000000",
+    "total_votes" : "2080638269786620928.00000000000000000",
     "producer_key" : "EOS72ypVVZQaGueMmTBsJf7CjUkiyBueTsa62zreGNUYTw7u3vx6U",
     "is_active" : 1,
     "url" : "https://bridgepool.lambda.im",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-07-05T17:05:02.500",
+    "last_claim_time" : "2020-07-06T17:05:22.500",
     "location" : 0,
     "prepared-url" : "https://bridgepool.lambda.im"
   },
   "bp-json-summary" : {
-    "dl-error" : "bridgepool.lambda.im",
-    "url" : "https://bridgepool.lambda.im/bp.json"
+    "url" : "https://bridgepool.lambda.im/bp.json",
+    "logo" : "https://bridgepool.lambda.im/Lambda-Pool-256x256.png",
+    "code_of_conduct" : "https://blog.lambda.im/2018/08/17/lambda-bridge-pool-block-producer-candidate-introduction"
   },
-  "webpage-error" : "bridgepool.lambda.im: Name or service not known",
-  "vote-percentage" : 0.014741633036392952,
+  "analyzed-urls" : {
+    "relative-links-count" : 1,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://medium.com/@Lambdaim", "https://t.me/HelloLambda", "https://twitter.com/Lambdaim", "https://www.facebook.com/Lambdaim", "https://www.linkedin.com/company/lambdaim/" ],
+    "social-links-count" : 5,
+    "popularity-boosters" : [ "https://www.lambda.im/en/index.html" ],
+    "popularity-boosters-count" : 1
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.01471833303718508,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "bridgepool.lambda.im: Name or service not known",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://bridgepool.lambda.im"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://bridgepool.lambda.im/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "bridgepool.lambda.im"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://bridgepool.lambda.im/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://blog.lambda.im/2018/08/17/lambda-bridge-pool-block-producer-candidate-introduction"
     } ],
-    "score" : 0,
+    "score" : 3,
     "max" : 3
   },
   "place" : 22,
-  "snapshot-date" : "2020-07-06T01:10:39.793Z"
+  "snapshot-date" : "2020-07-07T01:10:30.876Z"
 }
