@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "dexeosbpnode",
-    "total_votes" : "1043519170369536640.00000000000000000",
+    "total_votes" : "1043529672613068288.00000000000000000",
     "producer_key" : "EOS5qraVVdEwHaouJEqpFWJfZuxQViDxP3WZ826wGwt2bxnfuEGRF",
     "is_active" : 1,
     "url" : "https://dexeos.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-07-07T23:10:00.500",
+    "last_claim_time" : "2020-07-08T23:10:30.500",
     "location" : 0,
     "prepared-url" : "https://dexeos.io"
   },
@@ -15,22 +15,14 @@
     "logo" : "https://dexeos.io/image/logo-256.png",
     "code_of_conduct" : "https://medium.com/@DEXEOS/dexeos-bp-code-of-conduct-64cc1c9137ec"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 4,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/DEXEOS/dexeos-api-public", "https://t.me/dexeos_io_kr", "https://twitter.com/dexeosio" ],
-    "social-links-count" : 3,
-    "popularity-boosters" : [ "http://eosgravity.com/", "http://eosnova.io/", "http://eostoken.im", "http://jmi.one/home/index.html", "http://www.neoply.com/", "https://bitpie.com/", "https://bloks.io/", "https://clay.one/en", "https://coinmanager.io/", "https://docs.google.com/forms/d/17wPgGLYQStRiFiECfDvADNxRNAFKCbXIk6kb8ByLADw/", "https://eocat.io/", "https://eos.cafe/", "https://eos.live/", "https://eosblack.io/", "https://eoscannon.io/", "https://eoseoul.io/", "https://eoslynx.com/", "https://everipedia.org/", "https://get-scatter.com/", "https://godapp.com/", "https://greymass.com/", "https://meet.one/", "https://sentinelprotocol.io/", "https://unlimitedtower.com", "https://www.bepal.pro/", "https://www.carbon.money/", "https://www.chain.pro/", "https://www.hkeos.com/", "https://www.infinitowallet.io/", "https://www.mytokenpocket.vip/", "https://www.secrypto.io/" ],
-    "popularity-boosters-count" : 31
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.007380577188922345,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 0.005609119560156315,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://dexeos.io"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -46,9 +38,9 @@
       "title" : "t-coc-social",
       "paragraphs" : [ "p-coc-social" ]
     } ],
-    "score" : 3,
+    "score" : 2,
     "max" : 3
   },
-  "place" : 41,
-  "snapshot-date" : "2020-07-08T01:10:41.869Z"
+  "place" : 53,
+  "snapshot-date" : "2020-07-09T01:12:33.010Z"
 }
