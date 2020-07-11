@@ -15,15 +15,15 @@
     "url" : "https://www.cardano.org/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 21,
+    "relative-links-count" : 22,
     "duplicate-urls" : null,
     "social-links" : [ "https://t.me/CardanoAnnouncements", "https://twitter.com/Cardano", "https://twitter.com/cardano", "https://www.facebook.com/groups/CardanoCommunity", "https://www.linkedin.com/company/cardano-foundation ", "https://www.meetup.com/en-AU/pro/cardano/", "https://www.reddit.com/r/cardano/", "https://www.youtube.com/channel/UCbQ9vGfezru1YRI1zDCtTGg" ],
     "social-links-count" : 8,
-    "popularity-boosters" : [ "https://cardano.org/ambassadors/", "https://cardanofoundation.org/en/news/cardano-foundation-appoints-maryam-mahjoub-as-marketing-manager/", "https://docs.cardano.org/", "https://emurgo.io/blog/emurgo-joins-trace-alliance-to-delivertailored-supply-chain-solutions-for-enterprises", "https://forum.cardano.org/", "https://forum.cardano.org/t/shelley-rollout-an-important-day/35147", "https://iohk.io/en/blog/posts/2020/06/30/bringing-the-community-together-for-the-cardano-virtual-summit-2020-shelley-edition/" ],
-    "popularity-boosters-count" : 7
+    "popularity-boosters" : [ "https://cardanofoundation.org/en/news/cardano-foundation-appoints-maryam-mahjoub-as-marketing-manager/", "https://docs.cardano.org/", "https://emurgo.io/blog/emurgo-joins-trace-alliance-to-delivertailored-supply-chain-solutions-for-enterprises", "https://forum.cardano.org/", "https://forum.cardano.org/t/shelley-rollout-an-important-day/35147", "https://iohk.io/en/blog/posts/2020/06/30/bringing-the-community-together-for-the-cardano-virtual-summit-2020-shelley-edition/" ],
+    "popularity-boosters-count" : 6
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 8.01398931329215E-8,
+  "vote-percentage" : 7.845958503449611E-8,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,5 +45,5 @@
     "max" : 3
   },
   "place" : 315,
-  "snapshot-date" : "2020-07-10T01:12:33.171Z"
+  "snapshot-date" : "2020-07-11T01:12:32.087Z"
 }
