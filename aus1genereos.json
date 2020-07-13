@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "aus1genereos",
-    "total_votes" : "2256824506449752576.00000000000000000",
+    "total_votes" : "2268839106576257024.00000000000000000",
     "producer_key" : "EOS57ZyzVjoEG2bvzmYmmeiH8YnYtRudxNKxppx17q7Hg29F8tW4t",
     "is_active" : 1,
     "url" : "https://www.genereos.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-07-11T22:47:13.000",
+    "last_claim_time" : "2020-07-12T22:47:17.500",
     "location" : 36,
     "prepared-url" : "https://www.genereos.io"
   },
@@ -24,7 +24,7 @@
     "popularity-boosters-count" : 3
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.011826935159150674,
+  "vote-percentage" : 0.011805658625103863,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -46,5 +46,5 @@
     "max" : 3
   },
   "place" : 30,
-  "snapshot-date" : "2020-07-12T01:12:33.414Z"
+  "snapshot-date" : "2020-07-13T01:12:32.768Z"
 }
