@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosliquideos",
-    "total_votes" : "126296714005576800.00000000000000000",
+    "total_votes" : "126288175650978976.00000000000000000",
     "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
     "is_active" : 0,
     "url" : "http://vote.liquideos.com",
@@ -14,13 +14,13 @@
     "dl-error" : "vote.liquideos.com",
     "url" : "http://vote.liquideos.com/bp.json"
   },
-  "webpage-error" : "vote.liquideos.com: Name or service not known",
-  "vote-percentage" : 6.571712761387471E-4,
+  "webpage-error" : "vote.liquideos.com: Temporary failure in name resolution",
+  "vote-percentage" : 6.588406458761201E-4,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "vote.liquideos.com: Name or service not known",
+      "error" : "vote.liquideos.com: Temporary failure in name resolution",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 79,
-  "snapshot-date" : "2020-07-13T01:12:32.768Z"
+  "snapshot-date" : "2020-07-14T01:12:28.206Z"
 }

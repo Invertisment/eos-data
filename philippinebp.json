@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "philippinebp",
-    "total_votes" : "7215559832649706.00000000000000000",
+    "total_votes" : "6919825666420910.00000000000000000",
     "producer_key" : "EOS5saVmvHKysAcd8GSjEhgG8NjJCbL5WemRQ8sZoSEohB1Db8gEd",
     "is_active" : 1,
     "url" : "https://eosph.io",
@@ -11,16 +11,20 @@
     "prepared-url" : "https://eosph.io"
   },
   "bp-json-summary" : {
-    "read-error" : "read:'https://eosph.io/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
-    "url" : "https://eosph.io/bp.json"
+    "url" : "https://eosph.io/bp.json",
+    "logo" : "https://www.eosph.io/eos256x256PNG.png",
+    "code_of_conduct" : "https://www.eosph.io/#roadmap"
   },
   "analyzed-urls" : {
+    "relative-links-count" : 2,
     "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
+    "social-links" : [ "https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md", "https://t.me/eos_ph", "https://www.facebook.com/eospages2019?modal=admin_todo_tour", "https://www.facebook.com/eospages2019?view_public_for=648105902290164" ],
+    "social-links-count" : 4,
+    "popularity-boosters" : [ "https://extendthemes.com/go/built-with-highlight/", "https://fioprotocol.io/getting-started/", "https://snax.one/", "https://steem-engine.com/?p=tokens", "https://www.infinitowallet.io/", "https://www.infinitowallet.io/download/" ],
+    "popularity-boosters-count" : 6
   },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 3.75453843008814E-5,
+  "p-ram-amounts" : [ "RAM" ],
+  "vote-percentage" : 3.6100469326714546E-5,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -28,19 +32,19 @@
       "title" : "web",
       "url" : "https://eosph.io"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://eosph.io/bp.json",
-      "paragraphs" : [ "bp-json-invalid" ],
-      "error" : "read:'https://eosph.io/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eosph.io/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://www.eosph.io/#roadmap"
     } ],
-    "score" : 1,
+    "score" : 3,
     "max" : 3
   },
   "place" : 107,
-  "snapshot-date" : "2020-07-13T01:12:32.768Z"
+  "snapshot-date" : "2020-07-14T01:12:28.206Z"
 }

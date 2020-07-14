@@ -14,21 +14,14 @@
     "dl-error" : "clj-http: status 404",
     "url" : "https://keybase.pub/eosrussia/BP_info.json/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 1,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://keybase.io/docs/the_app/install_linux", "https://keybase.io/docs/the_app/install_macos", "https://keybase.io/docs/the_app/install_windows", "https://keybase.io/download", "https://keybase.io/eosrussia", "https://keybase.io/introducing-the-keybase-filesystem" ],
-    "social-links-count" : 6,
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
+  "webpage-error" : "Read timed out",
   "vote-percentage" : 0.0,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://keybase.pub/eosrussia/BP_info.json"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
@@ -40,9 +33,9 @@
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
   "place" : 603,
-  "snapshot-date" : "2020-07-13T01:12:32.768Z"
+  "snapshot-date" : "2020-07-14T01:12:28.206Z"
 }
