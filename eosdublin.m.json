@@ -11,23 +11,23 @@
     "prepared-url" : "https://eosdublin.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "Certificate for <eosdublin.com> doesn't match any of the subject alternative names: [www.eosdublin.com]",
+    "dl-error" : "NotAfter: Tue Jul 14 23:15:13 UTC 2020",
     "url" : "https://eosdublin.com/bp.json"
   },
-  "webpage-error" : "Certificate for <eosdublin.com> doesn't match any of the subject alternative names: [www.eosdublin.com]",
+  "webpage-error" : "NotAfter: Tue Jul 14 23:15:13 UTC 2020",
   "vote-percentage" : 0.0,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Certificate for <eosdublin.com> doesn't match any of the subject alternative names: [www.eosdublin.com]",
+      "error" : "NotAfter: Tue Jul 14 23:15:13 UTC 2020",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eosdublin.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Certificate for <eosdublin.com> doesn't match any of the subject alternative names: [www.eosdublin.com]"
+      "error" : "NotAfter: Tue Jul 14 23:15:13 UTC 2020"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 609,
-  "snapshot-date" : "2020-07-14T01:12:28.206Z"
+  "place" : 427,
+  "snapshot-date" : "2020-07-15T01:10:49.288Z"
 }
