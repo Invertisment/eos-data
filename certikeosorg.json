@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "certikeosorg",
-    "total_votes" : "2919988943051083264.00000000000000000",
+    "total_votes" : "2923388057270551040.00000000000000000",
     "producer_key" : "EOS57kRcpx1QT4Wn4uA6agwYdJNGew4cfrzKnzrvQZiVE85huUBAB",
     "is_active" : 1,
     "url" : "https://certik.org",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-07-15T02:16:01.500",
+    "last_claim_time" : "2020-07-16T02:16:57.500",
     "location" : 840,
     "prepared-url" : "https://certik.org"
   },
@@ -17,13 +17,13 @@
   "analyzed-urls" : {
     "relative-links-count" : 10,
     "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/certikfoundation/chain", "https://medium.com/certik-foundation", "https://twitter.com/certikorg" ],
-    "social-links-count" : 3,
+    "social-links" : [ "https://github.com/certikfoundation/chain", "https://medium.com/certik-foundation", "https://t.me/certikfoundation", "https://twitter.com/certikorg" ],
+    "social-links-count" : 4,
     "popularity-boosters" : [ "http://forum.certik.foundation/", "https://docs.certik.foundation/certik-chain/", "https://explorer.certik.foundation/", "https://wallet.certik.foundation/", "https://www.certik.foundation/blog/announcing-the-shentu-games-security-stimulus" ],
     "popularity-boosters-count" : 5
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.020020814130519794,
+  "vote-percentage" : 0.021378591189121627,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -44,6 +44,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 20,
-  "snapshot-date" : "2020-07-16T01:10:26.994Z"
+  "place" : 19,
+  "snapshot-date" : "2020-07-17T01:09:28.383Z"
 }
