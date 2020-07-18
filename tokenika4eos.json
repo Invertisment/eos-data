@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "tokenika4eos",
-    "total_votes" : "57332003490854144.00000000000000000",
+    "total_votes" : "56991128015564688.00000000000000000",
     "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
     "is_active" : 0,
     "url" : "https://tokenika.io",
@@ -11,40 +11,31 @@
     "prepared-url" : "https://tokenika.io"
   },
   "bp-json-summary" : {
-    "url" : "https://tokenika.io/bp.json",
-    "logo" : "https://tokenika.github.io/digital/bp/tokenika_256x256.png",
-    "code_of_conduct" : "https://steemit.com/eos/@tokenika/tokenika-official-candidacy-for-the-eos-block-producer-node-full-specification"
+    "dl-error" : "Read timed out",
+    "url" : "https://tokenika.io/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 11,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/tokenika", "https://github.com/tokenika/eosfactory", "https://github.com/tokenika/secure-bp-voting", "https://medium.com/@oraclechain/2018-global-eos-developer-conference-9db444ec2cd7", "https://steemit.com/@tokenika", "https://steemit.com/eos/@bitspace/bitspace-hosts-scandinavia-s-first-ever-eos-meetup-in-oslo-norway", "https://steemit.com/eosio/@tokenika/eos-factory-3-3-0-release-notes-english-korean-chinese", "https://steemit.com/eosio/@tokenika/the-new-eoside-tool-latest-eos-factory-3-1-1-release-notes-by-tokenika", "https://steemit.com/trending/eosio", "https://www.facebook.com/events/160585741214328/", "https://www.facebook.com/events/873585539479089/", "https://www.facebook.com/events/903326303125907/", "https://www.linkedin.com/company/28635125/", "https://www.meetup.com/pl-pl/szczecin-blockchain-meetup/events/247984199/", "https://www.meetup.com/pl-pl/wroclaw-blockchain-meetup/events/246349912/?eventid=246349912", "https://www.youtube.com/channel/UCWloHGgpHAFfx81Nt0F7eUg" ],
-    "social-links-count" : 16,
-    "popularity-boosters" : [ "http://bitcoin.pl/wiadomosci/prawo-i-polityka/1636-powstala-grupa-robocza-ds-blockchain-i-kryptowalut-przy-knf", "http://buildercommerce.com/", "http://connectwarsaw.org/", "http://parsecfrontiers.com/", "http://sendgold.com/", "http://sygnet.eu/", "http://truffleframework.com/", "https://bitshares.org/", "https://en.wikipedia.org/wiki/Daniel_Larimer", "https://eos.io/", "https://eosprojects.org/", "https://www.evry.com/en/news/articles/psd2-the-directive-that-will-change-banking-as-we-know-it/", "https://www.trans.eu/en/" ],
-    "popularity-boosters-count" : 13
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.99098898329786E-4,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 2.971729961388442E-4,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://tokenika.io"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://tokenika.io/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://tokenika.io/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "Read timed out"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://steemit.com/eos/@tokenika/tokenika-official-candidacy-for-the-eos-block-producer-node-full-specification"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 0,
     "max" : 3
   },
   "place" : 82,
-  "snapshot-date" : "2020-07-14T01:12:28.206Z"
+  "snapshot-date" : "2020-07-18T01:12:33.260Z"
 }

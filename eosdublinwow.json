@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosdublinwow",
-    "total_votes" : "512650356285593344.00000000000000000",
+    "total_votes" : "511941631923045696.00000000000000000",
     "producer_key" : "EOS5bjub7pm8H9WLMYW5ETSwfFKrEJpVWwiwK5knvGAqLVUjEpLxx",
     "is_active" : 1,
     "url" : "https://www.eosdublin.com",
@@ -11,31 +11,40 @@
     "prepared-url" : "https://www.eosdublin.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "NotAfter: Tue Jul 14 23:15:13 UTC 2020",
-    "url" : "https://www.eosdublin.com/bp.json"
+    "url" : "https://www.eosdublin.com/bp.json",
+    "logo" : "https://raw.githubusercontent.com/eosdublin/eosdublin/master/images/eosdublin-icon-256.png",
+    "code_of_conduct" : "https://www.eosdublin.com/values/"
   },
-  "webpage-error" : "NotAfter: Tue Jul 14 23:15:13 UTC 2020",
-  "vote-percentage" : 0.003748986509926402,
+  "analyzed-urls" : {
+    "relative-links-count" : 9,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://medium.com/@coachbjork/my-top-16-candidates-for-eos-block-producer-f0c7886bf085", "https://medium.com/@eosdublin/", "https://medium.com/@eosdublin/airdrop-for-eos-token-holders-957c249c73fd", "https://steemit.com/@eosdublin", "https://steemit.com/eos/@datajunky/eos-watchdogs-proxy-vote-with-the-wisdom-of-the-crowd", "https://steemit.com/eos/@eos42/30-block-producers-who-have-put-in-thousands-of-hours-for-eos", "https://steemit.com/eos/@eosnewyork/your-vote-matters-5-examples-of-good-block-producers", "https://t.me/eosdublin", "https://twitter.com/eosdublin", "https://www.meetup.com/EOS-Dublin/" ],
+    "social-links-count" : 10,
+    "popularity-boosters" : [ "http://sonatasys.com/sonataHome.shtml", "https://airdropsforeos.com/", "https://eosbootcamp.com/", "https://europechain.io", "https://everipedia.org/wiki/eos-dublin/", "https://ignition.zone/", "https://telosfoundation.io/", "https://trybe.one/who-to-vote-for-in-the-eos-block-producer-candidacy-election/", "https://worbli.io", "https://www.chintai.io/", "https://www.eosx.io/tools/vote?voteTo=eosdublinwow" ],
+    "popularity-boosters-count" : 11
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.002669454595901868,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "NotAfter: Tue Jul 14 23:15:13 UTC 2020",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://www.eosdublin.com"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://www.eosdublin.com/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "NotAfter: Tue Jul 14 23:15:13 UTC 2020"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://www.eosdublin.com/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://www.eosdublin.com/values/"
     } ],
-    "score" : 0,
+    "score" : 3,
     "max" : 3
   },
-  "place" : 50,
-  "snapshot-date" : "2020-07-17T01:09:28.383Z"
+  "place" : 70,
+  "snapshot-date" : "2020-07-18T01:12:33.260Z"
 }
