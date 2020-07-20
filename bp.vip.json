@@ -11,23 +11,23 @@
     "prepared-url" : "http://eosteam.org/"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 403",
+    "dl-error" : "eosteam.org",
     "url" : "http://eosteam.org/bp.json"
   },
-  "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 6.205176316324437E-9,
+  "webpage-error" : "eosteam.org: Name or service not known",
+  "vote-percentage" : 6.198246631598122E-9,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "clj-http: status 403",
+      "error" : "eosteam.org: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://eosteam.org/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 403"
+      "error" : "eosteam.org"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 408,
-  "snapshot-date" : "2020-07-19T01:12:34.313Z"
+  "snapshot-date" : "2020-07-20T01:12:36.063Z"
 }
