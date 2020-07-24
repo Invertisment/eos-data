@@ -11,23 +11,23 @@
     "prepared-url" : "https://bp.eosindex.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "dl-error" : "NotAfter: Thu Jul 23 21:00:29 UTC 2020",
     "url" : "https://bp.eosindex.io/bp.json"
   },
-  "webpage-error" : "NotAfter: Sun Jul 19 02:13:20 UTC 2020",
-  "vote-percentage" : 1.810256281602987E-6,
+  "webpage-error" : "NotAfter: Thu Jul 23 21:00:29 UTC 2020",
+  "vote-percentage" : 1.7517686551920728E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "NotAfter: Sun Jul 19 02:13:20 UTC 2020",
+      "error" : "NotAfter: Thu Jul 23 21:00:29 UTC 2020",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://bp.eosindex.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "error" : "NotAfter: Thu Jul 23 21:00:29 UTC 2020"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 159,
-  "snapshot-date" : "2020-07-23T01:10:18.666Z"
+  "place" : 161,
+  "snapshot-date" : "2020-07-24T01:10:43.998Z"
 }
