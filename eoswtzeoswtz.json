@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eoswtzeoswtz",
-    "total_votes" : "887899097311793.75000000000000000",
+    "total_votes" : "887874325540427.62500000000000000",
     "producer_key" : "EOS7temBEsAoxRtUNsy7M6XmZMDuxwKvg8EuBYZ9CMfnaiGDUyHwZ",
     "is_active" : 1,
     "url" : "http://www.eoswtz.com/",
@@ -14,14 +14,21 @@
     "read-error" : "read:'http://www.eoswtz.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 2, column: 2]",
     "url" : "http://www.eoswtz.com/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 6.0539627423902075E-6,
+  "analyzed-urls" : {
+    "relative-links-count" : 62,
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ "http://www.zhishun.net" ],
+    "popularity-boosters-count" : 1
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 4.603346128184676E-6,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "connect timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://www.eoswtz.com/"
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
@@ -33,9 +40,9 @@
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 0,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 127,
-  "snapshot-date" : "2020-07-24T01:10:43.998Z"
+  "place" : 162,
+  "snapshot-date" : "2020-07-25T01:12:34.770Z"
 }

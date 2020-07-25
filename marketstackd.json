@@ -14,13 +14,13 @@
     "read-error" : "read:'https://marketstack.keybase.pub/bp_info.json': Unexpected character ('}' (code 125)): was expecting double-quote to start field name\n at [Source: (StringReader); line: 4, column: 2]",
     "url" : "https://marketstack.keybase.pub/bp_info.json"
   },
-  "webpage-error" : "clj-http: status 404",
-  "vote-percentage" : 1.0575196928226733E-8,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 1.0581530513589563E-8,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "clj-http: status 404",
+      "error" : "Read timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 401,
-  "snapshot-date" : "2020-07-21T01:12:33.540Z"
+  "snapshot-date" : "2020-07-25T01:12:34.770Z"
 }
