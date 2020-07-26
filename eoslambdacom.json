@@ -1,33 +1,33 @@
 {
   "bp-header" : {
     "owner" : "eoslambdacom",
-    "total_votes" : "2102541234777139712.00000000000000000",
+    "total_votes" : "2116311635502674944.00000000000000000",
     "producer_key" : "EOS72ypVVZQaGueMmTBsJf7CjUkiyBueTsa62zreGNUYTw7u3vx6U",
     "is_active" : 1,
     "url" : "https://bridgepool.lambda.im",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-07-24T17:11:22.500",
+    "last_claim_time" : "2020-07-25T17:11:44.500",
     "location" : 0,
     "prepared-url" : "https://bridgepool.lambda.im"
   },
   "bp-json-summary" : {
-    "dl-error" : "NotAfter: Fri Jul 24 15:48:44 UTC 2020",
+    "dl-error" : "Connection refused (Connection refused)",
     "url" : "https://bridgepool.lambda.im/bp.json"
   },
-  "webpage-error" : "NotAfter: Fri Jul 24 15:48:44 UTC 2020",
-  "vote-percentage" : 0.010901007917498649,
+  "webpage-error" : "Connection refused (Connection refused)",
+  "vote-percentage" : 0.014387193058240915,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "NotAfter: Fri Jul 24 15:48:44 UTC 2020",
+      "error" : "Connection refused (Connection refused)",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://bridgepool.lambda.im/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "NotAfter: Fri Jul 24 15:48:44 UTC 2020"
+      "error" : "Connection refused (Connection refused)"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 31,
-  "snapshot-date" : "2020-07-25T01:12:34.770Z"
+  "place" : 23,
+  "snapshot-date" : "2020-07-26T01:10:36.462Z"
 }
