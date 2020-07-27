@@ -11,40 +11,31 @@
     "prepared-url" : "https://www.auroraeos.com/"
   },
   "bp-json-summary" : {
-    "url" : "https://www.auroraeos.com/bp.json",
-    "logo" : "https://www.auroraeos.com/aurora-256.png",
-    "code_of_conduct" : "https://auroraeos.com/ethics-and-compliance/"
+    "dl-error" : "SSL peer shut down incorrectly",
+    "url" : "https://www.auroraeos.com/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 8,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://medium.com/@auroraeos", "https://steemit.com/@auroraeos", "https://t.me/aurora_eos", "https://twitter.com/auroraeosbp" ],
-    "social-links-count" : 4,
-    "popularity-boosters" : [ "https://eosvoter.transistor.fm/" ],
-    "popularity-boosters-count" : 1
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 9.086918984515158E-6,
+  "webpage-error" : "SSL peer shut down incorrectly",
+  "vote-percentage" : 9.086445557791157E-6,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://www.auroraeos.com/"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "SSL peer shut down incorrectly",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://www.auroraeos.com/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://www.auroraeos.com/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "SSL peer shut down incorrectly"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://auroraeos.com/ethics-and-compliance/"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 0,
     "max" : 3
   },
   "place" : 111,
-  "snapshot-date" : "2020-07-26T01:10:36.462Z"
+  "snapshot-date" : "2020-07-27T01:10:55.046Z"
 }
