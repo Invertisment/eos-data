@@ -1,41 +1,50 @@
 {
   "bp-header" : {
     "owner" : "eoslambdacom",
-    "total_votes" : "2116403196126631168.00000000000000000",
+    "total_votes" : "2095589873291714304.00000000000000000",
     "producer_key" : "EOS72ypVVZQaGueMmTBsJf7CjUkiyBueTsa62zreGNUYTw7u3vx6U",
     "is_active" : 1,
     "url" : "https://bridgepool.lambda.im",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-07-26T17:12:02.000",
+    "last_claim_time" : "2020-07-27T17:12:22.500",
     "location" : 0,
     "prepared-url" : "https://bridgepool.lambda.im"
   },
   "bp-json-summary" : {
-    "dl-error" : "Connection refused (Connection refused)",
-    "url" : "https://bridgepool.lambda.im/bp.json"
+    "url" : "https://bridgepool.lambda.im/bp.json",
+    "logo" : "https://bridgepool.lambda.im/Lambda-Pool-256x256.png",
+    "code_of_conduct" : "https://blog.lambda.im/2018/08/17/lambda-bridge-pool-block-producer-candidate-introduction"
   },
-  "webpage-error" : "Connection refused (Connection refused)",
-  "vote-percentage" : 0.014387065906869409,
+  "analyzed-urls" : {
+    "relative-links-count" : 1,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://medium.com/@Lambdaim", "https://t.me/HelloLambda", "https://twitter.com/Lambdaim", "https://www.facebook.com/Lambdaim", "https://www.linkedin.com/company/lambdaim/" ],
+    "social-links-count" : 5,
+    "popularity-boosters" : [ "https://www.lambda.im/en/index.html" ],
+    "popularity-boosters-count" : 1
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.010800234661787393,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "Connection refused (Connection refused)",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://bridgepool.lambda.im"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://bridgepool.lambda.im/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Connection refused (Connection refused)"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://bridgepool.lambda.im/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://blog.lambda.im/2018/08/17/lambda-bridge-pool-block-producer-candidate-introduction"
     } ],
-    "score" : 0,
+    "score" : 3,
     "max" : 3
   },
-  "place" : 23,
-  "snapshot-date" : "2020-07-27T01:10:55.046Z"
+  "place" : 31,
+  "snapshot-date" : "2020-07-28T01:12:39.876Z"
 }

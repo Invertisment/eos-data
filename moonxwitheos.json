@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "moonxwitheos",
-    "total_votes" : "995891293400042.37500000000000000",
+    "total_votes" : "988648270052787.87500000000000000",
     "producer_key" : "EOS7N8oWEpqwQ8oetS8ENSGLMxsG6cvG12nCojgfNKdf3xe1asPiw",
     "is_active" : 1,
     "url" : "https://moonxwitheos.com",
@@ -11,23 +11,23 @@
     "prepared-url" : "https://moonxwitheos.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "Certificate for <moonxwitheos.com> doesn't match any of the subject alternative names: [bichawan.com, www.bichawan.com]",
+    "dl-error" : "connect timed out",
     "url" : "https://moonxwitheos.com/bp.json"
   },
-  "webpage-error" : "Certificate for <moonxwitheos.com> doesn't match any of the subject alternative names: [bichawan.com, www.bichawan.com]",
-  "vote-percentage" : 5.163379768612502E-6,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 5.0952877042529465E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Certificate for <moonxwitheos.com> doesn't match any of the subject alternative names: [bichawan.com, www.bichawan.com]",
+      "error" : "connect timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://moonxwitheos.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Certificate for <moonxwitheos.com> doesn't match any of the subject alternative names: [bichawan.com, www.bichawan.com]"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 157,
-  "snapshot-date" : "2020-07-25T01:12:34.770Z"
+  "place" : 156,
+  "snapshot-date" : "2020-07-28T01:12:39.876Z"
 }
