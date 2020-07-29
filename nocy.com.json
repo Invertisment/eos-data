@@ -11,40 +11,31 @@
     "prepared-url" : "https://nocy.com"
   },
   "bp-json-summary" : {
-    "url" : "https://nocy.com/bp.json",
-    "logo" : "https://nocy.com/static/logo/nocy-logo-256.png",
-    "code_of_conduct" : "https://steemit.com/blockchain/@nocy.com/nocy.com-block-producer-announcement"
+    "dl-error" : "connect timed out",
+    "url" : "https://nocy.com/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 7,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/eoswing", "https://steemit.com/@eoswing", "https://t.me/eoswing", "https://twitter.com/eoswing" ],
-    "social-links-count" : 4,
-    "popularity-boosters" : [ "https://mp.weixin.qq.com/s/6vq3PS7NTb3QvRxzUxK5iA" ],
-    "popularity-boosters-count" : 1
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 6.121266693417562E-8,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 6.121725918058157E-8,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://nocy.com"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "connect timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://nocy.com/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://nocy.com/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "connect timed out"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://steemit.com/blockchain/@nocy.com/nocy.com-block-producer-announcement"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 0,
     "max" : 3
   },
   "place" : 338,
-  "snapshot-date" : "2020-07-28T01:12:39.876Z"
+  "snapshot-date" : "2020-07-29T01:12:46.155Z"
 }
