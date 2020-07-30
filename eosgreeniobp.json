@@ -11,40 +11,31 @@
     "prepared-url" : "https://eosgreen.io"
   },
   "bp-json-summary" : {
-    "url" : "https://eosgreen.io/bp.json",
-    "logo" : "",
-    "code_of_conduct" : "https://busy.org/@sukeshtedla/eosgreen-block-producer-code-of-conduct"
+    "dl-error" : "clj-http: status 404",
+    "url" : "https://eosgreen.io/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 11,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/eosgreen", "https://plus.google.com/u/0/+Mobirise", "https://t.me/eosgreenio", "https://twitter.com/sukeshtedla", "https://www.facebook.com/marcin.chilik", "https://www.instagram.com/mobirise/", "https://www.linkedin.com/in/mobirise", "https://www.linkedin.com/in/monika-reszka-04105a2", "https://www.linkedin.com/in/sukeshtedla", "https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw" ],
-    "social-links-count" : 10,
-    "popularity-boosters" : [ "https://busy.org/@sukeshtedla/eosgreen-block-producer-code-of-conduct", "https://mobirise.com/", "https://mobirise.me/j" ],
-    "popularity-boosters-count" : 3
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.938005054729022E-6,
+  "webpage-error" : "clj-http: status 403",
+  "vote-percentage" : 3.876082080074098E-6,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eosgreen.io"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "clj-http: status 403",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://eosgreen.io/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eosgreen.io/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://busy.org/@sukeshtedla/eosgreen-block-producer-code-of-conduct"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 181,
-  "snapshot-date" : "2020-07-29T01:12:46.155Z"
+  "place" : 141,
+  "snapshot-date" : "2020-07-30T01:10:48.699Z"
 }
