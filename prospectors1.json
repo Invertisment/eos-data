@@ -11,39 +11,31 @@
     "prepared-url" : "https://prospectors.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "dl-error" : "clj-http: status 503",
     "url" : "https://prospectors.io/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 13,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://bitcointalk.org/index.php?topic=1877080.0", "https://medium.com/@prospectorsgame", "https://medium.com/@prospectorsgame/everything-you-need-to-know-about-the-boomtown-assets-auction-6906350a38b3", "https://medium.com/@prospectorsgame/leaderboard-ui-improvements-90e5f1b7c735", "https://medium.com/@prospectorsgame/nicknames-live-news-and-more-fresh-prospectors-update-is-here-a75014ec055", "https://medium.com/@prospectorsgame/the-very-first-boomtown-of-prospectors-a-gold-rush-challenge-c6369aeade2a", "https://t.me/prospectors", "https://t.me/prospectorsgame", "https://twitter.com/prospectorsgame", "https://www.reddit.com/r/Prospectorsio/" ],
-    "social-links-count" : 10,
-    "popularity-boosters" : [ "https://bihu.com/article/1994742535", "https://cryptolions.io/", "https://dappradar.com/", "https://discordapp.com/invite/3HdcTRA", "https://eos.io/", "https://get-scatter.com/", "https://lynxwallet.io/", "https://wax.io/", "https://www.getwombat.io/play-prospectors-with-wombat", "https://www.mytokenpocket.vip/" ],
-    "popularity-boosters-count" : 10
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 4.25718049559953E-7,
+  "webpage-error" : "clj-http: status 503",
+  "vote-percentage" : 4.200118372249567E-7,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://prospectors.io"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "clj-http: status 503",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://prospectors.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "error" : "clj-http: status 503"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
   "place" : 244,
-  "snapshot-date" : "2020-07-29T01:12:46.155Z"
+  "snapshot-date" : "2020-07-31T01:12:48.076Z"
 }

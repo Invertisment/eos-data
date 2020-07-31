@@ -11,23 +11,23 @@
     "prepared-url" : "https://nocy.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "NotAfter: Wed Jul 29 12:00:00 UTC 2020",
     "url" : "https://nocy.com/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 6.121725918058157E-8,
+  "webpage-error" : "NotAfter: Wed Jul 29 12:00:00 UTC 2020",
+  "vote-percentage" : 6.039671920156971E-8,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "NotAfter: Wed Jul 29 12:00:00 UTC 2020",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://nocy.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "NotAfter: Wed Jul 29 12:00:00 UTC 2020"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 338,
-  "snapshot-date" : "2020-07-29T01:12:46.155Z"
+  "snapshot-date" : "2020-07-31T01:12:48.076Z"
 }
