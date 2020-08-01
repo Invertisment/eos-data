@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "itokenpocket",
-    "total_votes" : "14715757876844486.00000000000000000",
+    "total_votes" : "14599103781924512.00000000000000000",
     "producer_key" : "EOS8BYCigFER1XBbMqD3GjVVF5B3BmB1E1nkjJJTxPX4tmdS3YwMR",
     "is_active" : 1,
     "url" : "https://www.tokenpocket.pro",
@@ -11,11 +11,11 @@
     "prepared-url" : "https://www.tokenpocket.pro"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "Read timed out",
     "url" : "https://www.tokenpocket.pro/bp.json"
   },
   "webpage-error" : "Read timed out",
-  "vote-percentage" : 7.483100550379362E-5,
+  "vote-percentage" : 7.423474949645052E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -27,7 +27,7 @@
       "mood" : "warn",
       "url" : "https://www.tokenpocket.pro/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "Read timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 96,
-  "snapshot-date" : "2020-07-31T01:12:48.076Z"
+  "snapshot-date" : "2020-08-01T01:12:41.098Z"
 }
