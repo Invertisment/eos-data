@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosdacserver",
-    "total_votes" : "1148269445358350336.00000000000000000",
+    "total_votes" : "1151413427981213824.00000000000000000",
     "producer_key" : "EOS6VkageCqyz1X97n7E1JyjPoZu8HEX6CVujY5ABzk3fPyV3vzZK",
     "is_active" : 1,
     "url" : "https://eosdac.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-07-31T18:28:12.500",
+    "last_claim_time" : "2020-08-01T18:29:13.500",
     "location" : 826,
     "prepared-url" : "https://eosdac.io"
   },
@@ -24,7 +24,7 @@
     "popularity-boosters-count" : 2
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.005838816950951797,
+  "vote-percentage" : 0.005830851561438528,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -46,5 +46,5 @@
     "max" : 3
   },
   "place" : 50,
-  "snapshot-date" : "2020-08-01T01:12:41.098Z"
+  "snapshot-date" : "2020-08-02T01:12:36.376Z"
 }

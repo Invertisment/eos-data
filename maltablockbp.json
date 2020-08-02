@@ -11,40 +11,31 @@
     "prepared-url" : "https://maltablock.org"
   },
   "bp-json-summary" : {
-    "url" : "https://maltablock.org/bp.json",
-    "logo" : "https://maltablock.org/img/bp-json/maltablock_logo_256x256.png",
-    "code_of_conduct" : "https://maltablock.org/wax/code-of-conduct.html"
+    "dl-error" : "NotAfter: Sat Aug 01 23:50:31 UTC 2020",
+    "url" : "https://maltablock.org/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 4,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://medium.com/@airdropsdac/malta-block-announces-candidacy-for-wax-guild-8e9b77d8afe1", "https://medium.com/@maltablock", "https://t.me/airdropsdac", "https://twitter.com/maltablock" ],
-    "social-links-count" : 4,
-    "popularity-boosters" : [ "https://eos.io/", "https://liquidapps.io/", "https://telosfoundation.io/", "https://wax.io/" ],
-    "popularity-boosters-count" : 4
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 9.837693773616635E-10,
+  "webpage-error" : "NotAfter: Sat Aug 01 23:50:31 UTC 2020",
+  "vote-percentage" : 9.797447475326712E-10,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://maltablock.org"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "NotAfter: Sat Aug 01 23:50:31 UTC 2020",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://maltablock.org/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://maltablock.org/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "NotAfter: Sat Aug 01 23:50:31 UTC 2020"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://maltablock.org/wax/code-of-conduct.html"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 0,
     "max" : 3
   },
   "place" : 438,
-  "snapshot-date" : "2020-08-01T01:12:41.098Z"
+  "snapshot-date" : "2020-08-02T01:12:36.376Z"
 }

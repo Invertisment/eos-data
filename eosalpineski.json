@@ -14,13 +14,13 @@
     "read-error" : "read:'https://cryptopacific.keybase.pub/bp.json': Unexpected character ('}' (code 125)): was expecting double-quote to start field name\n at [Source: (StringReader); line: 19, column: 6]",
     "url" : "https://cryptopacific.keybase.pub/bp.json"
   },
-  "webpage-error" : "clj-http: status 404",
-  "vote-percentage" : 2.241782477036005E-11,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 2.2326112781403982E-11,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "clj-http: status 404",
+      "error" : "Read timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 545,
-  "snapshot-date" : "2020-08-01T01:12:41.098Z"
+  "snapshot-date" : "2020-08-02T01:12:36.376Z"
 }
