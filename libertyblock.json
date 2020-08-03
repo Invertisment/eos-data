@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "libertyblock",
-    "total_votes" : "135697043751114528.00000000000000000",
+    "total_votes" : "136742697244135792.00000000000000000",
     "producer_key" : "EOS7TqVs7LpMzJwikiWkGTG9UGSwcQVhxP2ZKBM7FCbUwcrryNgHP",
     "is_active" : 1,
     "url" : "https://libertyblock.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-08-01T15:20:02.000",
+    "last_claim_time" : "2020-08-02T15:25:02.500",
     "location" : 124,
     "prepared-url" : "https://libertyblock.io"
   },
@@ -15,7 +15,7 @@
     "url" : "https://libertyblock.io/bp.json"
   },
   "webpage-error" : "Certificate for <libertyblock.io> doesn't match any of the subject alternative names: [*.parkingcrew.net, parkingcrew.net]",
-  "vote-percentage" : 6.871809032365114E-4,
+  "vote-percentage" : 7.108793613243282E-4,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 76,
-  "snapshot-date" : "2020-08-02T01:12:36.376Z"
+  "place" : 74,
+  "snapshot-date" : "2020-08-03T01:12:28.996Z"
 }
