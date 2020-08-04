@@ -1,33 +1,33 @@
 {
   "bp-header" : {
     "owner" : "libertyblock",
-    "total_votes" : "136742697244135792.00000000000000000",
+    "total_votes" : "136758443484810496.00000000000000000",
     "producer_key" : "EOS7TqVs7LpMzJwikiWkGTG9UGSwcQVhxP2ZKBM7FCbUwcrryNgHP",
     "is_active" : 1,
     "url" : "https://libertyblock.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-08-02T15:25:02.500",
+    "last_claim_time" : "2020-08-03T15:30:03.000",
     "location" : 124,
     "prepared-url" : "https://libertyblock.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "Certificate for <libertyblock.io> doesn't match any of the subject alternative names: [*.parkingcrew.net, parkingcrew.net]",
+    "dl-error" : "clj-http: status 403",
     "url" : "https://libertyblock.io/bp.json"
   },
-  "webpage-error" : "Certificate for <libertyblock.io> doesn't match any of the subject alternative names: [*.parkingcrew.net, parkingcrew.net]",
-  "vote-percentage" : 7.108793613243282E-4,
+  "webpage-error" : "clj-http: status 403",
+  "vote-percentage" : 6.912323529055231E-4,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Certificate for <libertyblock.io> doesn't match any of the subject alternative names: [*.parkingcrew.net, parkingcrew.net]",
+      "error" : "clj-http: status 403",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://libertyblock.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Certificate for <libertyblock.io> doesn't match any of the subject alternative names: [*.parkingcrew.net, parkingcrew.net]"
+      "error" : "clj-http: status 403"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 74,
-  "snapshot-date" : "2020-08-03T01:12:28.996Z"
+  "place" : 76,
+  "snapshot-date" : "2020-08-04T01:12:43.570Z"
 }
