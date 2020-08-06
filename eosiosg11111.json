@@ -1,46 +1,41 @@
 {
   "bp-header" : {
     "owner" : "eosiosg11111",
-    "total_votes" : "5063158930877368320.00000000000000000",
+    "total_votes" : "5041951755951688704.00000000000000000",
     "producer_key" : "EOS7zVBQMhV7dZ5zRQwBgDmmbFCHA6YcmwW6Dq5CePGpqLR1ZsVAc",
     "is_active" : 1,
     "url" : "https://eosio.sg",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-08-04T15:37:39.500",
+    "last_claim_time" : "2020-08-05T15:37:54.000",
     "location" : 702,
     "prepared-url" : "https://eosio.sg"
   },
   "bp-json-summary" : {
-    "url" : "https://eosio.sg/bp.json",
-    "logo" : "https://image.eosio.sg/EOSIOSG_256.png"
+    "dl-error" : "Certificate for <eosio.sg> doesn't match any of the subject alternative names: [*.eosio.sg]",
+    "url" : "https://eosio.sg/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 8,
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.033533096028009676,
+  "webpage-error" : "Certificate for <eosio.sg> doesn't match any of the subject alternative names: [*.eosio.sg]",
+  "vote-percentage" : 0.03349579287977395,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eosio.sg"
-    }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://eosio.sg/bp.json"
-    }, {
-      "title" : "no-coc",
       "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "title" : "no-web",
+      "error" : "Certificate for <eosio.sg> doesn't match any of the subject alternative names: [*.eosio.sg]",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eosio.sg/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "Certificate for <eosio.sg> doesn't match any of the subject alternative names: [*.eosio.sg]"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 0,
     "max" : 3
   },
   "place" : 16,
-  "snapshot-date" : "2020-08-05T01:11:09.318Z"
+  "snapshot-date" : "2020-08-06T01:10:43.262Z"
 }
