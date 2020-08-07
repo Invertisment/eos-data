@@ -1,41 +1,46 @@
 {
   "bp-header" : {
     "owner" : "eosiosg11111",
-    "total_votes" : "5041951755951688704.00000000000000000",
+    "total_votes" : "5026532211065559040.00000000000000000",
     "producer_key" : "EOS7zVBQMhV7dZ5zRQwBgDmmbFCHA6YcmwW6Dq5CePGpqLR1ZsVAc",
     "is_active" : 1,
     "url" : "https://eosio.sg",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-08-05T15:37:54.000",
+    "last_claim_time" : "2020-08-06T15:38:08.500",
     "location" : 702,
     "prepared-url" : "https://eosio.sg"
   },
   "bp-json-summary" : {
-    "dl-error" : "Certificate for <eosio.sg> doesn't match any of the subject alternative names: [*.eosio.sg]",
-    "url" : "https://eosio.sg/bp.json"
+    "url" : "https://eosio.sg/bp.json",
+    "logo" : "https://image.eosio.sg/EOSIOSG_256.png"
   },
-  "webpage-error" : "Certificate for <eosio.sg> doesn't match any of the subject alternative names: [*.eosio.sg]",
-  "vote-percentage" : 0.03349579287977395,
+  "analyzed-urls" : {
+    "relative-links-count" : 8,
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.03344759018350322,
   "scoring" : {
     "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eosio.sg"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eosio.sg/bp.json"
+    }, {
+      "title" : "no-coc",
       "mood" : "bad",
-      "title" : "no-web",
-      "error" : "Certificate for <eosio.sg> doesn't match any of the subject alternative names: [*.eosio.sg]",
-      "paragraphs" : [ "web-fetch-failure" ]
-    }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://eosio.sg/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Certificate for <eosio.sg> doesn't match any of the subject alternative names: [*.eosio.sg]"
-    }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "paragraphs" : [ "value-empty" ]
     } ],
-    "score" : 0,
+    "score" : 2,
     "max" : 3
   },
   "place" : 16,
-  "snapshot-date" : "2020-08-06T01:10:43.262Z"
+  "snapshot-date" : "2020-08-07T01:10:49.632Z"
 }

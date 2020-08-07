@@ -11,18 +11,18 @@
     "prepared-url" : "http://www.eosecology.com"
   },
   "bp-json-summary" : {
-    "read-error" : "read:'http://www.eosecology.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 4, column: 4]",
+    "read-error" : "read:'http://www.eosecology.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
     "url" : "http://www.eosecology.com/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 18,
+    "relative-links-count" : 24,
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ "http://www.HugeDomains.com/satisfaction_guaranteed.cfm", "https://www.HugeDomains.com/about.cfm", "https://www.HugeDomains.com/payment-plan-login.cfm", "https://www.HugeDomains.com/shopping_cart.cfm" ],
+    "popularity-boosters" : [ "https://www.HugeDomains.com/faq.cfm", "https://www.HugeDomains.com/payment-plans.cfm", "https://www.HugeDomains.com/shopping_cart.cfm?d=EosEcology&e=COM", "https://www.HugeDomains.com/testimonials.cfm" ],
     "popularity-boosters-count" : 4
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 5.744176315686187E-7,
+  "vote-percentage" : 5.753505714266801E-7,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -34,7 +34,7 @@
       "mood" : "warn",
       "url" : "http://www.eosecology.com/bp.json",
       "paragraphs" : [ "bp-json-invalid" ],
-      "error" : "read:'http://www.eosecology.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 4, column: 4]"
+      "error" : "read:'http://www.eosecology.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -44,5 +44,5 @@
     "max" : 3
   },
   "place" : 189,
-  "snapshot-date" : "2020-08-06T01:10:43.262Z"
+  "snapshot-date" : "2020-08-07T01:10:49.632Z"
 }
