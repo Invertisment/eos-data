@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "alohaeosprod",
-    "total_votes" : "1448805399048155136.00000000000000000",
+    "total_votes" : "1616829274092293632.00000000000000000",
     "producer_key" : "EOS53pfXfxZ4tH3EGccdnGvBZVJsrcSf2nbCKiLLMphgaii9XxxhM",
     "is_active" : 1,
     "url" : "https://www.alohaeos.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-08-06T19:01:56.000",
+    "last_claim_time" : "2020-08-07T19:01:57.000",
     "location" : 840,
     "prepared-url" : "https://www.alohaeos.com"
   },
@@ -16,7 +16,7 @@
     "code_of_conduct" : "https://www.alohaeos.com/conduct"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 3,
+    "relative-links-count" : 2,
     "duplicate-urls" : null,
     "social-links" : [ "https://github.com/AlohaEOS", "https://keybase.io/alohaeos", "https://medium.com/meet-one/chain/home", "https://t.me/AlohaEOS", "https://twitter.com/eosaloha", "https://www.reddit.com/user/alohaeos" ],
     "social-links-count" : 6,
@@ -24,7 +24,7 @@
     "popularity-boosters-count" : 14
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.009640652284358255,
+  "vote-percentage" : 0.011100407480905272,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +45,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 29,
-  "snapshot-date" : "2020-08-07T01:10:49.632Z"
+  "place" : 28,
+  "snapshot-date" : "2020-08-08T01:10:12.300Z"
 }
