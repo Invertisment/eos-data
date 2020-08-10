@@ -1,41 +1,49 @@
 {
   "bp-header" : {
     "owner" : "eosrapidprod",
-    "total_votes" : "5097945397130964992.00000000000000000",
+    "total_votes" : "5160322555301985280.00000000000000000",
     "producer_key" : "EOS8QEFsgUWj7BscQNkiremtpSoRkzwDqmCPpKKCHYXGNaqxXFQ4h",
     "is_active" : 1,
     "url" : "https://eosrapid.com",
-    "unpaid_blocks" : 720,
-    "last_claim_time" : "2020-08-08T23:00:04.000",
+    "unpaid_blocks" : 384,
+    "last_claim_time" : "2020-08-10T00:00:05.000",
     "location" : 840,
     "prepared-url" : "https://eosrapid.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "NotAfter: Thu Aug 06 15:22:05 UTC 2020",
-    "url" : "https://eosrapid.com/bp.json"
+    "url" : "https://eosrapid.com/bp.json",
+    "logo" : "https://www.eosrapid.com/logo_256.png",
+    "code_of_conduct" : "https://www.eosrapid.com/info.html"
   },
-  "webpage-error" : "NotAfter: Thu Aug 06 15:22:05 UTC 2020",
-  "vote-percentage" : 0.03362874022680956,
+  "analyzed-urls" : {
+    "relative-links-count" : 1,
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ "https://bloks.io/account/eosrapidprod" ],
+    "popularity-boosters-count" : 1
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.0337522850670297,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "NotAfter: Thu Aug 06 15:22:05 UTC 2020",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eosrapid.com"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://eosrapid.com/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "NotAfter: Thu Aug 06 15:22:05 UTC 2020"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eosrapid.com/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://www.eosrapid.com/info.html"
     } ],
-    "score" : 0,
+    "score" : 3,
     "max" : 3
   },
   "place" : 13,
-  "snapshot-date" : "2020-08-09T01:10:47.652Z"
+  "snapshot-date" : "2020-08-10T01:10:42.634Z"
 }
