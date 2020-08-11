@@ -11,23 +11,23 @@
     "prepared-url" : "https://activeeos.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "activeeos.com",
+    "dl-error" : "connect timed out",
     "url" : "https://activeeos.com/bp.json"
   },
-  "webpage-error" : "activeeos.com",
+  "webpage-error" : "connect timed out",
   "vote-percentage" : 0.0,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "activeeos.com",
+      "error" : "connect timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://activeeos.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "activeeos.com"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 597,
-  "snapshot-date" : "2020-08-04T01:12:43.570Z"
+  "snapshot-date" : "2020-08-11T01:12:43.080Z"
 }
