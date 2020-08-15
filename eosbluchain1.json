@@ -11,23 +11,23 @@
     "prepared-url" : "https://bluchain.tech"
   },
   "bp-json-summary" : {
-    "dl-error" : "SSL peer shut down incorrectly",
+    "dl-error" : "bluchain.tech",
     "url" : "https://bluchain.tech/bp.json"
   },
-  "webpage-error" : "SSL peer shut down incorrectly",
-  "vote-percentage" : 3.6405323002569555E-8,
+  "webpage-error" : "bluchain.tech: Name or service not known",
+  "vote-percentage" : 3.5174838691865396E-8,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "SSL peer shut down incorrectly",
+      "error" : "bluchain.tech: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://bluchain.tech/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "SSL peer shut down incorrectly"
+      "error" : "bluchain.tech"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 264,
-  "snapshot-date" : "2020-08-14T01:10:13.466Z"
+  "place" : 279,
+  "snapshot-date" : "2020-08-15T01:10:39.732Z"
 }

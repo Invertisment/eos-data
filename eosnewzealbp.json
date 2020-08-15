@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosnewzealbp",
-    "total_votes" : "623809612845860.25000000000000000",
+    "total_votes" : "623849887616426.50000000000000000",
     "producer_key" : "EOS5t4hArzAFoA1LVkg4ynffSz9W15a2BYjoF1vDLo7PukwWbhs8B",
     "is_active" : 1,
     "url" : "https://eosnewzealand.com/bp_info.json",
@@ -11,23 +11,23 @@
     "prepared-url" : "https://eosnewzealand.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "eosnewzealand.com",
     "url" : "https://eosnewzealand.com/bp_info.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 4.217318918820877E-6,
+  "webpage-error" : "eosnewzealand.com: Temporary failure in name resolution",
+  "vote-percentage" : 4.075038425399788E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "eosnewzealand.com: Temporary failure in name resolution",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eosnewzealand.com/bp_info.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "eosnewzealand.com"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 132,
-  "snapshot-date" : "2020-08-14T01:10:13.466Z"
+  "place" : 134,
+  "snapshot-date" : "2020-08-15T01:10:39.732Z"
 }

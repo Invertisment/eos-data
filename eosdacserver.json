@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosdacserver",
-    "total_votes" : "1315863399114598400.00000000000000000",
+    "total_votes" : "1313066279624992768.00000000000000000",
     "producer_key" : "EOS6VkageCqyz1X97n7E1JyjPoZu8HEX6CVujY5ABzk3fPyV3vzZK",
     "is_active" : 1,
     "url" : "https://eosdac.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-08-13T18:34:24.000",
+    "last_claim_time" : "2020-08-14T18:34:25.000",
     "location" : 826,
     "prepared-url" : "https://eosdac.io"
   },
@@ -16,15 +16,15 @@
     "code_of_conduct" : "https://eosdac.io#core-principles"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 21,
+    "relative-links-count" : 22,
     "duplicate-urls" : null,
     "social-links" : [ "https://discord.io/eosdac", "https://facebook.com/eosdac", "https://github.com/eosdac", "https://steemit.com/@eosdac", "https://steemit.com/eos/@eosdac/statement-of-ownership-and-code-of-conduct", "https://t.me/eosdacio", "https://twitter.com/eosdac", "https://vk.com/eosdac", "https://www.instagram.com/eosdac", "https://www.linkedin.com/company/eosdac/", "https://www.reddit.com/r/eosdac", "https://www.youtube.com/eosdac" ],
     "social-links-count" : 12,
-    "popularity-boosters" : [ "https://eosdac.zendesk.com/", "https://murmurdapp.com/userpost/eosdacmurmur" ],
-    "popularity-boosters-count" : 2
+    "popularity-boosters" : [ "http://eepurl.com/dmQ2dX", "https://eosdac.zendesk.com/", "https://murmurdapp.com/userpost/eosdacmurmur" ],
+    "popularity-boosters-count" : 3
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.008896008483026008,
+  "vote-percentage" : 0.008577056196984552,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +45,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 36,
-  "snapshot-date" : "2020-08-14T01:10:13.466Z"
+  "place" : 37,
+  "snapshot-date" : "2020-08-15T01:10:39.732Z"
 }
