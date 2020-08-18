@@ -1,0 +1,50 @@
+{
+  "bp-header" : {
+    "owner" : "decentrawise",
+    "total_votes" : "102477263411932.34375000000000000",
+    "producer_key" : "EOS6VzMf5pYNW26CETyTpYRZ4k9uiEScphiD2kM9ZK9qBYaU8v9mG",
+    "is_active" : 1,
+    "url" : "https://decentrawise.com/bp/",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2020-08-17T17:02:09.500",
+    "location" : 50,
+    "prepared-url" : "https://decentrawise.com/bp/"
+  },
+  "bp-json-summary" : {
+    "url" : "https://decentrawise.com/bp/bp.json",
+    "logo" : "https://decentrawise.com/images/bp-logo-small.png",
+    "code_of_conduct" : "https://decentrawise.com/bp"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 38,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://github.com/decentrawise", "https://t.me/decentrawise", "https://twitter.com/bytemaster7", "https://twitter.com/decentrawise", "https://www.linkedin.com/company/decentrawise/", "https://www.youtube.com/channel/UCRKN3Y6PICD24lTYXgaT1WA" ],
+    "social-links-count" : 6,
+    "popularity-boosters" : [ "https://dsound.io/new", "https://eos.io" ],
+    "popularity-boosters-count" : 2
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 5.084359986550423E-7,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://decentrawise.com/bp/"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://decentrawise.com/bp/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://decentrawise.com/bp"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 235,
+  "snapshot-date" : "2020-08-18T01:13:22.829Z"
+}
