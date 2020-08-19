@@ -1,0 +1,49 @@
+{
+  "bp-header" : {
+    "owner" : "blocksideita",
+    "total_votes" : "1034129658083.61157226562500000",
+    "producer_key" : "EOS6MEjxLpqy1ivtWb8fdG7S5cJwiWcbvxEpuKmbFHsoDzawy6ipP",
+    "is_active" : 1,
+    "url" : "https://eos.blockside.io",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2020-08-18T06:22:32.000",
+    "location" : 380,
+    "prepared-url" : "https://eos.blockside.io"
+  },
+  "bp-json-summary" : {
+    "url" : "https://eos.blockside.io/bp.json",
+    "logo" : "https://telos.blockside.io/images/logo_256x256.png",
+    "code_of_conduct" : "https://eos.blockside.io/coc.html"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 5,
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ "https://blockside.io/eos/coc.html", "https://blockside.io/telos/coc.html", "https://blockside.io/telos/cookies.html", "https://blockside.io/telos/disclosure.html", "https://developers.eos.io/", "https://www.eosx.io/tools/vote?voteTo=blocksideita" ],
+    "popularity-boosters-count" : 6
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 5.124122819677759E-9,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eos.blockside.io"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eos.blockside.io/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://eos.blockside.io/coc.html"
+    } ],
+    "score" : 3,
+    "max" : 3
+  },
+  "place" : 410,
+  "snapshot-date" : "2020-08-19T01:13:12.700Z"
+}

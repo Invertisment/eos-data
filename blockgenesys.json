@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "blockgenesys",
-    "total_votes" : "509483506806125.81250000000000000",
+    "total_votes" : "500962891874569.31250000000000000",
     "producer_key" : "EOS5hBDfPQFDsQbCdadT9W82YcSJPdYJwVhQnvCLfepa3qL1oBpHz",
     "is_active" : 1,
     "url" : "https://www.blockgenesys.com",
@@ -16,15 +16,12 @@
     "code_of_conduct" : "https://www.blockgenesys.com/conduct/"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 2,
     "duplicate-urls" : null,
-    "social-links" : [ "https://steemit.com/@blockgenesys", "https://twitter.com/blockgenesys", "https://www.linkedin.com/company/block-genesys/" ],
-    "social-links-count" : 3,
-    "popularity-boosters" : [ "https://explorer.blockstack.org/name/blockgenesys.id" ],
-    "popularity-boosters-count" : 1
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.5277778402412268E-6,
+  "vote-percentage" : 2.482276149804317E-6,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +42,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 185,
-  "snapshot-date" : "2020-08-18T01:13:22.829Z"
+  "place" : 186,
+  "snapshot-date" : "2020-08-19T01:13:12.700Z"
 }
