@@ -14,13 +14,13 @@
     "dl-error" : "clj-http: status 523",
     "url" : "http://goeoslottery.cn/bp.json"
   },
-  "webpage-error" : "clj-http: status 523",
-  "vote-percentage" : 1.0463034000441182E-7,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 1.0465696898202109E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "clj-http: status 523",
+      "error" : "Read timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 301,
-  "snapshot-date" : "2020-08-19T01:13:12.700Z"
+  "snapshot-date" : "2020-08-20T01:13:20.533Z"
 }
