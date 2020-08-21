@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "costaricaeos",
-    "total_votes" : "185164048564269888.00000000000000000",
+    "total_votes" : "185156672299758272.00000000000000000",
     "producer_key" : "EOS7phU8qE6nPCfpkCQ2T3HmRwGg6z4v61RTLvPBBVmPWmPisZoWY",
     "is_active" : 1,
     "url" : "https://eoscostarica.io",
@@ -11,11 +11,12 @@
     "prepared-url" : "https://eoscostarica.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "Read timed out",
-    "url" : "https://eoscostarica.io/bp.json"
+    "url" : "https://eoscostarica.io/bp.json",
+    "logo" : "https://eoscostarica.io/assets/eos-CostaRica-256x256.png",
+    "code_of_conduct" : "https://eoscostarica.io/en/transparency/#code_of_conduct"
   },
   "webpage-error" : "Read timed out",
-  "vote-percentage" : 9.177232223278815E-4,
+  "vote-percentage" : 0.0012059648489647023,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -23,19 +24,19 @@
       "error" : "Read timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://eoscostarica.io/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Read timed out"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eoscostarica.io/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://eoscostarica.io/en/transparency/#code_of_conduct"
     } ],
-    "score" : 0,
+    "score" : 2,
     "max" : 3
   },
-  "place" : 75,
-  "snapshot-date" : "2020-08-20T01:13:20.533Z"
+  "place" : 58,
+  "snapshot-date" : "2020-08-21T01:11:17.915Z"
 }

@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eoswebnetbp1",
-    "total_votes" : "157734166521841.75000000000000000",
+    "total_votes" : "159500707794728.93750000000000000",
     "producer_key" : "EOS5sT6mdCkTBLZM8vZnwqmBpA6gjtbdSTEeGL2k26JQFnjaCg6j2",
     "is_active" : 1,
     "url" : "https://eosweb.net",
@@ -11,23 +11,23 @@
     "prepared-url" : "https://eosweb.net"
   },
   "bp-json-summary" : {
-    "dl-error" : "eosweb.net",
+    "dl-error" : "NotAfter: Tue Mar 12 00:17:28 UTC 2019",
     "url" : "https://eosweb.net/bp.json"
   },
-  "webpage-error" : "eosweb.net: Name or service not known",
-  "vote-percentage" : 7.817732907335021E-7,
+  "webpage-error" : "NotAfter: Tue Mar 12 00:17:28 UTC 2019",
+  "vote-percentage" : 1.0388620868818916E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "eosweb.net: Name or service not known",
+      "error" : "NotAfter: Tue Mar 12 00:17:28 UTC 2019",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eosweb.net/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "eosweb.net"
+      "error" : "NotAfter: Tue Mar 12 00:17:28 UTC 2019"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 219,
-  "snapshot-date" : "2020-08-20T01:13:20.533Z"
+  "place" : 168,
+  "snapshot-date" : "2020-08-21T01:11:17.915Z"
 }
