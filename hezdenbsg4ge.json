@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "hezdenbsg4ge",
-    "total_votes" : "55711744856240.45312500000000000",
+    "total_votes" : "55654253480470.90625000000000000",
     "producer_key" : "EOS88tgR4spLS6BLXwApcSGZJHhE2bQiWRry38WPKM9xmUAFx9NnN",
     "is_active" : 1,
     "url" : "https://google.com",
@@ -15,14 +15,14 @@
     "url" : "https://google.com/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 8,
+    "relative-links-count" : 7,
     "duplicate-urls" : null,
     "social-links" : [ "https://www.youtube.com/?gl=US&tab=w1" ],
     "social-links-count" : 1,
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.7612251086220666E-7,
+  "vote-percentage" : 2.7605986403613065E-7,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -44,5 +44,5 @@
     "max" : 3
   },
   "place" : 260,
-  "snapshot-date" : "2020-08-20T01:13:20.533Z"
+  "snapshot-date" : "2020-08-22T01:13:17.028Z"
 }

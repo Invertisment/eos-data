@@ -1,17 +1,17 @@
 {
   "bp-header" : {
     "owner" : "sheos21sheos",
-    "total_votes" : "510360564800511616.00000000000000000",
+    "total_votes" : "345489055845851264.00000000000000000",
     "producer_key" : "EOS5nUybopuNRPp4Lgpt3BCxT3j2Zw3BftJha8gLbJFvMQBMC3ToL",
     "is_active" : 1,
     "url" : "https://sheos.org",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-08-19T09:43:06.500",
+    "last_claim_time" : "2020-08-21T09:52:18.000",
     "location" : 724,
     "prepared-url" : "https://sheos.org"
   },
   "bp-json-summary" : {
-    "read-error" : "read:'https://sheos.org/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "dl-error" : "clj-http: status 404",
     "url" : "https://sheos.org/bp.json"
   },
   "analyzed-urls" : {
@@ -20,7 +20,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.0025294853169903196,
+  "vote-percentage" : 0.0017137173857923401,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -31,8 +31,8 @@
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://sheos.org/bp.json",
-      "paragraphs" : [ "bp-json-invalid" ],
-      "error" : "read:'https://sheos.org/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -41,6 +41,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 71,
-  "snapshot-date" : "2020-08-20T01:13:20.533Z"
+  "place" : 73,
+  "snapshot-date" : "2020-08-22T01:13:17.028Z"
 }
