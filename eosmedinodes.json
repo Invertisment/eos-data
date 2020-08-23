@@ -15,13 +15,14 @@
     "url" : "http://eosmedi.com/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 199,
+    "relative-links-count" : 5,
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ ]
+    "popularity-boosters" : [ "common.asp?id=1", "common.asp?id=2", "index.asp", "news.asp?id=1", "news.asp?id=10", "news.asp?id=11", "news.asp?id=3", "news.asp?id=6", "news.asp?id=7", "news.asp?id=8", "news.asp?id=9", "news_detail.asp?id=100", "news_detail.asp?id=102", "news_detail.asp?id=106", "news_detail.asp?id=107", "news_detail.asp?id=108", "news_detail.asp?id=121", "news_detail.asp?id=122", "news_detail.asp?id=124", "news_detail.asp?id=125", "news_detail.asp?id=126", "news_detail.asp?id=128", "news_detail.asp?id=129", "news_detail.asp?id=72", "news_detail.asp?id=73", "news_detail.asp?id=74", "news_detail.asp?id=75", "news_detail.asp?id=77", "news_detail.asp?id=78", "news_detail.asp?id=82", "news_detail.asp?id=90", "news_detail.asp?id=98", "news_detail.asp?id=99", "team.asp", "team_detail.asp?id=43", "team_detail.asp?id=45", "team_detail.asp?id=46", "team_detail.asp?id=48", "team_detail.asp?id=50" ],
+    "popularity-boosters-count" : 39
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.5159039331176747E-5,
+  "vote-percentage" : 1.9897311724428303E-5,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -42,6 +43,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 120,
-  "snapshot-date" : "2020-08-22T01:13:17.028Z"
+  "place" : 91,
+  "snapshot-date" : "2020-08-23T01:11:21.352Z"
 }
