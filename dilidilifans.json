@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "dilidilifans",
-    "total_votes" : "5998900688940447.00000000000000000",
+    "total_votes" : "5998902054897838.00000000000000000",
     "producer_key" : "EOS7b3KnyRNxu4jVVnroB7T54gquXD5wYfcPnovDz2DjYuGBUwehq",
     "is_active" : 1,
     "url" : "www.dilidili.name",
@@ -14,14 +14,19 @@
     "dl-error" : "no protocol: www.dilidili.name/bp.json",
     "url" : "www.dilidili.name/bp.json"
   },
-  "webpage-error" : "www.dilidili.name: Name or service not known",
-  "vote-percentage" : 3.905703802373364E-5,
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 2.9618848631149656E-5,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "www.dilidili.name: Name or service not known",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "www.dilidili.name"
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
@@ -33,9 +38,9 @@
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 0,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 80,
-  "snapshot-date" : "2020-08-23T01:11:21.352Z"
+  "place" : 109,
+  "snapshot-date" : "2020-08-24T01:12:51.209Z"
 }
