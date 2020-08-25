@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eoswtzeoswtz",
-    "total_votes" : "444446747026584.00000000000000000",
+    "total_votes" : "444621477669587.31250000000000000",
     "producer_key" : "EOS7temBEsAoxRtUNsy7M6XmZMDuxwKvg8EuBYZ9CMfnaiGDUyHwZ",
     "is_active" : 1,
     "url" : "http://www.eoswtz.com/",
@@ -17,10 +17,11 @@
   "analyzed-urls" : {
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ ]
+    "popularity-boosters" : [ "https://www.amazon.com/gp/help/customer/display.html/ref=footer_cou?ie=UTF8&nodeId=508088", "https://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496" ],
+    "popularity-boosters-count" : 2
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.194401709566075E-6,
+  "vote-percentage" : 2.8901266310063043E-6,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -41,6 +42,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 193,
-  "snapshot-date" : "2020-08-24T01:12:51.209Z"
+  "place" : 149,
+  "snapshot-date" : "2020-08-25T01:11:16.685Z"
 }
