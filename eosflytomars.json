@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosflytomars",
-    "total_votes" : "5467974109208877056.00000000000000000",
+    "total_votes" : "5465377921592793088.00000000000000000",
     "producer_key" : "EOS6Agpfp38bTyRjJDmB4Qb1EpQSq7wnEAsALXgXE7KFSzKjokkFD",
     "is_active" : 1,
     "url" : "https://www.bitmars.one",
-    "unpaid_blocks" : 7752,
-    "last_claim_time" : "2020-08-24T02:30:06.500",
+    "unpaid_blocks" : 7741,
+    "last_claim_time" : "2020-08-25T02:30:10.000",
     "location" : 156,
     "prepared-url" : "https://www.bitmars.one"
   },
@@ -22,7 +22,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.035542901961252926,
+  "vote-percentage" : 0.026965567265602095,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -47,6 +47,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 5,
-  "snapshot-date" : "2020-08-25T01:11:16.685Z"
+  "place" : 6,
+  "snapshot-date" : "2020-08-26T01:13:11.224Z"
 }

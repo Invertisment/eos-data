@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosgreeniobp",
-    "total_votes" : "459649696656871.93750000000000000",
+    "total_votes" : "460256698759146.62500000000000000",
     "producer_key" : "EOS6gBhD9Dm7qcJuR5WFuxNo6aH15csHP8uss8esejuNoEUmRZUR9",
     "is_active" : 1,
     "url" : "https://eosgreen.io",
@@ -15,7 +15,7 @@
     "url" : "https://eosgreen.io/bp.json"
   },
   "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 2.987812995910212E-6,
+  "vote-percentage" : 2.2708554006484377E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 146,
-  "snapshot-date" : "2020-08-25T01:11:16.685Z"
+  "place" : 187,
+  "snapshot-date" : "2020-08-26T01:13:11.224Z"
 }
