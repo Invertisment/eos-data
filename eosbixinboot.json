@@ -1,50 +1,41 @@
 {
   "bp-header" : {
     "owner" : "eosbixinboot",
-    "total_votes" : "1068407179137750144.00000000000000000",
+    "total_votes" : "1068400777393148160.00000000000000000",
     "producer_key" : "EOS7QC1XfAtkYeLjbHQjcDWVqUsxuSJ3YRhNyG93VAv2u3uHopGVp",
     "is_active" : 1,
     "url" : "https://www.eosbixin.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-08-25T09:25:04.000",
+    "last_claim_time" : "2020-08-26T09:30:03.500",
     "location" : 7,
     "prepared-url" : "https://www.eosbixin.com"
   },
   "bp-json-summary" : {
-    "url" : "https://www.eosbixin.com/bp.json",
-    "logo" : "https://raw.githubusercontent.com/EOSBIXIN/eostoolkit/master/logo/eosbixinlogo_256.png",
-    "code_of_conduct" : "https://steemit.com/eos/@tuitui/eosbixin-code-of-conduct"
+    "dl-error" : "NotAfter: Wed Aug 26 12:00:00 UTC 2020",
+    "url" : "https://www.eosbixin.com/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 8,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://weibo.com/haobtc?is_hot=1" ],
-    "social-links-count" : 1,
-    "popularity-boosters" : [ "https://bixin.im/common/contact", "https://bixin.im/common/jobs", "https://bixin.im/common/logo", "https://bixin.im/common/report", "https://jinshuju.net/f/6fLgh2" ],
-    "popularity-boosters-count" : 5
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.005271402283503011,
+  "webpage-error" : "NotAfter: Wed Aug 26 12:00:00 UTC 2020",
+  "vote-percentage" : 0.005282572726715781,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://www.eosbixin.com"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "NotAfter: Wed Aug 26 12:00:00 UTC 2020",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://www.eosbixin.com/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://www.eosbixin.com/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "NotAfter: Wed Aug 26 12:00:00 UTC 2020"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://steemit.com/eos/@tuitui/eosbixin-code-of-conduct"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 63,
-  "snapshot-date" : "2020-08-26T01:13:11.224Z"
+  "place" : 62,
+  "snapshot-date" : "2020-08-27T01:13:10.094Z"
 }
