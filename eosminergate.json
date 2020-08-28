@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosminergate",
-    "total_votes" : "2568602563933034.50000000000000000",
+    "total_votes" : "3063297683207822.00000000000000000",
     "producer_key" : "EOS5dLSkjLYTxfJqZG4v7oGHx9qaXC2QbnjH9ZepP2ywdzC66CNjy",
     "is_active" : 1,
     "url" : "https://minergate.com",
@@ -15,22 +15,14 @@
     "logo" : "https://minergate.com/static/img/eos/logo-white_256.png",
     "code_of_conduct" : "https://minergate.com/eos-block-producer/code-of-conduct"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 40,
-    "duplicate-urls" : null,
-    "social-links" : [ "http://medium.com/@minergate", "https://instagram.com/MinerGate", "https://t.me/joinchat/AAAAAEXTWph-HjuBsZG3yg", "https://twitter.com/MinerGate", "https://www.facebook.com/MinerGate", "https://www.reddit.com/r/MinerGateOfficial/" ],
-    "social-links-count" : 6,
-    "popularity-boosters" : [ "https://bit.ly/appminergate", "https://goo.gl/1Hr1yQ", "https://goo.gl/VG6QQv", "https://hitbtc.com/", "https://hitbtc.com/?ref_id=5cba0be404aa3", "https://payments.changelly.com/?crypto=BTC&fiat=USD&amount=50&ref_id=minergate&utm_source=minergate&utm_medium=referral&utm_campaign=with_credit_card" ],
-    "popularity-boosters-count" : 6
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.2700131015546651E-5,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 1.99681160755995E-5,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://minergate.com"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -42,9 +34,9 @@
       "title" : "coc",
       "url" : "https://minergate.com/eos-block-producer/code-of-conduct"
     } ],
-    "score" : 3,
+    "score" : 2,
     "max" : 3
   },
-  "place" : 127,
-  "snapshot-date" : "2020-08-27T01:13:10.094Z"
+  "place" : 93,
+  "snapshot-date" : "2020-08-28T01:11:18.689Z"
 }

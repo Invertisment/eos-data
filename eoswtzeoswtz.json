@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eoswtzeoswtz",
-    "total_votes" : "444621477669587.31250000000000000",
+    "total_votes" : "452471891387866.56250000000000000",
     "producer_key" : "EOS7temBEsAoxRtUNsy7M6XmZMDuxwKvg8EuBYZ9CMfnaiGDUyHwZ",
     "is_active" : 1,
     "url" : "http://www.eoswtz.com/",
@@ -15,12 +15,14 @@
     "url" : "http://www.eoswtz.com/bp.json"
   },
   "analyzed-urls" : {
+    "relative-links-count" : 191,
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ ]
+    "popularity-boosters" : [ "http://go.thehub-amazon.com/amazon-hub-locker", "https://advertising.amazon.com/?ref=ext_amzn_ftr", "https://advertising.amazon.com/?ref=footer_advtsing_amzn_com", "https://affiliate-program.amazon.com/", "https://aws.amazon.com/what-is-cloud-computing/?sc_channel=EL&sc_campaign=amazonfooter", "https://blog.aboutamazon.com/?utm_source=gateway&utm_medium=footer", "https://developer.amazon.com", "https://eero.com/", "https://ignite.amazon.com/?ref=amazon_footer_ignite", "https://kdp.amazon.com", "https://music.amazon.com?ref=dm_aff_amz_com", "https://primenow.amazon.com/?ref=HOUD12C322_0_GlobalFooter", "https://pro.imdb.com?ref_=amzn_nav_ftr", "https://rapids.amazon.com/?ref=rapids_acq_gatewayfooter", "https://ring.com", "https://sell.amazon.com/programs/amazon-business.html?ld=usb2bunifooter&ref_=footer_b2b", "https://shop.ring.com/pages/neighbors-app", "https://sustainability.aboutamazon.com/?utm_source=gateway&utm_medium=footer&ref_=susty_footer", "https://videodirect.amazon.com/home/landing", "https://www.6pm.com", "https://www.abebooks.com", "https://www.aboutamazon.com/?utm_source=gateway&utm_medium=footer", "https://www.aboutamazon.com/amazon-fulfillment-center-tours?utm_source=gateway&utm_medium=footer&utm_campaign=fctours", "https://www.acx.com/", "https://www.alexa.com", "https://www.amazon.com/ap/signin?openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.amazon.com%2F%3F_encoding%3DUTF8%26ref_%3Dnav_ya_signin&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.assoc_handle=usflex&openid.mode=checkid_setup&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&", "https://www.amazon.com/ir", "https://www.amazon.com/pr", "https://www.amazon.jobs", "https://www.audible.com", "https://www.bookdepository.com", "https://www.boxofficemojo.com/?ref_=amzn_nav_ftr", "https://www.comixology.com", "https://www.createspace.com", "https://www.dpreview.com", "https://www.eastdane.com/welcome", "https://www.fabric.com", "https://www.goodreads.com", "https://www.imdb.com", "https://www.pillpack.com", "https://www.shopbop.com/welcome", "https://www.wholefoodsmarket.com", "https://www.woot.com/", "https://www.zappos.com" ],
+    "popularity-boosters-count" : 44
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.1983747497640993E-6,
+  "vote-percentage" : 2.9494395199351608E-6,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -41,6 +43,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 191,
-  "snapshot-date" : "2020-08-27T01:13:10.094Z"
+  "place" : 149,
+  "snapshot-date" : "2020-08-28T01:11:18.689Z"
 }

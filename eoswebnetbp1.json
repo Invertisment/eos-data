@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eoswebnetbp1",
-    "total_votes" : "159500707794728.93750000000000000",
+    "total_votes" : "187555909189211.71875000000000000",
     "producer_key" : "EOS5sT6mdCkTBLZM8vZnwqmBpA6gjtbdSTEeGL2k26JQFnjaCg6j2",
     "is_active" : 1,
     "url" : "https://eosweb.net",
@@ -15,7 +15,7 @@
     "url" : "https://eosweb.net/bp.json"
   },
   "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 7.886311080230984E-7,
+  "vote-percentage" : 1.2225838141309685E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 217,
-  "snapshot-date" : "2020-08-27T01:13:10.094Z"
+  "place" : 166,
+  "snapshot-date" : "2020-08-28T01:11:18.689Z"
 }
