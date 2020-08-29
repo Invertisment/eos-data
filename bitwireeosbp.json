@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "bitwireeosbp",
-    "total_votes" : "3041587478141751.50000000000000000",
+    "total_votes" : "3044306805494797.00000000000000000",
     "producer_key" : "EOS5qLf4DxX2c2aG6dxHs5gGipBCnJXFP7VowfKnp5dAGt5UBXqGL",
     "is_active" : 1,
     "url" : "https://www.bitwires.com",
@@ -11,23 +11,23 @@
     "prepared-url" : "https://www.bitwires.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "unable to find valid certification path to requested target",
+    "dl-error" : "www.bitwires.com",
     "url" : "https://www.bitwires.com/bp.json"
   },
-  "webpage-error" : "unable to find valid certification path to requested target",
-  "vote-percentage" : 1.9826598032099918E-5,
+  "webpage-error" : "www.bitwires.com: Name or service not known",
+  "vote-percentage" : 1.9872843963770227E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "unable to find valid certification path to requested target",
+      "error" : "www.bitwires.com: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://www.bitwires.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "unable to find valid certification path to requested target"
+      "error" : "www.bitwires.com"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 94,
-  "snapshot-date" : "2020-08-28T01:11:18.689Z"
+  "place" : 95,
+  "snapshot-date" : "2020-08-29T01:11:01.355Z"
 }
