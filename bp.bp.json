@@ -11,38 +11,31 @@
     "prepared-url" : "https://www.bitportal.io"
   },
   "bp-json-summary" : {
-    "url" : "https://www.bitportal.io/bp.json",
-    "logo" : "https://cdn.bitportal.io/bp/bitportal_256.png"
+    "dl-error" : "Connection refused (Connection refused)",
+    "url" : "https://www.bitportal.io/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 4,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://bitportal.github.io/bitportal-release-notes/", "https://github.com/BitPortal", "https://t.me/BitPortal_official_EN", "https://twitter.com/BitPortal_IO" ],
-    "social-links-count" : 4,
-    "popularity-boosters" : [ "http://cointegra.io/", "http://d.6short.com/bpv1apk", "http://s.bitportal.io/4DUnz", "http://s.bitportal.io/6cHwC", "http://www.ratio.fund/", "https://apps.apple.com/app/bitportal-wallet-by-dexlize/id1438712581?mt=8", "https://btccpooleos.com/", "https://dapp.pub/", "https://discordapp.com/invite/ZRUvfxV", "https://imeos.one/", "https://kyubey.network/", "https://slowmist.io/", "https://spider.store/ranking/eos/hot", "https://testflight.apple.com/join/9Y4NtBEQ", "https://www.dexlize.org/", "https://www.ihuoqiu.com/" ],
-    "popularity-boosters-count" : 16
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.218479245013612E-7,
+  "webpage-error" : "Connection refused (Connection refused)",
+  "vote-percentage" : 1.2196975909330833E-7,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://www.bitportal.io"
-    }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://www.bitportal.io/bp.json"
-    }, {
-      "title" : "no-coc",
       "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "title" : "no-web",
+      "error" : "Connection refused (Connection refused)",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://www.bitportal.io/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "Connection refused (Connection refused)"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 0,
     "max" : 3
   },
   "place" : 295,
-  "snapshot-date" : "2020-08-31T01:13:18.426Z"
+  "snapshot-date" : "2020-09-01T01:13:14.945Z"
 }

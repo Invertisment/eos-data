@@ -11,18 +11,18 @@
     "prepared-url" : "http://www.whateos.com"
   },
   "bp-json-summary" : {
-    "read-error" : "read:'http://www.whateos.com/BP_info.json/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 4, column: 4]",
+    "read-error" : "read:'http://www.whateos.com/BP_info.json/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
     "url" : "http://www.whateos.com/BP_info.json/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 18,
+    "relative-links-count" : 24,
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ "http://www.HugeDomains.com/satisfaction_guaranteed.cfm", "https://www.HugeDomains.com/about.cfm", "https://www.HugeDomains.com/payment-plan-login.cfm", "https://www.HugeDomains.com/shopping_cart.cfm" ],
+    "popularity-boosters" : [ "https://www.HugeDomains.com/faq.cfm", "https://www.HugeDomains.com/payment-plans.cfm", "https://www.HugeDomains.com/shopping_cart.cfm?d=WhatEos&e=com", "https://www.HugeDomains.com/testimonials.cfm" ],
     "popularity-boosters-count" : 4
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 8.046326870012496E-7,
+  "vote-percentage" : 8.054372316456439E-7,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -34,7 +34,7 @@
       "mood" : "warn",
       "url" : "http://www.whateos.com/BP_info.json/bp.json",
       "paragraphs" : [ "bp-json-invalid" ],
-      "error" : "read:'http://www.whateos.com/BP_info.json/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 4, column: 4]"
+      "error" : "read:'http://www.whateos.com/BP_info.json/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -44,5 +44,5 @@
     "max" : 3
   },
   "place" : 217,
-  "snapshot-date" : "2020-08-31T01:13:18.426Z"
+  "snapshot-date" : "2020-09-01T01:13:14.945Z"
 }
