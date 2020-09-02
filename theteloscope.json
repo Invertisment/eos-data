@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "theteloscope",
-    "total_votes" : "29591860717379.22656250000000000",
+    "total_votes" : "29592713282667.73828125000000000",
     "producer_key" : "EOS5R79u82hk286SYDqetkLVan4GC92dD7Up3rZ7WimY2n7sdY3G1",
     "is_active" : 1,
     "url" : "https://theteloscope.io",
@@ -11,44 +11,31 @@
     "prepared-url" : "https://theteloscope.io"
   },
   "bp-json-summary" : {
-    "url" : "https://theteloscope.io/bp.json",
-    "logo" : "https://theteloscope.io/img/teloscope-logo-256.png",
-    "code_of_conduct" : "https://github.com/theteloscope/theteloscope-web/tree/master/transparency/codeofconduct"
+    "dl-error" : "NotAfter: Tue Sep 01 08:35:57 UTC 2020",
+    "url" : "https://theteloscope.io/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 9,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/theteloscope", "https://github.com/theteloscope/theteloscope-web/tree/master/transparency/codeofconduct", "https://github.com/theteloscope/theteloscope-web/tree/master/transparency/ownershipdisclosure", "https://medium.com/@theteloscope", "https://medium.com/@theteloscope/15-things-weve-done-in-two-months-fb41accb08ff", "https://medium.com/@theteloscope/get-a-free-telos-account-in-seconds-through-the-teloscope-bot-c9ae5a40915e", "https://medium.com/@theteloscope/getting-started-with-chainspector-336cfaa4358d", "https://medium.com/@theteloscope/the-sensordapp-tutorial-687a6bd76a09", "https://medium.com/@theteloscope/the-teloscope-telegram-bot-a-guide-for-beginners-2c96340a6dd", "https://medium.com/theteloscope", "https://medium.com/theteloscope/sensordapp/home", "https://medium.com/theteloscope/weekly/home", "https://t.me/TeloscopeBot", "https://t.me/joinchat/LeKxk09Fz-zH1EFEwQ21Bg", "https://twitter.com/TheTeloscope", "https://www.linkedin.com/in/%C3%A1lvaro-arias-fern%C3%A1ndez-042839b7/", "https://www.linkedin.com/in/andr%C3%A9s-berdasco-blanco-071a1891/", "https://www.linkedin.com/in/ccampomanesai/?originalSubdomain=es", "https://www.linkedin.com/in/emilio-tere%C3%B1es-castelao-009116172/", "https://www.linkedin.com/in/raulalonsoalvarez/", "https://www.linkedin.com/in/rub%C3%A9n-luque-289a08bb", "https://www.reddit.com/user/theteloscope", "https://www.youtube.com/channel/UCQO901djDCBHGPaMg5mrnWQ" ],
-    "social-links-count" : 23,
-    "popularity-boosters" : [ "https://chainspector.io", "https://www.xing.com/profile/Luis_Meijueiro" ],
-    "popularity-boosters-count" : 2
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.4656094465614213E-7,
+  "webpage-error" : "NotAfter: Tue Sep 01 08:35:57 UTC 2020",
+  "vote-percentage" : 1.4692624596823335E-7,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://theteloscope.io"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "NotAfter: Tue Sep 01 08:35:57 UTC 2020",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://theteloscope.io/bp.json"
-    }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://github.com/theteloscope/theteloscope-web/tree/master/transparency/codeofconduct"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://theteloscope.io/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "NotAfter: Tue Sep 01 08:35:57 UTC 2020"
     }, {
       "mood" : "warn",
-      "title" : "t-coc-social",
-      "paragraphs" : [ "p-coc-social" ]
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 0,
     "max" : 3
   },
   "place" : 283,
-  "snapshot-date" : "2020-09-01T01:13:14.945Z"
+  "snapshot-date" : "2020-09-02T01:13:08.965Z"
 }

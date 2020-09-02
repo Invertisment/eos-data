@@ -11,23 +11,23 @@
     "prepared-url" : "http://eosbattles.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "eosbattles.com:80 failed to respond",
     "url" : "http://eosbattles.com/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 1.6301709995342564E-9,
+  "webpage-error" : "eosbattles.com:80 failed to respond",
+  "vote-percentage" : 1.6341870980136035E-9,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "eosbattles.com:80 failed to respond",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://eosbattles.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "eosbattles.com:80 failed to respond"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 431,
-  "snapshot-date" : "2020-09-01T01:13:14.945Z"
+  "snapshot-date" : "2020-09-02T01:13:08.965Z"
 }
