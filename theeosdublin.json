@@ -11,31 +11,40 @@
     "prepared-url" : "https://eosdublin.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "Certificate for <eosdublin.com> doesn't match any of the subject alternative names: [www.eosdublin.com]",
-    "url" : "https://eosdublin.com/bp.json"
+    "url" : "https://eosdublin.com/bp.json",
+    "logo" : "https://raw.githubusercontent.com/eosdublin/eosdublin/master/images/eosdublin-icon-256.png",
+    "code_of_conduct" : "https://www.eosdublin.com/values/"
   },
-  "webpage-error" : "Certificate for <eosdublin.com> doesn't match any of the subject alternative names: [www.eosdublin.com]",
-  "vote-percentage" : 3.1361043857632965E-8,
+  "analyzed-urls" : {
+    "relative-links-count" : 9,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://medium.com/@coachbjork/my-top-16-candidates-for-eos-block-producer-f0c7886bf085", "https://medium.com/@eosdublin/", "https://medium.com/@eosdublin/airdrop-for-eos-token-holders-957c249c73fd", "https://steemit.com/@eosdublin", "https://steemit.com/eos/@datajunky/eos-watchdogs-proxy-vote-with-the-wisdom-of-the-crowd", "https://steemit.com/eos/@eos42/30-block-producers-who-have-put-in-thousands-of-hours-for-eos", "https://steemit.com/eos/@eosnewyork/your-vote-matters-5-examples-of-good-block-producers", "https://t.me/eosdublin", "https://twitter.com/eosdublin", "https://www.meetup.com/EOS-Dublin/" ],
+    "social-links-count" : 10,
+    "popularity-boosters" : [ "http://sonatasys.com/sonataHome.shtml", "https://airdropsforeos.com/", "https://eosbootcamp.com/", "https://europechain.io", "https://everipedia.org/wiki/eos-dublin/", "https://ignition.zone/", "https://telosfoundation.io/", "https://trybe.one/who-to-vote-for-in-the-eos-block-producer-candidacy-election/", "https://worbli.io", "https://www.chintai.io/", "https://www.eosx.io/tools/vote?voteTo=eosdublinwow" ],
+    "popularity-boosters-count" : 11
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 3.147014877273339E-8,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "Certificate for <eosdublin.com> doesn't match any of the subject alternative names: [www.eosdublin.com]",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eosdublin.com"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://eosdublin.com/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Certificate for <eosdublin.com> doesn't match any of the subject alternative names: [www.eosdublin.com]"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eosdublin.com/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://www.eosdublin.com/values/"
     } ],
-    "score" : 0,
+    "score" : 3,
     "max" : 3
   },
   "place" : 358,
-  "snapshot-date" : "2020-09-04T01:13:28.677Z"
+  "snapshot-date" : "2020-09-05T01:13:07.903Z"
 }

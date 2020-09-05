@@ -16,14 +16,14 @@
     "code_of_conduct" : "https://eos.blockside.io/coc.html"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 5,
+    "relative-links-count" : 4,
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ "https://blockside.io/eos/coc.html", "https://blockside.io/telos/coc.html", "https://blockside.io/telos/cookies.html", "https://blockside.io/telos/disclosure.html", "https://developers.eos.io/", "https://www.eosx.io/tools/vote?voteTo=blocksideita" ],
-    "popularity-boosters-count" : 6
+    "popularity-boosters" : [ "https://blockside.io/eos/coc.html", "https://blockside.io/telos/coc.html", "https://blockside.io/telos/cookies.html", "https://blockside.io/telos/disclosure.html", "https://developers.eos.io/", "https://www.blockside.io", "https://www.eosx.io/tools/vote?voteTo=blocksideita" ],
+    "popularity-boosters-count" : 7
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 5.4593246651794065E-9,
+  "vote-percentage" : 5.478317628449508E-9,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,5 +45,5 @@
     "max" : 3
   },
   "place" : 410,
-  "snapshot-date" : "2020-09-04T01:13:28.677Z"
+  "snapshot-date" : "2020-09-05T01:13:07.903Z"
 }
