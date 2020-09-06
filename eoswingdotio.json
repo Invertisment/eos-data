@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eoswingdotio",
-    "total_votes" : "307311115909838.31250000000000000",
+    "total_votes" : "306194467153641.18750000000000000",
     "producer_key" : "EOS5o4BNMCy6Sh3BvstKytJS5TnXrxEW5oF7Wh3wBJTnaoQbLpwFh",
     "is_active" : 1,
     "url" : "https://eoswing.io",
@@ -11,23 +11,23 @@
     "prepared-url" : "https://eoswing.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "eoswing.io",
+    "dl-error" : "SSL peer shut down incorrectly",
     "url" : "https://eoswing.io/bp.json"
   },
-  "webpage-error" : "eoswing.io: Temporary failure in name resolution",
-  "vote-percentage" : 1.5325650272791876E-6,
+  "webpage-error" : "SSL peer shut down incorrectly",
+  "vote-percentage" : 2.000304444181657E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "eoswing.io: Temporary failure in name resolution",
+      "error" : "SSL peer shut down incorrectly",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eoswing.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "eoswing.io"
+      "error" : "SSL peer shut down incorrectly"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 204,
-  "snapshot-date" : "2020-09-05T01:13:07.903Z"
+  "place" : 158,
+  "snapshot-date" : "2020-09-06T01:10:56.364Z"
 }

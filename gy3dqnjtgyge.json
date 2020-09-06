@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "gy3dqnjtgyge",
-    "total_votes" : "374477229416365.81250000000000000",
+    "total_votes" : "374478010389507.06250000000000000",
     "producer_key" : "EOS6o9DdrLKio11s1WBsMfu1nbEiTw6Sq4APV1HcfYr3bLugEBTY3",
     "is_active" : 1,
     "url" : "http://eosbattles.com",
@@ -11,23 +11,23 @@
     "prepared-url" : "http://eosbattles.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "eosbattles.com:80 failed to respond",
+    "dl-error" : "eosbattles.com",
     "url" : "http://eosbattles.com/bp.json"
   },
-  "webpage-error" : "eosbattles.com:80 failed to respond",
-  "vote-percentage" : 1.8675234171623858E-6,
+  "webpage-error" : "eosbattles.com: No address associated with hostname",
+  "vote-percentage" : 2.446386557515979E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "eosbattles.com:80 failed to respond",
+      "error" : "eosbattles.com: No address associated with hostname",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://eosbattles.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "eosbattles.com:80 failed to respond"
+      "error" : "eosbattles.com"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 195,
-  "snapshot-date" : "2020-09-05T01:13:07.903Z"
+  "place" : 153,
+  "snapshot-date" : "2020-09-06T01:10:56.364Z"
 }
