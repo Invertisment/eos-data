@@ -1,45 +1,41 @@
 {
   "bp-header" : {
     "owner" : "eosx.game",
-    "total_votes" : "1061457152637572096.00000000000000000",
+    "total_votes" : "1061462733356320256.00000000000000000",
     "producer_key" : "EOS727yFoVQYBsXZ9qxtZJPJu3rm4befuoVwBk7iqgBWjmEGAMUax",
     "is_active" : 1,
     "url" : "https://chaingame.club",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-09-05T01:27:09.500",
+    "last_claim_time" : "2020-09-06T01:27:11.000",
     "location" : 156,
     "prepared-url" : "https://chaingame.club"
   },
   "bp-json-summary" : {
-    "url" : "https://chaingame.club/bp.json",
-    "logo" : "https://chaingame.club/eosx.game-logo/png/eosx-game-logo-256.png"
+    "dl-error" : "NotAfter: Sun Sep 06 03:00:44 UTC 2020",
+    "url" : "https://chaingame.club/bp.json"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.006934277681327116,
+  "webpage-error" : "NotAfter: Sun Sep 06 03:00:44 UTC 2020",
+  "vote-percentage" : 0.005284506954009831,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://chaingame.club"
-    }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://chaingame.club/bp.json"
-    }, {
-      "title" : "no-coc",
       "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "title" : "no-web",
+      "error" : "NotAfter: Sun Sep 06 03:00:44 UTC 2020",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://chaingame.club/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "NotAfter: Sun Sep 06 03:00:44 UTC 2020"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 50,
-  "snapshot-date" : "2020-09-06T01:10:56.364Z"
+  "place" : 65,
+  "snapshot-date" : "2020-09-07T01:13:16.357Z"
 }
