@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "libertyblock",
-    "total_votes" : "138229618294481280.00000000000000000",
+    "total_votes" : "138146670867772576.00000000000000000",
     "producer_key" : "EOS7TqVs7LpMzJwikiWkGTG9UGSwcQVhxP2ZKBM7FCbUwcrryNgHP",
     "is_active" : 1,
     "url" : "https://libertyblock.io",
@@ -15,7 +15,7 @@
     "url" : "https://libertyblock.io/bp.json"
   },
   "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 6.881780736828743E-4,
+  "vote-percentage" : 6.913306112039787E-4,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 78,
-  "snapshot-date" : "2020-09-07T01:13:16.357Z"
+  "snapshot-date" : "2020-09-09T01:13:10.098Z"
 }

@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "hexlantttttt",
-    "total_votes" : "1116150239086192768.00000000000000000",
+    "total_votes" : "1115092502246274304.00000000000000000",
     "producer_key" : "EOS83xBpEBigshibgFNjbX3jqHZNDzcnJJrGZaq2ioYTjpGEfckXf",
     "is_active" : 1,
     "url" : "https://hexbp.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-09-06T09:46:45.500",
+    "last_claim_time" : "2020-09-08T09:47:21.000",
     "location" : 410,
     "prepared-url" : "https://hexbp.com"
   },
@@ -14,14 +14,19 @@
     "url" : "https://hexbp.com/bp.json",
     "logo" : "https://hexbp.com/static/img/logo/hexlant_256.png"
   },
-  "webpage-error" : "Read timed out",
-  "vote-percentage" : 0.005556769460497613,
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.005580283450078629,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "Read timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://hexbp.com"
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -32,9 +37,9 @@
       "mood" : "bad",
       "paragraphs" : [ "value-empty" ]
     } ],
-    "score" : 1,
+    "score" : 2,
     "max" : 3
   },
   "place" : 58,
-  "snapshot-date" : "2020-09-07T01:13:16.357Z"
+  "snapshot-date" : "2020-09-09T01:13:10.098Z"
 }
