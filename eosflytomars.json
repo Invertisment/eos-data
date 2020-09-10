@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosflytomars",
-    "total_votes" : "5170904469224888320.00000000000000000",
+    "total_votes" : "5172597997381096448.00000000000000000",
     "producer_key" : "EOS6Agpfp38bTyRjJDmB4Qb1EpQSq7wnEAsALXgXE7KFSzKjokkFD",
     "is_active" : 1,
     "url" : "https://www.bitmars.one",
-    "unpaid_blocks" : 7748,
-    "last_claim_time" : "2020-09-08T02:30:27.500",
+    "unpaid_blocks" : 7740,
+    "last_claim_time" : "2020-09-09T02:30:28.000",
     "location" : 156,
     "prepared-url" : "https://www.bitmars.one"
   },
@@ -15,20 +15,14 @@
     "logo" : "https://api.bitmars.one/logo-256.png",
     "code_of_conduct" : "https://medium.com/@bitmars/code-of-conduct-48b06093ff4c"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 15,
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.025876877993015555,
+  "webpage-error" : "clj-http: status 502",
+  "vote-percentage" : 0.035528333614743085,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://www.bitmars.one"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "clj-http: status 502",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -44,9 +38,9 @@
       "title" : "t-coc-social",
       "paragraphs" : [ "p-coc-social" ]
     } ],
-    "score" : 3,
+    "score" : 2,
     "max" : 3
   },
-  "place" : 7,
-  "snapshot-date" : "2020-09-09T01:13:10.098Z"
+  "place" : 5,
+  "snapshot-date" : "2020-09-10T01:10:25.206Z"
 }
