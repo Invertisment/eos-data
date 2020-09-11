@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "activeeoscom",
-    "total_votes" : "487645915651485.56250000000000000",
+    "total_votes" : "487650161168769.62500000000000000",
     "producer_key" : "EOS788SrVzZ3mJt3WUZkmYadjFJCisJGhZRTp85EznxEaqsARN26w",
     "is_active" : 1,
     "url" : "https://www.activeeos.com",
@@ -11,23 +11,23 @@
     "prepared-url" : "https://www.activeeos.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "www.activeeos.com",
     "url" : "https://www.activeeos.com/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 3.349428427630501E-6,
+  "webpage-error" : "www.activeeos.com: Name or service not known",
+  "vote-percentage" : 2.4456222654185466E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "www.activeeos.com: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://www.activeeos.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "www.activeeos.com"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 137,
-  "snapshot-date" : "2020-09-10T01:10:25.206Z"
+  "place" : 184,
+  "snapshot-date" : "2020-09-11T01:13:15.397Z"
 }

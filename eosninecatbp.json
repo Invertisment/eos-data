@@ -11,23 +11,23 @@
     "prepared-url" : "http://www.eos9cat.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "www.eos9cat.com:80 failed to respond",
     "url" : "http://www.eos9cat.com/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 7.41980486567862E-8,
+  "webpage-error" : "www.eos9cat.com:80 failed to respond",
+  "vote-percentage" : 5.417605539544466E-8,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "www.eos9cat.com:80 failed to respond",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://www.eos9cat.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "www.eos9cat.com:80 failed to respond"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 245,
-  "snapshot-date" : "2020-09-10T01:10:25.206Z"
+  "place" : 344,
+  "snapshot-date" : "2020-09-11T01:13:15.397Z"
 }

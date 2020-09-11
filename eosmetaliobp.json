@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosmetaliobp",
-    "total_votes" : "14989795763113556.00000000000000000",
+    "total_votes" : "14981852101124122.00000000000000000",
     "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
     "is_active" : 0,
     "url" : "https://eosmetal.io",
@@ -15,19 +15,14 @@
     "logo" : "https://eosmetal.io/img/logo-256.png",
     "code_of_conduct" : "https://steemit.com/eos/@eosmetal/eosmetal-code-of-conduct"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.0295840986645375E-4,
+  "webpage-error" : "Certificate for <tools.eosmetal.io> doesn't match any of the subject alternative names: [*.netlify.com, netlify.com]",
+  "vote-percentage" : 7.513573047510212E-5,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eosmetal.io"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Certificate for <tools.eosmetal.io> doesn't match any of the subject alternative names: [*.netlify.com, netlify.com]",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -39,9 +34,9 @@
       "title" : "coc",
       "url" : "https://steemit.com/eos/@eosmetal/eosmetal-code-of-conduct"
     } ],
-    "score" : 3,
+    "score" : 2,
     "max" : 3
   },
-  "place" : 69,
-  "snapshot-date" : "2020-09-10T01:10:25.206Z"
+  "place" : 96,
+  "snapshot-date" : "2020-09-11T01:13:15.397Z"
 }
