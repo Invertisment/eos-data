@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "bitspacenode",
-    "total_votes" : "3989330822333534.50000000000000000",
+    "total_votes" : "3990559612499285.00000000000000000",
     "producer_key" : "EOS7HTwXWUyiKhALQks3uW2n3NXfiZiw7NWG3MC44gHxUYp6ruDgK",
     "is_active" : 1,
     "url" : "https://eos.bitspace.no",
@@ -11,23 +11,23 @@
     "prepared-url" : "https://eos.bitspace.no"
   },
   "bp-json-summary" : {
-    "dl-error" : "eos.bitspace.no",
+    "dl-error" : "Certificate for <eos.bitspace.no> doesn't match any of the subject alternative names: [*.sbv.webhuset.no]",
     "url" : "https://eos.bitspace.no/bp.json"
   },
-  "webpage-error" : "eos.bitspace.no: Name or service not known",
-  "vote-percentage" : 2.0006957979539775E-5,
+  "webpage-error" : "Certificate for <eos.bitspace.no> doesn't match any of the subject alternative names: [*.sbv.webhuset.no]",
+  "vote-percentage" : 1.9998124535408137E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "eos.bitspace.no: Name or service not known",
+      "error" : "Certificate for <eos.bitspace.no> doesn't match any of the subject alternative names: [*.sbv.webhuset.no]",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eos.bitspace.no/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "eos.bitspace.no"
+      "error" : "Certificate for <eos.bitspace.no> doesn't match any of the subject alternative names: [*.sbv.webhuset.no]"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 116,
-  "snapshot-date" : "2020-09-11T01:13:15.397Z"
+  "snapshot-date" : "2020-09-12T01:13:16.048Z"
 }

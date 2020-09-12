@@ -14,22 +14,14 @@
     "dl-error" : "no protocol: blockchainatcolumbia.com/bp.json",
     "url" : "blockchainatcolumbia.com/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 8,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://medium.com/blockchain-at-columbia", "https://medium.com/theblock1/ex-jp-morgan-heads-multi-chain-smart-contract-platform-kadena-4d3be4cedf0", "https://twitter.com/BlockchainatCU", "https://www.facebook.com/BlockchainatColumbia/", "https://www.instagram.com/blockchaincolumbia/" ],
-    "social-links-count" : 5,
-    "popularity-boosters" : [ "http://eepurl.com/dr0pPX", "https://bitrights.io/", "https://coreatcu.com", "https://entrepreneurship.columbia.edu/", "https://forms.gle/PFc8uM7ukXqUyrk16", "https://hackernoon.com/", "https://new.consensys.net/", "https://www.blockchainedu.org/", "https://www.hyperledger.org/", "https://www.ibm.com/blockchain", "https://www.paradigm.market", "https://www.qu.capital" ],
-    "popularity-boosters-count" : 12
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 4.4071001346205065E-8,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 4.403797863988236E-8,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "blockchainatcolumbia.com"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
@@ -41,9 +33,9 @@
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
   "place" : 358,
-  "snapshot-date" : "2020-09-11T01:13:15.397Z"
+  "snapshot-date" : "2020-09-12T01:13:16.048Z"
 }
