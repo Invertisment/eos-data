@@ -11,23 +11,23 @@
     "prepared-url" : "http://www.eos9cat.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "www.eos9cat.com",
     "url" : "http://www.eos9cat.com/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 5.388388839885882E-8,
+  "webpage-error" : "www.eos9cat.com: Name or service not known",
+  "vote-percentage" : 7.085824320106518E-8,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "www.eos9cat.com: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://www.eos9cat.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "www.eos9cat.com"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 344,
-  "snapshot-date" : "2020-09-13T01:13:11.105Z"
+  "place" : 269,
+  "snapshot-date" : "2020-09-14T01:11:15.982Z"
 }
