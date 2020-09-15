@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosvolgabpru",
-    "total_votes" : "2996257692093086.50000000000000000",
+    "total_votes" : "2996501534497832.00000000000000000",
     "producer_key" : "EOS57GDRS9QJWBJie9yQAxvrDKw9p6wiiQ9B8Sv2uJ7WazowB4pkK",
     "is_active" : 1,
     "url" : "https://eosvolga.one",
@@ -11,39 +11,31 @@
     "prepared-url" : "https://eosvolga.one"
   },
   "bp-json-summary" : {
-    "url" : "https://eosvolga.one/bp.json",
-    "logo" : "https://eosvolga.one/eosvolga-logo-256.png",
-    "code_of_conduct" : "https://steemit.com/eos/@eosvolgaone/eos-volga-eos-block-producer-candidate"
+    "dl-error" : "SSL peer shut down incorrectly",
+    "url" : "https://eosvolga.one/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 1,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://steemit.com/@eosvolgaone", "https://t.me/eosvolga", "https://twitter.com/eosvolgabpru" ],
-    "social-links-count" : 3,
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.9653647824956395E-5,
+  "webpage-error" : "SSL peer shut down incorrectly",
+  "vote-percentage" : 1.4947579993463255E-5,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eosvolga.one"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "SSL peer shut down incorrectly",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://eosvolga.one/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eosvolga.one/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "SSL peer shut down incorrectly"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://steemit.com/eos/@eosvolgaone/eos-volga-eos-block-producer-candidate"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 92,
-  "snapshot-date" : "2020-09-14T01:11:15.982Z"
+  "place" : 121,
+  "snapshot-date" : "2020-09-15T01:13:11.166Z"
 }
