@@ -11,7 +11,7 @@
     "prepared-url" : "https://www.baidu.com"
   },
   "bp-json-summary" : {
-    "read-error" : "read:'https://www.baidu.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "dl-error" : "clj-http: status 404",
     "url" : "https://www.baidu.com/bp.json"
   },
   "analyzed-urls" : {
@@ -21,7 +21,7 @@
     "popularity-boosters-count" : 8
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 8.428171966045484E-10,
+  "vote-percentage" : 8.429491872569684E-10,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -32,8 +32,8 @@
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://www.baidu.com/bp.json",
-      "paragraphs" : [ "bp-json-invalid" ],
-      "error" : "read:'https://www.baidu.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -43,5 +43,5 @@
     "max" : 3
   },
   "place" : 449,
-  "snapshot-date" : "2020-09-15T01:13:11.166Z"
+  "snapshot-date" : "2020-09-16T01:12:54.544Z"
 }

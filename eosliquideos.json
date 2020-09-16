@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosliquideos",
-    "total_votes" : "133623774893079888.00000000000000000",
+    "total_votes" : "133626613592214336.00000000000000000",
     "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
     "is_active" : 0,
     "url" : "http://vote.liquideos.com",
@@ -11,23 +11,23 @@
     "prepared-url" : "http://vote.liquideos.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "dl-error" : "vote.liquideos.com",
     "url" : "http://vote.liquideos.com/bp.json"
   },
-  "webpage-error" : "clj-http: status 503",
-  "vote-percentage" : 6.665613353598914E-4,
+  "webpage-error" : "vote.liquideos.com: Name or service not known",
+  "vote-percentage" : 6.666798858235171E-4,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "clj-http: status 503",
+      "error" : "vote.liquideos.com: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://vote.liquideos.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "error" : "vote.liquideos.com"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 79,
-  "snapshot-date" : "2020-09-15T01:13:11.166Z"
+  "snapshot-date" : "2020-09-16T01:12:54.544Z"
 }

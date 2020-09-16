@@ -11,7 +11,7 @@
     "prepared-url" : "http://foc.shsoso.com:8888"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "dl-error" : "connect timed out",
     "url" : "http://foc.shsoso.com:8888/bp.json"
   },
   "analyzed-urls" : {
@@ -20,7 +20,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 5.558194414108807E-10,
+  "vote-percentage" : 5.559064863489705E-10,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -32,7 +32,7 @@
       "mood" : "warn",
       "url" : "http://foc.shsoso.com:8888/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -42,5 +42,5 @@
     "max" : 3
   },
   "place" : 455,
-  "snapshot-date" : "2020-09-15T01:13:11.166Z"
+  "snapshot-date" : "2020-09-16T01:12:54.544Z"
 }

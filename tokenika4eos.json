@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "tokenika4eos",
-    "total_votes" : "54857316506856968.00000000000000000",
+    "total_votes" : "54850226610916536.00000000000000000",
     "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
     "is_active" : 0,
     "url" : "https://tokenika.io",
@@ -11,23 +11,23 @@
     "prepared-url" : "https://tokenika.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 521",
+    "dl-error" : "Read timed out",
     "url" : "https://tokenika.io/bp.json"
   },
-  "webpage-error" : "clj-http: status 521",
-  "vote-percentage" : 2.7364715728416726E-4,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 2.7365463983059776E-4,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "clj-http: status 521",
+      "error" : "Read timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://tokenika.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 521"
+      "error" : "Read timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 82,
-  "snapshot-date" : "2020-09-15T01:13:11.166Z"
+  "snapshot-date" : "2020-09-16T01:12:54.544Z"
 }
