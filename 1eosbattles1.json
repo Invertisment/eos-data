@@ -11,23 +11,23 @@
     "prepared-url" : "http://eosbattles.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "eosbattles.com",
+    "dl-error" : "eosbattles.com:80 failed to respond",
     "url" : "http://eosbattles.com/bp.json"
   },
-  "webpage-error" : "eosbattles.com: No address associated with hostname",
-  "vote-percentage" : 1.6421452608855861E-9,
+  "webpage-error" : "eosbattles.com:80 failed to respond",
+  "vote-percentage" : 2.1572233670032107E-9,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "eosbattles.com: No address associated with hostname",
+      "error" : "eosbattles.com:80 failed to respond",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://eosbattles.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "eosbattles.com"
+      "error" : "eosbattles.com:80 failed to respond"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 435,
-  "snapshot-date" : "2020-09-16T01:12:54.544Z"
+  "place" : 312,
+  "snapshot-date" : "2020-09-17T01:11:02.198Z"
 }
