@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosthushuimu",
-    "total_votes" : "36135974923425576.00000000000000000",
+    "total_votes" : "36135903576079896.00000000000000000",
     "producer_key" : "EOS7mawmWYTjzjt2riNSHKQhA8E86r3L8eXhcotuskGPJU6RNzUZs",
     "is_active" : 1,
     "url" : "http://www.eosthu.com",
@@ -14,13 +14,13 @@
     "dl-error" : "www.eosthu.com",
     "url" : "http://www.eosthu.com/bp.json"
   },
-  "webpage-error" : "www.eosthu.com: Temporary failure in name resolution",
-  "vote-percentage" : 2.3683599623718505E-4,
+  "webpage-error" : "www.eosthu.com: Name or service not known",
+  "vote-percentage" : 2.373876519049642E-4,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "www.eosthu.com: Temporary failure in name resolution",
+      "error" : "www.eosthu.com: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 66,
-  "snapshot-date" : "2020-09-17T01:11:02.198Z"
+  "snapshot-date" : "2020-09-18T01:11:04.889Z"
 }
