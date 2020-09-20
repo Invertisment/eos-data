@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "gy3dqnjtgyge",
-    "total_votes" : "372758762566638.00000000000000000",
+    "total_votes" : "372758446283121.68750000000000000",
     "producer_key" : "EOS6o9DdrLKio11s1WBsMfu1nbEiTw6Sq4APV1HcfYr3bLugEBTY3",
     "is_active" : 1,
     "url" : "http://eosbattles.com",
@@ -11,23 +11,23 @@
     "prepared-url" : "http://eosbattles.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "eosbattles.com:80 failed to respond",
+    "dl-error" : "eosbattles.com",
     "url" : "http://eosbattles.com/bp.json"
   },
-  "webpage-error" : "eosbattles.com:80 failed to respond",
-  "vote-percentage" : 2.4487647634545098E-6,
+  "webpage-error" : "eosbattles.com: Name or service not known",
+  "vote-percentage" : 2.4548013724227534E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "eosbattles.com:80 failed to respond",
+      "error" : "eosbattles.com: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://eosbattles.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "eosbattles.com:80 failed to respond"
+      "error" : "eosbattles.com"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 153,
-  "snapshot-date" : "2020-09-18T01:11:04.889Z"
+  "place" : 154,
+  "snapshot-date" : "2020-09-20T01:11:15.901Z"
 }
