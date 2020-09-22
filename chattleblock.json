@@ -17,11 +17,11 @@
   "analyzed-urls" : {
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ "http://mail.ovh.net", "https://www.ovh.com/", "https://www.ovh.com/fr", "https://www.ovh.com/fr/apropos/", "https://www.ovh.com/fr/careers/", "https://www.ovh.com/fr/espace-presse/", "https://www.ovh.com/fr/hebergement-web/", "https://www.ovh.com/fr/hebergement-web/faq/", "https://www.ovh.com/fr/serveurs_dedies/", "https://www.ovh.com/fr/support/", "https://www.ovh.com/fr/support/documents_legaux/", "https://www.ovh.com/fr/support/documents_legaux/payment.xml", "https://www.ovh.com/fr/support/outils/", "https://www.ovh.com/fr/vps/", "https://www.ovh.com/manager/" ],
+    "popularity-boosters" : [ "https://careers.ovh.com/fr", "https://help.ovhcloud.com/fr/", "https://help.ovhcloud.com/fr/mentions-legales/", "https://help.ovhcloud.com/fr/mentions-legales/payment.xml", "https://help.ovhcloud.com/fr/outils/", "https://www.ovh.com/auth/", "https://www.ovh.com/blog/", "https://www.ovh.com/fr/", "https://www.ovh.com/fr/hebergement-web/", "https://www.ovh.com/fr/hebergement-web/faq/", "https://www.ovh.com/fr/mail/", "https://www.ovhcloud.com/fr/", "https://www.ovhcloud.com/fr/about-us/", "https://www.ovhcloud.com/fr/bare-metal/", "https://www.ovhcloud.com/fr/vps/" ],
     "popularity-boosters-count" : 15
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 3.829325364826527E-11,
+  "vote-percentage" : 2.9085025835230286E-11,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -42,6 +42,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 358,
-  "snapshot-date" : "2020-09-21T02:11:24.107Z"
+  "place" : 543,
+  "snapshot-date" : "2020-09-22T01:13:37.289Z"
 }

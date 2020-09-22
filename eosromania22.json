@@ -11,39 +11,31 @@
     "prepared-url" : "http://eos.romania22.com"
   },
   "bp-json-summary" : {
-    "read-error" : "read:'http://eos.romania22.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "dl-error" : "connect timed out",
     "url" : "http://eos.romania22.com/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 27,
-    "duplicate-urls" : null,
-    "social-links" : [ "http://l.facebook.com/l.php?u=http%3A%2F%2Feos.romania22.com%2F&h=AT2oZu2xTiyZyX5oPtuOiGZDgj1hVp26kkpu9D6Zva68QSaXAzZYSay_G-U551i2zRbcv49q_73h6Tk1ipktkb23Ujq-27kxdriuzfb6-huovPw2RS7RXfWh6l1Y0Py7esa-aC-_5iNhsjch", "http://l.facebook.com/l.php?u=http%3A%2F%2Feos.romania22.com%2F&h=AT3Dk429FzWtXTEVC5h5rOdr77uoThaq8KEJPz0YMdom6QMNRV6tIpRUrs4-auLHofFwOthe0jQdAu1gQDbXqxtuKHHpXWf4MKjZNGZ7Ad2JTSpb3KCbFmVmHiEBtRQhZWFxqhcBMNu6Q-t4JVU", "https://l.facebook.com/l.php?u=https%3A%2F%2Fmedium.com%2F%40eosriobrazil%2Fhyperion-3-0-is-here-3230b4ae55e1&h=AT0C2SKXns8AUButQPuZ7hfahHpOfg0WxPjIB2V5ZLyl9T4PtV_Ov6Vhk17n97ksJevfeHRaYIXIagGYheKaqawvsKe49upgnuFbTIejIUp7xMclxfbXJ0lfOiuIcRtao-0YbX27R93WimV8z9eaXPxQZK9_1iX9nals1Jizy09k_yH9", "https://l.facebook.com/l.php?u=https%3A%2F%2Fmedium.com%2F%40eosriobrazil%2Fhyperion-3-0-is-here-3230b4ae55e1&h=AT1C07hb0GsXHcyYPkDXS6oRNqXMovdUXBAb4yH1QyZy-RaQKe0Q90YJ8x5G3JT1TSBk5uHhe3o3YJY8Bh_42aurl94C9FAb4NNtsLOM_-Kk4uwDKgGLHgvtPM4lRMoujfn9R2BoiVhoY6U7s-W4YrgxZvbYBhgWY2E", "https://l.facebook.com/l.php?u=https%3A%2F%2Fmedium.com%2F%40eosriobrazil%2Fhyperion-3-0-is-here-3230b4ae55e1&h=AT1i24Q8Gwtm5LN7fWDiUaMeFtJ_FBO4VpLdU5EkYmM3zaCrwVvYiQiJx5xq5GwFa87o3lPKLCo3PggfpJhy6IsL0XRwWC9zcA0dw9XLoH25PfHZlCyoPZFh2MIv0GHt9qEw37iJ1AWXKF37Z2OgPb9lFIkf_LRCIfADMECyGVt_Tw", "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.binance.com%2Fen%2Fregister%3Fref%3DJVKYCGY9&h=AT1qChmvcNQhqUInKq0GeW26LAdiUsGXBpfVRecG5uK50ZyyxyrpTBZmmEmQ0mFI_HpxerU8m9uQKypfbhOJsXhC5wm-eFkYqWFwnycnMLlgxDSSjHFxTTJnnUgJu30fkJy_cwzhZFpq8rkQXFVpx8J4uh33K32aJOw_23z91NREFw", "https://www.facebook.com/ADS-Agentia-De-Securitate-915315025294021/?ref=py_c", "https://www.facebook.com/AlternativeLaCeArPuteaFi/?ref=py_c", "https://www.facebook.com/Artechconsult/?ref=py_c", "https://www.facebook.com/CirrusAviationRomania/?ref=py_c", "https://www.facebook.com/Digital-Marketing-Era-TM-104805171197877/?ref=py_c", "https://www.facebook.com/EOSro/?hc_ref=ARRwiMUwnUD4lGbmVsmxXsUNSxwNDs-mcdLGYQGo55Wc0OPxTa43X2Zl1lsXwF33fjg&fref=nf", "https://www.facebook.com/EOSro/?hc_ref=ARSA4wryjbHwya_ftb5uv8aIJsh_42E61MikEpJAcNWR8Skso0dm7QlAfsW-UWpBOqU&fref=nf", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARSgxYftdkPgb-W97yN3EUCKwnfq2yqf5F7R6eMhq7F8gJNpyGH73MIneE7M4T9Jj-A", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARTTtwNQa2ka5hKOLUN8JIFIsLzmqXYaCJ6_bm4ETC2TZYIvCk-A8LRHnbQbQsMFe2E", "https://www.facebook.com/EOSro/likes", "https://www.facebook.com/EOSro/likes?ref=page_internal", "https://www.facebook.com/EOSro/posts", "https://www.facebook.com/Galalogistics/?ref=py_c", "https://www.facebook.com/Giulia-Avon-Reggio-Calabria-144236755997784/?ref=py_c", "https://www.facebook.com/GoodGuysEvents/?ref=py_c", "https://www.facebook.com/MobilierPersonalizat/?ref=py_c", "https://www.facebook.com/SCADA-Mobile-187256262048965/?ref=py_c", "https://www.facebook.com/TheMoodsProject/?ref=py_c", "https://www.facebook.com/Weweglobal-106993520976823/?ref=py_c", "https://www.facebook.com/Yonchim-Drive-SRL-123718561513183/?ref=py_c", "https://www.facebook.com/ad_campaign/landing.php?placement=pf_rhc&campaign_id=242449722530626&extra_1=auto", "https://www.facebook.com/astazi.info/?ref=py_c", "https://www.facebook.com/bogdanmihailescuofficial/?ref=py_c", "https://www.facebook.com/certipro.ro/?ref=py_c", "https://www.facebook.com/dgpimobiliare/?ref=py_c", "https://www.facebook.com/help/568137493302217", "https://www.facebook.com/help/cookies?ref_type=sitefooter", "https://www.facebook.com/hrsollutions/?ref=py_c", "https://www.facebook.com/investitii/?ref=py_c", "https://www.facebook.com/policies?ref=pf", "https://www.facebook.com/privacy/explanation", "https://www.facebook.com/recover/initiate?lwv=110&ars=royal_blue_bar", "https://www.facebook.com/xeduco/?ref=py_c" ],
-    "social-links-count" : 39,
-    "popularity-boosters" : [ "https://www.facebook.com/" ],
-    "popularity-boosters-count" : 1
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.695357613182533E-6,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 2.0472155887999344E-6,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "http://eos.romania22.com"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "connect timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://eos.romania22.com/bp.json",
-      "paragraphs" : [ "bp-json-invalid" ],
-      "error" : "read:'http://eos.romania22.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 152,
-  "snapshot-date" : "2020-09-21T02:11:24.107Z"
+  "place" : 193,
+  "snapshot-date" : "2020-09-22T01:13:37.289Z"
 }

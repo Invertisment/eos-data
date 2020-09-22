@@ -11,23 +11,23 @@
     "prepared-url" : "https://eos.miami"
   },
   "bp-json-summary" : {
-    "dl-error" : "Certificate for <eos.miami> doesn't match any of the subject alternative names: [shortener.secureserver.net, www.shortener.secureserver.net]",
+    "dl-error" : "connect timed out",
     "url" : "https://eos.miami/bp.json"
   },
-  "webpage-error" : "Certificate for <eos.miami> doesn't match any of the subject alternative names: [shortener.secureserver.net, www.shortener.secureserver.net]",
-  "vote-percentage" : 2.792871820637194E-9,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 2.1212809390355707E-9,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Certificate for <eos.miami> doesn't match any of the subject alternative names: [shortener.secureserver.net, www.shortener.secureserver.net]",
+      "error" : "connect timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eos.miami/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Certificate for <eos.miami> doesn't match any of the subject alternative names: [shortener.secureserver.net, www.shortener.secureserver.net]"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 308,
-  "snapshot-date" : "2020-09-21T02:11:24.107Z"
+  "place" : 429,
+  "snapshot-date" : "2020-09-22T01:13:37.289Z"
 }

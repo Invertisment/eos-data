@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "itokenpocket",
-    "total_votes" : "187439256008157568.00000000000000000",
+    "total_votes" : "13347980494779644.00000000000000000",
     "producer_key" : "EOS8BYCigFER1XBbMqD3GjVVF5B3BmB1E1nkjJJTxPX4tmdS3YwMR",
     "is_active" : 1,
     "url" : "https://www.tokenpocket.pro",
@@ -15,22 +15,14 @@
     "logo" : "https://www.tokenpocket.pro/logo_256.png",
     "code_of_conduct" : "https://steemit.com/tokenpocket/@tokenpocket/tokenpocket-code-of-conduct"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 16,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/EOSIO/ual-token-pocket", "https://github.com/TP-Lab", "https://github.com/TP-Lab/tp-android", "https://medium.com/@tokenpocket.gm", "https://t.me/tokenPocket_en", "https://twitter.com/TokenPocket_TP", "https://weibo.com/tokenpocketwallet", "https://www.facebook.com/TokenPocket" ],
-    "social-links-count" : 8,
-    "popularity-boosters" : [ "http://getfallbackeos.mytokenpocket.vip/", "https://bos.bloks.io/account/itokenpocket", "https://dapp.mytokenpocket.vip/ram/index.html", "https://developers.eos.io/eosio-nodeos/docs/monitoring-with-3rd-party", "https://download.tokenpocket.pro/index.html?new", "https://help.mytokenpocket.vip", "https://help.mytokenpocket.vip/hc/zh-cn/categories/360001246112-%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC", "https://key.tokenpocket.pro/", "https://mp.weixin.qq.com/s/yGD3pYaAElhU_TIxqHor4A", "https://res.mytokenpocket.vip/index.html", "https://rex.tokenpocket.pro/", "https://tp-statics.tokenpocket.pro/banner/tokenpocket-1595929866222.zip", "https://www.bloks.io/account/itokenpocket", "https://www.iostabc.com/account/tokenpocket" ],
-    "popularity-boosters-count" : 14
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 9.351578883508001E-4,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 6.678078556309822E-5,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://www.tokenpocket.pro"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -42,9 +34,9 @@
       "title" : "coc",
       "url" : "https://steemit.com/tokenpocket/@tokenpocket/tokenpocket-code-of-conduct"
     } ],
-    "score" : 3,
+    "score" : 2,
     "max" : 3
   },
-  "place" : 76,
-  "snapshot-date" : "2020-09-16T01:12:54.544Z"
+  "place" : 97,
+  "snapshot-date" : "2020-09-22T01:13:37.289Z"
 }

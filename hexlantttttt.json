@@ -1,45 +1,41 @@
 {
   "bp-header" : {
     "owner" : "hexlantttttt",
-    "total_votes" : "1112077320787520128.00000000000000000",
+    "total_votes" : "1120760967072215424.00000000000000000",
     "producer_key" : "EOS83xBpEBigshibgFNjbX3jqHZNDzcnJJrGZaq2ioYTjpGEfckXf",
     "is_active" : 1,
     "url" : "https://hexbp.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-09-15T09:49:25.000",
+    "last_claim_time" : "2020-09-21T09:51:00.500",
     "location" : 410,
     "prepared-url" : "https://hexbp.com"
   },
   "bp-json-summary" : {
-    "url" : "https://hexbp.com/bp.json",
-    "logo" : "https://hexbp.com/static/img/logo/hexlant_256.png"
+    "dl-error" : "hexbp.com",
+    "url" : "https://hexbp.com/bp.json"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.005548292823703974,
+  "webpage-error" : "hexbp.com: No address associated with hostname",
+  "vote-percentage" : 0.005607237577160979,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://hexbp.com"
-    }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://hexbp.com/bp.json"
-    }, {
-      "title" : "no-coc",
       "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "title" : "no-web",
+      "error" : "hexbp.com: No address associated with hostname",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://hexbp.com/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "hexbp.com"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 60,
-  "snapshot-date" : "2020-09-16T01:12:54.544Z"
+  "place" : 54,
+  "snapshot-date" : "2020-09-22T01:13:37.289Z"
 }

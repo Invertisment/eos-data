@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "switzerlanda",
-    "total_votes" : "2327810749946122.50000000000000000",
+    "total_votes" : "2317294654100815.50000000000000000",
     "producer_key" : "EOS7eZQYHQYCoh3uMJyGVrnHgDBxgfp93QAmwLV7nWoQLkeaM7HUs",
     "is_active" : 1,
     "url" : "https://eosgeneva.io",
@@ -11,40 +11,31 @@
     "prepared-url" : "https://eosgeneva.io"
   },
   "bp-json-summary" : {
-    "url" : "https://eosgeneva.io/bp.json",
-    "logo" : "https://eosgeneva.io/images/logo_swiss256.png",
-    "code_of_conduct" : "https://steemit.com/disclosures/@eosgeneva/code-of-conduct-of-eos-geneva-v1-0"
+    "dl-error" : "clj-http: status 503",
+    "url" : "https://eosgeneva.io/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 1,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/eos-geneva/escrowescrow", "https://medium.com/@s.armleder/eos-geneva-has-created-eos-pass-ed47700faffd" ],
-    "social-links-count" : 2,
-    "popularity-boosters" : [ "https://updown.io/c7yx ", "https://updown.io/fhnf" ],
-    "popularity-boosters-count" : 2
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.1613738934736107E-5,
+  "webpage-error" : "clj-http: status 503",
+  "vote-percentage" : 1.1593570835868617E-5,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eosgeneva.io"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "clj-http: status 503",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://eosgeneva.io/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eosgeneva.io/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 503"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://steemit.com/disclosures/@eosgeneva/code-of-conduct-of-eos-geneva-v1-0"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 0,
     "max" : 3
   },
   "place" : 128,
-  "snapshot-date" : "2020-09-16T01:12:54.544Z"
+  "snapshot-date" : "2020-09-22T01:13:37.289Z"
 }
