@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosliquideos",
-    "total_votes" : "133479852926799312.00000000000000000",
+    "total_votes" : "133483086323931216.00000000000000000",
     "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
     "is_active" : 0,
     "url" : "http://vote.liquideos.com",
@@ -15,7 +15,7 @@
     "url" : "http://vote.liquideos.com/bp.json"
   },
   "webpage-error" : "clj-http: status 503",
-  "vote-percentage" : 6.678080956729499E-4,
+  "vote-percentage" : 8.874198871672908E-4,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 76,
-  "snapshot-date" : "2020-09-22T01:13:37.289Z"
+  "place" : 58,
+  "snapshot-date" : "2020-09-23T01:10:49.443Z"
 }

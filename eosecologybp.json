@@ -14,21 +14,14 @@
     "read-error" : "read:'http://www.eosecology.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
     "url" : "http://www.eosecology.com/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 25,
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "https://www.HugeDomains.com/faq.cfm", "https://www.HugeDomains.com/payment-plans.cfm", "https://www.HugeDomains.com/shopping_cart.cfm?d=EosEcology&e=COM", "https://www.HugeDomains.com/testimonials.cfm" ],
-    "popularity-boosters-count" : 4
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 3.375416735219352E-7,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 4.4853295415861304E-7,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "http://www.eosecology.com"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "connect timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
@@ -40,9 +33,9 @@
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 250,
-  "snapshot-date" : "2020-09-22T01:13:37.289Z"
+  "place" : 196,
+  "snapshot-date" : "2020-09-23T01:10:49.443Z"
 }
