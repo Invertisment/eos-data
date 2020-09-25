@@ -11,37 +11,31 @@
     "prepared-url" : "https://www.baidu.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "dl-error" : "www.baidu.com",
     "url" : "https://www.baidu.com/bp.json"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "http://home.baidu.com", "http://ir.baidu.com", "http://jianyi.baidu.com/", "http://map.baidu.com", "http://news.baidu.com", "http://tieba.baidu.com", "http://v.baidu.com", "http://www.hao123.com" ],
-    "popularity-boosters-count" : 8
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 8.508006631292936E-10,
+  "webpage-error" : "www.baidu.com: Name or service not known",
+  "vote-percentage" : 8.507030762179208E-10,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://www.baidu.com"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "www.baidu.com: Name or service not known",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://www.baidu.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "error" : "www.baidu.com"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
   "place" : 449,
-  "snapshot-date" : "2020-09-24T01:13:16.787Z"
+  "snapshot-date" : "2020-09-25T01:14:22.601Z"
 }
