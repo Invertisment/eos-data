@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "certikeosorg",
-    "total_votes" : "3043314625889582592.00000000000000000",
+    "total_votes" : "3049915936738596864.00000000000000000",
     "producer_key" : "EOS57kRcpx1QT4Wn4uA6agwYdJNGew4cfrzKnzrvQZiVE85huUBAB",
     "is_active" : 1,
     "url" : "https://certik.org",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-09-24T17:34:22.500",
+    "last_claim_time" : "2020-09-25T17:35:28.000",
     "location" : 840,
     "prepared-url" : "https://certik.org"
   },
@@ -19,11 +19,11 @@
     "duplicate-urls" : null,
     "social-links" : [ "https://discord.gg/NcmCMSH", "https://github.com/certikfoundation", "https://github.com/certikfoundation/chain", "https://t.me/certikfoundation", "https://twitter.com/certikorg", "https://youtu.be/loW1qBEZZHM" ],
     "social-links-count" : 6,
-    "popularity-boosters" : [ "https://docs.certik.foundation/certik-chain/", "https://explorer.certik.foundation/", "https://noops.certik.io/", "https://wallet.certik.foundation/", "https://www.certik.foundation/blog/announcing-the-shentu-games-security-stimulus", "https://www.certik.foundation/blog/securing-defi-with-certik-security-oracle" ],
-    "popularity-boosters-count" : 6
+    "popularity-boosters" : [ "https://docs.certik.foundation/certik-chain/", "https://explorer.certik.foundation/", "https://noops.certik.io/", "https://share.hsforms.com/16iG3JD6DRziZ8egHcY3wSQ2ykpy", "https://wallet.certik.foundation/", "https://www.certik.foundation/blog/announcing-the-shentu-games-security-stimulus", "https://www.certik.foundation/blog/securing-defi-with-certik-security-oracle" ],
+    "popularity-boosters-count" : 7
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.015323142840057284,
+  "vote-percentage" : 0.020243276654660216,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -44,6 +44,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 26,
-  "snapshot-date" : "2020-09-25T01:14:22.601Z"
+  "place" : 20,
+  "snapshot-date" : "2020-09-26T01:10:55.644Z"
 }
