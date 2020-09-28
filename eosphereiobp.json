@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosphereiobp",
-    "total_votes" : "1245744385051761920.00000000000000000",
+    "total_votes" : "1245466408896742144.00000000000000000",
     "producer_key" : "EOS5FYRrG3ThNU56d3uZ8d4bo4MsN5Fig9WPY3xYSpH3RqPhpoH3A",
     "is_active" : 1,
     "url" : "https://www.eosphere.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-09-26T22:15:02.500",
+    "last_claim_time" : "2020-09-27T22:15:08.000",
     "location" : 36,
     "prepared-url" : "https://www.eosphere.io"
   },
@@ -24,7 +24,7 @@
     "popularity-boosters-count" : 9
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.008231189693138838,
+  "vote-percentage" : 0.006221965329604952,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +45,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 36,
-  "snapshot-date" : "2020-09-27T01:11:03.952Z"
+  "place" : 48,
+  "snapshot-date" : "2020-09-28T01:13:10.891Z"
 }
