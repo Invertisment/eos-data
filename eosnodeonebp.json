@@ -1,17 +1,17 @@
 {
   "bp-header" : {
     "owner" : "eosnodeonebp",
-    "total_votes" : "1326734014498759168.00000000000000000",
+    "total_votes" : "1332475456140054016.00000000000000000",
     "producer_key" : "EOS6xcmB3LnUwcjFu55hKFQwX8EHWWerwbHyAs3VpaJmbBFp4bmDs",
     "is_active" : 1,
-    "url" : "https://eosnodeone.io",
+    "url" : "http://www.nodeone.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-09-28T21:34:08.000",
+    "last_claim_time" : "2020-09-29T21:34:10.500",
     "location" : 7,
-    "prepared-url" : "https://eosnodeone.io"
+    "prepared-url" : "http://www.nodeone.io"
   },
   "bp-json-summary" : {
-    "url" : "https://eosnodeone.io/bp.json",
+    "url" : "http://www.nodeone.io/bp.json",
     "logo" : "https://eosnodeone.io/resources/images/eosnodeone_logo_256.png",
     "code_of_conduct" : "https://steemit.com/eos/@eosnodeone/eos-nodeone-roadmap-and-stance-on-vote-buying"
   },
@@ -24,18 +24,18 @@
     "popularity-boosters-count" : 1
   },
   "p-ram-amounts" : [ "RAM" ],
-  "vote-percentage" : 0.008721725079639845,
+  "vote-percentage" : 0.008756343189776233,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
       "mood" : "good",
       "title" : "web",
-      "url" : "https://eosnodeone.io"
+      "url" : "http://www.nodeone.io"
     }, {
       "score" : "positive",
       "mood" : "good",
       "title" : "bp-json",
-      "url" : "https://eosnodeone.io/bp.json"
+      "url" : "http://www.nodeone.io/bp.json"
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -46,5 +46,5 @@
     "max" : 3
   },
   "place" : 33,
-  "snapshot-date" : "2020-09-29T01:10:58.321Z"
+  "snapshot-date" : "2020-09-30T01:11:04.971Z"
 }
