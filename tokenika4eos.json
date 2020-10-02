@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "tokenika4eos",
-    "total_votes" : "54638729779440976.00000000000000000",
+    "total_votes" : "50141900371549048.00000000000000000",
     "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
     "is_active" : 0,
     "url" : "https://tokenika.io",
@@ -15,7 +15,7 @@
     "url" : "https://tokenika.io/bp.json"
   },
   "webpage-error" : "clj-http: status 521",
-  "vote-percentage" : 2.7295821060519703E-4,
+  "vote-percentage" : 2.488968033672341E-4,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 79,
-  "snapshot-date" : "2020-09-28T01:13:10.891Z"
+  "place" : 81,
+  "snapshot-date" : "2020-10-02T01:13:18.408Z"
 }

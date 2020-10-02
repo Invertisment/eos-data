@@ -1,33 +1,33 @@
 {
   "bp-header" : {
     "owner" : "moreisfuture",
-    "total_votes" : "1355479673771288320.00000000000000000",
+    "total_votes" : "1416370670103920640.00000000000000000",
     "producer_key" : "EOS671RDSn2embqDJhFHKWZqqCfVgNAmi2p3vQZfQBX77GypcGoF2",
     "is_active" : 1,
     "url" : "https://more.top",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-09-27T16:26:09.000",
+    "last_claim_time" : "2020-10-01T16:28:08.000",
     "location" : 156,
     "prepared-url" : "https://more.top"
   },
   "bp-json-summary" : {
-    "dl-error" : "NotAfter: Tue Sep 08 07:58:52 UTC 2020",
+    "dl-error" : "clj-http: status 502",
     "url" : "https://more.top/bp.json"
   },
-  "webpage-error" : "NotAfter: Tue Sep 08 07:58:52 UTC 2020",
-  "vote-percentage" : 0.00677155760680849,
+  "webpage-error" : "clj-http: status 502",
+  "vote-percentage" : 0.007030649607608447,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "NotAfter: Tue Sep 08 07:58:52 UTC 2020",
+      "error" : "clj-http: status 502",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://more.top/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "NotAfter: Tue Sep 08 07:58:52 UTC 2020"
+      "error" : "clj-http: status 502"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 43,
-  "snapshot-date" : "2020-09-28T01:13:10.891Z"
+  "place" : 40,
+  "snapshot-date" : "2020-10-02T01:13:18.408Z"
 }
