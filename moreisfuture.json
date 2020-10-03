@@ -1,41 +1,46 @@
 {
   "bp-header" : {
     "owner" : "moreisfuture",
-    "total_votes" : "1416370670103920640.00000000000000000",
+    "total_votes" : "1424907207410227456.00000000000000000",
     "producer_key" : "EOS671RDSn2embqDJhFHKWZqqCfVgNAmi2p3vQZfQBX77GypcGoF2",
     "is_active" : 1,
     "url" : "https://more.top",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-10-01T16:28:08.000",
+    "last_claim_time" : "2020-10-02T16:28:38.000",
     "location" : 156,
     "prepared-url" : "https://more.top"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 502",
-    "url" : "https://more.top/bp.json"
+    "url" : "https://more.top/bp.json",
+    "logo" : "https://walletstatic.more.top/bp/icons/256.png"
   },
-  "webpage-error" : "clj-http: status 502",
-  "vote-percentage" : 0.007030649607608447,
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ "http://www.beian.miit.gov.cn", "http://www.cocosbcx.io", "http://www.edapp.io/", "http://www.hoo.com", "https://horuspay.io", "https://minerhub.com/", "https://mixin.one/", "https://www.biask.com", "https://www.slowmist.com/", "https://www.starteos.io" ],
+    "popularity-boosters-count" : 10
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.007089536022486121,
   "scoring" : {
     "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://more.top"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://more.top/bp.json"
+    }, {
+      "title" : "no-coc",
       "mood" : "bad",
-      "title" : "no-web",
-      "error" : "clj-http: status 502",
-      "paragraphs" : [ "web-fetch-failure" ]
-    }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://more.top/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 502"
-    }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "paragraphs" : [ "value-empty" ]
     } ],
-    "score" : 0,
+    "score" : 2,
     "max" : 3
   },
-  "place" : 40,
-  "snapshot-date" : "2020-10-02T01:13:18.408Z"
+  "place" : 47,
+  "snapshot-date" : "2020-10-03T01:13:15.047Z"
 }

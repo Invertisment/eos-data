@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosasia11111",
-    "total_votes" : "5267658462022682624.00000000000000000",
+    "total_votes" : "5094899551248293888.00000000000000000",
     "producer_key" : "EOS76gG6ATpqfVf5KrVjh3f4JAa4EKzAwWabTucNQ4Xv2TmVAj9bN",
     "is_active" : 1,
     "url" : "https://www.eosasia.one/",
-    "unpaid_blocks" : 4464,
-    "last_claim_time" : "2020-10-01T12:05:10.500",
+    "unpaid_blocks" : 4440,
+    "last_claim_time" : "2020-10-02T12:10:09.500",
     "location" : 9,
     "prepared-url" : "https://www.eosasia.one/"
   },
@@ -24,7 +24,7 @@
     "popularity-boosters-count" : 11
   },
   "p-ram-amounts" : [ "RAM" ],
-  "vote-percentage" : 0.026147859229757833,
+  "vote-percentage" : 0.02534935167123774,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +45,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 19,
-  "snapshot-date" : "2020-10-02T01:13:18.408Z"
+  "place" : 20,
+  "snapshot-date" : "2020-10-03T01:13:15.047Z"
 }
