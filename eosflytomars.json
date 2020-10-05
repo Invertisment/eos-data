@@ -1,19 +1,18 @@
 {
   "bp-header" : {
     "owner" : "eosflytomars",
-    "total_votes" : "5349605520213113856.00000000000000000",
+    "total_votes" : "5353488067765775360.00000000000000000",
     "producer_key" : "EOS6Agpfp38bTyRjJDmB4Qb1EpQSq7wnEAsALXgXE7KFSzKjokkFD",
     "is_active" : 1,
     "url" : "https://www.bitmars.one",
     "unpaid_blocks" : 7740,
-    "last_claim_time" : "2020-10-03T02:30:50.500",
+    "last_claim_time" : "2020-10-04T02:30:51.000",
     "location" : 156,
     "prepared-url" : "https://www.bitmars.one"
   },
   "bp-json-summary" : {
-    "url" : "https://www.bitmars.one/bp.json",
-    "logo" : "https://api.bitmars.one/logo-256.png",
-    "code_of_conduct" : "https://medium.com/@bitmars/code-of-conduct-48b06093ff4c"
+    "read-error" : "read:'https://www.bitmars.one/bp.json': Unexpected character (',' (code 44)): was expecting a colon to separate field name and value\n at [Source: (StringReader); line: 36, column: 54]",
+    "url" : "https://www.bitmars.one/bp.json"
   },
   "analyzed-urls" : {
     "relative-links-count" : 15,
@@ -22,7 +21,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.026427692191505415,
+  "vote-percentage" : 0.03474449641591422,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -30,23 +29,19 @@
       "title" : "web",
       "url" : "https://www.bitmars.one"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://www.bitmars.one/bp.json"
-    }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://medium.com/@bitmars/code-of-conduct-48b06093ff4c"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://www.bitmars.one/bp.json",
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'https://www.bitmars.one/bp.json': Unexpected character (',' (code 44)): was expecting a colon to separate field name and value\n at [Source: (StringReader); line: 36, column: 54]"
     }, {
       "mood" : "warn",
-      "title" : "t-coc-social",
-      "paragraphs" : [ "p-coc-social" ]
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 8,
-  "snapshot-date" : "2020-10-04T01:13:05.669Z"
+  "place" : 7,
+  "snapshot-date" : "2020-10-05T01:10:28.574Z"
 }
