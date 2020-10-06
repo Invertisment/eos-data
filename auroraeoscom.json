@@ -11,23 +11,23 @@
     "prepared-url" : "https://www.auroraeos.com/"
   },
   "bp-json-summary" : {
-    "dl-error" : "www.auroraeos.com",
+    "dl-error" : "connect timed out",
     "url" : "https://www.auroraeos.com/bp.json"
   },
-  "webpage-error" : "www.auroraeos.com: Temporary failure in name resolution",
-  "vote-percentage" : 7.778156542329218E-6,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 5.914879746767869E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "www.auroraeos.com: Temporary failure in name resolution",
+      "error" : "connect timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://www.auroraeos.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "www.auroraeos.com"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 114,
-  "snapshot-date" : "2020-10-05T01:10:28.574Z"
+  "place" : 148,
+  "snapshot-date" : "2020-10-06T01:13:19.302Z"
 }

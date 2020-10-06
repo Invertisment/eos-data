@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "certikeosorg",
-    "total_votes" : "3146155733255573504.00000000000000000",
+    "total_votes" : "3147663458047021568.00000000000000000",
     "producer_key" : "EOS57kRcpx1QT4Wn4uA6agwYdJNGew4cfrzKnzrvQZiVE85huUBAB",
     "is_active" : 1,
     "url" : "https://certik.org",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-10-04T17:45:17.000",
+    "last_claim_time" : "2020-10-05T18:36:31.500",
     "location" : 840,
     "prepared-url" : "https://certik.org"
   },
@@ -17,13 +17,13 @@
   "analyzed-urls" : {
     "relative-links-count" : 12,
     "duplicate-urls" : null,
-    "social-links" : [ "https://discord.gg/NcmCMSH", "https://github.com/certikfoundation", "https://github.com/certikfoundation/chain", "https://t.me/certikfoundation", "https://twitter.com/certikorg", "https://youtu.be/loW1qBEZZHM" ],
-    "social-links-count" : 6,
-    "popularity-boosters" : [ "https://docs.certik.foundation/certik-chain/", "https://explorer.certik.foundation/", "https://noops.certik.io/", "https://share.hsforms.com/16iG3JD6DRziZ8egHcY3wSQ2ykpy", "https://shield.certik.foundation/", "https://wallet.certik.foundation/", "https://www.certik.foundation/blog/announcing-the-shentu-games-security-stimulus", "https://www.certik.foundation/blog/certik-partners-with-binance-smart-chain-for-the-future-of-defi-security", "https://www.certik.foundation/blog/securing-defi-with-certik-security-oracle" ],
-    "popularity-boosters-count" : 9
+    "social-links" : [ "https://discord.gg/NcmCMSH", "https://github.com/certikfoundation", "https://github.com/certikfoundation/chain", "https://t.me/certikfoundation", "https://twitter.com/certikorg", "https://youtu.be/bi9PAr9LerM", "https://youtu.be/loW1qBEZZHM" ],
+    "social-links-count" : 7,
+    "popularity-boosters" : [ "https://docs.certik.foundation/certik-chain/", "https://explorer.certik.foundation/", "https://noops.certik.io/", "https://share.hsforms.com/16iG3JD6DRziZ8egHcY3wSQ2ykpy", "https://shield.certik.foundation/", "https://wallet.certik.foundation/", "https://www.certik.foundation/blog/announcing-the-shentu-games-security-stimulus", "https://www.certik.foundation/blog/certik-integration-guide-on-binance-smart-chain", "https://www.certik.foundation/blog/certik-partners-with-binance-smart-chain-for-the-future-of-defi-security", "https://www.certik.foundation/blog/securing-defi-with-certik-security-oracle" ],
+    "popularity-boosters-count" : 10
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.020418761602587515,
+  "vote-percentage" : 0.015534837501372793,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -44,6 +44,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 20,
-  "snapshot-date" : "2020-10-05T01:10:28.574Z"
+  "place" : 26,
+  "snapshot-date" : "2020-10-06T01:13:19.302Z"
 }

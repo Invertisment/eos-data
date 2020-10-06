@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosamsterdam",
-    "total_votes" : "1022279285326680832.00000000000000000",
+    "total_votes" : "1023719355655937408.00000000000000000",
     "producer_key" : "EOS8HDwgQnKMHAxzva9eyHsPeETv23JSQ6RRzQjJLvCsZ6b1ySgQo",
     "is_active" : 1,
     "url" : "https://eosamsterdam.net",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-10-04T09:01:48.500",
+    "last_claim_time" : "2020-10-05T09:01:49.000",
     "location" : 528,
     "prepared-url" : "https://eosamsterdam.net"
   },
@@ -18,13 +18,13 @@
   "analyzed-urls" : {
     "relative-links-count" : 9,
     "duplicate-urls" : null,
-    "social-links" : [ "https://medium.com/@brianlee_87142/24-04-2019-sino-european-blockchain-summit-546debd2a7c", "https://medium.com/@eos_amsterdam", "https://medium.com/@eos_amsterdam/different-kinds-of-wax-wallets-and-how-they-work-7f4cf1c47bad", "https://medium.com/@eos_amsterdam/eos-amsterdam-to-help-wax-upgrade-to-eosio-2-0-1c8fd779499b", "https://medium.com/@eos_amsterdam/how-to-move-your-wax-account-to-your-ledger-ba2c1f8ff737", "https://medium.com/@eos_amsterdam/non-fungible-tokens-nfts-on-wax-2817bbdee489", "https://steemit.com/@eosamsterdam", "https://t.me/EOS_Amsterdam", "https://twitter.com/eosamsterdam", "https://www.facebook.com/EOS-Amsterdam-1586544661442120/", "https://www.instagram.com/eosamsterdam/", "https://www.meetup.com/nl-NL/EOS-Amsterdam/", "https://www.youtube.com/channel/UCHCrTf4Nbqz8S017kgs4vjA" ],
+    "social-links" : [ "https://medium.com/@brianlee_87142/24-04-2019-sino-european-blockchain-summit-546debd2a7c", "https://medium.com/@eos_amsterdam", "https://medium.com/@eos_amsterdam/different-kinds-of-wax-wallets-and-how-they-work-7f4cf1c47bad", "https://medium.com/@eos_amsterdam/how-to-move-your-wax-account-to-your-ledger-ba2c1f8ff737", "https://medium.com/@eos_amsterdam/non-fungible-tokens-nfts-on-wax-2817bbdee489", "https://medium.com/@eos_amsterdam/the-new-eos-resource-model-eos-amsterdam-response-2b92efc24f15", "https://steemit.com/@eosamsterdam", "https://t.me/EOS_Amsterdam", "https://twitter.com/eosamsterdam", "https://www.facebook.com/EOS-Amsterdam-1586544661442120/", "https://www.instagram.com/eosamsterdam/", "https://www.meetup.com/nl-NL/EOS-Amsterdam/", "https://www.youtube.com/channel/UCHCrTf4Nbqz8S017kgs4vjA" ],
     "social-links-count" : 13,
     "popularity-boosters" : [ "https://europechain.io/", "https://mp.weixin.qq.com/s/eOELU3nde8YYt0R8IRMqxg", "https://pintsandblocks.com/portfolio-item/amsterdam/", "https://raw.githubusercontent.com/EOS-Mainnet/eos/master/contracts/eosio.system/eosio.system-regproducer-rc.md", "https://www.tulipconf.com/events/2019/6/6/eos-block-producers-summit" ],
     "popularity-boosters-count" : 5
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.00663466108740568,
+  "vote-percentage" : 0.005052418738244753,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +45,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 52,
-  "snapshot-date" : "2020-10-05T01:10:28.574Z"
+  "place" : 67,
+  "snapshot-date" : "2020-10-06T01:13:19.302Z"
 }
