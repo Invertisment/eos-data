@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosjapanclub",
-    "total_votes" : "1305574735939132.00000000000000000",
+    "total_votes" : "1304451442100581.50000000000000000",
     "producer_key" : "EOS5dCcHYR9EQyibQ8NFvqyAKT9YfdAs5ynwtQ8krn22QNwHe6awx",
     "is_active" : 1,
     "url" : "http://www.eosjapan.co.jp",
@@ -15,14 +15,14 @@
     "url" : "http://www.eosjapan.co.jp/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 2,
+    "relative-links-count" : 1,
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ "http://eosjapan.co.jp/", "http://eosjapan.co.jp/archives/1", "http://eosjapan.co.jp/archives/author/eosjapan", "http://eosjapan.co.jp/archives/category/%e6%9c%aa%e5%88%86%e9%a1%9e", "http://eosjapan.co.jp/archives/date/2020/10", "http://eosjapan.co.jp/comments/feed", "http://eosjapan.co.jp/feed", "http://eosjapan.co.jp/sample-page", "http://eosjapan.co.jp/wp-login.php", "https://athemes.com/theme/airi", "https://ja.wordpress.org/", "https://wordpress.org/" ],
-    "popularity-boosters-count" : 12
+    "popularity-boosters" : [ "http://eosjapan.co.jp", "http://eosjapan.co.jp/archives/1", "http://eosjapan.co.jp/archives/22", "http://eosjapan.co.jp/archives/category/%e6%9c%aa%e5%88%86%e9%a1%9e", "http://eosjapan.co.jp/archives/date/2020/10", "http://eosjapan.co.jp/comments/feed", "http://eosjapan.co.jp/feed", "http://eosjapan.co.jp/wp-login.php", "https://ja.wordpress.org/", "https://wordpress.org/" ],
+    "popularity-boosters-count" : 10
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 6.443475180569678E-6,
+  "vote-percentage" : 8.469329847350271E-6,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -43,6 +43,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 141,
-  "snapshot-date" : "2020-10-06T01:13:19.302Z"
+  "place" : 109,
+  "snapshot-date" : "2020-10-07T01:11:29.892Z"
 }

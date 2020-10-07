@@ -1,0 +1,48 @@
+{
+  "bp-header" : {
+    "owner" : "googlecloudp",
+    "total_votes" : "1646103400745.80322265625000000",
+    "producer_key" : "EOS8jAnvfC1kcSUCTHkhHbb8o23izEbee9rrEZuV6kKKCjUWM4z4s",
+    "is_active" : 1,
+    "url" : "https://cloud.google.com",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2020-10-06T23:22:43.500",
+    "location" : 0,
+    "prepared-url" : "https://cloud.google.com"
+  },
+  "bp-json-summary" : {
+    "dl-error" : "clj-http: status 404",
+    "url" : "https://cloud.google.com/bp.json"
+  },
+  "analyzed-urls" : {
+    "relative-links-count" : 299,
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ "https://chromeenterprise.google/", "https://cloud.withgoogle.com/next/sf/sessions", "https://cloud.withgoogle.com/partners/", "https://firebase.google.com/pricing/", "https://firebase.google.com/products/realtime-database/", "https://firebase.google.com/products/storage", "https://marketingplatform.google.com/about/data-studio/", "https://workspace.google.com/enterprise/", "https://workspace.google.com/essentials/", "https://workspace.google.com/pricing.html", "https://workspace.google.com/solutions/enterprise/?enterprise-benefits_activeEl=connect", "https://www.anvato.com/", "https://www.zyncrender.com/" ],
+    "popularity-boosters-count" : 13
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 1.0687552034371736E-8,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://cloud.google.com"
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://cloud.google.com/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
+    } ],
+    "score" : 1,
+    "max" : 3
+  },
+  "place" : 298,
+  "snapshot-date" : "2020-10-07T01:11:29.892Z"
+}

@@ -11,23 +11,23 @@
     "prepared-url" : "https://eospublic.chainrift.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "eospublic.chainrift.com",
+    "dl-error" : "Connection refused (Connection refused)",
     "url" : "https://eospublic.chainrift.com/bp.json"
   },
-  "webpage-error" : "eospublic.chainrift.com: Name or service not known",
+  "webpage-error" : "Connection refused (Connection refused)",
   "vote-percentage" : 0.0,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "eospublic.chainrift.com: Name or service not known",
+      "error" : "Connection refused (Connection refused)",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eospublic.chainrift.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "eospublic.chainrift.com"
+      "error" : "Connection refused (Connection refused)"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 614,
-  "snapshot-date" : "2020-10-06T01:13:19.302Z"
+  "place" : 394,
+  "snapshot-date" : "2020-10-07T01:11:29.892Z"
 }
