@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosjapanclub",
-    "total_votes" : "1304451442100581.50000000000000000",
+    "total_votes" : "1305258744909747.75000000000000000",
     "producer_key" : "EOS5dCcHYR9EQyibQ8NFvqyAKT9YfdAs5ynwtQ8krn22QNwHe6awx",
     "is_active" : 1,
     "url" : "http://www.eosjapan.co.jp",
@@ -15,14 +15,14 @@
     "url" : "http://www.eosjapan.co.jp/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 1,
+    "relative-links-count" : 4,
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ "http://eosjapan.co.jp", "http://eosjapan.co.jp/archives/1", "http://eosjapan.co.jp/archives/22", "http://eosjapan.co.jp/archives/category/%e6%9c%aa%e5%88%86%e9%a1%9e", "http://eosjapan.co.jp/archives/date/2020/10", "http://eosjapan.co.jp/comments/feed", "http://eosjapan.co.jp/feed", "http://eosjapan.co.jp/wp-login.php", "https://ja.wordpress.org/", "https://wordpress.org/" ],
-    "popularity-boosters-count" : 10
+    "popularity-boosters" : [ "http://eosjapan.co.jp", "http://eosjapan.co.jp/", "http://eosjapan.co.jp/%e3%81%8a%e5%95%8f%e3%81%84%e5%90%88%e3%82%8f%e3%81%9b", "http://eosjapan.co.jp/%e4%bc%9a%e7%a4%be%e6%a6%82%e8%a6%81", "http://eosjapan.co.jp/%e8%a3%bd%e5%93%81%e6%a1%88%e5%86%85", "http://eosjapan.co.jp/archives/58", "http://eosjapan.co.jp/archives/category/news", "http://eosjapan.co.jp/archives/date/2020/10", "http://eosjapan.co.jp/comments/feed", "http://eosjapan.co.jp/feed", "http://eosjapan.co.jp/wp-login.php", "https://ex-unit.nagoya/ja/", "https://ja.wordpress.org/", "https://lightning.nagoya/", "https://lightning.nagoya/ja/", "https://wordpress.org/", "https://www.vektor-inc.co.jp/" ],
+    "popularity-boosters-count" : 17
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 8.469329847350271E-6,
+  "vote-percentage" : 8.375980826973482E-6,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -43,6 +43,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 109,
-  "snapshot-date" : "2020-10-07T01:11:29.892Z"
+  "place" : 110,
+  "snapshot-date" : "2020-10-08T01:11:36.512Z"
 }

@@ -11,23 +11,23 @@
     "prepared-url" : "https://eosgreen.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "SSL peer shut down incorrectly",
+    "dl-error" : "Received fatal alert: internal_error",
     "url" : "https://eosgreen.io/bp.json"
   },
-  "webpage-error" : "SSL peer shut down incorrectly",
-  "vote-percentage" : 2.944069198329458E-6,
+  "webpage-error" : "Received fatal alert: internal_error",
+  "vote-percentage" : 2.909818807040527E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "SSL peer shut down incorrectly",
+      "error" : "Received fatal alert: internal_error",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eosgreen.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "SSL peer shut down incorrectly"
+      "error" : "Received fatal alert: internal_error"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 144,
-  "snapshot-date" : "2020-10-07T01:11:29.892Z"
+  "place" : 145,
+  "snapshot-date" : "2020-10-08T01:11:36.512Z"
 }
