@@ -14,20 +14,14 @@
     "dl-error" : "clj-http: status 404",
     "url" : "http://www.serviceuptime.net/bp.json"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "?C=D;O=A", "?C=M;O=A", "?C=N;O=D", "?C=S;O=A", "api/", "arduino/", "cgi-bin/", "error_log", "nodeyes/", "sjb.mp3", "steemit/" ],
-    "popularity-boosters-count" : 11
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 7.07176066883692E-8,
+  "webpage-error" : "clj-http: status 403",
+  "vote-percentage" : 6.986174428404892E-8,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "http://www.serviceuptime.net"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "clj-http: status 403",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
@@ -39,9 +33,9 @@
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 322,
-  "snapshot-date" : "2020-10-06T01:13:19.302Z"
+  "place" : 324,
+  "snapshot-date" : "2020-10-09T01:13:10.881Z"
 }

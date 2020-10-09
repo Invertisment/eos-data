@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "switzerlanda",
-    "total_votes" : "2354091357604198.50000000000000000",
+    "total_votes" : "2172229097135608.25000000000000000",
     "producer_key" : "EOS7eZQYHQYCoh3uMJyGVrnHgDBxgfp93QAmwLV7nWoQLkeaM7HUs",
     "is_active" : 1,
     "url" : "https://eosgeneva.io",
@@ -11,31 +11,40 @@
     "prepared-url" : "https://eosgeneva.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 503",
-    "url" : "https://eosgeneva.io/bp.json"
+    "url" : "https://eosgeneva.io/bp.json",
+    "logo" : "https://eosgeneva.io/images/logo_swiss256.png",
+    "code_of_conduct" : "https://steemit.com/disclosures/@eosgeneva/code-of-conduct-of-eos-geneva-v1-0"
   },
-  "webpage-error" : "clj-http: status 503",
-  "vote-percentage" : 1.1618277236810297E-5,
+  "analyzed-urls" : {
+    "relative-links-count" : 1,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://github.com/eos-geneva/escrowescrow", "https://medium.com/@s.armleder/eos-geneva-has-created-eos-pass-ed47700faffd" ],
+    "social-links-count" : 2,
+    "popularity-boosters" : [ "https://updown.io/c7yx ", "https://updown.io/fhnf" ],
+    "popularity-boosters-count" : 2
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 1.0590974435441067E-5,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "clj-http: status 503",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eosgeneva.io"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://eosgeneva.io/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 503"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eosgeneva.io/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/disclosures/@eosgeneva/code-of-conduct-of-eos-geneva-v1-0"
     } ],
-    "score" : 0,
+    "score" : 3,
     "max" : 3
   },
-  "place" : 126,
-  "snapshot-date" : "2020-10-06T01:13:19.302Z"
+  "place" : 128,
+  "snapshot-date" : "2020-10-09T01:13:10.881Z"
 }
