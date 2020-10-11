@@ -1,48 +1,41 @@
 {
   "bp-header" : {
     "owner" : "blockpooleos",
-    "total_votes" : "5496299842450787328.00000000000000000",
+    "total_votes" : "5516461231030979584.00000000000000000",
     "producer_key" : "EOS61FDJz3GC42GhaPSsmKh7SxuesyZhjm7hBwBKqN52v1HukEqBu",
     "is_active" : 1,
     "url" : "https://www.blockpool.com",
-    "unpaid_blocks" : 2376,
-    "last_claim_time" : "2020-10-09T18:11:08.000",
+    "unpaid_blocks" : 2375,
+    "last_claim_time" : "2020-10-10T18:11:37.000",
     "location" : 0,
     "prepared-url" : "https://www.blockpool.com"
   },
   "bp-json-summary" : {
-    "url" : "https://www.blockpool.com/bp.json",
-    "logo" : "http://www.blockpool.com/logo/blockpool-256.png"
+    "dl-error" : "NotAfter: Sat Oct 10 14:19:04 UTC 2020",
+    "url" : "https://www.blockpool.com/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 2,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://t.me/blockpoolglobal", "https://twitter.com/imblockpool", "https://www.facebook.com/imblockpool" ],
-    "social-links-count" : 3,
-    "popularity-boosters" : [ "img/hpb/weixiner.png", "whitepaper" ],
-    "popularity-boosters-count" : 2
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.026784291208011523,
+  "webpage-error" : "NotAfter: Sat Oct 10 14:19:04 UTC 2020",
+  "vote-percentage" : 0.02675050202184333,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://www.blockpool.com"
-    }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://www.blockpool.com/bp.json"
-    }, {
-      "title" : "no-coc",
       "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "title" : "no-web",
+      "error" : "NotAfter: Sat Oct 10 14:19:04 UTC 2020",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://www.blockpool.com/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "NotAfter: Sat Oct 10 14:19:04 UTC 2020"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 5,
-  "snapshot-date" : "2020-10-10T01:13:09.418Z"
+  "place" : 6,
+  "snapshot-date" : "2020-10-11T01:12:47.412Z"
 }

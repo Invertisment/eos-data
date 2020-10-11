@@ -11,38 +11,31 @@
     "prepared-url" : "http://moa.com.mm"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "dl-error" : "NotAfter: Sat Oct 10 23:59:59 UTC 2020",
     "url" : "http://moa.com.mm/bp.json"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ "https://twitter.com/mmonlineads" ],
-    "social-links-count" : 1,
-    "popularity-boosters" : [ "http://grab.com", "http://jovago.net", "http://ooredoo.com.mm", "http://phibious.com", "http://shop.com.mm", "http://wavemoney.com.mm", "http://yomabank.com", "https://www.i-kbz.com" ],
-    "popularity-boosters-count" : 8
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.0103725153319083E-7,
+  "webpage-error" : "NotAfter: Sat Oct 10 23:59:59 UTC 2020",
+  "vote-percentage" : 1.005409880929992E-7,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "http://moa.com.mm"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "NotAfter: Sat Oct 10 23:59:59 UTC 2020",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://moa.com.mm/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "error" : "NotAfter: Sat Oct 10 23:59:59 UTC 2020"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 302,
-  "snapshot-date" : "2020-10-10T01:13:09.418Z"
+  "place" : 303,
+  "snapshot-date" : "2020-10-11T01:12:47.412Z"
 }
