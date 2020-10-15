@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosvolgabpru",
-    "total_votes" : "3303405462965496.50000000000000000",
+    "total_votes" : "3811636268962364.00000000000000000",
     "producer_key" : "EOS57GDRS9QJWBJie9yQAxvrDKw9p6wiiQ9B8Sv2uJ7WazowB4pkK",
     "is_active" : 1,
     "url" : "https://eosvolga.one",
@@ -11,23 +11,23 @@
     "prepared-url" : "https://eosvolga.one"
   },
   "bp-json-summary" : {
-    "dl-error" : "SSL peer shut down incorrectly",
+    "dl-error" : "eosvolga.one",
     "url" : "https://eosvolga.one/bp.json"
   },
-  "webpage-error" : "SSL peer shut down incorrectly",
-  "vote-percentage" : 1.9490771010060174E-5,
+  "webpage-error" : "eosvolga.one: Name or service not known",
+  "vote-percentage" : 1.83321770454698E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "SSL peer shut down incorrectly",
+      "error" : "eosvolga.one: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eosvolga.one/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "SSL peer shut down incorrectly"
+      "error" : "eosvolga.one"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 102,
-  "snapshot-date" : "2020-10-14T01:11:56.322Z"
+  "place" : 117,
+  "snapshot-date" : "2020-10-15T01:12:40.545Z"
 }

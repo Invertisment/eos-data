@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eoshenzhenio",
-    "total_votes" : "1168382300400297472.00000000000000000",
+    "total_votes" : "1168305041754412288.00000000000000000",
     "producer_key" : "EOS8EJrMphgHJx5EkHQ4ryodbvnocZEC1xp5T1FnRsT7XtzYA1FE7",
     "is_active" : 1,
     "url" : "https://info.eoshenzhen.io:1443",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-10-13T16:42:31.500",
+    "last_claim_time" : "2020-10-14T16:44:10.000",
     "location" : 156,
     "prepared-url" : "https://info.eoshenzhen.io:1443"
   },
@@ -15,7 +15,7 @@
     "url" : "https://info.eoshenzhen.io:1443/bp.json"
   },
   "webpage-error" : "connect timed out",
-  "vote-percentage" : 0.006893695649720912,
+  "vote-percentage" : 0.005618997553086918,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 44,
-  "snapshot-date" : "2020-10-14T01:11:56.322Z"
+  "place" : 54,
+  "snapshot-date" : "2020-10-15T01:12:40.545Z"
 }

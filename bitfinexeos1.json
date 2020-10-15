@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "bitfinexeos1",
-    "total_votes" : "5367251306746112000.00000000000000000",
+    "total_votes" : "5442499372411709440.00000000000000000",
     "producer_key" : "EOS4tkw7LgtURT3dvG3kQ4D1sg3aAtPDymmoatpuFkQMc7wzZdKxc",
     "is_active" : 1,
     "url" : "https://www.bitfinex.com",
-    "unpaid_blocks" : 2544,
-    "last_claim_time" : "2020-10-13T17:41:02.500",
+    "unpaid_blocks" : 540,
+    "last_claim_time" : "2020-10-14T23:30:03.500",
     "location" : 0,
     "prepared-url" : "https://www.bitfinex.com"
   },
@@ -16,14 +16,14 @@
     "code_of_conduct" : "https://steemit.com/eos/@bfx/bitfinex-block-producer-disclosure"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 19,
+    "relative-links-count" : 20,
     "duplicate-urls" : null,
     "social-links" : [ ],
     "popularity-boosters" : [ "http://blog.bitfinex.com", "http://blog.bitfinex.com/newsletter/", "http://docs.bitfinex.com/", "https://bitfinex.statuspage.io/", "https://cs.bitfinex.com", "https://docs.bitfinex.com", "https://honey.bitfinex.com", "https://itunes.apple.com/us/app/bitfinex/id1436383182?ls=1&mt=8", "https://leaderboard.bitfinex.com", "https://leo.bitfinex.com", "https://play.google.com/store/apps/details?id=com.bitfinex.mobileapp&hl=en", "https://reporting.bitfinex.com/", "https://staking.bitfinex.com", "https://support.bitfinex.com/hc/en-us", "https://tokensales.bitfinex.com" ],
     "popularity-boosters-count" : 15
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.031667885564166776,
+  "vote-percentage" : 0.026175861237691167,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -44,6 +44,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 10,
-  "snapshot-date" : "2020-10-14T01:11:56.322Z"
+  "place" : 13,
+  "snapshot-date" : "2020-10-15T01:12:40.545Z"
 }

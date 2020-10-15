@@ -11,40 +11,31 @@
     "prepared-url" : "https://eossweden.eu"
   },
   "bp-json-summary" : {
-    "url" : "https://eossweden.eu/bp.json",
-    "logo" : "https://eossweden.eu/logo/swedencornet-logo_256.png",
-    "code_of_conduct" : "https://eossweden.eu/core-values"
+    "dl-error" : "connect timed out",
+    "url" : "https://eossweden.eu/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 4,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/eossweden", "https://medium.com/@eossweden", "https://steemit.com/@corenet", "https://steemit.com/@eos.sweden", "https://t.me/joinchat/JCmUOFAsOgOibNuQkEMzHg", "https://twitter.com/SwedenEos", "https://www.facebook.com/cryptpoint", "https://www.linkedin.com/company/eos-sweden/", "https://www.linkedin.com/in/maliha-mushabbar/", "https://www.youtube.com/c/swedencornet", "https://www.youtube.com/channel/UC6GwuAAhLBI8gcvljKr_Diw", "https://www.youtube.com/channel/UC6GwuAAhLBI8gcvljKr_Diw/", "https://youtu.be/64JwBVa0S4c", "https://youtu.be/PgKf-MIaty4", "https://youtu.be/RX1ub57kCAs" ],
-    "social-links-count" : 15,
-    "popularity-boosters" : [ "https://busy.org/@eos.sweden", "https://eosforce.io/", "https://icon.foundation", "https://snax.one/", "https://tracker.icon.foundation/governance" ],
-    "popularity-boosters-count" : 5
-  },
-  "p-ram-amounts" : [ "RAM" ],
-  "vote-percentage" : 8.143801602389962E-6,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 8.09177812772316E-6,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eossweden.eu"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "connect timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://eossweden.eu/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eossweden.eu/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "connect timed out"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://eossweden.eu/core-values"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 134,
-  "snapshot-date" : "2020-10-13T01:13:05.924Z"
+  "place" : 135,
+  "snapshot-date" : "2020-10-15T01:12:40.545Z"
 }
