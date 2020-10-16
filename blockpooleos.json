@@ -1,41 +1,48 @@
 {
   "bp-header" : {
     "owner" : "blockpooleos",
-    "total_votes" : "5531127505264270336.00000000000000000",
+    "total_votes" : "5542033162256883712.00000000000000000",
     "producer_key" : "EOS61FDJz3GC42GhaPSsmKh7SxuesyZhjm7hBwBKqN52v1HukEqBu",
     "is_active" : 1,
     "url" : "https://www.blockpool.com",
-    "unpaid_blocks" : 2352,
-    "last_claim_time" : "2020-10-14T18:13:47.000",
+    "unpaid_blocks" : 2340,
+    "last_claim_time" : "2020-10-15T18:14:22.000",
     "location" : 0,
     "prepared-url" : "https://www.blockpool.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "NotAfter: Sat Oct 10 14:19:04 UTC 2020",
-    "url" : "https://www.blockpool.com/bp.json"
+    "url" : "https://www.blockpool.com/bp.json",
+    "logo" : "http://www.blockpool.com/logo/blockpool-256.png"
   },
-  "webpage-error" : "NotAfter: Sat Oct 10 14:19:04 UTC 2020",
-  "vote-percentage" : 0.02660212085639945,
+  "analyzed-urls" : {
+    "relative-links-count" : 2,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://t.me/blockpoolglobal", "https://twitter.com/imblockpool", "https://www.facebook.com/imblockpool" ],
+    "social-links-count" : 3,
+    "popularity-boosters" : [ "img/hpb/weixiner.png", "whitepaper" ],
+    "popularity-boosters-count" : 2
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.04697393756770463,
   "scoring" : {
     "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://www.blockpool.com"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://www.blockpool.com/bp.json"
+    }, {
+      "title" : "no-coc",
       "mood" : "bad",
-      "title" : "no-web",
-      "error" : "NotAfter: Sat Oct 10 14:19:04 UTC 2020",
-      "paragraphs" : [ "web-fetch-failure" ]
-    }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://www.blockpool.com/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "NotAfter: Sat Oct 10 14:19:04 UTC 2020"
-    }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "paragraphs" : [ "value-empty" ]
     } ],
-    "score" : 0,
+    "score" : 2,
     "max" : 3
   },
-  "place" : 7,
-  "snapshot-date" : "2020-10-15T01:12:40.545Z"
+  "place" : 4,
+  "snapshot-date" : "2020-10-16T01:08:50.548Z"
 }
