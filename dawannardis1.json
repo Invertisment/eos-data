@@ -1,0 +1,40 @@
+{
+  "bp-header" : {
+    "owner" : "dawannardis1",
+    "total_votes" : "0.00000000000000000",
+    "producer_key" : "EOS5XrLgvetngYQ95BULZAQoLEN1P16t4vkjpg4uWzLTuGhYWUj6i",
+    "is_active" : 1,
+    "url" : "",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2020-10-16T18:48:36.500",
+    "location" : 1,
+    "prepared-url" : null
+  },
+  "bp-json-summary" : null,
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.0,
+  "scoring" : {
+    "comp" : [ {
+      "title" : "no-web",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    }, {
+      "title" : "no-bp-json-url",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    }, {
+      "title" : "no-coc",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    } ],
+    "score" : 0,
+    "max" : 3
+  },
+  "place" : 592,
+  "snapshot-date" : "2020-10-17T01:12:04.357Z"
+}

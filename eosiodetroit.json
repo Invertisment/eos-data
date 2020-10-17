@@ -1,18 +1,18 @@
 {
   "bp-header" : {
     "owner" : "eosiodetroit",
-    "total_votes" : "1301723225362236416.00000000000000000",
+    "total_votes" : "1304264931937063936.00000000000000000",
     "producer_key" : "EOS6cGjgMnrdsBt5zAjpvqUdPiSjHjdQdsF1tpTG8Dpz9rPitHUMd",
     "is_active" : 1,
     "url" : "https://eosdetroit.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-10-15T18:33:16.000",
+    "last_claim_time" : "2020-10-16T18:34:05.000",
     "location" : 840,
     "prepared-url" : "https://eosdetroit.io"
   },
   "bp-json-summary" : {
     "url" : "https://eosdetroit.io/bp.json",
-    "logo" : "https://eosdetroit.io/images/eos_detroit_logo_transparent.png",
+    "logo" : "https://eosdetroit.io/images/eos_detroit_logo_transparent_256.png",
     "code_of_conduct" : "https://steemit.com/eos/@eos.detroit/eos-detroit-membership-guidelines"
   },
   "analyzed-urls" : {
@@ -22,7 +22,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.011033327251635545,
+  "vote-percentage" : 0.006631305878185628,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -43,6 +43,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 28,
-  "snapshot-date" : "2020-10-16T01:08:50.548Z"
+  "place" : 48,
+  "snapshot-date" : "2020-10-17T01:12:04.357Z"
 }
