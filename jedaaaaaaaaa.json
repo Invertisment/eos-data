@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "jedaaaaaaaaa",
-    "total_votes" : "36196184044270904.00000000000000000",
+    "total_votes" : "36179874722433088.00000000000000000",
     "producer_key" : "EOS6nB9Ar5sghWjqk27bszCiA9zxQtXZCaAaEkf2nwUm9iP5MEJTT",
     "is_active" : 1,
     "url" : "https://www.eosjapan.org",
@@ -11,23 +11,23 @@
     "prepared-url" : "https://www.eosjapan.org"
   },
   "bp-json-summary" : {
-    "dl-error" : "www.eosjapan.org",
+    "dl-error" : "Received fatal alert: unrecognized_name",
     "url" : "https://www.eosjapan.org/bp.json"
   },
-  "webpage-error" : "www.eosjapan.org: Name or service not known",
-  "vote-percentage" : 1.8403313785656916E-4,
+  "webpage-error" : "Received fatal alert: unrecognized_name",
+  "vote-percentage" : 1.7246357959624706E-4,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "www.eosjapan.org: Name or service not known",
+      "error" : "Received fatal alert: unrecognized_name",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://www.eosjapan.org/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "www.eosjapan.org"
+      "error" : "Received fatal alert: unrecognized_name"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 87,
-  "snapshot-date" : "2020-10-17T01:12:04.357Z"
+  "place" : 91,
+  "snapshot-date" : "2020-10-18T01:12:50.618Z"
 }
