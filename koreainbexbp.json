@@ -1,17 +1,17 @@
 {
   "bp-header" : {
     "owner" : "koreainbexbp",
-    "total_votes" : "5469587763189584.00000000000000000",
+    "total_votes" : "5354512793460676.00000000000000000",
     "producer_key" : "EOS5etfhAtNFNzAxGQbrAHfZ5DsYheJ9B7apbvHMctdaKJ5Bti8g5",
     "is_active" : 1,
     "url" : "https://inbex.pro",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-10-18T07:46:55.500",
+    "last_claim_time" : "2020-10-20T07:47:22.000",
     "location" : 82,
     "prepared-url" : "https://inbex.pro"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "dl-error" : "Read timed out",
     "url" : "https://inbex.pro/bp.json"
   },
   "analyzed-urls" : {
@@ -22,7 +22,7 @@
     "popularity-boosters-count" : 4
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.602153744893403E-5,
+  "vote-percentage" : 2.5371442299731445E-5,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -34,7 +34,7 @@
       "mood" : "warn",
       "url" : "https://inbex.pro/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "error" : "Read timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -44,5 +44,5 @@
     "max" : 3
   },
   "place" : 108,
-  "snapshot-date" : "2020-10-19T01:12:51.407Z"
+  "snapshot-date" : "2020-10-21T01:12:47.976Z"
 }

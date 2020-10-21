@@ -11,19 +11,16 @@
     "prepared-url" : "https://www.thisav.com"
   },
   "bp-json-summary" : {
-    "read-error" : "read:'https://www.thisav.com/bp.json': Unexpected character ('﻿' (code 65279 / 0xfeff)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "read-error" : "read:'https://www.thisav.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
     "url" : "https://www.thisav.com/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 1,
     "duplicate-urls" : null,
-    "social-links" : [ "https://www.twitter.com/thisav" ],
-    "social-links-count" : 1,
-    "popularity-boosters" : [ "https://click.dtiserv2.com/Direct/9354999-354-us7481/cn/", "https://goo.gl/rsLCnk", "https://juicyads.in/tab.php?id=1552834", "https://juicyads.in/tab.php?id=1631914", "https://thisav.54647.online/", "https://www.rtalabel.org/" ],
-    "popularity-boosters-count" : 6
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 7.831334857468538E-9,
+  "vote-percentage" : 7.799785018914676E-9,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -35,7 +32,7 @@
       "mood" : "warn",
       "url" : "https://www.thisav.com/bp.json",
       "paragraphs" : [ "bp-json-invalid" ],
-      "error" : "read:'https://www.thisav.com/bp.json': Unexpected character ('﻿' (code 65279 / 0xfeff)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
+      "error" : "read:'https://www.thisav.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -44,6 +41,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 422,
-  "snapshot-date" : "2020-10-19T01:12:51.407Z"
+  "place" : 421,
+  "snapshot-date" : "2020-10-21T01:12:47.976Z"
 }
