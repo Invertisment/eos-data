@@ -14,21 +14,14 @@
     "dl-error" : "clj-http: status 404",
     "url" : "https://cloud.google.com/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 299,
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "https://chromeenterprise.google/", "https://cloud.withgoogle.com/next/sf/sessions", "https://cloud.withgoogle.com/partners/", "https://cloudonair.withgoogle.com/events/public-sector-summit?utm_source=google_owned_website&utm_medium=et&utm_campaign=-&utm_content=google-cloud-website-homepage-carousel", "https://firebase.google.com/pricing/", "https://firebase.google.com/products/realtime-database/", "https://firebase.google.com/products/storage", "https://marketingplatform.google.com/about/data-studio/", "https://workspace.google.com/enterprise/", "https://workspace.google.com/essentials/", "https://workspace.google.com/pricing.html", "https://workspace.google.com/solutions/enterprise/?enterprise-benefits_activeEl=connect", "https://www.anvato.com/", "https://www.zyncrender.com/" ],
-    "popularity-boosters-count" : 14
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.5213894170065896E-7,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 1.5872256048234622E-7,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://cloud.google.com"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
@@ -40,9 +33,9 @@
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 281,
-  "snapshot-date" : "2020-10-21T01:12:47.976Z"
+  "place" : 267,
+  "snapshot-date" : "2020-10-22T01:12:29.135Z"
 }
