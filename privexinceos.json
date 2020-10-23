@@ -11,23 +11,23 @@
     "prepared-url" : "https://bp.privex.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "Read timed out",
+    "dl-error" : "clj-http: status 521",
     "url" : "https://bp.privex.io/bp.json"
   },
-  "webpage-error" : "Read timed out",
-  "vote-percentage" : 2.487635749851959E-6,
+  "webpage-error" : "clj-http: status 521",
+  "vote-percentage" : 2.2865081131952827E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Read timed out",
+      "error" : "clj-http: status 521",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://bp.privex.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Read timed out"
+      "error" : "clj-http: status 521"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 174,
-  "snapshot-date" : "2020-10-22T01:12:29.135Z"
+  "place" : 183,
+  "snapshot-date" : "2020-10-23T01:12:44.487Z"
 }
