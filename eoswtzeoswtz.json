@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eoswtzeoswtz",
-    "total_votes" : "462821227900917.43750000000000000",
+    "total_votes" : "463896394188598.75000000000000000",
     "producer_key" : "EOS7temBEsAoxRtUNsy7M6XmZMDuxwKvg8EuBYZ9CMfnaiGDUyHwZ",
     "is_active" : 1,
     "url" : "http://www.eoswtz.com/",
@@ -14,13 +14,13 @@
     "dl-error" : "clj-http: status 500",
     "url" : "http://www.eoswtz.com/bp.json"
   },
-  "webpage-error" : "clj-http: status 500",
-  "vote-percentage" : 2.090736236190644E-6,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 2.09532357854571E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "clj-http: status 500",
+      "error" : "Read timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 188,
-  "snapshot-date" : "2020-10-25T02:12:48.497Z"
+  "snapshot-date" : "2020-10-26T02:12:55.428Z"
 }

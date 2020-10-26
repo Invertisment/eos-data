@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "libertyblock",
-    "total_votes" : "140552074611241824.00000000000000000",
+    "total_votes" : "140548637096896800.00000000000000000",
     "producer_key" : "EOS7TqVs7LpMzJwikiWkGTG9UGSwcQVhxP2ZKBM7FCbUwcrryNgHP",
     "is_active" : 1,
     "url" : "https://libertyblock.io",
@@ -14,13 +14,13 @@
     "dl-error" : "clj-http: status 403",
     "url" : "https://libertyblock.io/bp.json"
   },
-  "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 6.349261826089025E-4,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 6.348289767517878E-4,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "clj-http: status 403",
+      "error" : "Read timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 77,
-  "snapshot-date" : "2020-10-25T02:12:48.497Z"
+  "snapshot-date" : "2020-10-26T02:12:55.428Z"
 }
