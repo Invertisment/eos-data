@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eoscanadacom",
-    "total_votes" : "351193899599636544.00000000000000000",
+    "total_votes" : "351192095725367296.00000000000000000",
     "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
     "is_active" : 0,
     "url" : "https://eoscanada.com",
@@ -11,20 +11,18 @@
     "prepared-url" : "https://eoscanada.com"
   },
   "bp-json-summary" : {
-    "url" : "https://eoscanada.com/bp.json",
-    "logo" : "https://www.eoscanada.com/hubfs/eos-canada-logo-square-256px.png",
-    "code_of_conduct" : "https://www.eoscanada.com/en/code-of-conduct"
+    "read-error" : "read:'https://eoscanada.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "url" : "https://eoscanada.com/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 4,
+    "relative-links-count" : 2,
     "duplicate-urls" : null,
-    "social-links" : [ "http://i.youku.com/eoscanada", "https://github.com/dfuse-io/dfuse-eosio", "https://github.com/eoscanada", "https://github.com/eoscanada/", "https://github.com/eoscanada/eosio.forum", "https://steemit.com/@eos-canada", "https://t.me/eoscanada", "https://twitter.com/EOS_Canada", "https://www.facebook.com/eoscanadacom", "https://www.linkedin.com/company/eoscanada/", "https://www.reddit.com/user/EOSCanada/", "https://www.weibo.com/eoscanada", "https://www.youtube.com/channel/UCoTHlEOVdeN9NOc5b5C1-vQ" ],
-    "social-links-count" : 13,
-    "popularity-boosters" : [ "http://www.dfuse.io?hsLang=en", "https://bihu.com/people/460474", "https://cta-redirect.hubspot.com/cta/redirect/4518039/5faebaac-2c5b-447e-af93-674745ca4f24", "https://dfuse.io", "https://dfuse.io/", "https://eosc.app", "https://eosq.app" ],
-    "popularity-boosters-count" : 7
+    "social-links" : [ ],
+    "popularity-boosters" : [ "https://dfuse.io", "https://dfuse.io/en/author/jc.charlier/" ],
+    "popularity-boosters-count" : 2
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.001586269838892873,
+  "vote-percentage" : 0.0021774424567354805,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -32,19 +30,19 @@
       "title" : "web",
       "url" : "https://eoscanada.com"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://eoscanada.com/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eoscanada.com/bp.json",
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'https://eoscanada.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://www.eoscanada.com/en/code-of-conduct"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 72,
-  "snapshot-date" : "2020-10-26T02:12:55.428Z"
+  "place" : 53,
+  "snapshot-date" : "2020-10-27T02:10:12.103Z"
 }
