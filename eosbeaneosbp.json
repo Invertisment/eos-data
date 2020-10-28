@@ -11,17 +11,18 @@
     "prepared-url" : "https://bp.eosbean.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "read-error" : "read:'https://bp.eosbean.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
     "url" : "https://bp.eosbean.com/bp.json"
   },
   "analyzed-urls" : {
+    "relative-links-count" : 1,
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ "https://go.microsoft.com/fwlink/?linkid=66138&clcid=0x409" ],
-    "popularity-boosters-count" : 1
+    "popularity-boosters" : [ "https://www.name.com/domain/renew/eosbean.com?utm_source=Sedo_parked_page&utm_medium=button&utm_campaign=Sedo_Expired_v", "https://www.sedo.com/services/parking.php3" ],
+    "popularity-boosters-count" : 2
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 4.367450279133915E-6,
+  "vote-percentage" : 4.186776161348417E-6,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -32,8 +33,8 @@
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://bp.eosbean.com/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'https://bp.eosbean.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -42,6 +43,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 129,
-  "snapshot-date" : "2020-10-27T02:10:12.103Z"
+  "place" : 134,
+  "snapshot-date" : "2020-10-28T02:10:35.707Z"
 }

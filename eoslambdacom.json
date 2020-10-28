@@ -1,19 +1,18 @@
 {
   "bp-header" : {
     "owner" : "eoslambdacom",
-    "total_votes" : "2961051793924006912.00000000000000000",
+    "total_votes" : "2967008484796372480.00000000000000000",
     "producer_key" : "EOS72ypVVZQaGueMmTBsJf7CjUkiyBueTsa62zreGNUYTw7u3vx6U",
     "is_active" : 1,
     "url" : "https://bridgepool.lambda.im",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-10-26T17:42:42.500",
+    "last_claim_time" : "2020-10-27T17:43:02.500",
     "location" : 0,
     "prepared-url" : "https://bridgepool.lambda.im"
   },
   "bp-json-summary" : {
-    "url" : "https://bridgepool.lambda.im/bp.json",
-    "logo" : "https://bridgepool.lambda.im/Lambda-Pool-256x256.png",
-    "code_of_conduct" : "https://blog.lambda.im/2018/08/17/lambda-bridge-pool-block-producer-candidate-introduction"
+    "read-error" : "read:'https://bridgepool.lambda.im/bp.json': Unexpected character ('\"' (code 34)): was expecting comma to separate Object entries\n at [Source: (StringReader); line: 11, column: 6]",
+    "url" : "https://bridgepool.lambda.im/bp.json"
   },
   "analyzed-urls" : {
     "relative-links-count" : 1,
@@ -24,7 +23,7 @@
     "popularity-boosters-count" : 1
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.018358955031051897,
+  "vote-percentage" : 0.017634880275148816,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -32,19 +31,19 @@
       "title" : "web",
       "url" : "https://bridgepool.lambda.im"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://bridgepool.lambda.im/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://bridgepool.lambda.im/bp.json",
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'https://bridgepool.lambda.im/bp.json': Unexpected character ('\"' (code 34)): was expecting comma to separate Object entries\n at [Source: (StringReader); line: 11, column: 6]"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://blog.lambda.im/2018/08/17/lambda-bridge-pool-block-producer-candidate-introduction"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 20,
-  "snapshot-date" : "2020-10-27T02:10:12.103Z"
+  "place" : 21,
+  "snapshot-date" : "2020-10-28T02:10:35.707Z"
 }
