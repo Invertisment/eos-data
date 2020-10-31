@@ -16,12 +16,14 @@
     "code_of_conduct" : "https://steemit.com/eos/@okpool/okpool-code-of-conduct"
   },
   "analyzed-urls" : {
+    "relative-links-count" : 55,
     "duplicate-urls" : null,
-    "social-links" : [ ],
+    "social-links" : [ "https://www.linkedin.com/company/okex/jobs" ],
+    "social-links-count" : 1,
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.8399914844881088E-11,
+  "vote-percentage" : 2.841861368007037E-11,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -43,5 +45,5 @@
     "max" : 3
   },
   "place" : 565,
-  "snapshot-date" : "2020-10-30T02:12:36.962Z"
+  "snapshot-date" : "2020-10-31T02:12:41.986Z"
 }
