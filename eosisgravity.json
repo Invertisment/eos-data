@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosisgravity",
-    "total_votes" : "160195287455836928.00000000000000000",
+    "total_votes" : "160182529338127200.00000000000000000",
     "producer_key" : "EOS8UFLCQ8n2PzbKFv8CU87fQKXeyNXr3fn2oMwFayEYyCpkFG3YF",
     "is_active" : 1,
     "url" : "http://eosgravity.com",
@@ -15,7 +15,7 @@
     "url" : "http://eosgravity.com/bp.json"
   },
   "webpage-error" : "clj-http: status 404",
-  "vote-percentage" : 8.816493398925636E-4,
+  "vote-percentage" : 0.001125431383509567,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 64,
-  "snapshot-date" : "2020-11-01T02:11:59.081Z"
+  "place" : 48,
+  "snapshot-date" : "2020-11-02T02:09:22.890Z"
 }
