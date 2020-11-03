@@ -11,38 +11,31 @@
     "prepared-url" : "http://www.aibilink.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 500",
+    "dl-error" : "Connection reset",
     "url" : "http://www.aibilink.com/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 6,
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "about.aspx?FId=n1:1:1", "about.aspx?TypeId=1&FId=t1:1:1", "about.aspx?TypeId=2&FId=t1:2:1", "about2.aspx?TypeId=26&FId=t1:26:1", "clients.aspx?TypeId=21&FId=t19:21:19", "clients_complex.aspx?FId=t1:19:1", "contact.aspx?TypeId=13&FId=t7:13:7", "contact.aspx?TypeId=148&FId=t7:148:7", "contact.aspx?TypeId=149&FId=t7:149:7", "contact.aspx?TypeId=150&FId=t7:150:7", "contact2.aspx?TypeId=151&FId=t7:151:7", "honor.aspx?TypeID=3&fid=t1:3:1", "http://aibilink.com/", "http://en.aibilink.com/", "http://m.aibilink.com/m", "http://www.beian.miit.gov.cn", "news.aspx?TypeId=28&FId=t2:28:1", "news.aspx?TypeId=4&FId=t2:4:1", "news_view.aspx?TypeId=4&Id=683&Fid=t2:4:2", "news_view.aspx?TypeId=4&Id=684&Fid=t2:4:2", "news_view.aspx?TypeId=4&Id=685&Fid=t2:4:2", "news_view.aspx?TypeId=4&Id=686&Fid=t2:4:2", "products.aspx?FId=n3:3:3", "products.aspx?TypeId=10&FId=t3:10:3", "products.aspx?TypeId=11&FId=t3:11:3", "products.aspx?TypeId=12&FId=t3:12:3", "products.aspx?TypeId=13&FId=t3:13:3", "products.aspx?TypeId=66&FId=t3:66:3", "products.aspx?TypeId=67&FId=t3:67:3", "products.aspx?TypeId=69&FId=t3:69:3", "products_complex.aspx?FId=n3:3:3", "solution.aspx?FId=t25:25:25", "solution_view.aspx?TypeId=193&Id=433&FId=t25:193:25", "solution_view.aspx?TypeId=194&Id=434&FId=t25:194:25", "solution_view.aspx?TypeId=195&Id=435&FId=t25:195:25", "solution_view.aspx?TypeId=196&Id=438&FId=t25:196:25", "solution_view.aspx?TypeId=197&Id=483&FId=t25:197:25", "solution_view.aspx?TypeId=198&Id=481&FId=t25:198:25", "solution_view.aspx?TypeId=199&Id=480&FId=t25:199:25", "solution_view.aspx?TypeId=200&Id=479&FId=t25:200:25" ],
-    "popularity-boosters-count" : 40
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 4.12346941486016E-8,
+  "webpage-error" : "Connection reset",
+  "vote-percentage" : 2.64446904505278E-8,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "http://www.aibilink.com"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Connection reset",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://www.aibilink.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 500"
+      "error" : "Connection reset"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 188,
-  "snapshot-date" : "2020-11-02T02:09:22.890Z"
+  "place" : 365,
+  "snapshot-date" : "2020-11-03T02:13:00.971Z"
 }

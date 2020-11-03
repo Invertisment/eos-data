@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "slowmistiobp",
-    "total_votes" : "2560313184673950208.00000000000000000",
+    "total_votes" : "2580627913905635840.00000000000000000",
     "producer_key" : "EOS62hJuwYdARgXDWLepwTP4Xc749Gi3RVXZp1qJ8NjfbEwi79uZN",
     "is_active" : 1,
     "url" : "https://slowmist.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-10-30T13:13:42.000",
+    "last_claim_time" : "2020-11-02T13:13:45.000",
     "location" : 0,
     "prepared-url" : "https://slowmist.io"
   },
@@ -15,7 +15,7 @@
     "logo" : "https://cdn.slowmist.com/smz/images/smz256.png"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 10,
+    "relative-links-count" : 9,
     "duplicate-urls" : null,
     "social-links" : [ "https://github.com/slowmist/blockchain-threat-intelligence/?from=slowmistzone", "https://t.me/slowmistzone" ],
     "social-links-count" : 2,
@@ -23,7 +23,7 @@
     "popularity-boosters-count" : 46
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.011585145901433107,
+  "vote-percentage" : 0.011627998720319279,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -44,5 +44,5 @@
     "max" : 3
   },
   "place" : 30,
-  "snapshot-date" : "2020-10-31T02:12:41.986Z"
+  "snapshot-date" : "2020-11-03T02:13:00.971Z"
 }

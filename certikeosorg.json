@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "certikeosorg",
-    "total_votes" : "3406642112073563648.00000000000000000",
+    "total_votes" : "3399711442932176384.00000000000000000",
     "producer_key" : "EOS57kRcpx1QT4Wn4uA6agwYdJNGew4cfrzKnzrvQZiVE85huUBAB",
     "is_active" : 1,
     "url" : "https://certik.org",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-11-01T22:52:01.000",
+    "last_claim_time" : "2020-11-02T23:03:06.500",
     "location" : 840,
     "prepared-url" : "https://certik.org"
   },
@@ -23,7 +23,7 @@
     "popularity-boosters-count" : 12
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.02393483210157012,
+  "vote-percentage" : 0.015318690499647014,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -44,6 +44,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 18,
-  "snapshot-date" : "2020-11-02T02:09:22.890Z"
+  "place" : 26,
+  "snapshot-date" : "2020-11-03T02:13:00.971Z"
 }

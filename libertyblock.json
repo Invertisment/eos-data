@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "libertyblock",
-    "total_votes" : "140307728672651184.00000000000000000",
+    "total_votes" : "140314149389042144.00000000000000000",
     "producer_key" : "EOS7TqVs7LpMzJwikiWkGTG9UGSwcQVhxP2ZKBM7FCbUwcrryNgHP",
     "is_active" : 1,
     "url" : "https://libertyblock.io",
@@ -11,23 +11,23 @@
     "prepared-url" : "https://libertyblock.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 403",
+    "dl-error" : "NotAfter: Sun Nov 01 23:59:59 UTC 2020",
     "url" : "https://libertyblock.io/bp.json"
   },
-  "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 7.721963506583825E-4,
+  "webpage-error" : "NotAfter: Sun Nov 01 23:59:59 UTC 2020",
+  "vote-percentage" : 6.322386659257577E-4,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "clj-http: status 403",
+      "error" : "NotAfter: Sun Nov 01 23:59:59 UTC 2020",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://libertyblock.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 403"
+      "error" : "NotAfter: Sun Nov 01 23:59:59 UTC 2020"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 65,
-  "snapshot-date" : "2020-11-01T02:11:59.081Z"
+  "place" : 77,
+  "snapshot-date" : "2020-11-03T02:13:00.971Z"
 }

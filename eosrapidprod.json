@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosrapidprod",
-    "total_votes" : "5890365001178685440.00000000000000000",
+    "total_votes" : "5892477441328708608.00000000000000000",
     "producer_key" : "EOS8QEFsgUWj7BscQNkiremtpSoRkzwDqmCPpKKCHYXGNaqxXFQ4h",
     "is_active" : 1,
     "url" : "https://eosrapid.com",
-    "unpaid_blocks" : 2100,
-    "last_claim_time" : "2020-10-31T20:00:16.500",
+    "unpaid_blocks" : 2088,
+    "last_claim_time" : "2020-11-02T20:00:45.500",
     "location" : 840,
     "prepared-url" : "https://eosrapid.com"
   },
@@ -18,12 +18,13 @@
   "analyzed-urls" : {
     "relative-links-count" : 1,
     "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "https://bloks.io/account/eosrapidprod" ],
-    "popularity-boosters-count" : 1
+    "social-links" : [ "https://github.com/eosrapid/adappt" ],
+    "social-links-count" : 1,
+    "popularity-boosters" : [ "https://bloks.io/account/eosrapidprod", "https://url.fo/snaps" ],
+    "popularity-boosters-count" : 2
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.03241815971925599,
+  "vote-percentage" : 0.02655079400562738,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -44,6 +45,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 7,
-  "snapshot-date" : "2020-11-01T02:11:59.081Z"
+  "place" : 8,
+  "snapshot-date" : "2020-11-03T02:13:00.971Z"
 }
