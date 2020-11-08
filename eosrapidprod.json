@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosrapidprod",
-    "total_votes" : "5911309963053519872.00000000000000000",
+    "total_votes" : "5946376143911563264.00000000000000000",
     "producer_key" : "EOS8QEFsgUWj7BscQNkiremtpSoRkzwDqmCPpKKCHYXGNaqxXFQ4h",
     "is_active" : 1,
     "url" : "https://eosrapid.com",
-    "unpaid_blocks" : 1740,
-    "last_claim_time" : "2020-11-04T21:00:06.500",
+    "unpaid_blocks" : 1752,
+    "last_claim_time" : "2020-11-07T21:00:20.000",
     "location" : 840,
     "prepared-url" : "https://eosrapid.com"
   },
@@ -16,15 +16,14 @@
     "code_of_conduct" : "https://www.eosrapid.com/info.html"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 1,
+    "relative-links-count" : 4,
     "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/eosrapid/adappt" ],
-    "social-links-count" : 1,
-    "popularity-boosters" : [ "https://bloks.io/account/eosrapidprod", "https://url.fo/snaps" ],
-    "popularity-boosters-count" : 2
+    "social-links" : [ "https://github.com/eosrapid", "https://github.com/eosrapid/adappt", "https://github.com/eosrapid/my-eos", "https://t.me/EOSRapid", "https://twitter.com/EOSRapid", "https://www.youtube.com/channel/UCg7on4tzZl1z7wA6VhP_NQQ" ],
+    "social-links-count" : 6,
+    "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.026577998018905848,
+  "vote-percentage" : 0.026634405027967115,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +44,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 7,
-  "snapshot-date" : "2020-11-05T02:12:51.656Z"
+  "place" : 6,
+  "snapshot-date" : "2020-11-08T02:12:52.763Z"
 }
