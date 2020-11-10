@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "truststaking",
-    "total_votes" : "1988323073940801792.00000000000000000",
+    "total_votes" : "1971569861389091328.00000000000000000",
     "producer_key" : "EOS5jZgX1gZvYat588FKsMyAybVo8tWaAX4bHdBrW9Z4C5iMshUKf",
     "is_active" : 1,
     "url" : "https://www.binance.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-11-07T15:51:07.500",
+    "last_claim_time" : "2020-11-09T15:53:08.000",
     "location" : 392,
     "prepared-url" : "https://www.binance.com"
   },
@@ -15,7 +15,7 @@
     "url" : "https://www.binance.com/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 14,
+    "relative-links-count" : 15,
     "duplicate-urls" : null,
     "social-links" : [ "https://binance-docs.github.io/apidocs/spot/en", "https://binance-docs.github.io/apidocs/spot/en/", "https://twitter.com/binance", "https://vk.com/binance", "https://www.facebook.com/binance", "https://www.instagram.com/Binance/", "https://www.reddit.com/r/binance", "https://www.youtube.com/binanceyoutube" ],
     "social-links-count" : 8,
@@ -23,7 +23,7 @@
     "popularity-boosters-count" : 20
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.008905895085701044,
+  "vote-percentage" : 0.008833389391681237,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,5 +45,5 @@
     "max" : 3
   },
   "place" : 34,
-  "snapshot-date" : "2020-11-08T02:12:52.763Z"
+  "snapshot-date" : "2020-11-10T02:12:26.039Z"
 }

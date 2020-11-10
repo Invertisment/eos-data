@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "switzerlanda",
-    "total_votes" : "2293521100538830.00000000000000000",
+    "total_votes" : "2295291211636047.00000000000000000",
     "producer_key" : "EOS7eZQYHQYCoh3uMJyGVrnHgDBxgfp93QAmwLV7nWoQLkeaM7HUs",
     "is_active" : 1,
     "url" : "https://eosgeneva.io",
@@ -11,20 +11,16 @@
     "prepared-url" : "https://eosgeneva.io"
   },
   "bp-json-summary" : {
-    "url" : "https://eosgeneva.io/bp.json",
-    "logo" : "https://eosgeneva.io/images/logo_swiss256.png",
-    "code_of_conduct" : "https://steemit.com/disclosures/@eosgeneva/code-of-conduct-of-eos-geneva-v1-0"
+    "url" : "https://eosgeneva.io/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 1,
     "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/eos-geneva/escrowescrow", "https://medium.com/@s.armleder/eos-geneva-has-created-eos-pass-ed47700faffd" ],
-    "social-links-count" : 2,
-    "popularity-boosters" : [ "https://updown.io/c7yx ", "https://updown.io/fhnf" ],
+    "social-links" : [ ],
+    "popularity-boosters" : [ "https://updown.io/c7yx", "https://updown.io/fhnf" ],
     "popularity-boosters-count" : 2
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.0272907137649883E-5,
+  "vote-percentage" : 1.0283785239747941E-5,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -37,14 +33,13 @@
       "title" : "bp-json",
       "url" : "https://eosgeneva.io/bp.json"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://steemit.com/disclosures/@eosgeneva/code-of-conduct-of-eos-geneva-v1-0"
+      "title" : "no-coc",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
     } ],
-    "score" : 3,
+    "score" : 2,
     "max" : 3
   },
-  "place" : 126,
-  "snapshot-date" : "2020-11-08T02:12:52.763Z"
+  "place" : 127,
+  "snapshot-date" : "2020-11-10T02:12:26.039Z"
 }

@@ -11,23 +11,23 @@
     "prepared-url" : "https://eospublic.chainrift.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "Connection refused (Connection refused)",
+    "dl-error" : "eospublic.chainrift.com",
     "url" : "https://eospublic.chainrift.com/bp.json"
   },
-  "webpage-error" : "Connection refused (Connection refused)",
+  "webpage-error" : "eospublic.chainrift.com: Temporary failure in name resolution",
   "vote-percentage" : 0.0,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Connection refused (Connection refused)",
+      "error" : "eospublic.chainrift.com: Temporary failure in name resolution",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eospublic.chainrift.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Connection refused (Connection refused)"
+      "error" : "eospublic.chainrift.com"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 226,
-  "snapshot-date" : "2020-11-09T02:08:55.401Z"
+  "place" : 619,
+  "snapshot-date" : "2020-11-10T02:12:26.039Z"
 }
