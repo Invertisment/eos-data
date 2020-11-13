@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "aus1genereos",
-    "total_votes" : "2381079656592896000.00000000000000000",
+    "total_votes" : "2369292939548263936.00000000000000000",
     "producer_key" : "EOS57ZyzVjoEG2bvzmYmmeiH8YnYtRudxNKxppx17q7Hg29F8tW4t",
     "is_active" : 1,
     "url" : "https://www.genereos.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-11-11T06:20:09.500",
+    "last_claim_time" : "2020-11-12T06:20:29.000",
     "location" : 36,
     "prepared-url" : "https://www.genereos.io"
   },
@@ -15,22 +15,14 @@
     "logo" : "https://www.genereos.io/wp-content/uploads/2018/07/genereos_256.png",
     "code_of_conduct" : "https://www.genereos.io/index.php/code-of-conduct"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 2,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://medium.com/@generEOS", "https://medium.com/genereos/airgrab-evolution-of-the-ico-68f1c29fc41a", "https://medium.com/genereos/genereos-runs-first-eosio-workshop-at-western-sydney-university-99aa3424d9c8", "https://t.me/generEOS", "https://twitter.com/genereosaus?lang=en" ],
-    "social-links-count" : 5,
-    "popularity-boosters" : [ "http://genereos.io/", "https://eostoolkit.io/home", "https://genpool.io/" ],
-    "popularity-boosters-count" : 3
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.010693950083579368,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 0.01063441029473411,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://www.genereos.io"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -42,9 +34,9 @@
       "title" : "coc",
       "url" : "https://www.genereos.io/index.php/code-of-conduct"
     } ],
-    "score" : 3,
+    "score" : 2,
     "max" : 3
   },
-  "place" : 32,
-  "snapshot-date" : "2020-11-12T02:12:31.682Z"
+  "place" : 31,
+  "snapshot-date" : "2020-11-13T02:12:58.324Z"
 }

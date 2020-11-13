@@ -1,19 +1,18 @@
 {
   "bp-header" : {
     "owner" : "eosauthority",
-    "total_votes" : "1816571074016331264.00000000000000000",
+    "total_votes" : "1812529698660272128.00000000000000000",
     "producer_key" : "EOS4va3CTmAcAAXsT26T3EBWqYHgQLshyxsozYRgxWm9tjmy17pVV",
     "is_active" : 1,
     "url" : "https://eosauthority.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-11-11T09:26:20.500",
+    "last_claim_time" : "2020-11-12T09:26:22.000",
     "location" : 826,
     "prepared-url" : "https://eosauthority.com"
   },
   "bp-json-summary" : {
     "url" : "https://eosauthority.com/bp.json",
-    "logo" : "https://eosauthority.com/common/bp-standard-info/EOS-AUTHORITY-256.jpg",
-    "code_of_conduct" : "https://steemit.com/eos/@eosauthority/eos-authority-roadmap-and-position-on-dividends"
+    "logo" : "https://eosauthority.com/common/bp-standard-info/EOS-AUTHORITY-256.jpg"
   },
   "analyzed-urls" : {
     "relative-links-count" : 10,
@@ -24,7 +23,7 @@
     "popularity-boosters-count" : 2
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.008158618438075301,
+  "vote-percentage" : 0.008135416336748623,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -37,14 +36,13 @@
       "title" : "bp-json",
       "url" : "https://eosauthority.com/bp.json"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://steemit.com/eos/@eosauthority/eos-authority-roadmap-and-position-on-dividends"
+      "title" : "no-coc",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
     } ],
-    "score" : 3,
+    "score" : 2,
     "max" : 3
   },
-  "place" : 36,
-  "snapshot-date" : "2020-11-12T02:12:31.682Z"
+  "place" : 37,
+  "snapshot-date" : "2020-11-13T02:12:58.324Z"
 }

@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "okcapitalbp1",
-    "total_votes" : "5789363665082772480.00000000000000000",
+    "total_votes" : "5739459896743122944.00000000000000000",
     "producer_key" : "EOS6NqWZ1i9KSNoeBiby6Nmf1seAbEfhvrDoCbwSi1hV4cuqqnYRP",
     "is_active" : 1,
     "url" : "https://www.okex.com/eosbp/",
-    "unpaid_blocks" : 7296,
-    "last_claim_time" : "2020-11-11T04:48:18.000",
+    "unpaid_blocks" : 7295,
+    "last_claim_time" : "2020-11-12T04:50:18.500",
     "location" : 0,
     "prepared-url" : "https://www.okex.com/eosbp/"
   },
@@ -23,7 +23,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.026001299821557588,
+  "vote-percentage" : 0.025761175578303923,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,5 +45,5 @@
     "max" : 3
   },
   "place" : 16,
-  "snapshot-date" : "2020-11-12T02:12:31.682Z"
+  "snapshot-date" : "2020-11-13T02:12:58.324Z"
 }
