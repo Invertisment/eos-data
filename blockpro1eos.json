@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "blockpro1eos",
-    "total_votes" : "835302933640315.87500000000000000",
+    "total_votes" : "815933764098701.00000000000000000",
     "producer_key" : "EOS8mmyZ3zfppKvhRRsz6rSgTgNHuf2GuEVPmtkDFDoYGpfgjih7x",
     "is_active" : 1,
     "url" : "http://blockpro.one/",
@@ -11,36 +11,31 @@
     "prepared-url" : "http://blockpro.one/"
   },
   "bp-json-summary" : {
+    "dl-error" : "clj-http: status 404",
     "url" : "http://blockpro.one/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 5,
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "http://plus.google.com", "http://www.facebook.com", "http://www.linkedin.com", "http://www.twitter.com" ],
-    "popularity-boosters-count" : 4
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 3.7492004337884147E-6,
+  "webpage-error" : "clj-http: status 404",
+  "vote-percentage" : 5.055551523201801E-6,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "http://blockpro.one/"
-    }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "http://blockpro.one/bp.json"
-    }, {
-      "title" : "no-coc",
       "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "title" : "no-web",
+      "error" : "clj-http: status 404",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://blockpro.one/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 163,
-  "snapshot-date" : "2020-11-13T02:12:58.324Z"
+  "place" : 122,
+  "snapshot-date" : "2020-11-14T02:10:05.559Z"
 }
