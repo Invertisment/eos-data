@@ -1,21 +1,22 @@
 {
   "bp-header" : {
     "owner" : "eosdacserver",
-    "total_votes" : "1380026233037549824.00000000000000000",
+    "total_votes" : "1409359295032671232.00000000000000000",
     "producer_key" : "EOS6VkageCqyz1X97n7E1JyjPoZu8HEX6CVujY5ABzk3fPyV3vzZK",
     "is_active" : 1,
     "url" : "https://eosdac.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-11-13T08:51:57.500",
+    "last_claim_time" : "2020-11-14T08:51:58.500",
     "location" : 826,
     "prepared-url" : "https://eosdac.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "Read timed out",
-    "url" : "https://eosdac.io/bp.json"
+    "url" : "https://eosdac.io/bp.json",
+    "logo" : "https://eosdac.io/assets/bpjson/eosdaclogo_256.png",
+    "code_of_conduct" : "https://eosdac.io#core-principles"
   },
   "webpage-error" : "Read timed out",
-  "vote-percentage" : 0.008550686381017894,
+  "vote-percentage" : 0.010567400570532027,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -23,19 +24,19 @@
       "error" : "Read timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://eosdac.io/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Read timed out"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eosdac.io/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://eosdac.io#core-principles"
     } ],
-    "score" : 0,
+    "score" : 2,
     "max" : 3
   },
-  "place" : 34,
-  "snapshot-date" : "2020-11-14T02:10:05.559Z"
+  "place" : 27,
+  "snapshot-date" : "2020-11-15T02:09:03.381Z"
 }

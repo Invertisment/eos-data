@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "bp.dfs",
-    "total_votes" : "705061785307636096.00000000000000000",
+    "total_votes" : "834237705830293760.00000000000000000",
     "producer_key" : "EOS8GcJ7U4xSFEhEpqXxxGfoAwTtQbwv9Q9b8rDgnvqeSKTkGtqkt",
     "is_active" : 1,
     "url" : "https://defis.network",
@@ -11,7 +11,6 @@
     "prepared-url" : "https://defis.network"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
     "url" : "https://defis.network/bp.json"
   },
   "analyzed-urls" : {
@@ -20,7 +19,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.004368585220395681,
+  "vote-percentage" : 0.006255128865734705,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -28,19 +27,18 @@
       "title" : "web",
       "url" : "https://defis.network"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://defis.network/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://defis.network/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "title" : "no-coc",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
     } ],
-    "score" : 1,
+    "score" : 2,
     "max" : 3
   },
-  "place" : 52,
-  "snapshot-date" : "2020-11-14T02:10:05.559Z"
+  "place" : 38,
+  "snapshot-date" : "2020-11-15T02:09:03.381Z"
 }

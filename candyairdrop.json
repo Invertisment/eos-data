@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "candyairdrop",
-    "total_votes" : "59991261236255.46875000000000000",
+    "total_votes" : "60205145187883.50000000000000000",
     "producer_key" : "EOS7igDXf5GeHjVXgyS6UtzYUJpbqBmvXhE6Mzw4DR2s6UvqoYDcR",
     "is_active" : 1,
     "url" : "https://chain.pro",
@@ -11,11 +11,11 @@
     "prepared-url" : "https://chain.pro"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "dl-error" : "Read timed out",
     "url" : "https://chain.pro/bp.json"
   },
   "webpage-error" : "Read timed out",
-  "vote-percentage" : 3.7170776044152107E-7,
+  "vote-percentage" : 4.514192284747767E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -27,7 +27,7 @@
       "mood" : "warn",
       "url" : "https://chain.pro/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "error" : "Read timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 188,
-  "snapshot-date" : "2020-11-14T02:10:05.559Z"
+  "place" : 124,
+  "snapshot-date" : "2020-11-15T02:09:03.381Z"
 }
