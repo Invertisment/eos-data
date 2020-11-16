@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "blockpro1eos",
-    "total_votes" : "815551187753551.00000000000000000",
+    "total_votes" : "815551187860272.87500000000000000",
     "producer_key" : "EOS8mmyZ3zfppKvhRRsz6rSgTgNHuf2GuEVPmtkDFDoYGpfgjih7x",
     "is_active" : 1,
     "url" : "http://blockpro.one/",
@@ -15,7 +15,7 @@
     "url" : "http://blockpro.one/bp.json"
   },
   "webpage-error" : "clj-http: status 404",
-  "vote-percentage" : 6.115017027340187E-6,
+  "vote-percentage" : 4.604585974875164E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 81,
-  "snapshot-date" : "2020-11-15T02:09:03.381Z"
+  "place" : 129,
+  "snapshot-date" : "2020-11-16T02:11:17.614Z"
 }

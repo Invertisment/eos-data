@@ -1,30 +1,27 @@
 {
   "bp-header" : {
     "owner" : "eosnodeonebp",
-    "total_votes" : "1713377396067980288.00000000000000000",
+    "total_votes" : "1722502293746135040.00000000000000000",
     "producer_key" : "EOS6xcmB3LnUwcjFu55hKFQwX8EHWWerwbHyAs3VpaJmbBFp4bmDs",
     "is_active" : 1,
     "url" : "http://www.nodeone.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-11-13T21:37:08.500",
+    "last_claim_time" : "2020-11-15T21:37:10.500",
     "location" : 7,
     "prepared-url" : "http://www.nodeone.io"
   },
   "bp-json-summary" : {
-    "url" : "http://www.nodeone.io/bp.json",
-    "logo" : "http://www.nodeone.io/resources/images/eosnodeone_logo_256.png",
-    "code_of_conduct" : "https://steemit.com/eos/@eosnodeone/eos-nodeone-roadmap-and-stance-on-vote-buying"
+    "read-error" : "read:'http://www.nodeone.io/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "url" : "http://www.nodeone.io/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 9,
     "duplicate-urls" : null,
-    "social-links" : [ "http://t.me/NodeOne_EOSnews", "http://t.me/eosnodeone_kr", "https://github.com/greymass/eos-voter", "https://steemit.com/bp/@eosnodeone/eos-go-block-producer-report-eos-nodeone", "https://steemit.com/eos/@eosnodeone/a-thought-on-ram-squatting-problem", "https://steemit.com/eos/@eosnodeone/eos-nodeone-roadmap-and-stance-on-vote-buying", "https://steemit.com/eos/@eosnodeone/suggestion-contributing-airdrop-method", "https://steemit.com/kr/@eosnodeone/eos-bp-eos-node-one-eos", "https://steemit.com/nodeone/@eosnodeone/eosnodeone-ownership-disclosure", "https://www.steemit.com/@eosnodeone", "https://www.twitter.com/eosnodeone" ],
-    "social-links-count" : 11,
-    "popularity-boosters" : [ "https://goo.gl/B5jx8S" ],
-    "popularity-boosters-count" : 1
+    "social-links" : [ ],
+    "popularity-boosters" : [ "https://wordpress.org/support/article/editing-wp-config-php/", "setup-config.php?step=1" ],
+    "popularity-boosters-count" : 2
   },
-  "p-ram-amounts" : [ "RAM" ],
-  "vote-percentage" : 0.010616140777161404,
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.009725214090219226,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -32,19 +29,19 @@
       "title" : "web",
       "url" : "http://www.nodeone.io"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "http://www.nodeone.io/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://www.nodeone.io/bp.json",
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'http://www.nodeone.io/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://steemit.com/eos/@eosnodeone/eos-nodeone-roadmap-and-stance-on-vote-buying"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 27,
-  "snapshot-date" : "2020-11-14T02:10:05.559Z"
+  "place" : 29,
+  "snapshot-date" : "2020-11-16T02:11:17.614Z"
 }

@@ -11,31 +11,39 @@
     "prepared-url" : "https://chain.pro"
   },
   "bp-json-summary" : {
-    "dl-error" : "Read timed out",
+    "dl-error" : "clj-http: status 404",
     "url" : "https://chain.pro/bp.json"
   },
-  "webpage-error" : "Read timed out",
-  "vote-percentage" : 4.514192284747767E-7,
+  "analyzed-urls" : {
+    "relative-links-count" : 14,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://t.me/ProChainTech", "https://twitter.com/prochaintech", "https://weibo.com/prochain" ],
+    "social-links-count" : 3,
+    "popularity-boosters" : [ "http://bimoney.io/", "http://blockchain.capital/", "http://cdcf.io", "http://charter.foundation", "http://cn.mikecrm.com/0an6cOy", "http://cn.mikecrm.com/A2JDhUN", "http://cn.mikecrm.com/gS34G2z", "http://coinsfund.io/", "http://cortexlabs.ai/", "http://cryptothrone.co/", "http://eosnova.io/", "http://litex.io/", "http://majorwallet.io/", "http://musk.vip/", "http://nework.pro/", "http://pandafun.io/", "http://trip.io/", "http://www.amberchain.org", "http://www.av.cash", "http://www.bbex.io/", "http://www.bit.game", "http://www.brahmaos.io/", "http://www.byb.world/", "http://www.chainpe.com/", "http://www.cnntoken.io", "http://www.coinpaws.com/", "http://www.collinstar.com/", "http://www.dappx.com/", "http://www.egcchain.com/", "http://www.flyfuture.net/", "http://www.foglink.io", "http://www.giftchain.org/", "http://www.gscchain.org", "http://www.hashworld.com/", "http://www.iicoin.io/", "http://www.jdcapital.com/", "http://www.linkvc.com/", "http://www.medishares.org/", "http://www.meet.one/", "http://www.miitbeian.gov.cn/", "http://www.newgenesiscap.com/", "http://www.nodecap.com/", "http://www.pixiecoin.io/", "http://www.sachain.net", "http://www.sharex.vc", "http://www.shinechain.org/", "http://www.tacchain.io", "http://www.tnb.fund/", "http://www.tokenplanets.com", "http://www.unlimitedip.io", "http://www.valuecyber.org", "http://www.vipwallet.tech/", "http://www.youlive.io/", "http://zebrawallet.io/", "https://bepal.pro/", "https://betdice.one", "https://betx.fun/", "https://big.game/", "https://bitkeep.com", "https://bitpie.com", "https://bitup.com", "https://btex.org", "https://cai.today", "https://dhb.one/", "https://dice.eosbet.io", "https://dice.eosget.io/", "https://eos.live", "https://eosadd.com", "https://eosawake.io/", "https://eosdice.vip", "https://eosjacks.com", "https://eoslynx.com", "https://eospark.com/", "https://eospoker.win/", "https://eospool.tw", "https://eosrich.win/", "https://eostoken.im", "https://esportschain.org", "https://fanqieqianbao.com", "https://genaro.network/en", "https://meet.one/", "https://more.top", "https://nakamoto.run/", "https://play.lelego.io/", "https://pocketeos.com", "https://pokereos.io/", "https://read.io", "https://sharpe.capital/", "https://starteos.io", "https://tobet.one/", "https://token.im/", "https://top.one", "https://u.network/", "https://www.21dice.one/", "https://www.51token.im", "https://www.acuteangle.com/", "https://www.atidium.io", "https://www.atoken.com/", "https://www.bancor.network/", "https://www.bitportal.io", "https://www.bottos.org", "https://www.csdn.net/", "https://www.eosluckyme.com/", "https://www.fbg.capital/", "https://www.funcity.one", "https://www.goldstone.io/", "https://www.gsc.social", "https://www.hotchain.vip", "https://www.huobiwallet.com/", "https://www.infinitowallet.io/", "https://www.jinse.com/", "https://www.kex.com", "https://www.kigmgmt.com/", "https://www.kkcoin.com", "https://www.mdt.co", "https://www.mex.link", "https://www.onechain.one/", "https://www.rovegas.com/", "https://www.secrypto.io/", "https://www.tokenpocket.pro/", "https://www.yunaq.com/" ],
+    "popularity-boosters-count" : 121
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 3.39917066241766E-7,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "Read timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://chain.pro"
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://chain.pro/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Read timed out"
+      "error" : "clj-http: status 404"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 0,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 124,
-  "snapshot-date" : "2020-11-15T02:09:03.381Z"
+  "place" : 204,
+  "snapshot-date" : "2020-11-16T02:11:17.614Z"
 }

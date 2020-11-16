@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosukblocpro",
-    "total_votes" : "9860984134620308.00000000000000000",
+    "total_votes" : "9824008765209856.00000000000000000",
     "producer_key" : "EOS7SQTW7Mz3zQwTrq1KTeVzWx7bHjqR3HffTCCRxRRzvrJFS2qjs",
     "is_active" : 1,
     "url" : "https://eosuk.io",
@@ -15,14 +15,22 @@
     "logo" : "https://eosuk.io/eos-uk-logo-256.png",
     "code_of_conduct" : "https://steemit.com/eos/@bodget/eos-uk-block-producer-agreed-code-of-conduct"
   },
-  "webpage-error" : "Read timed out",
-  "vote-percentage" : 6.109897096502304E-5,
+  "analyzed-urls" : {
+    "relative-links-count" : 4,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://github.com/eos-uk", "https://medium.com/@rogerdavies_2315", "https://steemit.com/@bodget", "https://steemit.com/eos/@bodget/eos-uk-block-producer-agreed-code-of-conduct", "https://steemit.com/eos/@bodget/eos-uk-statement-of-ownership", "https://t.me/joinchat/GefimxBKTqvrKPX9ZA4zGg", "https://t.me/joinchat/GefimxBKTqvrKPX9ZA4zGg/", "https://twitter.com/eosukbp", "https://www.facebook.com/eosukbp", "https://www.facebook.com/eosukbp/", "https://www.youtube.com/channel/UCGxatJjuafURvxMDKXwi8WA" ],
+    "social-links-count" : 11,
+    "popularity-boosters" : [ "https://telosuk.io" ],
+    "popularity-boosters-count" : 1
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 5.546616037188104E-5,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "Read timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eosuk.io"
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -34,9 +42,9 @@
       "title" : "coc",
       "url" : "https://steemit.com/eos/@bodget/eos-uk-block-producer-agreed-code-of-conduct"
     } ],
-    "score" : 2,
+    "score" : 3,
     "max" : 3
   },
-  "place" : 74,
-  "snapshot-date" : "2020-11-14T02:10:05.559Z"
+  "place" : 78,
+  "snapshot-date" : "2020-11-16T02:11:17.614Z"
 }
