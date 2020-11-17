@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosdacserver",
-    "total_votes" : "1408103681488843776.00000000000000000",
+    "total_votes" : "1407061270110068736.00000000000000000",
     "producer_key" : "EOS6VkageCqyz1X97n7E1JyjPoZu8HEX6CVujY5ABzk3fPyV3vzZK",
     "is_active" : 1,
     "url" : "https://eosdac.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-11-15T08:52:00.000",
+    "last_claim_time" : "2020-11-16T08:53:01.000",
     "location" : 826,
     "prepared-url" : "https://eosdac.io"
   },
@@ -15,22 +15,14 @@
     "logo" : "https://eosdac.io/assets/bpjson/eosdaclogo_256.png",
     "code_of_conduct" : "https://eosdac.io#core-principles"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 22,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://discord.io/eosdac", "https://facebook.com/eosdac", "https://github.com/eosdac", "https://steemit.com/@eosdac", "https://steemit.com/eos/@eosdac/statement-of-ownership-and-code-of-conduct", "https://t.me/eosdacio", "https://twitter.com/eosdac", "https://vk.com/eosdac", "https://www.instagram.com/eosdac", "https://www.linkedin.com/company/eosdac/", "https://www.reddit.com/r/eosdac", "https://www.youtube.com/eosdac" ],
-    "social-links-count" : 12,
-    "popularity-boosters" : [ "http://eepurl.com/dmQ2dX", "https://eosdac.zendesk.com/", "https://murmurdapp.com/userpost/eosdacmurmur" ],
-    "popularity-boosters-count" : 3
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.007950125705738612,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 0.006236187955408013,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eosdac.io"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -42,9 +34,9 @@
       "title" : "coc",
       "url" : "https://eosdac.io#core-principles"
     } ],
-    "score" : 3,
+    "score" : 2,
     "max" : 3
   },
-  "place" : 36,
-  "snapshot-date" : "2020-11-16T02:11:17.614Z"
+  "place" : 46,
+  "snapshot-date" : "2020-11-17T02:12:55.219Z"
 }

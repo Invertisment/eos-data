@@ -1,47 +1,42 @@
 {
   "bp-header" : {
     "owner" : "eosnodeonebp",
-    "total_votes" : "1722502293746135040.00000000000000000",
+    "total_votes" : "1722344181290233856.00000000000000000",
     "producer_key" : "EOS6xcmB3LnUwcjFu55hKFQwX8EHWWerwbHyAs3VpaJmbBFp4bmDs",
     "is_active" : 1,
     "url" : "http://www.nodeone.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-11-15T21:37:10.500",
+    "last_claim_time" : "2020-11-16T21:37:13.500",
     "location" : 7,
     "prepared-url" : "http://www.nodeone.io"
   },
   "bp-json-summary" : {
-    "read-error" : "read:'http://www.nodeone.io/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
-    "url" : "http://www.nodeone.io/bp.json"
+    "url" : "http://www.nodeone.io/bp.json",
+    "logo" : "https://www.nodeone.io/resources/images/eosnodeone_logo_256.png",
+    "code_of_conduct" : "https://steemit.com/eos/@eosnodeone/eos-nodeone-roadmap-and-stance-on-vote-buying"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "https://wordpress.org/support/article/editing-wp-config-php/", "setup-config.php?step=1" ],
-    "popularity-boosters-count" : 2
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.009725214090219226,
+  "webpage-error" : "clj-http: status 404",
+  "vote-percentage" : 0.007633542523410524,
   "scoring" : {
     "comp" : [ {
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "clj-http: status 404",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
       "score" : "positive",
       "mood" : "good",
-      "title" : "web",
-      "url" : "http://www.nodeone.io"
+      "title" : "bp-json",
+      "url" : "http://www.nodeone.io/bp.json"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "http://www.nodeone.io/bp.json",
-      "paragraphs" : [ "bp-json-invalid" ],
-      "error" : "read:'http://www.nodeone.io/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
-    }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/eos/@eosnodeone/eos-nodeone-roadmap-and-stance-on-vote-buying"
     } ],
-    "score" : 1,
+    "score" : 2,
     "max" : 3
   },
-  "place" : 29,
-  "snapshot-date" : "2020-11-16T02:11:17.614Z"
+  "place" : 38,
+  "snapshot-date" : "2020-11-17T02:12:55.219Z"
 }
