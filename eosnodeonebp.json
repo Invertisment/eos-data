@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosnodeonebp",
-    "total_votes" : "1722344181290233856.00000000000000000",
+    "total_votes" : "1659814391100875264.00000000000000000",
     "producer_key" : "EOS6xcmB3LnUwcjFu55hKFQwX8EHWWerwbHyAs3VpaJmbBFp4bmDs",
     "is_active" : 1,
     "url" : "http://www.nodeone.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-11-16T21:37:13.500",
+    "last_claim_time" : "2020-11-18T21:37:18.500",
     "location" : 7,
     "prepared-url" : "http://www.nodeone.io"
   },
@@ -15,14 +15,22 @@
     "logo" : "https://www.nodeone.io/resources/images/eosnodeone_logo_256.png",
     "code_of_conduct" : "https://steemit.com/eos/@eosnodeone/eos-nodeone-roadmap-and-stance-on-vote-buying"
   },
-  "webpage-error" : "clj-http: status 404",
-  "vote-percentage" : 0.007633542523410524,
+  "analyzed-urls" : {
+    "relative-links-count" : 9,
+    "duplicate-urls" : null,
+    "social-links" : [ "http://t.me/NodeOne_EOSnews", "http://t.me/eosnodeone_kr", "https://github.com/greymass/eos-voter", "https://steemit.com/bp/@eosnodeone/eos-go-block-producer-report-eos-nodeone", "https://steemit.com/eos/@eosnodeone/a-thought-on-ram-squatting-problem", "https://steemit.com/eos/@eosnodeone/eos-nodeone-roadmap-and-stance-on-vote-buying", "https://steemit.com/eos/@eosnodeone/suggestion-contributing-airdrop-method", "https://steemit.com/kr/@eosnodeone/eos-bp-eos-node-one-eos", "https://steemit.com/nodeone/@eosnodeone/eosnodeone-ownership-disclosure", "https://www.steemit.com/@eosnodeone", "https://www.twitter.com/eosnodeone" ],
+    "social-links-count" : 11,
+    "popularity-boosters" : [ "https://goo.gl/B5jx8S" ],
+    "popularity-boosters-count" : 1
+  },
+  "p-ram-amounts" : [ "RAM" ],
+  "vote-percentage" : 0.007287327718931536,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "clj-http: status 404",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://www.nodeone.io"
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -34,9 +42,9 @@
       "title" : "coc",
       "url" : "https://steemit.com/eos/@eosnodeone/eos-nodeone-roadmap-and-stance-on-vote-buying"
     } ],
-    "score" : 2,
+    "score" : 3,
     "max" : 3
   },
-  "place" : 38,
-  "snapshot-date" : "2020-11-17T02:12:55.219Z"
+  "place" : 37,
+  "snapshot-date" : "2020-11-19T02:13:12.184Z"
 }

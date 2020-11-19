@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "syndicateoss",
-    "total_votes" : "248086080021600.50000000000000000",
+    "total_votes" : "248050180710404.59375000000000000",
     "producer_key" : "EOS6qsU2AEjWvyx9Ah7qmTd4AMzFVTrPdjeM3MVf28txouDp5HDDh",
     "is_active" : 1,
     "url" : "https://syndicateos.com",
@@ -11,23 +11,23 @@
     "prepared-url" : "https://syndicateos.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "syndicateos.com",
+    "dl-error" : "Network is unreachable (connect failed)",
     "url" : "https://syndicateos.com/bp.json"
   },
-  "webpage-error" : "syndicateos.com: Name or service not known",
-  "vote-percentage" : 1.0995337992737652E-6,
+  "webpage-error" : "Network is unreachable (connect failed)",
+  "vote-percentage" : 1.0890512621582938E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "syndicateos.com: Name or service not known",
+      "error" : "Network is unreachable (connect failed)",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://syndicateos.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "syndicateos.com"
+      "error" : "Network is unreachable (connect failed)"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 211,
-  "snapshot-date" : "2020-11-17T02:12:55.219Z"
+  "snapshot-date" : "2020-11-19T02:13:12.184Z"
 }
