@@ -14,22 +14,14 @@
     "dl-error" : "clj-http: status 404",
     "url" : "http://www.infinitystones.io/eos/bp_info.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 2,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://t.me/infstones", "https://twitter.com/infstones" ],
-    "social-links-count" : 2,
-    "popularity-boosters" : [ "https://fb.me/infinity.stones.12327", "https://infinitystones.io/about/", "https://infinitystones.io/blog/", "https://infinitystones.io/contact-us/", "https://infinitystones.io/privacy-policy/", "https://infinitystones.io/staking/", "https://infinitystones.io/term-of-service/" ],
-    "popularity-boosters-count" : 7
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.478612646753105E-7,
+  "webpage-error" : "clj-http: status 404",
+  "vote-percentage" : 2.504305020947605E-7,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "http://www.infinitystones.io/eos/bp_info.json"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "clj-http: status 404",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
@@ -41,9 +33,9 @@
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
   "place" : 261,
-  "snapshot-date" : "2020-11-19T02:13:12.184Z"
+  "snapshot-date" : "2020-11-20T02:13:22.407Z"
 }

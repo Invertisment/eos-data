@@ -11,35 +11,31 @@
     "prepared-url" : "http://eos.adenso.ru"
   },
   "bp-json-summary" : {
+    "dl-error" : "connect timed out",
     "url" : "http://eos.adenso.ru/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 1,
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ "64G RAM" ],
-  "vote-percentage" : 5.157934573141953E-6,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 5.211399799060778E-6,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "http://eos.adenso.ru"
-    }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "http://eos.adenso.ru/bp.json"
-    }, {
-      "title" : "no-coc",
       "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "title" : "no-web",
+      "error" : "connect timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://eos.adenso.ru/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "connect timed out"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 0,
     "max" : 3
   },
   "place" : 153,
-  "snapshot-date" : "2020-11-19T02:13:12.184Z"
+  "snapshot-date" : "2020-11-20T02:13:22.407Z"
 }

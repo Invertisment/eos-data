@@ -11,7 +11,7 @@
     "prepared-url" : "https://chain.pro/"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "dl-error" : "Read timed out",
     "url" : "https://chain.pro/bp.json"
   },
   "analyzed-urls" : {
@@ -23,7 +23,7 @@
     "popularity-boosters-count" : 121
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.0351256636775622E-7,
+  "vote-percentage" : 1.0458553902140472E-7,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -35,7 +35,7 @@
       "mood" : "warn",
       "url" : "https://chain.pro/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "error" : "Read timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -45,5 +45,5 @@
     "max" : 3
   },
   "place" : 299,
-  "snapshot-date" : "2020-11-19T02:13:12.184Z"
+  "snapshot-date" : "2020-11-20T02:13:22.407Z"
 }

@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "chainriftxxx",
-    "total_votes" : "4376164381551008.50000000000000000",
+    "total_votes" : "4379694944635538.00000000000000000",
     "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
     "is_active" : 0,
     "url" : "https://eos.chainrift.com",
@@ -14,13 +14,13 @@
     "dl-error" : "eos.chainrift.com",
     "url" : "https://eos.chainrift.com/bp.json"
   },
-  "webpage-error" : "eos.chainrift.com: Temporary failure in name resolution",
-  "vote-percentage" : 1.9213319375503234E-5,
+  "webpage-error" : "eos.chainrift.com: Name or service not known",
+  "vote-percentage" : 1.942813890413946E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "eos.chainrift.com: Temporary failure in name resolution",
+      "error" : "eos.chainrift.com: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 111,
-  "snapshot-date" : "2020-11-19T02:13:12.184Z"
+  "snapshot-date" : "2020-11-20T02:13:22.407Z"
 }

@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "costaricaeos",
-    "total_votes" : "198223919393134624.00000000000000000",
+    "total_votes" : "198194350650079424.00000000000000000",
     "producer_key" : "EOS7phU8qE6nPCfpkCQ2T3HmRwGg6z4v61RTLvPBBVmPWmPisZoWY",
     "is_active" : 1,
     "url" : "https://eoscostarica.io",
@@ -11,31 +11,39 @@
     "prepared-url" : "https://eoscostarica.io"
   },
   "bp-json-summary" : {
-    "read-error" : "read:'https://eoscostarica.io/bp.json': Unrecognized token 'Element': was expecting ('true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 8]",
-    "url" : "https://eoscostarica.io/bp.json"
+    "url" : "https://eoscostarica.io/bp.json",
+    "logo" : "https://eoscostarica.io/assets/eos-CostaRica-256x256.png",
+    "code_of_conduct" : "https://eoscostarica.io/en/transparency/#code_of_conduct"
   },
-  "webpage-error" : "Read timed out",
-  "vote-percentage" : 8.702916844760925E-4,
+  "analyzed-urls" : {
+    "relative-links-count" : 7,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://medium.com/@eoscostarica", "https://t.me/eoscr", "https://twitter.com/EOSCostaRica", "https://www.facebook.com/costaricaeos", "https://www.instagram.com/eoscostarica/", "https://www.linkedin.com/company/eoscostarica/" ],
+    "social-links-count" : 6,
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 8.79181637790048E-4,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "Read timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eoscostarica.io"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://eoscostarica.io/bp.json",
-      "paragraphs" : [ "bp-json-invalid" ],
-      "error" : "read:'https://eoscostarica.io/bp.json': Unrecognized token 'Element': was expecting ('true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 8]"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eoscostarica.io/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://eoscostarica.io/en/transparency/#code_of_conduct"
     } ],
-    "score" : 0,
+    "score" : 3,
     "max" : 3
   },
   "place" : 77,
-  "snapshot-date" : "2020-11-19T02:13:12.184Z"
+  "snapshot-date" : "2020-11-20T02:13:22.407Z"
 }

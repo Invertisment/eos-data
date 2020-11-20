@@ -1,30 +1,27 @@
 {
   "bp-header" : {
     "owner" : "eosinfstones",
-    "total_votes" : "5840188790923307008.00000000000000000",
+    "total_votes" : "5758969415161670656.00000000000000000",
     "producer_key" : "EOS6CSvGzNhNxVYbcnWSuheNcfzjGeGBY9trR4YAJ4Yvakq4oCh6y",
     "is_active" : 1,
     "url" : "http://infinitystones.io",
-    "unpaid_blocks" : 24,
+    "unpaid_blocks" : 8244,
     "last_claim_time" : "2020-11-19T02:02:24.500",
     "location" : 1,
     "prepared-url" : "http://infinitystones.io"
   },
   "bp-json-summary" : {
-    "url" : "http://infinitystones.io/bp.json",
-    "logo" : "https://infinitystones.io/bp_info/image/logo_256.png",
-    "code_of_conduct" : "https://infinitystones.io/eos"
+    "dl-error" : "clj-http: status 404",
+    "url" : "http://infinitystones.io/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 2,
     "duplicate-urls" : null,
-    "social-links" : [ "https://t.me/infstones", "https://twitter.com/infstones" ],
-    "social-links-count" : 2,
-    "popularity-boosters" : [ "https://fb.me/infinity.stones.12327", "https://infstones.io/cloud/", "https://infstones.io/staking/" ],
-    "popularity-boosters-count" : 3
+    "social-links" : [ ],
+    "popularity-boosters" : [ "https://nginx.com/", "https://nginx.org/" ],
+    "popularity-boosters-count" : 2
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.02564104148516334,
+  "vote-percentage" : 0.025546541290391737,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -32,19 +29,19 @@
       "title" : "web",
       "url" : "http://infinitystones.io"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "http://infinitystones.io/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://infinitystones.io/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://infinitystones.io/eos"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 1,
     "max" : 3
   },
   "place" : 12,
-  "snapshot-date" : "2020-11-19T02:13:12.184Z"
+  "snapshot-date" : "2020-11-20T02:13:22.407Z"
 }

@@ -1,18 +1,18 @@
 {
   "bp-header" : {
-    "owner" : "hoo.com",
-    "total_votes" : "3652853832794643456.00000000000000000",
-    "producer_key" : "EOS7Ef2ReXFWYmp1SB1ZzhnhDMfY8NnMZnvo4c51ZxiDf2UE7nCNR",
+    "owner" : "bp.yfc",
+    "total_votes" : "0.00000000000000000",
+    "producer_key" : "EOS4ukjCvqbC7HN8L6aTfjTUnqdPoPLhrFdLh9WmgEfvGWCXaAvde",
     "is_active" : 1,
-    "url" : "https://hoo.com",
+    "url" : "https://yfc.one",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-11-19T16:00:32.000",
-    "location" : 0,
-    "prepared-url" : "https://hoo.com"
+    "last_claim_time" : "2020-11-19T04:16:45.500",
+    "location" : 702,
+    "prepared-url" : "https://yfc.one"
   },
   "bp-json-summary" : {
-    "url" : "https://hoo.com/bp.json",
-    "logo" : "https://hoo.com/hoocom256.png"
+    "url" : "https://yfc.one/bp.json",
+    "logo" : "https://cdn.jsdelivr.net/gh/defis-net/material/art/yfc.png"
   },
   "analyzed-urls" : {
     "duplicate-urls" : null,
@@ -20,18 +20,18 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.01620390291040196,
+  "vote-percentage" : 0.0,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
       "mood" : "good",
       "title" : "web",
-      "url" : "https://hoo.com"
+      "url" : "https://yfc.one"
     }, {
       "score" : "positive",
       "mood" : "good",
       "title" : "bp-json",
-      "url" : "https://hoo.com/bp.json"
+      "url" : "https://yfc.one/bp.json"
     }, {
       "title" : "no-coc",
       "mood" : "bad",
@@ -40,6 +40,6 @@
     "score" : 2,
     "max" : 3
   },
-  "place" : 25,
+  "place" : 621,
   "snapshot-date" : "2020-11-20T02:13:22.407Z"
 }

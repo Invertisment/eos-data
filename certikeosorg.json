@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "certikeosorg",
-    "total_votes" : "3414523924958601728.00000000000000000",
+    "total_votes" : "3371698053109123584.00000000000000000",
     "producer_key" : "EOS57kRcpx1QT4Wn4uA6agwYdJNGew4cfrzKnzrvQZiVE85huUBAB",
     "is_active" : 1,
     "url" : "https://certik.org",
@@ -11,19 +11,16 @@
     "prepared-url" : "https://certik.org"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "read-error" : "read:'https://certik.org/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
     "url" : "https://certik.org/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 13,
     "duplicate-urls" : null,
-    "social-links" : [ "https://discord.gg/NcmCMSH", "https://github.com/certikfoundation", "https://github.com/certikfoundation/chain", "https://medium.com/certik-foundation", "https://t.me/certikfoundation", "https://twitter.com/certikorg", "https://youtu.be/bi9PAr9LerM", "https://youtu.be/loW1qBEZZHM" ],
-    "social-links-count" : 8,
-    "popularity-boosters" : [ "https://docs.certik.foundation/certik-chain/", "https://explorer.certik.foundation", "https://explorer.certik.foundation/", "https://noops.certik.io/", "https://share.hsforms.com/16iG3JD6DRziZ8egHcY3wSQ2ykpy", "https://shield.certik.foundation/", "https://shield.certik.foundation/oracles?net=shentu-oracle", "https://wallet.certik.foundation/", "https://www.certik.foundation/blog/announcing-the-shentu-games-security-stimulus", "https://www.certik.foundation/blog/certik-integration-guide-on-binance-smart-chain", "https://www.certik.foundation/blog/securing-defi-with-certik-security-oracle", "https://www.certik.foundation/whitepaper" ],
-    "popularity-boosters-count" : 12
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.014991287567281656,
+  "vote-percentage" : 0.014956707932102745,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -34,8 +31,8 @@
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://certik.org/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'https://certik.org/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -45,5 +42,5 @@
     "max" : 3
   },
   "place" : 27,
-  "snapshot-date" : "2020-11-19T02:13:12.184Z"
+  "snapshot-date" : "2020-11-20T02:13:22.407Z"
 }
