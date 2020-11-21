@@ -1,48 +1,41 @@
 {
   "bp-header" : {
     "owner" : "koreainbexbp",
-    "total_votes" : "2683325186664906.00000000000000000",
+    "total_votes" : "2686290986571082.50000000000000000",
     "producer_key" : "EOS5etfhAtNFNzAxGQbrAHfZ5DsYheJ9B7apbvHMctdaKJ5Bti8g5",
     "is_active" : 1,
     "url" : "https://inbex.pro",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-11-19T07:51:12.500",
+    "last_claim_time" : "2020-11-20T07:51:19.500",
     "location" : 82,
     "prepared-url" : "https://inbex.pro"
   },
   "bp-json-summary" : {
-    "dl-error" : "Read timed out",
+    "dl-error" : "inbex.pro",
     "url" : "https://inbex.pro/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 8,
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "http://search.naver.com/search.naver?ie=UTF-8&query=INBEX%40", "http://www.navercorp.com", "https://www.modoo.at", "https://www.modoo.at/" ],
-    "popularity-boosters-count" : 4
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.190311542482098E-5,
+  "webpage-error" : "inbex.pro: Name or service not known",
+  "vote-percentage" : 1.1883217763360119E-5,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://inbex.pro"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "inbex.pro: Name or service not known",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://inbex.pro/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Read timed out"
+      "error" : "inbex.pro"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
   "place" : 122,
-  "snapshot-date" : "2020-11-20T02:13:22.407Z"
+  "snapshot-date" : "2020-11-21T02:12:55.926Z"
 }

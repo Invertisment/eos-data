@@ -14,13 +14,13 @@
     "dl-error" : "no protocol: “http://bp.yup.io”/bp.json",
     "url" : "“http://bp.yup.io”/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 1.887062445633058E-10,
+  "webpage-error" : "Connection refused (Connection refused)",
+  "vote-percentage" : 1.8818280376297507E-10,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "Connection refused (Connection refused)",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 520,
-  "snapshot-date" : "2020-11-20T02:13:22.407Z"
+  "place" : 522,
+  "snapshot-date" : "2020-11-21T02:12:55.926Z"
 }
