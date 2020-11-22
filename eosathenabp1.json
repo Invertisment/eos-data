@@ -1,45 +1,41 @@
 {
   "bp-header" : {
     "owner" : "eosathenabp1",
-    "total_votes" : "1173813366311020800.00000000000000000",
+    "total_votes" : "1169269577870182400.00000000000000000",
     "producer_key" : "EOS6NVNPZDdmBvqMYdifQ4QueT8fr7wDHyxNMgFEKLx9z1Dt5eFE1",
     "is_active" : 1,
     "url" : "http://athenbp.club",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-11-20T02:34:02.000",
+    "last_claim_time" : "2020-11-21T02:36:02.000",
     "location" : 0,
     "prepared-url" : "http://athenbp.club"
   },
   "bp-json-summary" : {
-    "url" : "http://athenbp.club/bp.json",
-    "logo" : ""
+    "dl-error" : "connect timed out",
+    "url" : "http://athenbp.club/bp.json"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.005192542399593672,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 0.007095698748509973,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "http://athenbp.club"
-    }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "http://athenbp.club/bp.json"
-    }, {
-      "title" : "no-coc",
       "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "title" : "no-web",
+      "error" : "connect timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "http://athenbp.club/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "connect timed out"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 62,
-  "snapshot-date" : "2020-11-21T02:12:55.926Z"
+  "place" : 47,
+  "snapshot-date" : "2020-11-22T02:10:39.081Z"
 }
