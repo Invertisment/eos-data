@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "1teamcanada1",
-    "total_votes" : "80352001911832.85937500000000000",
+    "total_votes" : "80888022112147.43750000000000000",
     "producer_key" : "EOS7gBHpJMaWo8uzcXRfBAhN9yLfVTLTbH4L2xA64B5HNMnZpVuKJ",
     "is_active" : 1,
     "url" : "http://can-play.ca",
@@ -11,23 +11,23 @@
     "prepared-url" : "http://can-play.ca"
   },
   "bp-json-summary" : {
-    "dl-error" : "can-play.ca",
+    "dl-error" : "connect timed out",
     "url" : "http://can-play.ca/bp.json"
   },
-  "webpage-error" : "can-play.ca: No address associated with hostname",
-  "vote-percentage" : 4.876151831852111E-7,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 3.5812859562641917E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "can-play.ca: No address associated with hostname",
+      "error" : "connect timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://can-play.ca/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "can-play.ca"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 186,
-  "snapshot-date" : "2020-11-22T02:10:39.081Z"
+  "place" : 248,
+  "snapshot-date" : "2020-11-23T02:13:11.596Z"
 }

@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "newdex.bp",
-    "total_votes" : "6471437902367311872.00000000000000000",
+    "total_votes" : "6454493559843524608.00000000000000000",
     "producer_key" : "EOS688SnH8tQ7NiyhamiCzWXAGPDLF9S7K8ga79UBHKFgjS1MhqhB",
     "is_active" : 1,
     "url" : "https://newpool.io",
-    "unpaid_blocks" : 6624,
-    "last_claim_time" : "2020-11-20T06:47:36.000",
+    "unpaid_blocks" : 6612,
+    "last_claim_time" : "2020-11-22T06:47:40.500",
     "location" : 392,
     "prepared-url" : "https://newpool.io"
   },
@@ -21,7 +21,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.028627392274451307,
+  "vote-percentage" : 0.02857702109295847,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -42,6 +42,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 6,
-  "snapshot-date" : "2020-11-21T02:12:55.926Z"
+  "place" : 5,
+  "snapshot-date" : "2020-11-23T02:13:11.596Z"
 }

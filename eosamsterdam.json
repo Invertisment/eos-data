@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosamsterdam",
-    "total_votes" : "286036375635669472.00000000000000000",
+    "total_votes" : "285981568736260672.00000000000000000",
     "producer_key" : "EOS8HDwgQnKMHAxzva9eyHsPeETv23JSQ6RRzQjJLvCsZ6b1ySgQo",
     "is_active" : 1,
     "url" : "https://eosamsterdam.net",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-11-21T09:03:25.500",
+    "last_claim_time" : "2020-11-22T09:03:26.500",
     "location" : 528,
     "prepared-url" : "https://eosamsterdam.net"
   },
@@ -24,7 +24,7 @@
     "popularity-boosters-count" : 5
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.001735808397857493,
+  "vote-percentage" : 0.0012661723567002207,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +45,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 54,
-  "snapshot-date" : "2020-11-22T02:10:39.081Z"
+  "place" : 74,
+  "snapshot-date" : "2020-11-23T02:13:11.596Z"
 }
