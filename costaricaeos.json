@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "costaricaeos",
-    "total_votes" : "198342543213432384.00000000000000000",
+    "total_votes" : "198347081070026464.00000000000000000",
     "producer_key" : "EOS7phU8qE6nPCfpkCQ2T3HmRwGg6z4v61RTLvPBBVmPWmPisZoWY",
     "is_active" : 1,
     "url" : "https://eoscostarica.io",
@@ -16,14 +16,15 @@
     "code_of_conduct" : "https://eoscostarica.io/block-producer/#code-of-conduct"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 8,
+    "relative-links-count" : 9,
     "duplicate-urls" : null,
     "social-links" : [ "https://medium.com/@eoscostarica", "https://t.me/eoscr", "https://twitter.com/EOSCostaRica", "https://www.facebook.com/costaricaeos", "https://www.instagram.com/eoscostarica/", "https://www.linkedin.com/company/eoscostarica/" ],
     "social-links-count" : 6,
-    "popularity-boosters" : [ ]
+    "popularity-boosters" : [ "https://block.one/", "https://eos.io/", "https://eos.io/news/winner-of-coding-for-change- virtual-hackathon-lifebank/", "https://latamlink.io/", "https://lifebank.io/", "https://smartgate.tech/", "https://www.lacchain.net/" ],
+    "popularity-boosters-count" : 7
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 8.781539540615318E-4,
+  "vote-percentage" : 0.0010864523390032512,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -44,6 +45,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 77,
-  "snapshot-date" : "2020-11-23T02:13:11.596Z"
+  "place" : 63,
+  "snapshot-date" : "2020-11-24T02:11:38.828Z"
 }

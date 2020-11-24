@@ -1,18 +1,18 @@
 {
   "bp-header" : {
-    "owner" : "eosx.game",
-    "total_votes" : "1216274649366067456.00000000000000000",
-    "producer_key" : "EOS727yFoVQYBsXZ9qxtZJPJu3rm4befuoVwBk7iqgBWjmEGAMUax",
+    "owner" : "bp.pizza",
+    "total_votes" : "224617980025.56695556640625000",
+    "producer_key" : "EOS8AZhG9bKGPYmoXGvBioZEJYqVj5xMfujivYnHhwJ3SB9oUWty2",
     "is_active" : 1,
-    "url" : "https://chaingame.club",
+    "url" : "https://pizza.finance",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-11-24T01:29:40.500",
+    "last_claim_time" : "2020-11-23T07:11:28.000",
     "location" : 156,
-    "prepared-url" : "https://chaingame.club"
+    "prepared-url" : "https://pizza.finance"
   },
   "bp-json-summary" : {
-    "url" : "https://chaingame.club/bp.json",
-    "logo" : "https://chaingame.club/eosx.game-logo/png/eosx-game-logo-256.png"
+    "url" : "https://pizza.finance/bp.json",
+    "logo" : "https://pizza.finance/logo/pizza-logo-256.png"
   },
   "analyzed-urls" : {
     "duplicate-urls" : null,
@@ -20,18 +20,18 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.006662182425601687,
+  "vote-percentage" : 1.2303520095403147E-9,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
       "mood" : "good",
       "title" : "web",
-      "url" : "https://chaingame.club"
+      "url" : "https://pizza.finance"
     }, {
       "score" : "positive",
       "mood" : "good",
       "title" : "bp-json",
-      "url" : "https://chaingame.club/bp.json"
+      "url" : "https://pizza.finance/bp.json"
     }, {
       "title" : "no-coc",
       "mood" : "bad",
@@ -40,6 +40,6 @@
     "score" : 2,
     "max" : 3
   },
-  "place" : 47,
+  "place" : 374,
   "snapshot-date" : "2020-11-24T02:11:38.828Z"
 }
