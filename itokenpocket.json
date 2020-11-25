@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "itokenpocket",
-    "total_votes" : "917435329856845696.00000000000000000",
+    "total_votes" : "1140656386457792256.00000000000000000",
     "producer_key" : "EOS8BYCigFER1XBbMqD3GjVVF5B3BmB1E1nkjJJTxPX4tmdS3YwMR",
     "is_active" : 1,
     "url" : "https://www.tokenpocket.pro",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-09-14T00:57:08.000",
+    "last_claim_time" : "2020-11-25T02:02:51.500",
     "location" : 800,
     "prepared-url" : "https://www.tokenpocket.pro"
   },
@@ -20,11 +20,11 @@
     "duplicate-urls" : null,
     "social-links" : [ "https://github.com/EOSIO/ual-token-pocket", "https://github.com/TP-Lab", "https://github.com/TP-Lab/tp-android", "https://t.me/tokenPocket_en", "https://twitter.com/TokenPocket_TP", "https://weibo.com/tokenpocketwallet", "https://www.facebook.com/TokenPocket" ],
     "social-links-count" : 7,
-    "popularity-boosters" : [ "http://getfallbackeos.mytokenpocket.vip/", "https://bos.bloks.io/account/itokenpocket", "https://dapp.mytokenpocket.vip/ram/index.html", "https://developers.eos.io/eosio-nodeos/docs/monitoring-with-3rd-party", "https://download.tokenpocket.pro/index.html?new", "https://help.mytokenpocket.vip", "https://help.mytokenpocket.vip/hc/zh-cn/categories/360001246112-%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC", "https://key.tokenpocket.pro/", "https://mp.weixin.qq.com/s/yGD3pYaAElhU_TIxqHor4A", "https://res.mytokenpocket.vip/index.html", "https://rex.tokenpocket.pro/", "https://tokenpocket-gm.medium.com/", "https://tp-statics.tokenpocket.pro/banner/tokenpocket-1595929866222.zip", "https://www.bloks.io/account/itokenpocket", "https://www.iostabc.com/account/tokenpocket" ],
+    "popularity-boosters" : [ "http://getfallbackeos.mytokenpocket.vip/", "https://bos.bloks.io/account/itokenpocket", "https://dapp.mytokenpocket.vip/ram/index.html", "https://developers.eos.io/eosio-nodeos/docs/monitoring-with-3rd-party", "https://download.tokenpocket.pro/index.html?new", "https://help.tokenpocket.pro/cn/", "https://help.tokenpocket.pro/cn/lian-xi-wo-men/contract-us", "https://key.tokenpocket.pro/", "https://mp.weixin.qq.com/s/yGD3pYaAElhU_TIxqHor4A", "https://res.mytokenpocket.vip/index.html", "https://rex.tokenpocket.pro/", "https://tokenpocket-gm.medium.com/", "https://tp-statics.tokenpocket.pro/banner/tokenpocket-1595929866222.zip", "https://www.bloks.io/account/itokenpocket", "https://www.iostabc.com/account/tokenpocket" ],
     "popularity-boosters-count" : 15
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.004061909509966259,
+  "vote-percentage" : 0.005141471602247008,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +45,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 70,
-  "snapshot-date" : "2020-11-23T02:13:11.596Z"
+  "place" : 65,
+  "snapshot-date" : "2020-11-25T02:13:13.899Z"
 }

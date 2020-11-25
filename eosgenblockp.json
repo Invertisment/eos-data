@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosgenblockp",
-    "total_votes" : "10190318635751422.00000000000000000",
+    "total_votes" : "10092834970390584.00000000000000000",
     "producer_key" : "EOS6y277mUAuj1Pn3uUiqmDTME2ujhRCVQtw6pCQ8q3uFfwEVjoJ1",
     "is_active" : 1,
     "url" : "https://www.genesis-mining.com/eos",
@@ -15,7 +15,7 @@
     "url" : "https://www.genesis-mining.com/eos/bp.json"
   },
   "webpage-error" : "clj-http: status 404",
-  "vote-percentage" : 5.5817788985217435E-5,
+  "vote-percentage" : 4.549312571472537E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 80,
-  "snapshot-date" : "2020-11-24T02:11:38.828Z"
+  "place" : 101,
+  "snapshot-date" : "2020-11-25T02:13:13.899Z"
 }

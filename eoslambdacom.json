@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eoslambdacom",
-    "total_votes" : "2799359480427489792.00000000000000000",
+    "total_votes" : "2777409042353606656.00000000000000000",
     "producer_key" : "EOS72ypVVZQaGueMmTBsJf7CjUkiyBueTsa62zreGNUYTw7u3vx6U",
     "is_active" : 1,
     "url" : "https://bridgepool.lambda.im",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-11-23T17:52:23.000",
+    "last_claim_time" : "2020-11-24T17:52:42.500",
     "location" : 0,
     "prepared-url" : "https://bridgepool.lambda.im"
   },
@@ -23,7 +23,7 @@
     "popularity-boosters-count" : 1
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.015333579091832545,
+  "vote-percentage" : 0.0125190810209114,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -44,6 +44,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 25,
-  "snapshot-date" : "2020-11-24T02:11:38.828Z"
+  "place" : 30,
+  "snapshot-date" : "2020-11-25T02:13:13.899Z"
 }

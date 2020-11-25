@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "googlecloudp",
-    "total_votes" : "1392658197521958.75000000000000000",
+    "total_votes" : "1313740906647200.75000000000000000",
     "producer_key" : "EOS8jAnvfC1kcSUCTHkhHbb8o23izEbee9rrEZuV6kKKCjUWM4z4s",
     "is_active" : 1,
     "url" : "https://cloud.google.com",
@@ -14,21 +14,14 @@
     "dl-error" : "clj-http: status 404",
     "url" : "https://cloud.google.com/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 299,
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "https://chromeenterprise.google/", "https://cloud.withgoogle.com/next/sf/sessions", "https://cloud.withgoogle.com/partners/", "https://cloudonair.withgoogle.com/events/public-sector-summit?utm_source=google_owned_website&utm_medium=et&utm_campaign=-&utm_content=google-cloud-website-homepage-carousel", "https://firebase.google.com/pricing/", "https://firebase.google.com/products/realtime-database/", "https://firebase.google.com/products/storage", "https://marketingplatform.google.com/about/data-studio/", "https://workspace.google.com/enterprise/", "https://workspace.google.com/essentials/", "https://workspace.google.com/pricing.html", "https://workspace.google.com/solutions/enterprise/?enterprise-benefits_activeEl=connect" ],
-    "popularity-boosters-count" : 12
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 7.628328826253809E-6,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 5.9216444535172555E-6,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://cloud.google.com"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
@@ -40,9 +33,9 @@
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 115,
-  "snapshot-date" : "2020-11-24T02:11:38.828Z"
+  "place" : 145,
+  "snapshot-date" : "2020-11-25T02:13:13.899Z"
 }

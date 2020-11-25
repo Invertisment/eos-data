@@ -14,14 +14,19 @@
     "dl-error" : "clj-http: status 404",
     "url" : "http://www.serviceuptime.net/bp.json"
   },
-  "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 6.344010825282374E-8,
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 6.458649798514066E-8,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "clj-http: status 403",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://www.serviceuptime.net"
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
@@ -33,9 +38,9 @@
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 0,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 323,
-  "snapshot-date" : "2020-11-23T02:13:11.596Z"
+  "place" : 328,
+  "snapshot-date" : "2020-11-25T02:13:13.899Z"
 }
