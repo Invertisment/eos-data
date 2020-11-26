@@ -1,18 +1,18 @@
 {
   "bp-header" : {
-    "owner" : "eoscityioeos",
-    "total_votes" : "24011779652000.58203125000000000",
-    "producer_key" : "EOS64MstYzkmzQKXumXiZ4ziCrsHuUoYMAyVaTTi6HQwJsdS6aHtt",
+    "owner" : "keycommunity",
+    "total_votes" : "6226407199483892.00000000000000000",
+    "producer_key" : "EOS5JyYkEstPFc9bo8Q1n8TpmetzmQa3ivUiezCnF5GgufdL5BrNm",
     "is_active" : 1,
-    "url" : "https://eoscity.io",
+    "url" : "https://keycommunity.club",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2019-04-29T10:04:21.000",
-    "location" : 392,
-    "prepared-url" : "https://eoscity.io"
+    "last_claim_time" : "2020-11-25T07:56:08.500",
+    "location" : 0,
+    "prepared-url" : "https://keycommunity.club"
   },
   "bp-json-summary" : {
-    "url" : "https://eoscity.io/bp.json",
-    "logo" : "https://eoscity.io/img/eosCityLogoTextOnly.svg"
+    "url" : "https://keycommunity.club/bp.json",
+    "logo" : "https://keycommunity.club/key_small.png"
   },
   "analyzed-urls" : {
     "duplicate-urls" : null,
@@ -20,18 +20,18 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.0942653417085799E-7,
+  "vote-percentage" : 2.8374996358057694E-5,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
       "mood" : "good",
       "title" : "web",
-      "url" : "https://eoscity.io"
+      "url" : "https://keycommunity.club"
     }, {
       "score" : "positive",
       "mood" : "good",
       "title" : "bp-json",
-      "url" : "https://eoscity.io/bp.json"
+      "url" : "https://keycommunity.club/bp.json"
     }, {
       "title" : "no-coc",
       "mood" : "bad",
@@ -40,6 +40,6 @@
     "score" : 2,
     "max" : 3
   },
-  "place" : 300,
+  "place" : 101,
   "snapshot-date" : "2020-11-26T02:13:19.768Z"
 }

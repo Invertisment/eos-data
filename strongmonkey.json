@@ -18,10 +18,11 @@
     "relative-links-count" : 1,
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ ]
+    "popularity-boosters" : [ "https://www.sedo.com/services/parking.php3" ],
+    "popularity-boosters-count" : 1
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 3.876839784319702E-7,
+  "vote-percentage" : 3.9196161949704044E-7,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -43,5 +44,5 @@
     "max" : 3
   },
   "place" : 235,
-  "snapshot-date" : "2020-11-25T02:13:13.899Z"
+  "snapshot-date" : "2020-11-26T02:13:19.768Z"
 }
