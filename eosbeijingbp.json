@@ -1,22 +1,21 @@
 {
   "bp-header" : {
     "owner" : "eosbeijingbp",
-    "total_votes" : "3035123337855586304.00000000000000000",
+    "total_votes" : "3031616906541641728.00000000000000000",
     "producer_key" : "EOS5dGpcEhwB4VEhhXEcqtZs9EQj5HeetuXDnsAGVHMXHAFdMjbdj",
     "is_active" : 1,
     "url" : "https://www.eosbeijing.one",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-11-25T13:35:50.000",
+    "last_claim_time" : "2020-11-26T13:35:51.000",
     "location" : 392,
     "prepared-url" : "https://www.eosbeijing.one"
   },
   "bp-json-summary" : {
-    "url" : "https://www.eosbeijing.one/bp.json",
-    "logo" : "https://www.eosbeijing.one/logo_256.png",
-    "code_of_conduct" : "https://steemit.com/eos/@eosbeijing/eos-beijing-block-producer-candidate-introduction"
+    "dl-error" : "Read timed out",
+    "url" : "https://www.eosbeijing.one/bp.json"
   },
   "webpage-error" : "Read timed out",
-  "vote-percentage" : 0.01383167064066205,
+  "vote-percentage" : 0.013799760922033642,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -24,19 +23,19 @@
       "error" : "Read timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://www.eosbeijing.one/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://www.eosbeijing.one/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "Read timed out"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://steemit.com/eos/@eosbeijing/eos-beijing-block-producer-candidate-introduction"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 29,
-  "snapshot-date" : "2020-11-26T02:13:19.768Z"
+  "place" : 28,
+  "snapshot-date" : "2020-11-27T02:13:16.342Z"
 }
