@@ -1,18 +1,19 @@
 {
   "bp-header" : {
     "owner" : "keycommunity",
-    "total_votes" : "1088031394969135104.00000000000000000",
+    "total_votes" : "1129550963186071552.00000000000000000",
     "producer_key" : "EOS5JyYkEstPFc9bo8Q1n8TpmetzmQa3ivUiezCnF5GgufdL5BrNm",
     "is_active" : 1,
     "url" : "https://keycommunity.club",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-11-26T08:15:46.000",
+    "last_claim_time" : "2020-11-27T08:16:14.500",
     "location" : 0,
     "prepared-url" : "https://keycommunity.club"
   },
   "bp-json-summary" : {
     "url" : "https://keycommunity.club/bp.json",
-    "logo" : "https://keycommunity.club/key_small.png"
+    "logo" : "https://keycommunity.club/key_small.png",
+    "code_of_conduct" : "https://keycommunity.club/conduct.json"
   },
   "analyzed-urls" : {
     "duplicate-urls" : null,
@@ -20,7 +21,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.0049526617607397174,
+  "vote-percentage" : 0.005065772959076995,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -33,13 +34,14 @@
       "title" : "bp-json",
       "url" : "https://keycommunity.club/bp.json"
     }, {
-      "title" : "no-coc",
-      "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://keycommunity.club/conduct.json"
     } ],
-    "score" : 2,
+    "score" : 3,
     "max" : 3
   },
-  "place" : 68,
-  "snapshot-date" : "2020-11-27T02:13:16.342Z"
+  "place" : 65,
+  "snapshot-date" : "2020-11-28T02:13:14.268Z"
 }
