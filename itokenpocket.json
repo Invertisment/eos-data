@@ -1,19 +1,18 @@
 {
   "bp-header" : {
     "owner" : "itokenpocket",
-    "total_votes" : "1147603110271102464.00000000000000000",
+    "total_votes" : "1148803212585116928.00000000000000000",
     "producer_key" : "EOS8BYCigFER1XBbMqD3GjVVF5B3BmB1E1nkjJJTxPX4tmdS3YwMR",
     "is_active" : 1,
     "url" : "https://www.tokenpocket.pro",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-11-27T02:09:44.000",
+    "last_claim_time" : "2020-11-28T02:13:43.000",
     "location" : 800,
     "prepared-url" : "https://www.tokenpocket.pro"
   },
   "bp-json-summary" : {
-    "url" : "https://www.tokenpocket.pro/bp.json",
-    "logo" : "https://www.tokenpocket.pro/logo_256.png",
-    "code_of_conduct" : "https://steemit.com/tokenpocket/@tokenpocket/tokenpocket-code-of-conduct"
+    "dl-error" : "connect timed out",
+    "url" : "https://www.tokenpocket.pro/bp.json"
   },
   "analyzed-urls" : {
     "relative-links-count" : 16,
@@ -24,7 +23,7 @@
     "popularity-boosters-count" : 15
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.005146732633794714,
+  "vote-percentage" : 0.005147973093059171,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -32,19 +31,19 @@
       "title" : "web",
       "url" : "https://www.tokenpocket.pro"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://www.tokenpocket.pro/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://www.tokenpocket.pro/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "connect timed out"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://steemit.com/tokenpocket/@tokenpocket/tokenpocket-code-of-conduct"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 63,
-  "snapshot-date" : "2020-11-28T02:13:14.268Z"
+  "place" : 65,
+  "snapshot-date" : "2020-11-29T02:13:21.128Z"
 }
