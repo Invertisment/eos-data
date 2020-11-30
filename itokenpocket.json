@@ -1,49 +1,42 @@
 {
   "bp-header" : {
     "owner" : "itokenpocket",
-    "total_votes" : "1148803212585116928.00000000000000000",
+    "total_votes" : "1153844134103513600.00000000000000000",
     "producer_key" : "EOS8BYCigFER1XBbMqD3GjVVF5B3BmB1E1nkjJJTxPX4tmdS3YwMR",
     "is_active" : 1,
     "url" : "https://www.tokenpocket.pro",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-11-28T02:13:43.000",
+    "last_claim_time" : "2020-11-29T02:16:37.500",
     "location" : 800,
     "prepared-url" : "https://www.tokenpocket.pro"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
-    "url" : "https://www.tokenpocket.pro/bp.json"
+    "url" : "https://www.tokenpocket.pro/bp.json",
+    "logo" : "https://www.tokenpocket.pro/logo_256.png",
+    "code_of_conduct" : "https://steemit.com/tokenpocket/@tokenpocket/tokenpocket-code-of-conduct"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 16,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/EOSIO/ual-token-pocket", "https://github.com/TP-Lab", "https://github.com/TP-Lab/tp-android", "https://t.me/tokenPocket_en", "https://twitter.com/TokenPocket_TP", "https://weibo.com/tokenpocketwallet", "https://www.facebook.com/TokenPocket" ],
-    "social-links-count" : 7,
-    "popularity-boosters" : [ "http://getfallbackeos.mytokenpocket.vip/", "https://bos.bloks.io/account/itokenpocket", "https://dapp.mytokenpocket.vip/ram/index.html", "https://developers.eos.io/eosio-nodeos/docs/monitoring-with-3rd-party", "https://download.tokenpocket.pro/index.html?new", "https://help.tokenpocket.pro/cn/", "https://help.tokenpocket.pro/cn/lian-xi-wo-men/contract-us", "https://key.tokenpocket.pro/", "https://mp.weixin.qq.com/s/yGD3pYaAElhU_TIxqHor4A", "https://res.mytokenpocket.vip/index.html", "https://rex.tokenpocket.pro/", "https://tokenpocket-gm.medium.com/", "https://tp-statics.tokenpocket.pro/banner/tokenpocket-1595929866222.zip", "https://www.bloks.io/account/itokenpocket", "https://www.iostabc.com/account/tokenpocket" ],
-    "popularity-boosters-count" : 15
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.005147973093059171,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 0.005163689276028713,
   "scoring" : {
     "comp" : [ {
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "connect timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
       "score" : "positive",
       "mood" : "good",
-      "title" : "web",
-      "url" : "https://www.tokenpocket.pro"
+      "title" : "bp-json",
+      "url" : "https://www.tokenpocket.pro/bp.json"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://www.tokenpocket.pro/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
-    }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/tokenpocket/@tokenpocket/tokenpocket-code-of-conduct"
     } ],
-    "score" : 1,
+    "score" : 2,
     "max" : 3
   },
-  "place" : 65,
-  "snapshot-date" : "2020-11-29T02:13:21.128Z"
+  "place" : 64,
+  "snapshot-date" : "2020-11-30T02:12:41.856Z"
 }
