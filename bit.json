@@ -15,14 +15,13 @@
     "url" : "https://eos.bihu.com/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 11,
+    "relative-links-count" : 10,
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ "https://big.one" ],
-    "popularity-boosters-count" : 1
+    "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 9.261191264621008E-10,
+  "vote-percentage" : 7.913750260777237E-10,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -44,5 +43,5 @@
     "max" : 3
   },
   "place" : 475,
-  "snapshot-date" : "2020-11-30T02:12:41.856Z"
+  "snapshot-date" : "2020-12-01T02:13:07.841Z"
 }

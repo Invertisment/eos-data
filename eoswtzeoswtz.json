@@ -14,13 +14,13 @@
     "dl-error" : "clj-http: status 500",
     "url" : "http://www.eoswtz.com/bp.json"
   },
-  "webpage-error" : "clj-http: status 500",
-  "vote-percentage" : 1.762010604008318E-6,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 1.5056499189506493E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "clj-http: status 500",
+      "error" : "Read timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 192,
-  "snapshot-date" : "2020-11-30T02:12:41.856Z"
+  "snapshot-date" : "2020-12-01T02:13:07.841Z"
 }

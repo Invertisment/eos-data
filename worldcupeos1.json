@@ -11,7 +11,7 @@
     "prepared-url" : "https://www.fifa.com/worldcup/"
   },
   "bp-json-summary" : {
-    "dl-error" : "Read timed out",
+    "dl-error" : "clj-http: status 404",
     "url" : "https://www.fifa.com/worldcup/bp.json"
   },
   "analyzed-urls" : {
@@ -23,7 +23,7 @@
     "popularity-boosters-count" : 7
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 5.968668272096941E-10,
+  "vote-percentage" : 5.100267205930872E-10,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -35,7 +35,7 @@
       "mood" : "warn",
       "url" : "https://www.fifa.com/worldcup/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Read timed out"
+      "error" : "clj-http: status 404"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -45,5 +45,5 @@
     "max" : 3
   },
   "place" : 480,
-  "snapshot-date" : "2020-11-30T02:12:41.856Z"
+  "snapshot-date" : "2020-12-01T02:13:07.841Z"
 }
