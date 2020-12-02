@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eospaceioeos",
-    "total_votes" : "1196025877722960384.00000000000000000",
+    "total_votes" : "1196025318796217856.00000000000000000",
     "producer_key" : "EOS7dZPHgFJXwHz84JWf5QgybxLpp95cxYE5c4yngsrSqgVFczaPs",
     "is_active" : 1,
     "url" : "https://eospacex.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-11-30T03:04:51.500",
+    "last_claim_time" : "2020-12-01T03:05:02.000",
     "location" : 156,
     "prepared-url" : "https://eospacex.com"
   },
@@ -24,7 +24,7 @@
     "popularity-boosters-count" : 7
   },
   "p-ram-amounts" : [ "RAM" ],
-  "vote-percentage" : 0.004573714145560823,
+  "vote-percentage" : 0.004540748983141973,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +45,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 63,
-  "snapshot-date" : "2020-12-01T02:13:07.841Z"
+  "place" : 65,
+  "snapshot-date" : "2020-12-02T02:13:02.260Z"
 }

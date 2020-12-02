@@ -15,13 +15,14 @@
     "url" : "https://eos.bihu.com/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 10,
+    "relative-links-count" : 8,
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ ]
+    "popularity-boosters" : [ "https://m.bihu.com/article/1360757051?i=1J9ENL&c=1&s=1u5B4n" ],
+    "popularity-boosters-count" : 1
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 7.913750260777237E-10,
+  "vote-percentage" : 7.856715373694459E-10,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -43,5 +44,5 @@
     "max" : 3
   },
   "place" : 475,
-  "snapshot-date" : "2020-12-01T02:13:07.841Z"
+  "snapshot-date" : "2020-12-02T02:13:02.260Z"
 }
