@@ -11,23 +11,23 @@
     "prepared-url" : "https://eos.bitcoingod.org/"
   },
   "bp-json-summary" : {
-    "dl-error" : "Connection refused (Connection refused)",
+    "dl-error" : "connect timed out",
     "url" : "https://eos.bitcoingod.org/bp.json"
   },
-  "webpage-error" : "Connection refused (Connection refused)",
-  "vote-percentage" : 1.1217142739940294E-6,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 2.143078883404743E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Connection refused (Connection refused)",
+      "error" : "connect timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eos.bitcoingod.org/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Connection refused (Connection refused)"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 205,
-  "snapshot-date" : "2020-12-02T02:13:02.260Z"
+  "place" : 86,
+  "snapshot-date" : "2020-12-03T02:08:53.181Z"
 }
