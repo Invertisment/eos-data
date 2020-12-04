@@ -11,11 +11,11 @@
     "prepared-url" : "https://eosplane.top"
   },
   "bp-json-summary" : {
-    "dl-error" : "Connection refused (Connection refused)",
+    "dl-error" : "connect timed out",
     "url" : "https://eosplane.top/bp.json"
   },
   "webpage-error" : "Connection refused (Connection refused)",
-  "vote-percentage" : 3.850704506774842E-8,
+  "vote-percentage" : 3.8136580978917715E-8,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -27,7 +27,7 @@
       "mood" : "warn",
       "url" : "https://eosplane.top/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Connection refused (Connection refused)"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 358,
-  "snapshot-date" : "2020-12-02T02:13:02.260Z"
+  "snapshot-date" : "2020-12-04T02:13:18.010Z"
 }

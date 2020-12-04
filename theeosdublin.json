@@ -11,40 +11,31 @@
     "prepared-url" : "https://eosdublin.com"
   },
   "bp-json-summary" : {
-    "url" : "https://eosdublin.com/bp.json",
-    "logo" : "https://raw.githubusercontent.com/eosdublin/eosdublin/master/images/eosdublin-icon-256.png",
-    "code_of_conduct" : "https://www.eosdublin.com/values/"
+    "dl-error" : "NotAfter: Thu Dec 03 12:35:17 UTC 2020",
+    "url" : "https://eosdublin.com/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 9,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://medium.com/@coachbjork/my-top-16-candidates-for-eos-block-producer-f0c7886bf085", "https://medium.com/@eosdublin/", "https://medium.com/@eosdublin/airdrop-for-eos-token-holders-957c249c73fd", "https://steemit.com/@eosdublin", "https://steemit.com/eos/@datajunky/eos-watchdogs-proxy-vote-with-the-wisdom-of-the-crowd", "https://steemit.com/eos/@eos42/30-block-producers-who-have-put-in-thousands-of-hours-for-eos", "https://steemit.com/eos/@eosnewyork/your-vote-matters-5-examples-of-good-block-producers", "https://t.me/eosdublin", "https://twitter.com/eosdublin", "https://www.meetup.com/EOS-Dublin/" ],
-    "social-links-count" : 10,
-    "popularity-boosters" : [ "http://sonatasys.com/sonataHome.shtml", "https://airdropsforeos.com/", "https://eosbootcamp.com/", "https://europechain.io", "https://everipedia.org/wiki/eos-dublin/", "https://ignition.zone/", "https://telosfoundation.io/", "https://trybe.one/who-to-vote-for-in-the-eos-block-producer-candidacy-election/", "https://worbli.io", "https://www.chintai.io/", "https://www.eosx.io/tools/vote?voteTo=eosdublinwow" ],
-    "popularity-boosters-count" : 11
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.3957708463723673E-8,
+  "webpage-error" : "NotAfter: Thu Dec 03 12:35:17 UTC 2020",
+  "vote-percentage" : 2.3727218935875723E-8,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eosdublin.com"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "NotAfter: Thu Dec 03 12:35:17 UTC 2020",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://eosdublin.com/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eosdublin.com/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "NotAfter: Thu Dec 03 12:35:17 UTC 2020"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://www.eosdublin.com/values/"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 0,
     "max" : 3
   },
   "place" : 370,
-  "snapshot-date" : "2020-12-02T02:13:02.260Z"
+  "snapshot-date" : "2020-12-04T02:13:18.010Z"
 }
