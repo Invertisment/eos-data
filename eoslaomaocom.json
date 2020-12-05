@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eoslaomaocom",
-    "total_votes" : "5939385413143142400.00000000000000000",
+    "total_votes" : "4747069921052174336.00000000000000000",
     "producer_key" : "EOS8QgURqo875qu3a8vgZ58qBeu2cTehe9zAWRfpdCXAQipicu1Fi",
     "is_active" : 1,
     "url" : "https://eoslaomao.com",
-    "unpaid_blocks" : 4008,
-    "last_claim_time" : "2020-12-03T14:23:53.000",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2020-12-04T14:24:01.500",
     "location" : 392,
     "prepared-url" : "https://eoslaomao.com"
   },
@@ -21,7 +21,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.02233213223864476,
+  "vote-percentage" : 0.023416985936414156,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -42,6 +42,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 15,
-  "snapshot-date" : "2020-12-04T02:13:18.010Z"
+  "place" : 20,
+  "snapshot-date" : "2020-12-05T02:10:54.384Z"
 }
