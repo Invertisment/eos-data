@@ -11,23 +11,23 @@
     "prepared-url" : "https://eos.bitcoingod.org/"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "unable to find valid certification path to requested target",
     "url" : "https://eos.bitcoingod.org/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 1.457472912017289E-6,
+  "webpage-error" : "unable to find valid certification path to requested target",
+  "vote-percentage" : 1.4527040821904912E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "unable to find valid certification path to requested target",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eos.bitcoingod.org/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "unable to find valid certification path to requested target"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 160,
-  "snapshot-date" : "2020-12-05T02:10:54.384Z"
+  "snapshot-date" : "2020-12-06T02:10:41.943Z"
 }
