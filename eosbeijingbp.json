@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosbeijingbp",
-    "total_votes" : "3277914204054294016.00000000000000000",
+    "total_votes" : "3278031501223270400.00000000000000000",
     "producer_key" : "EOS5dGpcEhwB4VEhhXEcqtZs9EQj5HeetuXDnsAGVHMXHAFdMjbdj",
     "is_active" : 1,
     "url" : "https://www.eosbeijing.one",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-12-05T13:36:02.000",
+    "last_claim_time" : "2020-12-06T13:36:04.500",
     "location" : 392,
     "prepared-url" : "https://www.eosbeijing.one"
   },
@@ -15,7 +15,7 @@
     "url" : "https://www.eosbeijing.one/bp.json"
   },
   "webpage-error" : "Read timed out",
-  "vote-percentage" : 0.016116829580915405,
+  "vote-percentage" : 0.020623821387850166,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 26,
-  "snapshot-date" : "2020-12-06T02:10:41.943Z"
+  "place" : 21,
+  "snapshot-date" : "2020-12-07T02:08:20.462Z"
 }
