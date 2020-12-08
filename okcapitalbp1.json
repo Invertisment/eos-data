@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "okcapitalbp1",
-    "total_votes" : "7085894319542460416.00000000000000000",
+    "total_votes" : "7156703397175846912.00000000000000000",
     "producer_key" : "EOS6NqWZ1i9KSNoeBiby6Nmf1seAbEfhvrDoCbwSi1hV4cuqqnYRP",
     "is_active" : 1,
     "url" : "https://www.okex.com/eosbp/",
-    "unpaid_blocks" : 7054,
-    "last_claim_time" : "2020-12-03T05:32:15.000",
+    "unpaid_blocks" : 6994,
+    "last_claim_time" : "2020-12-07T05:40:25.000",
     "location" : 0,
     "prepared-url" : "https://www.okex.com/eosbp/"
   },
@@ -20,11 +20,10 @@
     "duplicate-urls" : null,
     "social-links" : [ "https://www.linkedin.com/company/okex/jobs" ],
     "social-links-count" : 1,
-    "popularity-boosters" : [ "http://okex.com/crypto/ethereum-price" ],
-    "popularity-boosters-count" : 1
+    "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.026643014043660315,
+  "vote-percentage" : 0.026526478181253452,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +44,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 9,
-  "snapshot-date" : "2020-12-04T02:13:18.010Z"
+  "place" : 8,
+  "snapshot-date" : "2020-12-08T02:12:54.382Z"
 }

@@ -11,38 +11,31 @@
     "prepared-url" : "https://bp.eosbean.com"
   },
   "bp-json-summary" : {
-    "read-error" : "read:'https://bp.eosbean.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "dl-error" : "bp.eosbean.com",
     "url" : "https://bp.eosbean.com/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 1,
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "https://www.name.com/domain/renew/eosbean.com?utm_source=Sedo_parked_page&utm_medium=button&utm_campaign=Sedo_Expired_v", "https://www.sedo.com/services/parking.php3" ],
-    "popularity-boosters-count" : 2
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 4.353988621841935E-6,
+  "webpage-error" : "bp.eosbean.com: Name or service not known",
+  "vote-percentage" : 2.5650618956621364E-6,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://bp.eosbean.com"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "bp.eosbean.com: Name or service not known",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://bp.eosbean.com/bp.json",
-      "paragraphs" : [ "bp-json-invalid" ],
-      "error" : "read:'https://bp.eosbean.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "bp.eosbean.com"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 83,
-  "snapshot-date" : "2020-12-07T02:08:20.462Z"
+  "place" : 172,
+  "snapshot-date" : "2020-12-08T02:12:54.382Z"
 }

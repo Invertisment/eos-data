@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eos42freedom",
-    "total_votes" : "2521351418322795520.00000000000000000",
+    "total_votes" : "2527319667423215104.00000000000000000",
     "producer_key" : "EOS4tw7vH62TcVtMgm2tjXzn9hTuHEBbGPUK2eos42ssY7ip4LTzu",
     "is_active" : 1,
     "url" : "https://www.eos42.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-12-06T18:07:03.000",
+    "last_claim_time" : "2020-12-07T18:07:05.500",
     "location" : 826,
     "prepared-url" : "https://www.eos42.io"
   },
@@ -23,7 +23,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.01586314874890223,
+  "vote-percentage" : 0.009367565804307343,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -44,6 +44,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 26,
-  "snapshot-date" : "2020-12-07T02:08:20.462Z"
+  "place" : 40,
+  "snapshot-date" : "2020-12-08T02:12:54.382Z"
 }
