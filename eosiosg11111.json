@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosiosg11111",
-    "total_votes" : "5024306371994399744.00000000000000000",
+    "total_votes" : "5023508343057780736.00000000000000000",
     "producer_key" : "EOS7zVBQMhV7dZ5zRQwBgDmmbFCHA6YcmwW6Dq5CePGpqLR1ZsVAc",
     "is_active" : 1,
     "url" : "https://eosio.sg",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-12-08T12:31:07.000",
+    "last_claim_time" : "2020-12-09T12:31:14.000",
     "location" : 702,
     "prepared-url" : "https://eosio.sg"
   },
@@ -14,20 +14,14 @@
     "url" : "https://eosio.sg/bp.json",
     "logo" : "https://image.eosio.sg/EOSIOSG_256.png"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 8,
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.03307118843678206,
+  "webpage-error" : "SSL peer shut down incorrectly",
+  "vote-percentage" : 0.01851585683074573,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eosio.sg"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "SSL peer shut down incorrectly",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -38,9 +32,9 @@
       "mood" : "bad",
       "paragraphs" : [ "value-empty" ]
     } ],
-    "score" : 2,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 14,
-  "snapshot-date" : "2020-12-09T02:08:50.277Z"
+  "place" : 24,
+  "snapshot-date" : "2020-12-10T02:13:06.979Z"
 }

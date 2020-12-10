@@ -11,31 +11,40 @@
     "prepared-url" : "https://eosdublin.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "NotAfter: Thu Dec 03 12:35:17 UTC 2020",
-    "url" : "https://eosdublin.com/bp.json"
+    "url" : "https://eosdublin.com/bp.json",
+    "logo" : "https://raw.githubusercontent.com/eosdublin/eosdublin/master/images/eosdublin-icon-256.png",
+    "code_of_conduct" : "https://www.eosdublin.com/values/"
   },
-  "webpage-error" : "NotAfter: Thu Dec 03 12:35:17 UTC 2020",
+  "analyzed-urls" : {
+    "relative-links-count" : 5,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://medium.com/@eosdublin", "https://t.me/eosdublin", "https://twitter.com/eosdublin" ],
+    "social-links-count" : 3,
+    "popularity-boosters" : [ "http://www.elegantthemes.com", "http://www.wordpress.org" ],
+    "popularity-boosters-count" : 2
+  },
+  "p-ram-amounts" : [ ],
   "vote-percentage" : 0.0,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "NotAfter: Thu Dec 03 12:35:17 UTC 2020",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eosdublin.com"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://eosdublin.com/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "NotAfter: Thu Dec 03 12:35:17 UTC 2020"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eosdublin.com/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://www.eosdublin.com/values/"
     } ],
-    "score" : 0,
+    "score" : 3,
     "max" : 3
   },
-  "place" : 207,
-  "snapshot-date" : "2020-12-09T02:08:50.277Z"
+  "place" : 624,
+  "snapshot-date" : "2020-12-10T02:13:06.979Z"
 }

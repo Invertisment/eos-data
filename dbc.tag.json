@@ -1,0 +1,45 @@
+{
+  "bp-header" : {
+    "owner" : "dbc.tag",
+    "total_votes" : "11414263562240.00000000000000000",
+    "producer_key" : "EOS61D83LL2XkrbTFwyzSTZgHDZAR83cUJUMSq4XijSMD7advP1vU",
+    "is_active" : 1,
+    "url" : "https://dbc.yfc.one",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2020-12-09T12:00:02.000",
+    "location" : 702,
+    "prepared-url" : "https://dbc.yfc.one"
+  },
+  "bp-json-summary" : {
+    "url" : "https://dbc.yfc.one/bp.json",
+    "logo" : "https://cdn.jsdelivr.net/gh/defis-net/material/art/dbc.png"
+  },
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 4.207116929324918E-8,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://dbc.yfc.one"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://dbc.yfc.one/bp.json"
+    }, {
+      "title" : "no-coc",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    } ],
+    "score" : 2,
+    "max" : 3
+  },
+  "place" : 355,
+  "snapshot-date" : "2020-12-10T02:13:06.979Z"
+}

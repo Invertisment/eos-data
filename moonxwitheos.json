@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "moonxwitheos",
-    "total_votes" : "683236828603994.25000000000000000",
+    "total_votes" : "683563838837498.25000000000000000",
     "producer_key" : "EOS7N8oWEpqwQ8oetS8ENSGLMxsG6cvG12nCojgfNKdf3xe1asPiw",
     "is_active" : 1,
     "url" : "https://moonxwitheos.com",
@@ -11,23 +11,23 @@
     "prepared-url" : "https://moonxwitheos.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "Certificate for <moonxwitheos.com> doesn't match any of the subject alternative names: [*.unacademy.com, unacademy.com]",
     "url" : "https://moonxwitheos.com/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 2.5324322974939323E-6,
+  "webpage-error" : "Certificate for <moonxwitheos.com> doesn't match any of the subject alternative names: [*.unacademy.com, unacademy.com]",
+  "vote-percentage" : 2.519508142567543E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "Certificate for <moonxwitheos.com> doesn't match any of the subject alternative names: [*.unacademy.com, unacademy.com]",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://moonxwitheos.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "Certificate for <moonxwitheos.com> doesn't match any of the subject alternative names: [*.unacademy.com, unacademy.com]"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 173,
-  "snapshot-date" : "2020-12-08T02:12:54.382Z"
+  "snapshot-date" : "2020-12-10T02:13:06.979Z"
 }
