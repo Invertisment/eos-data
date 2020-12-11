@@ -1,41 +1,50 @@
 {
   "bp-header" : {
     "owner" : "eosdacserver",
-    "total_votes" : "3051019934168360960.00000000000000000",
+    "total_votes" : "3052070880785965056.00000000000000000",
     "producer_key" : "EOS6VkageCqyz1X97n7E1JyjPoZu8HEX6CVujY5ABzk3fPyV3vzZK",
     "is_active" : 1,
     "url" : "https://eosdac.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-12-09T09:44:25.500",
+    "last_claim_time" : "2020-12-10T09:45:27.000",
     "location" : 826,
     "prepared-url" : "https://eosdac.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "Read timed out",
-    "url" : "https://eosdac.io/bp.json"
+    "url" : "https://eosdac.io/bp.json",
+    "logo" : "https://eosdac.io/assets/bpjson/eosdaclogo_256.png",
+    "code_of_conduct" : "https://eosdac.io#core-principles"
   },
-  "webpage-error" : "Read timed out",
-  "vote-percentage" : 0.011245576682853904,
+  "analyzed-urls" : {
+    "relative-links-count" : 22,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://discord.io/eosdac", "https://facebook.com/eosdac", "https://github.com/eosdac", "https://steemit.com/@eosdac", "https://steemit.com/eos/@eosdac/statement-of-ownership-and-code-of-conduct", "https://t.me/eosdacio", "https://twitter.com/eosdac", "https://vk.com/eosdac", "https://www.instagram.com/eosdac", "https://www.linkedin.com/company/eosdac/", "https://www.reddit.com/r/eosdac", "https://www.youtube.com/eosdac" ],
+    "social-links-count" : 12,
+    "popularity-boosters" : [ "http://eepurl.com/dmQ2dX", "https://eosdac.zendesk.com/", "https://murmurdapp.com/userpost/eosdacmurmur" ],
+    "popularity-boosters-count" : 3
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.011260613541784151,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "Read timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eosdac.io"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://eosdac.io/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Read timed out"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eosdac.io/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://eosdac.io#core-principles"
     } ],
-    "score" : 0,
+    "score" : 3,
     "max" : 3
   },
   "place" : 37,
-  "snapshot-date" : "2020-12-10T02:13:06.979Z"
+  "snapshot-date" : "2020-12-11T02:13:11.652Z"
 }

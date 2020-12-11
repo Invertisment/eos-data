@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "bit",
-    "total_votes" : "206944505067.35391235351562500",
+    "total_votes" : "6291456.00000000000000000",
     "producer_key" : "EOS8888BrR5x2vX64epe3qBKMH3cJVKRLLM3uznuUTYFzUdKif4MC",
     "is_active" : 1,
     "url" : "https://eos.bihu.com",
@@ -15,13 +15,13 @@
     "url" : "https://eos.bihu.com/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 5,
+    "relative-links-count" : 8,
     "duplicate-urls" : null,
     "social-links" : [ ],
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 7.627646987054254E-10,
+  "vote-percentage" : 2.32123228451677E-14,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -42,6 +42,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 479,
-  "snapshot-date" : "2020-12-10T02:13:06.979Z"
+  "place" : 597,
+  "snapshot-date" : "2020-12-11T02:13:11.652Z"
 }
