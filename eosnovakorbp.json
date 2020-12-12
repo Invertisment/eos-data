@@ -11,11 +11,11 @@
     "prepared-url" : "https://novawallet.io/"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 403",
+    "dl-error" : "Read timed out",
     "url" : "https://novawallet.io/bp.json"
   },
   "webpage-error" : "Read timed out",
-  "vote-percentage" : 3.838474230656231E-6,
+  "vote-percentage" : 3.8321620393515385E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -27,7 +27,7 @@
       "mood" : "warn",
       "url" : "https://novawallet.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 403"
+      "error" : "Read timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 157,
-  "snapshot-date" : "2020-12-11T02:13:11.652Z"
+  "snapshot-date" : "2020-12-12T02:13:03.972Z"
 }
