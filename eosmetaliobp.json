@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosmetaliobp",
-    "total_votes" : "9441585703901482.00000000000000000",
+    "total_votes" : "9441706846825622.00000000000000000",
     "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
     "is_active" : 0,
     "url" : "https://eosmetal.io",
@@ -11,37 +11,31 @@
     "prepared-url" : "https://eosmetal.io"
   },
   "bp-json-summary" : {
-    "url" : "https://eosmetal.io/bp.json",
-    "logo" : "https://eosmetal.io/img/logo-256.png",
-    "code_of_conduct" : "https://steemit.com/eos/@eosmetal/eosmetal-code-of-conduct"
+    "dl-error" : "Certificate for <eosmetal.io> doesn't match any of the subject alternative names: [*.webs.upv.es, webs.upv.es]",
+    "url" : "https://eosmetal.io/bp.json"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 3.4777440276857685E-5,
+  "webpage-error" : "Certificate for <eosmetal.io> doesn't match any of the subject alternative names: [*.webs.upv.es, webs.upv.es]",
+  "vote-percentage" : 3.4412783336383736E-5,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eosmetal.io"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Certificate for <eosmetal.io> doesn't match any of the subject alternative names: [*.webs.upv.es, webs.upv.es]",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://eosmetal.io/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eosmetal.io/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "Certificate for <eosmetal.io> doesn't match any of the subject alternative names: [*.webs.upv.es, webs.upv.es]"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://steemit.com/eos/@eosmetal/eosmetal-code-of-conduct"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 98,
-  "snapshot-date" : "2020-12-12T02:13:03.972Z"
+  "place" : 100,
+  "snapshot-date" : "2020-12-13T02:13:00.401Z"
 }

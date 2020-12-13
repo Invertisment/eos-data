@@ -1,18 +1,18 @@
 {
   "bp-header" : {
-    "owner" : "eosx.game",
-    "total_votes" : "1320463014608790016.00000000000000000",
-    "producer_key" : "EOS727yFoVQYBsXZ9qxtZJPJu3rm4befuoVwBk7iqgBWjmEGAMUax",
+    "owner" : "bwatchbpnode",
+    "total_votes" : "0.00000000000000000",
+    "producer_key" : "EOS6PCFXneuTEAUtBxyeCeNs5vgkPkSXPsPatZANXnonsyD56gXsZ",
     "is_active" : 1,
-    "url" : "https://chaingame.club",
+    "url" : "https://eos-bp.b.watch",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-12-13T01:40:09.000",
-    "location" : 156,
-    "prepared-url" : "https://chaingame.club"
+    "last_claim_time" : "2020-12-12T09:23:13.000",
+    "location" : 0,
+    "prepared-url" : "https://eos-bp.b.watch"
   },
   "bp-json-summary" : {
-    "url" : "https://chaingame.club/bp.json",
-    "logo" : "https://chaingame.club/eosx.game-logo/png/eosx-game-logo-256.png"
+    "url" : "https://eos-bp.b.watch/bp.json",
+    "logo" : "https://eos-bp.b.watch/logo/logo_256.png"
   },
   "analyzed-urls" : {
     "duplicate-urls" : null,
@@ -20,18 +20,18 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.004812774677569868,
+  "vote-percentage" : 0.0,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
       "mood" : "good",
       "title" : "web",
-      "url" : "https://chaingame.club"
+      "url" : "https://eos-bp.b.watch"
     }, {
       "score" : "positive",
       "mood" : "good",
       "title" : "bp-json",
-      "url" : "https://chaingame.club/bp.json"
+      "url" : "https://eos-bp.b.watch/bp.json"
     }, {
       "title" : "no-coc",
       "mood" : "bad",
@@ -40,6 +40,6 @@
     "score" : 2,
     "max" : 3
   },
-  "place" : 65,
+  "place" : 627,
   "snapshot-date" : "2020-12-13T02:13:00.401Z"
 }

@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosswedenorg",
-    "total_votes" : "4942015513772901376.00000000000000000",
+    "total_votes" : "5031112365371921408.00000000000000000",
     "producer_key" : "EOS7SGSBsWhSob6TEric6u3TGodcc1uXFcqSrquJ3Etuqcbb3VnNY",
     "is_active" : 1,
     "url" : "https://eossweden.org",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-12-11T12:36:09.500",
+    "last_claim_time" : "2020-12-12T12:36:10.500",
     "location" : 752,
     "prepared-url" : "https://eossweden.org"
   },
@@ -15,21 +15,14 @@
     "logo" : "https://eossweden.org/logo/logo-256.png",
     "code_of_conduct" : "https://eossweden.org/code-of-conduct/"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ "https://steemit.com/@eos.sw-eden", "https://t.me/eossweden", "https://twitter.com/eossweden", "https://www.facebook.com/EOS-sweden-554084258304426/" ],
-    "social-links-count" : 4,
-    "popularity-boosters" : [ "https://bihu.com/people/98843" ],
-    "popularity-boosters-count" : 1
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.01820357880207774,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 0.018337211965943876,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eossweden.org"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -41,9 +34,9 @@
       "title" : "coc",
       "url" : "https://eossweden.org/code-of-conduct/"
     } ],
-    "score" : 3,
+    "score" : 2,
     "max" : 3
   },
-  "place" : 25,
-  "snapshot-date" : "2020-12-12T02:13:03.972Z"
+  "place" : 24,
+  "snapshot-date" : "2020-12-13T02:13:00.401Z"
 }
