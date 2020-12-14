@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "libertyblock",
-    "total_votes" : "41289836552771032.00000000000000000",
+    "total_votes" : "41277240586793336.00000000000000000",
     "producer_key" : "EOS7TqVs7LpMzJwikiWkGTG9UGSwcQVhxP2ZKBM7FCbUwcrryNgHP",
     "is_active" : 1,
     "url" : "https://libertyblock.io",
@@ -11,11 +11,11 @@
     "prepared-url" : "https://libertyblock.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "Read timed out",
+    "dl-error" : "NotAfter: Sun Nov 01 23:59:59 UTC 2020",
     "url" : "https://libertyblock.io/bp.json"
   },
   "webpage-error" : "NotAfter: Sun Nov 01 23:59:59 UTC 2020",
-  "vote-percentage" : 1.5049166663789446E-4,
+  "vote-percentage" : 1.4929890573756795E-4,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -27,7 +27,7 @@
       "mood" : "warn",
       "url" : "https://libertyblock.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Read timed out"
+      "error" : "NotAfter: Sun Nov 01 23:59:59 UTC 2020"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 84,
-  "snapshot-date" : "2020-12-13T02:13:00.401Z"
+  "place" : 86,
+  "snapshot-date" : "2020-12-14T02:12:51.931Z"
 }

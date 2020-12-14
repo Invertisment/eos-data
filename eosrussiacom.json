@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosrussiacom",
-    "total_votes" : "1140276379297317.00000000000000000",
+    "total_votes" : "1130669058166292.75000000000000000",
     "producer_key" : "EOS5ph2U56qqMfT5TLPyf3PinfCJQ3w2iTV1KjmSnbEV2Yisn21dD",
     "is_active" : 1,
     "url" : "http://eos.adenso.ru",
@@ -14,13 +14,13 @@
     "dl-error" : "No route to host (Host unreachable)",
     "url" : "http://eos.adenso.ru/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 4.15603710440846E-6,
+  "webpage-error" : "No route to host (Host unreachable)",
+  "vote-percentage" : 4.08960605737691E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "No route to host (Host unreachable)",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 156,
-  "snapshot-date" : "2020-12-13T02:13:00.401Z"
+  "place" : 158,
+  "snapshot-date" : "2020-12-14T02:12:51.931Z"
 }

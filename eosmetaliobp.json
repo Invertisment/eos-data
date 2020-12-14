@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosmetaliobp",
-    "total_votes" : "9441706846825622.00000000000000000",
+    "total_votes" : "9442319376853176.00000000000000000",
     "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
     "is_active" : 0,
     "url" : "https://eosmetal.io",
@@ -15,7 +15,7 @@
     "url" : "https://eosmetal.io/bp.json"
   },
   "webpage-error" : "Certificate for <eosmetal.io> doesn't match any of the subject alternative names: [*.webs.upv.es, webs.upv.es]",
-  "vote-percentage" : 3.4412783336383736E-5,
+  "vote-percentage" : 3.415266937780372E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 100,
-  "snapshot-date" : "2020-12-13T02:13:00.401Z"
+  "place" : 102,
+  "snapshot-date" : "2020-12-14T02:12:51.931Z"
 }
