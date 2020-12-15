@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "googlecloudp",
-    "total_votes" : "32433246851257428.00000000000000000",
+    "total_votes" : "32820524293701032.00000000000000000",
     "producer_key" : "EOS8jAnvfC1kcSUCTHkhHbb8o23izEbee9rrEZuV6kKKCjUWM4z4s",
     "is_active" : 1,
     "url" : "https://cloud.google.com",
@@ -15,14 +15,14 @@
     "url" : "https://cloud.google.com/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 297,
+    "relative-links-count" : 295,
     "duplicate-urls" : null,
     "social-links" : [ ],
     "popularity-boosters" : [ "https://chromeenterprise.google/", "https://cloud.withgoogle.com/next/sf/sessions", "https://cloud.withgoogle.com/partners/", "https://cloudonair.withgoogle.com/events/public-sector-summit?utm_source=google_owned_website&utm_medium=et&utm_campaign=-&utm_content=google-cloud-website-homepage-carousel", "https://firebase.google.com/pricing/", "https://firebase.google.com/products/realtime-database/", "https://firebase.google.com/products/storage", "https://marketingplatform.google.com/about/data-studio/", "https://workspace.google.com/enterprise/", "https://workspace.google.com/essentials/", "https://workspace.google.com/pricing.html", "https://workspace.google.com/solutions/enterprise/?enterprise-benefits_activeEl=connect" ],
     "popularity-boosters-count" : 12
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.1731036754328083E-4,
+  "vote-percentage" : 1.1785290211300658E-4,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -43,6 +43,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 90,
-  "snapshot-date" : "2020-12-14T02:12:51.931Z"
+  "place" : 91,
+  "snapshot-date" : "2020-12-15T02:13:10.602Z"
 }

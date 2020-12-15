@@ -1,18 +1,18 @@
 {
   "bp-header" : {
-    "owner" : "bp.yfc",
+    "owner" : "bp.tag",
     "total_votes" : "1315548276570325760.00000000000000000",
-    "producer_key" : "EOS4ukjCvqbC7HN8L6aTfjTUnqdPoPLhrFdLh9WmgEfvGWCXaAvde",
+    "producer_key" : "EOS6vmjUJzFvPqWdgD7dWh9bLFdx7QDUsPMUWzHA5mT2ytTVNxqif",
     "is_active" : 1,
-    "url" : "https://yfc.one",
+    "url" : "https://tag.defis.network",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-12-14T12:03:16.500",
+    "last_claim_time" : "2020-12-14T06:02:15.500",
     "location" : 702,
-    "prepared-url" : "https://yfc.one"
+    "prepared-url" : "https://tag.defis.network"
   },
   "bp-json-summary" : {
-    "url" : "https://yfc.one/bp.json",
-    "logo" : "https://cdn.jsdelivr.net/gh/defis-net/material/art/yfc.png"
+    "url" : "https://tag.defis.network/bp.json",
+    "logo" : "https://cdn.jsdelivr.net/gh/defis-net/material/art/tag-400X400.png"
   },
   "analyzed-urls" : {
     "duplicate-urls" : null,
@@ -26,12 +26,12 @@
       "score" : "positive",
       "mood" : "good",
       "title" : "web",
-      "url" : "https://yfc.one"
+      "url" : "https://tag.defis.network"
     }, {
       "score" : "positive",
       "mood" : "good",
       "title" : "bp-json",
-      "url" : "https://yfc.one/bp.json"
+      "url" : "https://tag.defis.network/bp.json"
     }, {
       "title" : "no-coc",
       "mood" : "bad",
@@ -40,6 +40,6 @@
     "score" : 2,
     "max" : 3
   },
-  "place" : 69,
+  "place" : 70,
   "snapshot-date" : "2020-12-15T02:13:10.602Z"
 }
