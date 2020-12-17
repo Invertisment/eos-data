@@ -1,18 +1,18 @@
 {
   "bp-header" : {
     "owner" : "bp.pink",
-    "total_votes" : "1314976396944893440.00000000000000000",
+    "total_votes" : "974142726432107520.00000000000000000",
     "producer_key" : "EOS8VfL1ntEkQBfS3rvt5NvtWu9mvHuKnQM7T6uRsyGY8wfEuFc8P",
     "is_active" : 1,
     "url" : "https://pinkdream.app",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-12-16T00:30:09.000",
+    "last_claim_time" : "2020-12-17T01:00:07.500",
     "location" : 0,
     "prepared-url" : "https://pinkdream.app"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
-    "url" : "https://pinkdream.app/bp.json"
+    "url" : "https://pinkdream.app/bp.json",
+    "logo" : "https://pinkdream.app/pinklogo.png"
   },
   "analyzed-urls" : {
     "relative-links-count" : 5,
@@ -21,7 +21,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.008360624460611773,
+  "vote-percentage" : 0.0035319790471595265,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -29,19 +29,18 @@
       "title" : "web",
       "url" : "https://pinkdream.app"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://pinkdream.app/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://pinkdream.app/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "title" : "no-coc",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
     } ],
-    "score" : 1,
+    "score" : 2,
     "max" : 3
   },
-  "place" : 38,
-  "snapshot-date" : "2020-12-16T03:09:06.215Z"
+  "place" : 72,
+  "snapshot-date" : "2020-12-17T02:12:56.520Z"
 }

@@ -1,0 +1,44 @@
+{
+  "bp-header" : {
+    "owner" : "fwnwfwnwfwnw",
+    "total_votes" : "0.00000000000000000",
+    "producer_key" : "EOS8fTUmV7Cq5djc3bWHw5nP5fXAXaoJtCwWjaYNNxMmCenXFUmB7",
+    "is_active" : 1,
+    "url" : "https://dfs.fwnw.com",
+    "unpaid_blocks" : 0,
+    "last_claim_time" : "2020-12-15T23:39:48.500",
+    "location" : 458,
+    "prepared-url" : "https://dfs.fwnw.com"
+  },
+  "bp-json-summary" : {
+    "url" : "https://dfs.fwnw.com/bp.json"
+  },
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.0,
+  "scoring" : {
+    "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://dfs.fwnw.com"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://dfs.fwnw.com/bp.json"
+    }, {
+      "title" : "no-coc",
+      "mood" : "bad",
+      "paragraphs" : [ "value-empty" ]
+    } ],
+    "score" : 2,
+    "max" : 3
+  },
+  "place" : 620,
+  "snapshot-date" : "2020-12-17T02:12:56.520Z"
+}
