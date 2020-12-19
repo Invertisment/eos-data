@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "dutcheosxxxx",
-    "total_votes" : "1856683001905256.50000000000000000",
+    "total_votes" : "1856696473009863.25000000000000000",
     "producer_key" : "EOS7zv7RMS5SuSRDfBzv7DUbS9ovf3MRvDyAkBum6AitpDs5NtMmT",
     "is_active" : 1,
     "url" : "https://dutcheos.io",
@@ -11,31 +11,32 @@
     "prepared-url" : "https://dutcheos.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 403",
-    "url" : "https://dutcheos.io/bp.json"
+    "url" : "https://dutcheos.io/bp.json",
+    "logo" : "https://dutcheos.io/assets/dutcheos_256.png",
+    "code_of_conduct" : "https://dutcheos.io/code-of-conduct/"
   },
-  "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 1.1552461064598934E-5,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 6.827349762216079E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "clj-http: status 403",
+      "error" : "Read timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://dutcheos.io/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 403"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://dutcheos.io/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://dutcheos.io/code-of-conduct/"
     } ],
-    "score" : 0,
+    "score" : 2,
     "max" : 3
   },
-  "place" : 66,
-  "snapshot-date" : "2020-12-18T02:08:53.240Z"
+  "place" : 135,
+  "snapshot-date" : "2020-12-19T02:13:06.688Z"
 }
