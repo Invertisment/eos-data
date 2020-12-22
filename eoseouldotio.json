@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eoseouldotio",
-    "total_votes" : "5885547438923338752.00000000000000000",
+    "total_votes" : "5979738167620838400.00000000000000000",
     "producer_key" : "EOS6SSA4gYCSZ3q9NWpxGsYDv5MWjSwKseyq25RRZexwj8EM6YHDa",
     "is_active" : 1,
     "url" : "https://eoseoul.io",
-    "unpaid_blocks" : 7284,
-    "last_claim_time" : "2020-12-20T04:52:13.000",
+    "unpaid_blocks" : 7272,
+    "last_claim_time" : "2020-12-21T04:52:20.500",
     "location" : 410,
     "prepared-url" : "https://eoseoul.io"
   },
@@ -24,7 +24,7 @@
     "popularity-boosters-count" : 14
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.03852839409997225,
+  "vote-percentage" : 0.04054736367075209,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -46,5 +46,5 @@
     "max" : 3
   },
   "place" : 8,
-  "snapshot-date" : "2020-12-21T02:08:29.850Z"
+  "snapshot-date" : "2020-12-22T02:08:22.506Z"
 }
