@@ -1,9 +1,9 @@
 {
   "bp-header" : {
     "owner" : "dutcheosxxxx",
-    "total_votes" : "1862091242758315.75000000000000000",
-    "producer_key" : "EOS7zv7RMS5SuSRDfBzv7DUbS9ovf3MRvDyAkBum6AitpDs5NtMmT",
-    "is_active" : 1,
+    "total_votes" : "1853167165001954.25000000000000000",
+    "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
+    "is_active" : 0,
     "url" : "https://dutcheos.io",
     "unpaid_blocks" : 0,
     "last_claim_time" : "1970-01-01T00:00:00.000",
@@ -16,15 +16,15 @@
     "code_of_conduct" : "https://dutcheos.io/code-of-conduct/"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 5,
+    "relative-links-count" : 4,
     "duplicate-urls" : null,
     "social-links" : [ "http://t.me/DutchEOS", "https://steemit.com/@eos-nl", "https://twitter.com/DutchEOS", "https://www.reddit.com/user/dutcheos" ],
     "social-links-count" : 4,
-    "popularity-boosters" : [ "https://europechain.io", "https://europechain.io/", "https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fdutcheos.io%2F&linkname=DutchEOS%20%E2%80%93%20A%20Block%20Producer%20in%20the%20Netherlands", "https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fdutcheos.io%2F&linkname=DutchEOS%20%E2%80%93%20A%20Block%20Producer%20in%20the%20Netherlands", "https://www.addtoany.com/add_to/pocket?linkurl=https%3A%2F%2Fdutcheos.io%2F&linkname=DutchEOS%20%E2%80%93%20A%20Block%20Producer%20in%20the%20Netherlands", "https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fdutcheos.io%2F&linkname=DutchEOS%20%E2%80%93%20A%20Block%20Producer%20in%20the%20Netherlands", "https://www.addtoany.com/add_to/telegram?linkurl=https%3A%2F%2Fdutcheos.io%2F&linkname=DutchEOS%20%E2%80%93%20A%20Block%20Producer%20in%20the%20Netherlands", "https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fdutcheos.io%2F&linkname=DutchEOS%20%E2%80%93%20A%20Block%20Producer%20in%20the%20Netherlands" ],
-    "popularity-boosters-count" : 8
+    "popularity-boosters" : [ "https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fdutcheos.io%2F&linkname=DutchEOS%20%E2%80%93%20A%20Block%20Producer%20in%20the%20Netherlands", "https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fdutcheos.io%2F&linkname=DutchEOS%20%E2%80%93%20A%20Block%20Producer%20in%20the%20Netherlands", "https://www.addtoany.com/add_to/pocket?linkurl=https%3A%2F%2Fdutcheos.io%2F&linkname=DutchEOS%20%E2%80%93%20A%20Block%20Producer%20in%20the%20Netherlands", "https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fdutcheos.io%2F&linkname=DutchEOS%20%E2%80%93%20A%20Block%20Producer%20in%20the%20Netherlands", "https://www.addtoany.com/add_to/telegram?linkurl=https%3A%2F%2Fdutcheos.io%2F&linkname=DutchEOS%20%E2%80%93%20A%20Block%20Producer%20in%20the%20Netherlands", "https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fdutcheos.io%2F&linkname=DutchEOS%20%E2%80%93%20A%20Block%20Producer%20in%20the%20Netherlands" ],
+    "popularity-boosters-count" : 6
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.2626454318197098E-5,
+  "vote-percentage" : 6.786154120700739E-6,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +45,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 60,
-  "snapshot-date" : "2020-12-22T02:08:22.506Z"
+  "place" : 133,
+  "snapshot-date" : "2020-12-23T02:12:22.397Z"
 }

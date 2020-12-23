@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosmedinodes",
-    "total_votes" : "2733205982772205.00000000000000000",
+    "total_votes" : "2724748753320857.50000000000000000",
     "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
     "is_active" : 0,
     "url" : "http://eosmedi.com",
@@ -11,23 +11,23 @@
     "prepared-url" : "http://eosmedi.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "Connection refused (Connection refused)",
     "url" : "http://eosmedi.com/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 1.3298528389049727E-5,
+  "webpage-error" : "Connection refused (Connection refused)",
+  "vote-percentage" : 9.97781815338987E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "Connection refused (Connection refused)",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://eosmedi.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "Connection refused (Connection refused)"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 96,
-  "snapshot-date" : "2020-12-20T02:10:37.199Z"
+  "place" : 124,
+  "snapshot-date" : "2020-12-23T02:12:22.397Z"
 }

@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosrainbowbp",
-    "total_votes" : "1433630790167433984.00000000000000000",
+    "total_votes" : "1434091760469021440.00000000000000000",
     "producer_key" : "EOS62q4Q4mg6GkACM7V5mrC46oZiSmV7roJDFA2N11JBdMLhYjRtt",
     "is_active" : 1,
     "url" : "eosrainbow.xyz",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-12-19T04:02:02.500",
+    "last_claim_time" : "2020-12-22T04:04:20.500",
     "location" : 0,
     "prepared-url" : "http://eosrainbow.xyz"
   },
@@ -15,7 +15,7 @@
     "url" : "eosrainbow.xyz/bp.json"
   },
   "webpage-error" : "connect timed out",
-  "vote-percentage" : 0.00697539076184818,
+  "vote-percentage" : 0.005251532561963758,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 42,
-  "snapshot-date" : "2020-12-20T02:10:37.199Z"
+  "place" : 53,
+  "snapshot-date" : "2020-12-23T02:12:22.397Z"
 }
