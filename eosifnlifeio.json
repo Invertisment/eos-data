@@ -11,40 +11,31 @@
     "prepared-url" : "https://ifnlife.com"
   },
   "bp-json-summary" : {
-    "url" : "https://ifnlife.com/bp.json",
-    "logo" : "https://ifnlife.com/json/256.png",
-    "code_of_conduct" : "https://ifnlife.com/conduct_disclosure.html"
+    "dl-error" : "connect timed out",
+    "url" : "https://ifnlife.com/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 2,
-    "duplicate-urls" : null,
-    "social-links" : [ "http://facebook.com/ifnlife", "http://instagram.com/ifnote.me", "http://linkedin.com/company/ifnlfe/", "http://twitter.com/ifnlife" ],
-    "social-links-count" : 4,
-    "popularity-boosters" : [ "http://ENDINGnote.org" ],
-    "popularity-boosters-count" : 1
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.4946937245475975E-10,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 1.600194089736851E-10,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://ifnlife.com"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "connect timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://ifnlife.com/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://ifnlife.com/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "connect timed out"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://ifnlife.com/conduct_disclosure.html"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 200,
-  "snapshot-date" : "2020-12-24T02:08:23.924Z"
+  "place" : 472,
+  "snapshot-date" : "2020-12-25T02:11:45.531Z"
 }

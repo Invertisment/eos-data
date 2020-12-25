@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "okcapitalbp1",
-    "total_votes" : "7441320431907761152.00000000000000000",
+    "total_votes" : "7489329243251109888.00000000000000000",
     "producer_key" : "EOS6NqWZ1i9KSNoeBiby6Nmf1seAbEfhvrDoCbwSi1hV4cuqqnYRP",
     "is_active" : 1,
     "url" : "https://www.okex.com/eosbp/",
-    "unpaid_blocks" : 6828,
-    "last_claim_time" : "2020-12-22T06:12:21.000",
+    "unpaid_blocks" : 6804,
+    "last_claim_time" : "2020-12-24T06:16:16.500",
     "location" : 0,
     "prepared-url" : "https://www.okex.com/eosbp/"
   },
@@ -16,7 +16,7 @@
     "code_of_conduct" : "https://steemit.com/eos/@okpool/okpool-code-of-conduct"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 59,
+    "relative-links-count" : 60,
     "duplicate-urls" : null,
     "social-links" : [ "https://www.linkedin.com/company/okex/jobs" ],
     "social-links-count" : 1,
@@ -24,7 +24,7 @@
     "popularity-boosters-count" : 1
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.027249537044539748,
+  "vote-percentage" : 0.030678234165825213,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -46,5 +46,5 @@
     "max" : 3
   },
   "place" : 7,
-  "snapshot-date" : "2020-12-23T02:12:22.397Z"
+  "snapshot-date" : "2020-12-25T02:11:45.531Z"
 }
