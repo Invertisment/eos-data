@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosflareiobp",
-    "total_votes" : "3222836827409720320.00000000000000000",
+    "total_votes" : "3176204787176393728.00000000000000000",
     "producer_key" : "EOS6FLARENUBrQSqSRWk4BZG6oyUcepnTb1T6j3LgrExpJaL4gk89",
     "is_active" : 1,
     "url" : "https://eosflare.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-12-24T13:54:55.500",
+    "last_claim_time" : "2020-12-26T13:54:59.000",
     "location" : 840,
     "prepared-url" : "https://eosflare.io"
   },
@@ -21,7 +21,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.01320157515556104,
+  "vote-percentage" : 0.01143409457791083,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -42,6 +42,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 31,
-  "snapshot-date" : "2020-12-25T02:11:45.531Z"
+  "place" : 35,
+  "snapshot-date" : "2020-12-27T02:12:30.135Z"
 }

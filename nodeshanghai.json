@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "nodeshanghai",
-    "total_votes" : "186573878085627.87500000000000000",
+    "total_votes" : "186603965063531.15625000000000000",
     "producer_key" : "EOS8VV8BCF5nQfTC8G5G6YpU1YWYWk5Y9SCvMfRuVUfc17KKXQp3S",
     "is_active" : 1,
     "url" : "https://fish.one",
@@ -11,23 +11,23 @@
     "prepared-url" : "https://fish.one"
   },
   "bp-json-summary" : {
-    "dl-error" : "Connection refused (Connection refused)",
+    "dl-error" : "Certificate for <fish.one> doesn't match any of the subject alternative names: [web.buyu.im]",
     "url" : "https://fish.one/bp.json"
   },
-  "webpage-error" : "Connection refused (Connection refused)",
-  "vote-percentage" : 7.642549733402213E-7,
+  "webpage-error" : "Certificate for <fish.one> doesn't match any of the subject alternative names: [web.buyu.im]",
+  "vote-percentage" : 6.717600180454263E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Connection refused (Connection refused)",
+      "error" : "Certificate for <fish.one> doesn't match any of the subject alternative names: [web.buyu.im]",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://fish.one/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Connection refused (Connection refused)"
+      "error" : "Certificate for <fish.one> doesn't match any of the subject alternative names: [web.buyu.im]"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 203,
-  "snapshot-date" : "2020-12-25T02:11:45.531Z"
+  "place" : 228,
+  "snapshot-date" : "2020-12-27T02:12:30.135Z"
 }

@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "pdd.tag",
-    "total_votes" : "615084302546588032.00000000000000000",
+    "total_votes" : "22702573490496.00000000000000000",
     "producer_key" : "EOS75ZamQsoyEnBn6y7Py4Uepo1F35e9zRTrg7TQJAWEjurKQJWXv",
     "is_active" : 1,
     "url" : "https://pddex.one",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-12-24T04:17:31.500",
+    "last_claim_time" : "2020-12-26T04:17:36.000",
     "location" : 702,
     "prepared-url" : "https://pddex.one"
   },
@@ -20,7 +20,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.0025195447619360094,
+  "vote-percentage" : 8.172753013292598E-8,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -40,6 +40,6 @@
     "score" : 2,
     "max" : 3
   },
-  "place" : 67,
-  "snapshot-date" : "2020-12-25T02:11:45.531Z"
+  "place" : 318,
+  "snapshot-date" : "2020-12-27T02:12:30.135Z"
 }

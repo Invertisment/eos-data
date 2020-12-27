@@ -11,31 +11,36 @@
     "prepared-url" : "https://regreen.xyz"
   },
   "bp-json-summary" : {
-    "dl-error" : "regreen.xyz",
+    "read-error" : "read:'https://regreen.xyz/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
     "url" : "https://regreen.xyz/bp.json"
   },
-  "webpage-error" : "regreen.xyz: Name or service not known",
-  "vote-percentage" : 1.096834642323713E-9,
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 1.0782645342688493E-9,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "regreen.xyz: Name or service not known",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://regreen.xyz"
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://regreen.xyz/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "regreen.xyz"
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'https://regreen.xyz/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 0,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 466,
-  "snapshot-date" : "2020-12-23T02:12:22.397Z"
+  "place" : 467,
+  "snapshot-date" : "2020-12-27T02:12:30.135Z"
 }

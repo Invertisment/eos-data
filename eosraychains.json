@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosraychains",
-    "total_votes" : "90020230984833.18750000000000000",
+    "total_votes" : "89686492978266.25000000000000000",
     "producer_key" : "EOS5Az8YZ4rYmMXALZMGmFya8AwvmBvUSCxLDPWQaTFJdab1w7Kv7",
     "is_active" : 1,
     "url" : "https://twitter.com/eosraychains",
@@ -15,7 +15,7 @@
     "url" : "https://twitter.com/eosraychains/bp.json"
   },
   "webpage-error" : "clj-http: status 400",
-  "vote-percentage" : 3.687462035806497E-7,
+  "vote-percentage" : 3.2286452284654925E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 227,
-  "snapshot-date" : "2020-12-25T02:11:45.531Z"
+  "place" : 254,
+  "snapshot-date" : "2020-12-27T02:12:30.135Z"
 }
