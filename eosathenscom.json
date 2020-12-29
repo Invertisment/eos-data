@@ -15,22 +15,14 @@
     "logo" : "https://www.eosathens.com/public/eosathens_logo_256.png",
     "code_of_conduct" : "https://www.eosathens.com/code-of-conduct/"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 2,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://www.instagram.com/eosathenscom/" ],
-    "social-links-count" : 1,
-    "popularity-boosters" : [ "http://eosathens.com/athx-ico/", "http://miniorange.com/cyber-security" ],
-    "popularity-boosters-count" : 2
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.1108354396891924E-7,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 1.6228318166529493E-7,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://www.eosathens.com/"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -42,9 +34,9 @@
       "title" : "coc",
       "url" : "https://www.eosathens.com/code-of-conduct/"
     } ],
-    "score" : 3,
+    "score" : 2,
     "max" : 3
   },
-  "place" : 301,
-  "snapshot-date" : "2020-12-28T02:12:33.277Z"
+  "place" : 190,
+  "snapshot-date" : "2020-12-29T02:09:03.607Z"
 }

@@ -1,9 +1,9 @@
 {
   "bp-header" : {
     "owner" : "csxcommunity",
-    "total_votes" : "7659735433780302.00000000000000000",
-    "producer_key" : "EOS8HsrWJ9omjmwt26fieagCM95f2dsT2CyWuFQSFbp4jR7KyrZPF",
-    "is_active" : 1,
+    "total_votes" : "7295140495340289.00000000000000000",
+    "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
+    "is_active" : 0,
     "url" : "https://eos.csx.io",
     "unpaid_blocks" : 0,
     "last_claim_time" : "2019-10-31T23:00:02.500",
@@ -11,40 +11,31 @@
     "prepared-url" : "https://eos.csx.io"
   },
   "bp-json-summary" : {
-    "url" : "https://eos.csx.io/bp.json",
-    "logo" : "https://www.eosc.sx/images/eos_csx_logo256.png",
-    "code_of_conduct" : "https://www.csx.io/constitution"
+    "dl-error" : "Connection refused (Connection refused)",
+    "url" : "https://eos.csx.io/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 10,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://keybase.io/csx_corp", "https://medium.com/@csxbpnews", "https://steemit.com/@csx-eos", "https://t.me/joinchat/Had_iBJnNccT1hjdlV3edw", "https://twitter.com/CSXcorp", "https://www.facebook.com/CSXCorp/", "https://www.linkedin.com/company/csx-corp/", "https://www.youtube.com/channel/UCNjucUvoiMqbVMc28-3BIMg?view_as=subscriber" ],
-    "social-links-count" : 8,
-    "popularity-boosters" : [ "855-9-CSX.COM", "https://www.yellowpages.com/cheyenne-wy/mip/csx-corp-503916229", "https://wyobiz.wy.gov/Business/FilingDetails.aspx?eFNum=049075178157217104243064092010142191132183135056" ],
-    "popularity-boosters-count" : 3
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.755752449097603E-5,
+  "webpage-error" : "Connection refused (Connection refused)",
+  "vote-percentage" : 3.834280490278144E-5,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eos.csx.io"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Connection refused (Connection refused)",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://eos.csx.io/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eos.csx.io/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "Connection refused (Connection refused)"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://www.csx.io/constitution"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 103,
-  "snapshot-date" : "2020-12-28T02:12:33.277Z"
+  "place" : 66,
+  "snapshot-date" : "2020-12-29T02:09:03.607Z"
 }
