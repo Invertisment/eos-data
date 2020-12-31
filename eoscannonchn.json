@@ -1,41 +1,50 @@
 {
   "bp-header" : {
     "owner" : "eoscannonchn",
-    "total_votes" : "7466186156134317056.00000000000000000",
+    "total_votes" : "7962800737921102848.00000000000000000",
     "producer_key" : "EOS73cTi9V7PNg4ujW5QzoTfRSdhH44MPiUJkUV6m3oGwj7RX7kML",
     "is_active" : 1,
     "url" : "https://eoscannon.io",
     "unpaid_blocks" : 7920,
-    "last_claim_time" : "2020-12-29T02:59:43.500",
+    "last_claim_time" : "2020-12-30T02:59:54.000",
     "location" : 156,
     "prepared-url" : "https://eoscannon.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "NotAfter: Fri Dec 18 12:00:00 UTC 2020",
-    "url" : "https://eoscannon.io/bp.json"
+    "url" : "https://eoscannon.io/bp.json",
+    "logo" : "https://raw.githubusercontent.com/eoscannon/website/master/eoscannon-logo-256x256.png",
+    "code_of_conduct" : "https://steemit.com/eos/@eoscannon/answers-for-two-more-criteria-of-block-producer-candidate"
   },
-  "webpage-error" : "NotAfter: Fri Dec 18 12:00:00 UTC 2020",
-  "vote-percentage" : 0.026906452356933775,
+  "analyzed-urls" : {
+    "relative-links-count" : 9,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://github.com/eoscannon", "https://steemit.com/@eoscannon", "https://t.me/eos_cannon", "https://twitter.com/cannon_eos" ],
+    "social-links-count" : 4,
+    "popularity-boosters" : [ "https://bihu.com/people/339953", "https://cybex.io/", "https://eoseoul.io/", "https://meet.one/", "https://www.eosnation.io/" ],
+    "popularity-boosters-count" : 5
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.028733461730171092,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "NotAfter: Fri Dec 18 12:00:00 UTC 2020",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eoscannon.io"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://eoscannon.io/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "NotAfter: Fri Dec 18 12:00:00 UTC 2020"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eoscannon.io/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/eos/@eoscannon/answers-for-two-more-criteria-of-block-producer-candidate"
     } ],
-    "score" : 0,
+    "score" : 3,
     "max" : 3
   },
-  "place" : 8,
-  "snapshot-date" : "2020-12-30T02:12:29.189Z"
+  "place" : 2,
+  "snapshot-date" : "2020-12-31T02:12:37.418Z"
 }

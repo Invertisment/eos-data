@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosplaneprod",
-    "total_votes" : "10142688138903.92187500000000000",
+    "total_votes" : "9284139761242.63281250000000000",
     "producer_key" : "EOS5suRsaaeWRYa5AzUekguzDtk8wZYR8TvnJCgKkxCabVY7waYb1",
     "is_active" : 1,
     "url" : "https://eosplane.top",
@@ -11,23 +11,23 @@
     "prepared-url" : "https://eosplane.top"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "eosplane.top",
     "url" : "https://eosplane.top/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 3.655196233708081E-8,
+  "webpage-error" : "eosplane.top: No address associated with hostname",
+  "vote-percentage" : 3.3501463028807507E-8,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "eosplane.top: No address associated with hostname",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eosplane.top/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "eosplane.top"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 361,
-  "snapshot-date" : "2020-12-30T02:12:29.189Z"
+  "place" : 362,
+  "snapshot-date" : "2020-12-31T02:12:37.418Z"
 }
