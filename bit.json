@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "bit",
-    "total_votes" : "6291456.00000000000000000",
+    "total_votes" : "958521554143.26062011718750000",
     "producer_key" : "EOS8888BrR5x2vX64epe3qBKMH3cJVKRLLM3uznuUTYFzUdKif4MC",
     "is_active" : 1,
     "url" : "https://eos.bihu.com",
@@ -18,10 +18,11 @@
     "relative-links-count" : 17,
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ ]
+    "popularity-boosters" : [ "https://Block.One", "https://Block.one", "https://zh.epwtpzh.xyz/wiki/lang_zh/blockone" ],
+    "popularity-boosters-count" : 3
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.2702478204955235E-14,
+  "vote-percentage" : 6.0456100318185815E-9,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -42,6 +43,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 599,
-  "snapshot-date" : "2020-12-31T02:12:37.418Z"
+  "place" : 186,
+  "snapshot-date" : "2021-01-01T02:08:24.645Z"
 }

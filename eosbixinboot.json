@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosbixinboot",
-    "total_votes" : "1417953203298088448.00000000000000000",
+    "total_votes" : "1417912020570542080.00000000000000000",
     "producer_key" : "EOS7QC1XfAtkYeLjbHQjcDWVqUsxuSJ3YRhNyG93VAv2u3uHopGVp",
     "is_active" : 1,
     "url" : "https://www.eosbixin.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2020-12-30T21:00:03.500",
+    "last_claim_time" : "2020-12-31T21:05:04.500",
     "location" : 7,
     "prepared-url" : "https://www.eosbixin.com"
   },
@@ -15,7 +15,7 @@
     "url" : "https://www.eosbixin.com/bp.json"
   },
   "webpage-error" : "NotAfter: Wed Aug 26 12:00:00 UTC 2020",
-  "vote-percentage" : 0.005116629869702865,
+  "vote-percentage" : 0.008943088550011084,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 59,
-  "snapshot-date" : "2020-12-31T02:12:37.418Z"
+  "place" : 33,
+  "snapshot-date" : "2021-01-01T02:08:24.645Z"
 }

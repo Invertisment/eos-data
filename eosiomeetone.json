@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosiomeetone",
-    "total_votes" : "5669314371067952128.00000000000000000",
+    "total_votes" : "5662399504422842368.00000000000000000",
     "producer_key" : "EOS5gS4ZtanRS2Jx4vpjAQaVNci3v65iZiGCgMr9DNwu67x2pt8Qd",
     "is_active" : 1,
     "url" : "https://meet.one",
-    "unpaid_blocks" : 1584,
-    "last_claim_time" : "2020-12-30T21:29:00.000",
+    "unpaid_blocks" : 276,
+    "last_claim_time" : "2020-12-31T21:29:03.000",
     "location" : 702,
     "prepared-url" : "https://meet.one"
   },
@@ -24,7 +24,7 @@
     "popularity-boosters-count" : 42
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.020457503946019757,
+  "vote-percentage" : 0.03571402134895225,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +45,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 20,
-  "snapshot-date" : "2020-12-31T02:12:37.418Z"
+  "place" : 12,
+  "snapshot-date" : "2021-01-01T02:08:24.645Z"
 }
