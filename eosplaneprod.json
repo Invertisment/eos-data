@@ -11,23 +11,23 @@
     "prepared-url" : "https://eosplane.top"
   },
   "bp-json-summary" : {
-    "dl-error" : "eosplane.top",
+    "dl-error" : "connect timed out",
     "url" : "https://eosplane.top/bp.json"
   },
-  "webpage-error" : "eosplane.top: No address associated with hostname",
-  "vote-percentage" : 3.3501463028807507E-8,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 3.349251101430155E-8,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "eosplane.top: No address associated with hostname",
+      "error" : "connect timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eosplane.top/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "eosplane.top"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 362,
-  "snapshot-date" : "2020-12-31T02:12:37.418Z"
+  "snapshot-date" : "2021-01-02T02:12:39.894Z"
 }

@@ -11,38 +11,31 @@
     "prepared-url" : "https://eos.bihu.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "dl-error" : "connect timed out",
     "url" : "https://eos.bihu.com/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 17,
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "https://Block.One", "https://Block.one", "https://zh.epwtpzh.xyz/wiki/lang_zh/blockone" ],
-    "popularity-boosters-count" : 3
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 6.0456100318185815E-9,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 3.457864113981384E-9,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eos.bihu.com"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eos.bihu.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 186,
-  "snapshot-date" : "2021-01-01T02:08:24.645Z"
+  "place" : 442,
+  "snapshot-date" : "2021-01-02T02:12:39.894Z"
 }
