@@ -11,23 +11,23 @@
     "prepared-url" : "http://krypto-knight.us/"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 503",
+    "dl-error" : "krypto-knight.us",
     "url" : "http://krypto-knight.us/bp.json"
   },
-  "webpage-error" : "clj-http: status 503",
-  "vote-percentage" : 5.9391374489495E-9,
+  "webpage-error" : "krypto-knight.us: No address associated with hostname",
+  "vote-percentage" : 5.919210913715847E-9,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "clj-http: status 503",
+      "error" : "krypto-knight.us: No address associated with hostname",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://krypto-knight.us/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 503"
+      "error" : "krypto-knight.us"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 420,
-  "snapshot-date" : "2021-01-02T02:12:39.894Z"
+  "snapshot-date" : "2021-01-03T02:12:54.199Z"
 }

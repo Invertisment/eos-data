@@ -14,22 +14,14 @@
     "dl-error" : "clj-http: status 403",
     "url" : "https://tata.com/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 51,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://facebook.com/TataGroup", "https://twitter.com/TataCompanies", "https://www.facebook.com/tatagroup", "https://www.instagram.com/tatacompanies/", "https://www.linkedin.com/company/tata-companies/", "https://www.tataconsumer.com/brands/tea/tata-tea", "https://www.youtube.com/user/TataCompanies" ],
-    "social-links-count" : 7,
-    "popularity-boosters" : [ "http://tatachemicals.com/Asia/Products/Consumer-products/Pulses/tata-sampann-dals", "https://airvistara.com", "https://altroz.tatamotors.com/", "https://careers.titan.co.in/Recruiting/candidates/candidates_home.aspx?rms=titan", "https://croma.com", "https://ibegin.tcs.com/iBegin/jobs/search", "https://nexon.tatamotors.com/", "https://nexonev.tatamotors.com/", "https://tatacliq.com", "https://www.airasia.com/flights/india", "https://www.airvistara.com/in/en/careers", "https://www.ihcltata.com/careers/apply-now/", "https://www.jaguar.in/jaguar-range/f-type/index.html", "https://www.landrover.in/vehicles/new-range-rover/svautobiography-dynamic/index.html", "https://www.naukri.com/search?xz=7_0_5&qp=TATASTEELNAUK&tem=tatasteel", "https://www.tajhotels.com", "https://www.tanishq.co.in", "https://www.tataaia.com/", "https://www.tataconsumer.com/careers/join-us", "https://www.tatasalt.com", "https://www.tetley.in/", "https://www.voltasbeko.com/" ],
-    "popularity-boosters-count" : 22
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 7.258761961611489E-11,
+  "webpage-error" : "clj-http: status 403",
+  "vote-percentage" : 7.23440792413988E-11,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://tata.com"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "clj-http: status 403",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
@@ -41,9 +33,9 @@
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
   "place" : 553,
-  "snapshot-date" : "2021-01-02T02:12:39.894Z"
+  "snapshot-date" : "2021-01-03T02:12:54.199Z"
 }
