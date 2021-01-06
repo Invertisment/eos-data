@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eoscandyone1",
-    "total_votes" : "1886344362181971.50000000000000000",
+    "total_votes" : "1892717034708817.25000000000000000",
     "producer_key" : "EOS8SZrDZ6s1H9wrJrzeUqqm4QFXFgUZ9515osJsAbsgth4RknaeP",
     "is_active" : 1,
     "url" : "https://candy.one/",
@@ -14,14 +14,21 @@
     "dl-error" : "Read timed out",
     "url" : "https://candy.one/bp.json"
   },
-  "webpage-error" : "Read timed out",
-  "vote-percentage" : 7.37831797899124E-6,
+  "analyzed-urls" : {
+    "relative-links-count" : 78,
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ "https://itunes.apple.com/cn/app/id1436459129", "https://shorty.tinfinite.com/BJTQ" ],
+    "popularity-boosters-count" : 2
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 6.624871433630907E-6,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "Read timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://candy.one/"
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
@@ -33,9 +40,9 @@
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 0,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 120,
-  "snapshot-date" : "2021-01-05T02:12:17.595Z"
+  "place" : 128,
+  "snapshot-date" : "2021-01-06T02:12:41.328Z"
 }
