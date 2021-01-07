@@ -11,16 +11,17 @@
     "prepared-url" : "https://regreen.xyz"
   },
   "bp-json-summary" : {
-    "read-error" : "read:'https://regreen.xyz/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "dl-error" : "clj-http: status 410",
     "url" : "https://regreen.xyz/bp.json"
   },
   "analyzed-urls" : {
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ ]
+    "popularity-boosters" : [ "?new_locale=de-de", "?new_locale=es-es", "?new_locale=fr-fr", "?new_locale=hi-in", "?new_locale=nl-nl", "?new_locale=zh-cn", "https://dan.com/" ],
+    "popularity-boosters-count" : 7
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.0483922462062284E-9,
+  "vote-percentage" : 1.0511527548735125E-9,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -31,8 +32,8 @@
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://regreen.xyz/bp.json",
-      "paragraphs" : [ "bp-json-invalid" ],
-      "error" : "read:'https://regreen.xyz/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 410"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -42,5 +43,5 @@
     "max" : 3
   },
   "place" : 470,
-  "snapshot-date" : "2021-01-06T02:12:41.328Z"
+  "snapshot-date" : "2021-01-07T02:12:44.305Z"
 }

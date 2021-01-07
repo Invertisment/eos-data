@@ -15,22 +15,14 @@
     "logo" : "https://eosnation.keybase.pub/logo_256.png",
     "code_of_conduct" : "https://steemit.com/eos/@eosnation/eos-nation-roadmap-on-values-community-project-timeline-finances-and-transparency"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 6,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/EOS-Nation", "https://medium.com/@eosnationbp/ambassador-spotlight-samuel-joseph-nigeria-7913904c950b", "https://medium.com/@eosnationbp/community-snapshot-building-a-time-machine-864d79fc1b9b", "https://medium.com/@eosnationbp/eos-lost-key-recovery-status-update-f90e14fc6e47", "https://medium.com/@eosnationbp/eos-nation-meetups-high-school-in-odessa-ukraine-b5b4f2bc0fff", "https://medium.com/@eosnationbp/introducing-eos-detective-db9e709d68d3", "https://medium.com/@eosnationbp/introducing-eos-nation-ambassador-mpalanyi-vicent-victor-kampala-uganda-de34e5b2a3e6", "https://medium.com/@eosnationbp/the-fate-of-eos-is-in-the-hands-of-token-holders-3d345147ef6", "https://medium.com/@eosriobrazil/the-eos-community-conference-arrives-in-rio-4c8430b02cfb", "https://steemit.com/eos/@eosnation/eos-nation-roadmap-on-values-community-project-timeline-finances-and-transparency", "https://t.me/EOSNation", "https://t.me/chillsauce", "https://twitter.com/EOS_Nation/", "https://twitter.com/daniel_keyes", "https://www.facebook.com/EOSNATIONBP/", "https://www.instagram.com/eos_nation/", "https://www.linkedin.com/company/eos-nation/", "https://www.linkedin.com/in/daniel-keyes/", "https://www.youtube.com/channel/UCXgAY9DyooykrubRXw3xK1g" ],
-    "social-links-count" : 19,
-    "popularity-boosters" : [ "http://koreos.io/EOSNation", "https://api.eosn.io", "https://api.eosn.io/", "https://bihu.com/people/1060575", "https://bos.eosn.io/", "https://bostest.eosn.io/", "https://eosauthority.com/polls", "https://eosdetective.io/", "https://eosflare.io/token/eosnationinc/EOSN", "https://eosnameservice.io", "https://eoswps.io", "https://jungle.eosn.io/", "https://kylin.eosn.io/", "https://meetone.eosn.io/", "https://space.bilibili.com/389994808", "https://wax.eosn.io/", "https://waxtest.eosn.io/", "https://www.constantcontact.com/legal/service-provider", "https://www.eosx.io", "https://xnation.io", "https://xnation.io/" ],
-    "popularity-boosters-count" : 21
-  },
-  "p-ram-amounts" : [ ],
+  "webpage-error" : "Read timed out",
   "vote-percentage" : 0.0,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eosnation.io"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -42,9 +34,9 @@
       "title" : "coc",
       "url" : "https://steemit.com/eos/@eosnation/eos-nation-roadmap-on-values-community-project-timeline-finances-and-transparency"
     } ],
-    "score" : 3,
+    "score" : 2,
     "max" : 3
   },
   "place" : 624,
-  "snapshot-date" : "2021-01-06T02:12:41.328Z"
+  "snapshot-date" : "2021-01-07T02:12:44.305Z"
 }
