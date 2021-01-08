@@ -16,12 +16,15 @@
     "code_of_conduct" : "https://steemit.com/starteos/@starteos/starteos-roadmap-and-position-on-dividends"
   },
   "analyzed-urls" : {
+    "relative-links-count" : 4,
     "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
+    "social-links" : [ "https://github.com/StarteosIO", "https://medium.com/@starteos", "https://twitter.com/Starteos", "https://www.reddit.com/user/Starteos" ],
+    "social-links-count" : 4,
+    "popularity-boosters" : [ " https://www.eosnewyork.io", "href", "http://starteos.mikecrm.com/FBs19Hk", "http://starteos.mikecrm.com/Tchs1Bx", "http://www.eoscafeblock.com", "http://www.lianjinshu.com", "https://atticlab.net", "https://eos42.io", "https://eosdac.io", "https://eosnation.io", "https://eossweden.org", "https://fibos.io", "https://imeos.one/", "https://iost.io", "https://more.top/", "https://morecoin.com", "https://newdex.vip", "https://pizza.live/", "https://slowmist.io", "https://slowmist.io/", "https://www.blocksite.org/zh", "https://www.boscore.io", "https://www.eosasia.one", "https://www.huobi.com/", "https://www.imeos.one", "https://www.myeoskit.com/tools/vote/?voteTo=starteosiobp", "https://zhibi.com", "https://zhibi.com/" ],
+    "popularity-boosters-count" : 28
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : -2.3561695662274E-24,
+  "vote-percentage" : -2.3548161859541913E-24,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -43,5 +46,5 @@
     "max" : 3
   },
   "place" : 634,
-  "snapshot-date" : "2021-01-07T02:12:44.305Z"
+  "snapshot-date" : "2021-01-08T02:12:33.371Z"
 }

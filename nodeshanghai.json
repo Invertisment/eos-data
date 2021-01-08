@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "nodeshanghai",
-    "total_votes" : "189116572575625.62500000000000000",
+    "total_votes" : "186011094186760.84375000000000000",
     "producer_key" : "EOS8VV8BCF5nQfTC8G5G6YpU1YWYWk5Y9SCvMfRuVUfc17KKXQp3S",
     "is_active" : 1,
     "url" : "https://fish.one",
@@ -15,7 +15,7 @@
     "url" : "https://fish.one/bp.json"
   },
   "webpage-error" : "Certificate for <fish.one> doesn't match any of the subject alternative names: [web.buyu.im]",
-  "vote-percentage" : 6.636871125504735E-7,
+  "vote-percentage" : 6.524137626278209E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 223,
-  "snapshot-date" : "2021-01-07T02:12:44.305Z"
+  "place" : 225,
+  "snapshot-date" : "2021-01-08T02:12:33.371Z"
 }

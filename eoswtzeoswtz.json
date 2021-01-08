@@ -11,11 +11,11 @@
     "prepared-url" : "http://www.eoswtz.com/"
   },
   "bp-json-summary" : {
-    "dl-error" : "Read timed out",
+    "dl-error" : "clj-http: status 500",
     "url" : "http://www.eoswtz.com/bp.json"
   },
   "webpage-error" : "clj-http: status 500",
-  "vote-percentage" : 1.2922801500142281E-6,
+  "vote-percentage" : 1.2915378662297515E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -27,7 +27,7 @@
       "mood" : "warn",
       "url" : "http://www.eoswtz.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Read timed out"
+      "error" : "clj-http: status 500"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 194,
-  "snapshot-date" : "2021-01-07T02:12:44.305Z"
+  "snapshot-date" : "2021-01-08T02:12:33.371Z"
 }

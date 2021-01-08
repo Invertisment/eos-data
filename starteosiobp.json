@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "starteosiobp",
-    "total_votes" : "6580366073701188608.00000000000000000",
+    "total_votes" : "6578303152415077376.00000000000000000",
     "producer_key" : "EOS4wZZXm994byKANLuwHD6tV3R3Mu3ktc41aSVXCBaGnXJZJ4pwF",
     "is_active" : 1,
     "url" : "https://www.starteos.io",
     "unpaid_blocks" : 4332,
-    "last_claim_time" : "2021-01-06T13:28:30.000",
+    "last_claim_time" : "2021-01-07T13:28:31.500",
     "location" : 156,
     "prepared-url" : "https://www.starteos.io"
   },
@@ -16,12 +16,15 @@
     "code_of_conduct" : "https://steemit.com/starteos/@starteos/starteos-roadmap-and-position-on-dividends"
   },
   "analyzed-urls" : {
+    "relative-links-count" : 4,
     "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
+    "social-links" : [ "https://github.com/StarteosIO", "https://medium.com/@starteos", "https://t.me/starteos_io", "https://twitter.com/Starteos", "https://www.facebook.com/starteos.io.7", "https://www.reddit.com/user/Starteos" ],
+    "social-links-count" : 6,
+    "popularity-boosters" : [ " https://www.eosnewyork.io", "href", "http://starteos.mikecrm.com/FBs19Hk", "http://starteos.mikecrm.com/Tchs1Bx", "http://v1.starteos.io", "http://www.eoscafeblock.com", "http://www.lianjinshu.com", "https://atticlab.net", "https://eos42.io", "https://eosdac.io", "https://eosnation.io", "https://eossweden.org", "https://fibos.io", "https://imeos.one/", "https://iost.io", "https://more.top/", "https://morecoin.com", "https://newdex.vip", "https://pizza.live/", "https://pro.download.starteos.io/download.html", "https://pro.download.starteos.io/pc/download.html", "https://slowmist.io", "https://slowmist.io/", "https://www.blocksite.org/zh", "https://www.boscore.io", "https://www.eosasia.one", "https://www.huobi.com/", "https://www.imeos.one", "https://www.myeoskit.com/tools/vote/?voteTo=starteosiobp", "https://zhibi.com", "https://zhibi.com/" ],
+    "popularity-boosters-count" : 31
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.023093185856217873,
+  "vote-percentage" : 0.02307268569187869,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -43,5 +46,5 @@
     "max" : 3
   },
   "place" : 10,
-  "snapshot-date" : "2021-01-07T02:12:44.305Z"
+  "snapshot-date" : "2021-01-08T02:12:33.371Z"
 }
