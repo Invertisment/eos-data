@@ -18,13 +18,12 @@
   "analyzed-urls" : {
     "relative-links-count" : 7,
     "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/eoswing", "https://steemit.com/@eoswing", "https://t.me/eoswing", "https://twitter.com/eoswing" ],
-    "social-links-count" : 4,
-    "popularity-boosters" : [ "https://mp.weixin.qq.com/s/6vq3PS7NTb3QvRxzUxK5iA" ],
-    "popularity-boosters-count" : 1
+    "social-links" : [ ],
+    "popularity-boosters" : [ "https://beian.miit.gov.cn", "https://mp.weixin.qq.com/s/6vq3PS7NTb3QvRxzUxK5iA" ],
+    "popularity-boosters-count" : 2
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 4.389438778496645E-9,
+  "vote-percentage" : 4.389944089591277E-9,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -46,5 +45,5 @@
     "max" : 3
   },
   "place" : 436,
-  "snapshot-date" : "2021-01-08T02:12:33.371Z"
+  "snapshot-date" : "2021-01-09T02:12:37.706Z"
 }

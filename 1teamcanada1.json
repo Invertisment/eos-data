@@ -11,23 +11,23 @@
     "prepared-url" : "http://can-play.ca"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "can-play.ca",
     "url" : "http://can-play.ca/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 2.4767812688362486E-7,
+  "webpage-error" : "can-play.ca: No address associated with hostname",
+  "vote-percentage" : 2.477066395276616E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "can-play.ca: No address associated with hostname",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://can-play.ca/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "can-play.ca"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 260,
-  "snapshot-date" : "2021-01-08T02:12:33.371Z"
+  "snapshot-date" : "2021-01-09T02:12:37.706Z"
 }

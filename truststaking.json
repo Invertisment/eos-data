@@ -1,17 +1,17 @@
 {
   "bp-header" : {
     "owner" : "truststaking",
-    "total_votes" : "2363680421702201344.00000000000000000",
+    "total_votes" : "2360674157245339648.00000000000000000",
     "producer_key" : "EOS5jZgX1gZvYat588FKsMyAybVo8tWaAX4bHdBrW9Z4C5iMshUKf",
     "is_active" : 1,
     "url" : "https://www.binance.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2021-01-07T16:52:07.000",
+    "last_claim_time" : "2021-01-08T16:53:06.000",
     "location" : 392,
     "prepared-url" : "https://www.binance.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "Circular redirect to 'https://www.binance.com/bp.json'",
+    "dl-error" : "clj-http: status 403",
     "url" : "https://www.binance.com/bp.json"
   },
   "analyzed-urls" : {
@@ -23,7 +23,7 @@
     "popularity-boosters-count" : 21
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.008290353026062704,
+  "vote-percentage" : 0.0082807620486711,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -35,7 +35,7 @@
       "mood" : "warn",
       "url" : "https://www.binance.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Circular redirect to 'https://www.binance.com/bp.json'"
+      "error" : "clj-http: status 403"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -45,5 +45,5 @@
     "max" : 3
   },
   "place" : 42,
-  "snapshot-date" : "2021-01-08T02:12:33.371Z"
+  "snapshot-date" : "2021-01-09T02:12:37.706Z"
 }
