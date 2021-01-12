@@ -17,10 +17,11 @@
   "analyzed-urls" : {
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ ]
+    "popularity-boosters" : [ "https://water-es.com/" ],
+    "popularity-boosters-count" : 1
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 8.641770260434785E-8,
+  "vote-percentage" : 8.678561846442414E-8,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -42,5 +43,5 @@
     "max" : 3
   },
   "place" : 311,
-  "snapshot-date" : "2021-01-11T02:12:37.183Z"
+  "snapshot-date" : "2021-01-12T02:13:02.474Z"
 }
