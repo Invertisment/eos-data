@@ -6,40 +6,36 @@
     "is_active" : 1,
     "url" : "https://tag.defis.network",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2021-01-11T06:03:17.000",
+    "last_claim_time" : "2021-01-12T06:03:18.500",
     "location" : 702,
     "prepared-url" : "https://tag.defis.network"
   },
   "bp-json-summary" : {
-    "url" : "https://tag.defis.network/bp.json",
-    "logo" : "https://cdn.jsdelivr.net/gh/defis-net/material/art/tag-400X400.png"
+    "dl-error" : "Read timed out",
+    "url" : "https://tag.defis.network/bp.json"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 5.133645763537456E-8,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 5.138546668017369E-8,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://tag.defis.network"
-    }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://tag.defis.network/bp.json"
-    }, {
-      "title" : "no-coc",
       "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://tag.defis.network/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "Read timed out"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 0,
     "max" : 3
   },
   "place" : 344,
-  "snapshot-date" : "2021-01-12T02:13:02.474Z"
+  "snapshot-date" : "2021-01-13T02:13:06.937Z"
 }

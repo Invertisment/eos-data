@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosmedinodes",
-    "total_votes" : "2589064587534194.00000000000000000",
+    "total_votes" : "2569892238551877.50000000000000000",
     "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
     "is_active" : 0,
     "url" : "http://eosmedi.com",
@@ -11,31 +11,38 @@
     "prepared-url" : "http://eosmedi.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "clj-http: status 404",
     "url" : "http://eosmedi.com/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 9.532919770780673E-6,
+  "analyzed-urls" : {
+    "relative-links-count" : 5,
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ "common.asp?id=1", "common.asp?id=2", "index.asp", "news.asp?id=1", "news.asp?id=10", "news.asp?id=11", "news.asp?id=3", "news.asp?id=6", "news.asp?id=7", "news.asp?id=8", "news.asp?id=9", "news_detail.asp?id=100", "news_detail.asp?id=102", "news_detail.asp?id=106", "news_detail.asp?id=107", "news_detail.asp?id=108", "news_detail.asp?id=121", "news_detail.asp?id=122", "news_detail.asp?id=124", "news_detail.asp?id=125", "news_detail.asp?id=126", "news_detail.asp?id=128", "news_detail.asp?id=129", "news_detail.asp?id=72", "news_detail.asp?id=73", "news_detail.asp?id=74", "news_detail.asp?id=75", "news_detail.asp?id=77", "news_detail.asp?id=78", "news_detail.asp?id=82", "news_detail.asp?id=90", "news_detail.asp?id=98", "news_detail.asp?id=99", "team.asp", "team_detail.asp?id=43", "team_detail.asp?id=45", "team_detail.asp?id=46", "team_detail.asp?id=48", "team_detail.asp?id=50" ],
+    "popularity-boosters-count" : 39
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 9.471360639565054E-6,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "connect timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://eosmedi.com"
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://eosmedi.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "clj-http: status 404"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 0,
+    "score" : 1,
     "max" : 3
   },
   "place" : 123,
-  "snapshot-date" : "2021-01-12T02:13:02.474Z"
+  "snapshot-date" : "2021-01-13T02:13:06.937Z"
 }

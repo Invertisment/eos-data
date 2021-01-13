@@ -1,45 +1,41 @@
 {
   "bp-header" : {
     "owner" : "pdd.tag",
-    "total_votes" : "222106805483196128.00000000000000000",
+    "total_votes" : "210268980859802848.00000000000000000",
     "producer_key" : "EOS75ZamQsoyEnBn6y7Py4Uepo1F35e9zRTrg7TQJAWEjurKQJWXv",
     "is_active" : 1,
     "url" : "https://pddex.one",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2021-01-11T04:18:04.500",
+    "last_claim_time" : "2021-01-12T04:18:27.500",
     "location" : 702,
     "prepared-url" : "https://pddex.one"
   },
   "bp-json-summary" : {
-    "url" : "https://pddex.one/bp.json",
-    "logo" : "https://cdn.jsdelivr.net/gh/defis-net/material/art/pdd.png"
+    "dl-error" : "Read timed out",
+    "url" : "https://pddex.one/bp.json"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 8.177958817289388E-4,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 7.749481939986768E-4,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://pddex.one"
-    }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://pddex.one/bp.json"
-    }, {
-      "title" : "no-coc",
       "mood" : "bad",
-      "paragraphs" : [ "value-empty" ]
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
+    }, {
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://pddex.one/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "Read timed out"
+    }, {
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 0,
     "max" : 3
   },
   "place" : 80,
-  "snapshot-date" : "2021-01-12T02:13:02.474Z"
+  "snapshot-date" : "2021-01-13T02:13:06.937Z"
 }

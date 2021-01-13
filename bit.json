@@ -18,10 +18,11 @@
     "relative-links-count" : 17,
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ ]
+    "popularity-boosters" : [ "https://Block.one" ],
+    "popularity-boosters-count" : 1
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 4.756527902552669E-9,
+  "vote-percentage" : 4.761068786357317E-9,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -43,5 +44,5 @@
     "max" : 3
   },
   "place" : 432,
-  "snapshot-date" : "2021-01-12T02:13:02.474Z"
+  "snapshot-date" : "2021-01-13T02:13:06.937Z"
 }
