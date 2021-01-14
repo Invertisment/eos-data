@@ -1,41 +1,45 @@
 {
   "bp-header" : {
     "owner" : "dbc.tag",
-    "total_votes" : "210268980859802848.00000000000000000",
+    "total_votes" : "203358363136427136.00000000000000000",
     "producer_key" : "EOS61D83LL2XkrbTFwyzSTZgHDZAR83cUJUMSq4XijSMD7advP1vU",
     "is_active" : 1,
     "url" : "https://dbc.yfc.one",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2021-01-12T04:18:01.000",
+    "last_claim_time" : "2021-01-13T05:26:15.000",
     "location" : 702,
     "prepared-url" : "https://dbc.yfc.one"
   },
   "bp-json-summary" : {
-    "dl-error" : "Read timed out",
-    "url" : "https://dbc.yfc.one/bp.json"
+    "url" : "https://dbc.yfc.one/bp.json",
+    "logo" : "https://cdn.jsdelivr.net/gh/defis-net/material/art/dbc.png"
   },
-  "webpage-error" : "Read timed out",
-  "vote-percentage" : 7.749481939986768E-4,
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 7.514565328898539E-4,
   "scoring" : {
     "comp" : [ {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://dbc.yfc.one"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://dbc.yfc.one/bp.json"
+    }, {
+      "title" : "no-coc",
       "mood" : "bad",
-      "title" : "no-web",
-      "error" : "Read timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
-    }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://dbc.yfc.one/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Read timed out"
-    }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "paragraphs" : [ "value-empty" ]
     } ],
-    "score" : 0,
+    "score" : 2,
     "max" : 3
   },
   "place" : 81,
-  "snapshot-date" : "2021-01-13T02:13:06.937Z"
+  "snapshot-date" : "2021-01-14T02:12:49.401Z"
 }
