@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "moreisfuture",
-    "total_votes" : "2653519703633815552.00000000000000000",
+    "total_votes" : "2601140069623112192.00000000000000000",
     "producer_key" : "EOS671RDSn2embqDJhFHKWZqqCfVgNAmi2p3vQZfQBX77GypcGoF2",
     "is_active" : 1,
     "url" : "https://more.top",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2021-01-13T18:07:38.000",
+    "last_claim_time" : "2021-01-14T18:09:09.000",
     "location" : 156,
     "prepared-url" : "https://more.top"
   },
@@ -14,14 +14,20 @@
     "url" : "https://more.top/bp.json",
     "logo" : "https://walletstatic.more.top/bp/icons/256.png"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 0.009805373556777996,
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ "http://www.beian.miit.gov.cn", "http://www.cocosbcx.io", "http://www.edapp.io/", "http://www.hoo.com", "https://horuspay.io", "https://minerhub.com/", "https://mixin.one/", "https://www.biask.com", "https://www.slowmist.com/", "https://www.starteos.io" ],
+    "popularity-boosters-count" : 10
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.009883779328763527,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "connect timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://more.top"
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -32,9 +38,9 @@
       "mood" : "bad",
       "paragraphs" : [ "value-empty" ]
     } ],
-    "score" : 1,
+    "score" : 2,
     "max" : 3
   },
-  "place" : 40,
-  "snapshot-date" : "2021-01-14T02:12:49.401Z"
+  "place" : 39,
+  "snapshot-date" : "2021-01-15T02:12:45.389Z"
 }
