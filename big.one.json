@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "big.one",
-    "total_votes" : "5640779730487889920.00000000000000000",
+    "total_votes" : "5673709006139701248.00000000000000000",
     "producer_key" : "EOS8MpYyXwn3DLqk9Y9XTHYcd6wGGijNqJefFoQEwEoXTq1awZ42w",
     "is_active" : 1,
     "url" : "https://eos.big.one",
-    "unpaid_blocks" : 3528,
-    "last_claim_time" : "2021-01-15T15:47:47.000",
+    "unpaid_blocks" : 3336,
+    "last_claim_time" : "2021-01-16T15:47:57.500",
     "location" : 392,
     "prepared-url" : "https://eos.big.one"
   },
@@ -14,14 +14,22 @@
     "url" : "https://eos.big.one/bp.json",
     "logo" : "https://storage.googleapis.com/static-61cdd52e-15d8-4b00-9e92-b7052710674d/logo/bigone/logo_256.png"
   },
-  "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 0.02077013851366853,
+  "analyzed-urls" : {
+    "relative-links-count" : 37,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://0.plus/BigONE_Exchange", "https://t.me/BigONE_Exchange", "https://twitter.com/BigONEexchange", "https://www.facebook.com/BigONEKoreaOfficial" ],
+    "social-links-count" : 4,
+    "popularity-boosters" : [ "https://big.one/otc/one-trade", "https://bigone.zendesk.com/hc/zh-cn/articles/900000094823", "https://bigone.zendesk.com/hc/zh-cn/articles/900001569826", "https://dex.big.one", "https://info.big.one", "https://mixin-super-group.bigonechina.com", "https://one.big.one", "https://open.big.one", "https://slowmist.io/bigone/index.html?utm_source=index&utm_medium=cpc&utm_campaign=bigone", "https://support.bigonechina.com/hc/en-us/articles/900004089686", "https://support.bigonechina.com/hc/en-us/articles/900004105186", "https://support.bigonechina.com/hc/zh-cn", "https://support.bigonechina.com/hc/zh-cn/articles/115001931374", "https://support.bigonechina.com/hc/zh-cn/articles/115001956293", "https://support.bigonechina.com/hc/zh-cn/articles/115001990533", "https://support.bigonechina.com/hc/zh-cn/articles/900004105166", "https://support.bigonechina.com/hc/zh-cn/articles/900005058943", "https://support.bigonechina.com/hc/zh-cn/requests/new", "https://testnet.bigonechina.com/contract?testnetFrom=big.one&ver=2", "https://www.coingecko.com/zh/exchanges/bigone", "https://www.mytokencap.com" ],
+    "popularity-boosters-count" : 21
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.020777015458962836,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "clj-http: status 403",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eos.big.one"
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -32,9 +40,9 @@
       "mood" : "bad",
       "paragraphs" : [ "value-empty" ]
     } ],
-    "score" : 1,
+    "score" : 2,
     "max" : 3
   },
-  "place" : 20,
-  "snapshot-date" : "2021-01-16T02:12:43.676Z"
+  "place" : 21,
+  "snapshot-date" : "2021-01-17T02:12:42.139Z"
 }
