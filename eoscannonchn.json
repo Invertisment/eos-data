@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eoscannonchn",
-    "total_votes" : "7496954967630614528.00000000000000000",
+    "total_votes" : "7621053381808384000.00000000000000000",
     "producer_key" : "EOS73cTi9V7PNg4ujW5QzoTfRSdhH44MPiUJkUV6m3oGwj7RX7kML",
     "is_active" : 1,
     "url" : "https://eoscannon.io",
     "unpaid_blocks" : 7920,
-    "last_claim_time" : "2021-01-16T03:00:16.000",
+    "last_claim_time" : "2021-01-17T03:00:17.000",
     "location" : 156,
     "prepared-url" : "https://eoscannon.io"
   },
@@ -16,15 +16,12 @@
     "code_of_conduct" : "https://steemit.com/eos/@eoscannon/answers-for-two-more-criteria-of-block-producer-candidate"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 9,
     "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/eoscannon", "https://steemit.com/@eoscannon", "https://t.me/eos_cannon", "https://twitter.com/cannon_eos" ],
-    "social-links-count" : 4,
-    "popularity-boosters" : [ "https://bihu.com/people/339953", "https://cybex.io/", "https://eoseoul.io/", "https://meet.one/", "https://www.eosnation.io/" ],
-    "popularity-boosters-count" : 5
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.027453707810719926,
+  "vote-percentage" : 0.02796396144305318,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -46,5 +43,5 @@
     "max" : 3
   },
   "place" : 7,
-  "snapshot-date" : "2021-01-17T02:12:42.139Z"
+  "snapshot-date" : "2021-01-18T02:12:48.897Z"
 }
