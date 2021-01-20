@@ -14,13 +14,13 @@
     "dl-error" : "eosq.io",
     "url" : "https://eosq.io/bp.json"
   },
-  "webpage-error" : "eosq.io: Name or service not known",
+  "webpage-error" : "eosq.io",
   "vote-percentage" : 0.0,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "eosq.io: Name or service not known",
+      "error" : "eosq.io",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 623,
-  "snapshot-date" : "2021-01-19T02:12:42.574Z"
+  "snapshot-date" : "2021-01-20T02:12:44.543Z"
 }
