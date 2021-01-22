@@ -11,37 +11,31 @@
     "prepared-url" : "https://regreen.xyz"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 410",
+    "dl-error" : "clj-http: status 403",
     "url" : "https://regreen.xyz/bp.json"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "?new_locale=de-de", "?new_locale=es-es", "?new_locale=fr-fr", "?new_locale=hi-in", "?new_locale=nl-nl", "?new_locale=zh-cn", "https://dan.com/" ],
-    "popularity-boosters-count" : 7
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.1056894650340519E-9,
+  "webpage-error" : "clj-http: status 403",
+  "vote-percentage" : 1.294472151015426E-9,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://regreen.xyz"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "clj-http: status 403",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://regreen.xyz/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 410"
+      "error" : "clj-http: status 403"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 466,
-  "snapshot-date" : "2021-01-21T02:12:54.939Z"
+  "place" : 427,
+  "snapshot-date" : "2021-01-22T02:12:07.795Z"
 }
