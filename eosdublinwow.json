@@ -1,17 +1,17 @@
 {
   "bp-header" : {
     "owner" : "eosdublinwow",
-    "total_votes" : "524690313373864448.00000000000000000",
+    "total_votes" : "540362609575175936.00000000000000000",
     "producer_key" : "EOS5bjub7pm8H9WLMYW5ETSwfFKrEJpVWwiwK5knvGAqLVUjEpLxx",
     "is_active" : 1,
-    "url" : "https://www.eosdublin.com",
+    "url" : "https://eosdublin.com",
     "unpaid_blocks" : 0,
     "last_claim_time" : "2021-01-16T22:03:07.500",
     "location" : 372,
-    "prepared-url" : "https://www.eosdublin.com"
+    "prepared-url" : "https://eosdublin.com"
   },
   "bp-json-summary" : {
-    "url" : "https://www.eosdublin.com/bp.json",
+    "url" : "https://eosdublin.com/bp.json",
     "logo" : "https://raw.githubusercontent.com/eosdublin/eosdublin/master/images/eosdublin-icon-256.png",
     "code_of_conduct" : "https://www.eosdublin.com/values/"
   },
@@ -20,22 +20,22 @@
     "duplicate-urls" : null,
     "social-links" : [ "https://medium.com/@eosdublin", "https://t.me/eosdublin", "https://twitter.com/eosdublin" ],
     "social-links-count" : 3,
-    "popularity-boosters" : [ "http://www.elegantthemes.com", "http://www.wordpress.org", "https://eosdublin.com/", "https://eosdublin.com/feed/" ],
-    "popularity-boosters-count" : 4
+    "popularity-boosters" : [ "http://www.elegantthemes.com", "http://www.wordpress.org" ],
+    "popularity-boosters-count" : 2
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.002267585761937697,
+  "vote-percentage" : 0.0023289958319964357,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
       "mood" : "good",
       "title" : "web",
-      "url" : "https://www.eosdublin.com"
+      "url" : "https://eosdublin.com"
     }, {
       "score" : "positive",
       "mood" : "good",
       "title" : "bp-json",
-      "url" : "https://www.eosdublin.com/bp.json"
+      "url" : "https://eosdublin.com/bp.json"
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -46,5 +46,5 @@
     "max" : 3
   },
   "place" : 66,
-  "snapshot-date" : "2021-01-22T02:12:07.795Z"
+  "snapshot-date" : "2021-01-23T02:12:27.002Z"
 }

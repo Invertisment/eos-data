@@ -11,23 +11,23 @@
     "prepared-url" : "https://regreen.xyz"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 403",
+    "dl-error" : "regreen.xyz",
     "url" : "https://regreen.xyz/bp.json"
   },
-  "webpage-error" : "clj-http: status 403",
-  "vote-percentage" : 1.294472151015426E-9,
+  "webpage-error" : "regreen.xyz: Temporary failure in name resolution",
+  "vote-percentage" : 1.2909679415031922E-9,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "clj-http: status 403",
+      "error" : "regreen.xyz: Temporary failure in name resolution",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://regreen.xyz/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 403"
+      "error" : "regreen.xyz"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 427,
-  "snapshot-date" : "2021-01-22T02:12:07.795Z"
+  "place" : 434,
+  "snapshot-date" : "2021-01-23T02:12:27.002Z"
 }

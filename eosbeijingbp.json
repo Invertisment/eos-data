@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosbeijingbp",
-    "total_votes" : "3401411074733300224.00000000000000000",
+    "total_votes" : "3421884322470695424.00000000000000000",
     "producer_key" : "EOS5dGpcEhwB4VEhhXEcqtZs9EQj5HeetuXDnsAGVHMXHAFdMjbdj",
     "is_active" : 1,
     "url" : "https://www.eosbeijing.one",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2021-01-21T13:37:06.000",
+    "last_claim_time" : "2021-01-22T13:37:15.500",
     "location" : 392,
     "prepared-url" : "https://www.eosbeijing.one"
   },
@@ -15,22 +15,14 @@
     "logo" : "https://www.eosbeijing.one/logo_256.png",
     "code_of_conduct" : "https://steemit.com/eos/@eosbeijing/eos-beijing-block-producer-candidate-introduction"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 1,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://steemit.com/eos/@eosbeijing/79lqkq-eos-beijing-ownership-disclosure", "https://twitter.com/eosbeijing" ],
-    "social-links-count" : 2,
-    "popularity-boosters" : [ "http://ipads.se.sjtu.edu.cn/", "http://three.modern.themerella.com/", "http://three.modern.themerella.com/about/", "http://three.modern.themerella.com/contact/", "https://data.eosbeijing.one", "https://shensi.eosbeijing.one", "https://teex.io", "https://www.atoken.com/", "https://www.bituniverse.org/" ],
-    "popularity-boosters-count" : 9
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.0147000833195611,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 0.014748530307960663,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://www.eosbeijing.one"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -42,9 +34,9 @@
       "title" : "coc",
       "url" : "https://steemit.com/eos/@eosbeijing/eos-beijing-block-producer-candidate-introduction"
     } ],
-    "score" : 3,
+    "score" : 2,
     "max" : 3
   },
-  "place" : 26,
-  "snapshot-date" : "2021-01-22T02:12:07.795Z"
+  "place" : 24,
+  "snapshot-date" : "2021-01-23T02:12:27.002Z"
 }
