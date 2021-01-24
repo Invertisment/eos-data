@@ -11,23 +11,23 @@
     "prepared-url" : "https://regreen.xyz"
   },
   "bp-json-summary" : {
-    "dl-error" : "regreen.xyz",
+    "dl-error" : "connect timed out",
     "url" : "https://regreen.xyz/bp.json"
   },
-  "webpage-error" : "regreen.xyz: Temporary failure in name resolution",
-  "vote-percentage" : 1.2909679415031922E-9,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 1.2382407628365464E-9,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "regreen.xyz: Temporary failure in name resolution",
+      "error" : "connect timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://regreen.xyz/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "regreen.xyz"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 434,
-  "snapshot-date" : "2021-01-23T02:12:27.002Z"
+  "place" : 448,
+  "snapshot-date" : "2021-01-24T02:12:31.496Z"
 }

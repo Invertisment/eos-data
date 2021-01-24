@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosdacserver",
-    "total_votes" : "2706257124278222848.00000000000000000",
+    "total_votes" : "2714734647705149952.00000000000000000",
     "producer_key" : "EOS6VkageCqyz1X97n7E1JyjPoZu8HEX6CVujY5ABzk3fPyV3vzZK",
     "is_active" : 1,
     "url" : "https://eosdac.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2021-01-22T12:04:14.500",
+    "last_claim_time" : "2021-01-23T12:04:16.000",
     "location" : 826,
     "prepared-url" : "https://eosdac.io"
   },
@@ -15,7 +15,7 @@
     "url" : "https://eosdac.io/bp.json"
   },
   "webpage-error" : "Read timed out",
-  "vote-percentage" : 0.011664133400550874,
+  "vote-percentage" : 0.011222779909312428,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 36,
-  "snapshot-date" : "2021-01-23T02:12:27.002Z"
+  "place" : 38,
+  "snapshot-date" : "2021-01-24T02:12:31.496Z"
 }
