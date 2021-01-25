@@ -11,23 +11,23 @@
     "prepared-url" : "https://ifnlife.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "Connection refused (Connection refused)",
     "url" : "https://ifnlife.com/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 1.6149470499672193E-10,
+  "webpage-error" : "Connection refused (Connection refused)",
+  "vote-percentage" : 1.4957262782958236E-10,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "Connection refused (Connection refused)",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://ifnlife.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "Connection refused (Connection refused)"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 513,
-  "snapshot-date" : "2021-01-24T02:12:31.496Z"
+  "place" : 533,
+  "snapshot-date" : "2021-01-25T02:12:52.956Z"
 }
