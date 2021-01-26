@@ -1,18 +1,19 @@
 {
   "bp-header" : {
     "owner" : "eosdacserver",
-    "total_votes" : "2714942651209303040.00000000000000000",
+    "total_votes" : "2715210416609512960.00000000000000000",
     "producer_key" : "EOS6VkageCqyz1X97n7E1JyjPoZu8HEX6CVujY5ABzk3fPyV3vzZK",
     "is_active" : 1,
     "url" : "https://eosdac.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2021-01-24T12:04:18.000",
+    "last_claim_time" : "2021-01-25T12:04:20.000",
     "location" : 826,
     "prepared-url" : "https://eosdac.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "Read timed out",
-    "url" : "https://eosdac.io/bp.json"
+    "url" : "https://eosdac.io/bp.json",
+    "logo" : "https://eosdac.io/assets/bpjson/eosdaclogo_256.png",
+    "code_of_conduct" : "https://eosdac.io#core-principles"
   },
   "analyzed-urls" : {
     "relative-links-count" : 22,
@@ -23,7 +24,7 @@
     "popularity-boosters-count" : 3
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.010395073317547862,
+  "vote-percentage" : 0.010410830305822186,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -31,19 +32,19 @@
       "title" : "web",
       "url" : "https://eosdac.io"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://eosdac.io/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Read timed out"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eosdac.io/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://eosdac.io#core-principles"
     } ],
-    "score" : 1,
+    "score" : 3,
     "max" : 3
   },
-  "place" : 41,
-  "snapshot-date" : "2021-01-25T02:12:52.956Z"
+  "place" : 40,
+  "snapshot-date" : "2021-01-26T02:12:57.046Z"
 }
