@@ -1,30 +1,26 @@
 {
   "bp-header" : {
     "owner" : "dexeosbpnode",
-    "total_votes" : "1512835189970606592.00000000000000000",
+    "total_votes" : "1512828476355990272.00000000000000000",
     "producer_key" : "EOS5qraVVdEwHaouJEqpFWJfZuxQViDxP3WZ826wGwt2bxnfuEGRF",
     "is_active" : 1,
     "url" : "https://dexeos.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2021-01-25T14:55:35.000",
+    "last_claim_time" : "2021-01-26T14:55:37.000",
     "location" : 0,
     "prepared-url" : "https://dexeos.io"
   },
   "bp-json-summary" : {
-    "url" : "https://dexeos.io/bp.json",
-    "logo" : "https://dexeos.io/image/logo-256.png",
-    "code_of_conduct" : "https://medium.com/@DEXEOS/dexeos-bp-code-of-conduct-64cc1c9137ec"
+    "read-error" : "read:'https://dexeos.io/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "url" : "https://dexeos.io/bp.json"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 4,
     "duplicate-urls" : null,
-    "social-links" : [ "https://github.com/DEXEOS/dexeos-api-public", "https://t.me/dexeos_io_kr", "https://twitter.com/dexeosio" ],
-    "social-links-count" : 3,
-    "popularity-boosters" : [ "http://eosgravity.com/", "http://eosnova.io/", "http://eostoken.im", "http://jmi.one/home/index.html", "http://www.neoply.com/", "https://bitpie.com/", "https://bloks.io/", "https://clay.one/en", "https://coinmanager.io/", "https://docs.google.com/forms/d/17wPgGLYQStRiFiECfDvADNxRNAFKCbXIk6kb8ByLADw/", "https://eocat.io/", "https://eos.cafe/", "https://eos.live/", "https://eosblack.io/", "https://eoscannon.io/", "https://eoseoul.io/", "https://eoslynx.com/", "https://everipedia.org/", "https://get-scatter.com/", "https://godapp.com/", "https://greymass.com/", "https://meet.one/", "https://sentinelprotocol.io/", "https://unlimitedtower.com", "https://www.bepal.pro/", "https://www.carbon.money/", "https://www.chain.pro/", "https://www.hkeos.com/", "https://www.infinitowallet.io/", "https://www.mytokenpocket.vip/", "https://www.secrypto.io/" ],
-    "popularity-boosters-count" : 31
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.00580060769769996,
+  "vote-percentage" : 0.007843192841792673,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -32,23 +28,19 @@
       "title" : "web",
       "url" : "https://dexeos.io"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://dexeos.io/bp.json"
-    }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://medium.com/@DEXEOS/dexeos-bp-code-of-conduct-64cc1c9137ec"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://dexeos.io/bp.json",
+      "paragraphs" : [ "bp-json-invalid" ],
+      "error" : "read:'https://dexeos.io/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
     }, {
       "mood" : "warn",
-      "title" : "t-coc-social",
-      "paragraphs" : [ "p-coc-social" ]
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 51,
-  "snapshot-date" : "2021-01-26T02:12:57.046Z"
+  "place" : 38,
+  "snapshot-date" : "2021-01-27T02:10:39.100Z"
 }

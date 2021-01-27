@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosbarcelona",
-    "total_votes" : "3183495368816177.50000000000000000",
+    "total_votes" : "3183084127628352.50000000000000000",
     "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
     "is_active" : 0,
     "url" : "https://eos.barcelona",
@@ -24,7 +24,7 @@
     "popularity-boosters-count" : 14
   },
   "p-ram-amounts" : [ "32GiB of RAM", "64GiB of RAM" ],
-  "vote-percentage" : 1.220635787980717E-5,
+  "vote-percentage" : 1.6502559962894178E-5,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +45,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 114,
-  "snapshot-date" : "2021-01-26T02:12:57.046Z"
+  "place" : 86,
+  "snapshot-date" : "2021-01-27T02:10:39.100Z"
 }

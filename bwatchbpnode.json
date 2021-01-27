@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "bwatchbpnode",
-    "total_votes" : "526920018507436032.00000000000000000",
+    "total_votes" : "206165736398967296.00000000000000000",
     "producer_key" : "EOS6PCFXneuTEAUtBxyeCeNs5vgkPkSXPsPatZANXnonsyD56gXsZ",
     "is_active" : 1,
     "url" : "https://eos-bp.b.watch",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2021-01-25T09:29:14.000",
+    "last_claim_time" : "2021-01-26T09:29:17.000",
     "location" : 0,
     "prepared-url" : "https://eos-bp.b.watch"
   },
@@ -15,7 +15,7 @@
     "url" : "https://eos-bp.b.watch/bp.json"
   },
   "webpage-error" : "connect timed out",
-  "vote-percentage" : 0.002020349827720377,
+  "vote-percentage" : 0.0010688572123141293,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 73,
-  "snapshot-date" : "2021-01-26T02:12:57.046Z"
+  "place" : 57,
+  "snapshot-date" : "2021-01-27T02:10:39.100Z"
 }
