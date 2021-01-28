@@ -1,17 +1,17 @@
 {
   "bp-header" : {
     "owner" : "truststaking",
-    "total_votes" : "2998549550316065792.00000000000000000",
+    "total_votes" : "2993234517142990336.00000000000000000",
     "producer_key" : "EOS5jZgX1gZvYat588FKsMyAybVo8tWaAX4bHdBrW9Z4C5iMshUKf",
     "is_active" : 1,
     "url" : "https://www.binance.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2021-01-25T17:10:06.000",
+    "last_claim_time" : "2021-01-27T17:12:06.500",
     "location" : 392,
     "prepared-url" : "https://www.binance.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 403",
+    "dl-error" : "clj-http: status 502",
     "url" : "https://www.binance.com/bp.json"
   },
   "analyzed-urls" : {
@@ -23,7 +23,7 @@
     "popularity-boosters-count" : 20
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.01149722700715077,
+  "vote-percentage" : 0.011548017362673376,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -35,7 +35,7 @@
       "mood" : "warn",
       "url" : "https://www.binance.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 403"
+      "error" : "clj-http: status 502"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -45,5 +45,5 @@
     "max" : 3
   },
   "place" : 34,
-  "snapshot-date" : "2021-01-26T02:12:57.046Z"
+  "snapshot-date" : "2021-01-28T02:12:54.487Z"
 }

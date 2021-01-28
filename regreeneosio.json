@@ -11,23 +11,23 @@
     "prepared-url" : "https://regreen.xyz"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "Certificate for <regreen.xyz> doesn't match any of the subject alternative names: [d3.here.ro]",
     "url" : "https://regreen.xyz/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 1.148454815696113E-9,
+  "webpage-error" : "Certificate for <regreen.xyz> doesn't match any of the subject alternative names: [d3.here.ro]",
+  "vote-percentage" : 1.1555765497673447E-9,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "Certificate for <regreen.xyz> doesn't match any of the subject alternative names: [d3.here.ro]",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://regreen.xyz/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "Certificate for <regreen.xyz> doesn't match any of the subject alternative names: [d3.here.ro]"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 466,
-  "snapshot-date" : "2021-01-26T02:12:57.046Z"
+  "snapshot-date" : "2021-01-28T02:12:54.487Z"
 }
