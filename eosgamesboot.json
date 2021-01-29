@@ -14,13 +14,13 @@
     "dl-error" : "eos.games",
     "url" : "http://eos.games/bp.json"
   },
-  "webpage-error" : "eos.games: Name or service not known",
-  "vote-percentage" : 3.31900256662295E-7,
+  "webpage-error" : "eos.games",
+  "vote-percentage" : 3.320399346732974E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "eos.games: Name or service not known",
+      "error" : "eos.games",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 249,
-  "snapshot-date" : "2021-01-28T02:12:54.487Z"
+  "place" : 250,
+  "snapshot-date" : "2021-01-29T02:12:58.719Z"
 }
