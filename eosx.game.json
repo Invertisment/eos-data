@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosx.game",
-    "total_votes" : "1349430277103290880.00000000000000000",
+    "total_votes" : "1355440435359478528.00000000000000000",
     "producer_key" : "EOS727yFoVQYBsXZ9qxtZJPJu3rm4befuoVwBk7iqgBWjmEGAMUax",
     "is_active" : 1,
     "url" : "https://chaingame.club",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2021-01-29T01:41:05.000",
+    "last_claim_time" : "2021-01-30T01:41:07.000",
     "location" : 156,
     "prepared-url" : "https://chaingame.club"
   },
@@ -15,7 +15,7 @@
     "url" : "https://chaingame.club/bp.json"
   },
   "webpage-error" : "clj-http: status 404",
-  "vote-percentage" : 0.005208346450942167,
+  "vote-percentage" : 0.004958287940163879,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 62,
-  "snapshot-date" : "2021-01-29T02:12:58.719Z"
+  "place" : 65,
+  "snapshot-date" : "2021-01-30T02:12:39.036Z"
 }
