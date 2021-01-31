@@ -11,38 +11,31 @@
     "prepared-url" : "https://cypherblock.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "dl-error" : "Certificate for <cypherblock.io> doesn't match any of the subject alternative names: [espaporno.com, www.espaporno.com]",
     "url" : "https://cypherblock.io/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 2,
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "http://wordpress.org/", "http://www.webempresa.com/", "https://www.tokens.net/pl/kryptowaluta/bitcoin-btc/", "https://www.tokens.net/pl/kryptowaluta/dogecoin-doge/", "https://www.tokens.net/pl/kryptowaluta/tron-trx/" ],
-    "popularity-boosters-count" : 5
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.3207752413482525E-6,
+  "webpage-error" : "Certificate for <cypherblock.io> doesn't match any of the subject alternative names: [espaporno.com, www.espaporno.com]",
+  "vote-percentage" : 1.3169960207337817E-6,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://cypherblock.io"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Certificate for <cypherblock.io> doesn't match any of the subject alternative names: [espaporno.com, www.espaporno.com]",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://cypherblock.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "error" : "Certificate for <cypherblock.io> doesn't match any of the subject alternative names: [espaporno.com, www.espaporno.com]"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
   "place" : 193,
-  "snapshot-date" : "2021-01-30T02:12:39.036Z"
+  "snapshot-date" : "2021-01-31T02:12:47.939Z"
 }
