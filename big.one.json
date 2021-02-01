@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "big.one",
-    "total_votes" : "5854223335054960640.00000000000000000",
+    "total_votes" : "5868622974680881152.00000000000000000",
     "producer_key" : "EOS8MpYyXwn3DLqk9Y9XTHYcd6wGGijNqJefFoQEwEoXTq1awZ42w",
     "is_active" : 1,
     "url" : "https://eos.big.one",
     "unpaid_blocks" : 3516,
-    "last_claim_time" : "2021-01-30T15:50:08.000",
+    "last_claim_time" : "2021-01-31T15:50:20.500",
     "location" : 392,
     "prepared-url" : "https://eos.big.one"
   },
@@ -15,7 +15,7 @@
     "logo" : "https://storage.googleapis.com/static-61cdd52e-15d8-4b00-9e92-b7052710674d/logo/bigone/logo_256.png"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 39,
+    "relative-links-count" : 38,
     "duplicate-urls" : null,
     "social-links" : [ "https://0.plus/BigONE_Exchange", "https://t.me/BigONE_Exchange", "https://twitter.com/BigONEexchange", "https://www.facebook.com/BigONEKoreaOfficial" ],
     "social-links-count" : 4,
@@ -23,7 +23,7 @@
     "popularity-boosters-count" : 26
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.02135384747760732,
+  "vote-percentage" : 0.021368142583176472,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -44,5 +44,5 @@
     "max" : 3
   },
   "place" : 20,
-  "snapshot-date" : "2021-01-31T02:12:47.939Z"
+  "snapshot-date" : "2021-02-01T02:12:48.148Z"
 }
