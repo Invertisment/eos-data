@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eosathenabp1",
-    "total_votes" : "1456362789174124288.00000000000000000",
+    "total_votes" : "1456206031155247360.00000000000000000",
     "producer_key" : "EOS6NVNPZDdmBvqMYdifQ4QueT8fr7wDHyxNMgFEKLx9z1Dt5eFE1",
     "is_active" : 1,
     "url" : "http://athenbp.club",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2021-01-31T05:14:51.000",
+    "last_claim_time" : "2021-02-01T05:16:02.000",
     "location" : 0,
     "prepared-url" : "http://athenbp.club"
   },
@@ -15,7 +15,7 @@
     "url" : "http://athenbp.club/bp.json"
   },
   "webpage-error" : "connect timed out",
-  "vote-percentage" : 0.00530273760406247,
+  "vote-percentage" : 0.005365662335010159,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 63,
-  "snapshot-date" : "2021-02-01T02:12:48.148Z"
+  "snapshot-date" : "2021-02-02T02:12:55.347Z"
 }
