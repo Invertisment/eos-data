@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "oraclegogogo",
-    "total_votes" : "10663948119212934.00000000000000000",
+    "total_votes" : "10828027114823738.00000000000000000",
     "producer_key" : "EOS6yuqAb4eASpqJzfkPgh6sSX5Uy4vaTTJQJSXzuS6QV8Z6KSWJG",
     "is_active" : 1,
     "url" : "https://oraclechain.io",
@@ -11,23 +11,23 @@
     "prepared-url" : "https://oraclechain.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "NotAfter: Sun May 10 07:14:44 UTC 2020",
+    "dl-error" : "Certificate for <oraclechain.io> doesn't match any of the subject alternative names: [oulian.io]",
     "url" : "https://oraclechain.io/bp.json"
   },
-  "webpage-error" : "NotAfter: Sun May 10 07:14:44 UTC 2020",
-  "vote-percentage" : 3.856658845033632E-5,
+  "webpage-error" : "Certificate for <oraclechain.io> doesn't match any of the subject alternative names: [oulian.io]",
+  "vote-percentage" : 3.871182939958666E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "NotAfter: Sun May 10 07:14:44 UTC 2020",
+      "error" : "Certificate for <oraclechain.io> doesn't match any of the subject alternative names: [oulian.io]",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://oraclechain.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "NotAfter: Sun May 10 07:14:44 UTC 2020"
+      "error" : "Certificate for <oraclechain.io> doesn't match any of the subject alternative names: [oulian.io]"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 96,
-  "snapshot-date" : "2021-02-04T02:12:43.464Z"
+  "snapshot-date" : "2021-02-07T02:12:37.261Z"
 }

@@ -11,23 +11,23 @@
     "prepared-url" : "http://moa.com.mm"
   },
   "bp-json-summary" : {
-    "dl-error" : "NotAfter: Sat Oct 10 23:59:59 UTC 2020",
+    "dl-error" : "moa.com.mm",
     "url" : "http://moa.com.mm/bp.json"
   },
-  "webpage-error" : "NotAfter: Sat Oct 10 23:59:59 UTC 2020",
-  "vote-percentage" : 2.804498223608948E-7,
+  "webpage-error" : "moa.com.mm: Temporary failure in name resolution",
+  "vote-percentage" : 2.2495714889699016E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "NotAfter: Sat Oct 10 23:59:59 UTC 2020",
+      "error" : "moa.com.mm: Temporary failure in name resolution",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://moa.com.mm/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "NotAfter: Sat Oct 10 23:59:59 UTC 2020"
+      "error" : "moa.com.mm"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 212,
-  "snapshot-date" : "2021-02-06T02:11:31.022Z"
+  "place" : 263,
+  "snapshot-date" : "2021-02-07T02:12:37.261Z"
 }
