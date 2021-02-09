@@ -11,7 +11,7 @@
     "prepared-url" : "http://bitcoineos.fun"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "dl-error" : "Read timed out",
     "url" : "http://bitcoineos.fun/bp.json"
   },
   "analyzed-urls" : {
@@ -22,7 +22,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.3225903319335E-7,
+  "vote-percentage" : 2.1358839117040345E-7,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -34,7 +34,7 @@
       "mood" : "warn",
       "url" : "http://bitcoineos.fun/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "error" : "Read timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -43,6 +43,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 238,
-  "snapshot-date" : "2021-02-08T02:10:51.355Z"
+  "place" : 134,
+  "snapshot-date" : "2021-02-09T02:08:29.928Z"
 }
