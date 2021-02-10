@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosmetaliobp",
-    "total_votes" : "4543371002209550.00000000000000000",
+    "total_votes" : "4517357369543467.00000000000000000",
     "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
     "is_active" : 0,
     "url" : "https://eosmetal.io",
@@ -11,9 +11,8 @@
     "prepared-url" : "https://eosmetal.io"
   },
   "bp-json-summary" : {
-    "url" : "https://eosmetal.io/bp.json",
-    "logo" : "https://eosmetal.io/img/logo-256.png",
-    "code_of_conduct" : "https://steemit.com/eos/@eosmetal/eosmetal-code-of-conduct"
+    "dl-error" : "clj-http: status 404",
+    "url" : "https://eosmetal.io/bp.json"
   },
   "analyzed-urls" : {
     "duplicate-urls" : null,
@@ -21,7 +20,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.1446441340158136E-5,
+  "vote-percentage" : 1.7371406501820252E-5,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -29,19 +28,19 @@
       "title" : "web",
       "url" : "https://eosmetal.io"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://eosmetal.io/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eosmetal.io/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://steemit.com/eos/@eosmetal/eosmetal-code-of-conduct"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 81,
-  "snapshot-date" : "2021-02-08T02:10:51.355Z"
+  "place" : 100,
+  "snapshot-date" : "2021-02-10T02:12:16.386Z"
 }

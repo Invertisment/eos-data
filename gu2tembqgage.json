@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "gu2tembqgage",
-    "total_votes" : "14905100307360.39453125000000000",
+    "total_votes" : "737746740641.49023437500000000",
     "producer_key" : "EOS8BgJoo6XH7JKv8bmAwYNUoSAviBRVNpoUDJzG3Vz3DBi1zgnVf",
     "is_active" : 1,
     "url" : "https://www.cardano.org",
@@ -17,13 +17,13 @@
   "analyzed-urls" : {
     "relative-links-count" : 22,
     "duplicate-urls" : null,
-    "social-links" : [ "https://forum.cardano.org/t/cardano-community-developer-spotlight-january-2021/44218", "https://t.me/CardanoAnnouncements", "https://twitter.com/Cardano", "https://twitter.com/cardano", "https://www.facebook.com/groups/CardanoCommunity", "https://www.linkedin.com/company/cardano-foundation ", "https://www.meetup.com/en-AU/pro/cardano/", "https://www.reddit.com/r/cardano/", "https://www.youtube.com/channel/UCbQ9vGfezru1YRI1zDCtTGg" ],
-    "social-links-count" : 9,
-    "popularity-boosters" : [ "https://cardanofoundation.org/en/privacy", "https://cardanofoundation.org/en/terms-and-conditions", "https://docs.cardano.org/", "https://forum.cardano.org/", "https://forum.cardano.org/t/an-introduction-to-decentralized-governance-on-cardano/44590", "https://forum.cardano.org/t/how-to-get-started-with-metadata-on-cardano/45111", "https://forum.cardano.org/t/what-will-decentralized-finance-look-like-on-cardano/45531" ],
-    "popularity-boosters-count" : 7
+    "social-links" : [ "https://t.me/CardanoAnnouncements", "https://twitter.com/Cardano", "https://twitter.com/cardano", "https://www.facebook.com/groups/CardanoCommunity", "https://www.linkedin.com/company/cardano-foundation ", "https://www.meetup.com/en-AU/pro/cardano/", "https://www.reddit.com/r/cardano/", "https://www.youtube.com/channel/UCbQ9vGfezru1YRI1zDCtTGg" ],
+    "social-links-count" : 8,
+    "popularity-boosters" : [ "https://cardanofoundation.org/en/privacy", "https://cardanofoundation.org/en/terms-and-conditions", "https://docs.cardano.org/", "https://forum.cardano.org/", "https://forum.cardano.org/t/building-the-world-s-new-reserve-currency-do-cbdcs-really-require-a-permissioned-blockchain/46154", "https://forum.cardano.org/t/cardano-foundation-ceo-says-blockchain-could-prevent-gme-type-showdowns/46924", "https://iohk.io/en/blog/posts/2021/02/02/plutus-tx-compiling-haskell-into-plutus-core/", "https://iohk.io/en/blog/posts/2021/02/04/native-tokens-to-bring-new-utility-to-life-on-cardano/" ],
+    "popularity-boosters-count" : 8
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 7.035774962148561E-8,
+  "vote-percentage" : 2.836990186670014E-9,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -44,6 +44,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 264,
-  "snapshot-date" : "2021-02-08T02:10:51.355Z"
+  "place" : 408,
+  "snapshot-date" : "2021-02-10T02:12:16.386Z"
 }

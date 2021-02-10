@@ -1,14 +1,21 @@
 {
   "bp-header" : {
-    "owner" : "eoslambdacom",
-    "total_votes" : "5466153902947080192.00000000000000000",
-    "producer_key" : "EOS72ypVVZQaGueMmTBsJf7CjUkiyBueTsa62zreGNUYTw7u3vx6U",
+    "prepared-url" : "https://bridgepool.lambda.im",
+    "producer_authority" : [ "block_signing_authority_v0", {
+      "threshold" : 1,
+      "keys" : [ {
+        "key" : "EOS66Guagdf4FSN9diXivjeW5tV8yPqBrQFFusTaN7rLTWD5LsnSN",
+        "weight" : 1
+      } ]
+    } ],
+    "unpaid_blocks" : 540,
     "is_active" : 1,
+    "producer_key" : "EOS66Guagdf4FSN9diXivjeW5tV8yPqBrQFFusTaN7rLTWD5LsnSN",
     "url" : "https://bridgepool.lambda.im",
-    "unpaid_blocks" : 0,
-    "last_claim_time" : "2021-02-08T00:21:26.500",
+    "last_claim_time" : "2021-02-10T00:31:57.500",
+    "total_votes" : "6205927593220404224.00000000000000000",
     "location" : 0,
-    "prepared-url" : "https://bridgepool.lambda.im"
+    "owner" : "eoslambdacom"
   },
   "bp-json-summary" : {
     "read-error" : "read:'https://bridgepool.lambda.im/bp.json': Unexpected character ('\"' (code 34)): was expecting comma to separate Object entries\n at [Source: (StringReader); line: 11, column: 6]",
@@ -23,7 +30,7 @@
     "popularity-boosters-count" : 1
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.025802328046470223,
+  "vote-percentage" : 0.023864769183313407,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -44,6 +51,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 16,
-  "snapshot-date" : "2021-02-08T02:10:51.355Z"
+  "place" : 15,
+  "snapshot-date" : "2021-02-10T02:12:16.386Z"
 }

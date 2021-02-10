@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "binancestake",
-    "total_votes" : "7511268410259266560.00000000000000000",
+    "total_votes" : "7516876550436549632.00000000000000000",
     "producer_key" : "EOS7unwwVJfmKonrT6Gj46LDiNUPpFhpPALpTe2eofmFeoG74bKKn",
     "is_active" : 1,
     "url" : "https://binance-eos.com",
-    "unpaid_blocks" : 11456,
-    "last_claim_time" : "2021-02-07T16:34:05.500",
+    "unpaid_blocks" : 7420,
+    "last_claim_time" : "2021-02-09T04:26:05.500",
     "location" : 136,
     "prepared-url" : "https://binance-eos.com"
   },
@@ -21,7 +21,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.05725884974651008,
+  "vote-percentage" : 0.028905996913596015,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -42,6 +42,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 4,
-  "snapshot-date" : "2021-02-09T02:08:29.928Z"
+  "place" : 8,
+  "snapshot-date" : "2021-02-10T02:12:16.386Z"
 }

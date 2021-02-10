@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "bp.dfs",
-    "total_votes" : "1075327701692990336.00000000000000000",
+    "total_votes" : "1068245484477617152.00000000000000000",
     "producer_key" : "EOS7u2ARuKEDN2ybqSNY5S2cuoLZ6jFBT3BjU5g8SdHsU8kyEESso",
     "is_active" : 1,
     "url" : "https://defis.network",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2021-02-08T10:12:22.500",
+    "last_claim_time" : "2021-02-09T10:12:24.000",
     "location" : 702,
     "prepared-url" : "https://defis.network"
   },
@@ -21,7 +21,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.008197287586661234,
+  "vote-percentage" : 0.004107916429129007,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -42,6 +42,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 33,
-  "snapshot-date" : "2021-02-09T02:08:29.928Z"
+  "place" : 64,
+  "snapshot-date" : "2021-02-10T02:12:16.386Z"
 }
