@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "costaricaeos",
-    "total_votes" : "486120702215317952.00000000000000000",
+    "total_votes" : "486093935988979328.00000000000000000",
     "producer_key" : "EOS7phU8qE6nPCfpkCQ2T3HmRwGg6z4v61RTLvPBBVmPWmPisZoWY",
     "is_active" : 1,
     "url" : "https://eoscostarica.io",
@@ -12,19 +12,17 @@
   },
   "bp-json-summary" : {
     "url" : "https://eoscostarica.io/bp.json",
-    "logo" : "https://eoscostarica.io/img/eos-CostaRica-256x256.png",
+    "logo" : "https://eoscostarica.io/img/logos/eos-CostaRica-256x256.png",
     "code_of_conduct" : "https://eoscostarica.io/block-producer/#code-of-conduct"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 14,
+    "relative-links-count" : 1,
     "duplicate-urls" : null,
-    "social-links" : [ "https://eoscostarica.medium.com/why-integrating-erp-systems-into-blockchain-is-agreat-idea-e384b298a4a8", "https://medium.com/@eoscostarica", "https://t.me/eoscr", "https://twitter.com/EOSCostaRica", "https://www.facebook.com/costaricaeos", "https://www.instagram.com/eoscostarica/", "https://www.linkedin.com/company/eoscostarica/" ],
-    "social-links-count" : 7,
-    "popularity-boosters" : [ "https://block.one/", "https://eos.io/", "https://eos.io/news/winner-of-coding-for-change- virtual-hackathon-lifebank/", "https://latamlink.io/", "https://lifebank.io/", "https://smartgate.tech/", "https://www.lacchain.net/" ],
-    "popularity-boosters-count" : 7
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.0018693673394243832,
+  "vote-percentage" : 0.001746093444330929,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +43,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 66,
-  "snapshot-date" : "2021-02-10T02:12:16.386Z"
+  "place" : 71,
+  "snapshot-date" : "2021-02-11T02:12:55.280Z"
 }

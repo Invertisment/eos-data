@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "exmotraderes",
-    "total_votes" : "20089795836625.46875000000000000",
+    "total_votes" : "18747968679696.85546875000000000",
     "producer_key" : "EOS69iw5fUNPRxXobBUiy3NN2a5bZinq1fT275p6zHUixGGxqjkPJ",
     "is_active" : 1,
     "url" : "http://goeoslottery.cn",
@@ -11,37 +11,31 @@
     "prepared-url" : "http://goeoslottery.cn"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "dl-error" : "clj-http: status 523",
     "url" : "http://goeoslottery.cn/bp.json"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ "https://water-es.com/" ],
-    "popularity-boosters-count" : 1
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 7.725490402187651E-8,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 6.734440152917778E-8,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "http://goeoslottery.cn"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://goeoslottery.cn/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "error" : "clj-http: status 523"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 291,
-  "snapshot-date" : "2021-02-10T02:12:16.386Z"
+  "place" : 315,
+  "snapshot-date" : "2021-02-11T02:12:55.280Z"
 }
