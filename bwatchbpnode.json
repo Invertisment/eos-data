@@ -1,33 +1,33 @@
 {
   "bp-header" : {
     "owner" : "bwatchbpnode",
-    "total_votes" : "108488514609201872.00000000000000000",
+    "total_votes" : "109974164259784096.00000000000000000",
     "producer_key" : "EOS6PCFXneuTEAUtBxyeCeNs5vgkPkSXPsPatZANXnonsyD56gXsZ",
     "is_active" : 1,
     "url" : "https://eos-bp.b.watch",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2021-02-10T10:55:23.000",
+    "last_claim_time" : "2021-02-11T10:55:26.000",
     "location" : 0,
     "prepared-url" : "https://eos-bp.b.watch"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "Connection refused (Connection refused)",
     "url" : "https://eos-bp.b.watch/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 3.8970057044410936E-4,
+  "webpage-error" : "Connection refused (Connection refused)",
+  "vote-percentage" : 3.986677911439851E-4,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "Connection refused (Connection refused)",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eos-bp.b.watch/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "Connection refused (Connection refused)"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 81,
-  "snapshot-date" : "2021-02-11T02:12:55.280Z"
+  "snapshot-date" : "2021-02-12T02:12:39.526Z"
 }
