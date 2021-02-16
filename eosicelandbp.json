@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosicelandbp",
-    "total_votes" : "64446993481382.87500000000000000",
+    "total_votes" : "64410468538454.15625000000000000",
     "producer_key" : "EOS816tGGuqYWDTwdLFGGTx2SsD7xbzkhbVgFZQB9bLjvxs7gwoFD",
     "is_active" : 1,
     "url" : "https://eosiceland.is",
@@ -15,7 +15,7 @@
     "url" : "https://eosiceland.is/bp.json"
   },
   "webpage-error" : "Certificate for <eosiceland.is> doesn't match any of the subject alternative names: [*.squarespace.com, squarespace.com, *.campaign-preferences.com, campaign-preferences.com, *.engage.squarespace-mail.com, engage.squarespace-mail.com, sqsp.net, static1.1.sqspcdn.com, static2.1.sqspcdn.com, static1.2.sqspcdn.com, cdn1.1.sqspcdn.com]",
-  "vote-percentage" : 2.6261220289061506E-7,
+  "vote-percentage" : 2.388301825496628E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 225,
-  "snapshot-date" : "2021-02-15T02:11:46.932Z"
+  "place" : 257,
+  "snapshot-date" : "2021-02-16T02:12:53.807Z"
 }
