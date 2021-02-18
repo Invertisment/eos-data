@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosnovakorbp",
-    "total_votes" : "565682063980373.00000000000000000",
+    "total_votes" : "565893814258193.75000000000000000",
     "producer_key" : "EOS6TiwRHcJ3zrKsVXzYD8tgmVnGfaqRXQsniEhjieCEqUDjyqPXX",
     "is_active" : 1,
     "url" : "https://novawallet.io/",
@@ -11,7 +11,7 @@
     "prepared-url" : "https://novawallet.io/"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 403",
+    "dl-error" : "Read timed out",
     "url" : "https://novawallet.io/bp.json"
   },
   "analyzed-urls" : {
@@ -20,7 +20,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.0516476837379337E-6,
+  "vote-percentage" : 2.05238456695834E-6,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -32,7 +32,7 @@
       "mood" : "warn",
       "url" : "https://novawallet.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 403"
+      "error" : "Read timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -42,5 +42,5 @@
     "max" : 3
   },
   "place" : 166,
-  "snapshot-date" : "2021-02-17T02:12:40.503Z"
+  "snapshot-date" : "2021-02-18T02:12:49.173Z"
 }

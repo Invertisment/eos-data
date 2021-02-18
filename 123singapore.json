@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "123singapore",
-    "total_votes" : "1320792067987014.75000000000000000",
+    "total_votes" : "1324240177785569.75000000000000000",
     "producer_key" : "EOS71UbkZzuz55WNBpsEVQzkXrZAJ2XyLoQiEcS9WKwbYambhFxWb",
     "is_active" : 1,
     "url" : "http://eos.vote",
@@ -14,20 +14,14 @@
     "dl-error" : "clj-http: status 404",
     "url" : "http://eos.vote/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 55,
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 4.790323327414203E-6,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 4.8027563393602144E-6,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "http://eos.vote"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
@@ -39,9 +33,9 @@
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
   "place" : 134,
-  "snapshot-date" : "2021-02-17T02:12:40.503Z"
+  "snapshot-date" : "2021-02-18T02:12:49.173Z"
 }
