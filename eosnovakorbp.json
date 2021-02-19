@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosnovakorbp",
-    "total_votes" : "565893814258193.75000000000000000",
+    "total_votes" : "565081536650455.12500000000000000",
     "producer_key" : "EOS6TiwRHcJ3zrKsVXzYD8tgmVnGfaqRXQsniEhjieCEqUDjyqPXX",
     "is_active" : 1,
     "url" : "https://novawallet.io/",
@@ -14,19 +14,14 @@
     "dl-error" : "Read timed out",
     "url" : "https://novawallet.io/bp.json"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.05238456695834E-6,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 2.2889826781597213E-6,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://novawallet.io/"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
@@ -38,9 +33,9 @@
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 166,
-  "snapshot-date" : "2021-02-18T02:12:49.173Z"
+  "place" : 147,
+  "snapshot-date" : "2021-02-19T03:11:45.106Z"
 }

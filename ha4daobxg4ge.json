@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "ha4daobxg4ge",
-    "total_votes" : "531421419760239.93750000000000000",
+    "total_votes" : "531359199863104.81250000000000000",
     "producer_key" : "EOS5ewbBCj3ZrAy5yJnCqBM6Y6X9nCLzJ4DR8rphbqMhapeT3S5eJ",
     "is_active" : 1,
     "url" : "http://eos.medishares.org",
@@ -11,23 +11,23 @@
     "prepared-url" : "http://eos.medishares.org"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "dl-error" : "connect timed out",
     "url" : "http://eos.medishares.org/bp.json"
   },
-  "webpage-error" : "clj-http: status 404",
-  "vote-percentage" : 1.9273600329007554E-6,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 2.152383196904575E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "clj-http: status 404",
+      "error" : "connect timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://eos.medishares.org/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 172,
-  "snapshot-date" : "2021-02-18T02:12:49.173Z"
+  "place" : 151,
+  "snapshot-date" : "2021-02-19T03:11:45.106Z"
 }

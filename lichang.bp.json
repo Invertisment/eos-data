@@ -11,7 +11,7 @@
     "prepared-url" : "http://lichang.io"
   },
   "bp-json-summary" : {
-    "read-error" : "read:'http://lichang.io/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "dl-error" : "clj-http: status 404",
     "url" : "http://lichang.io/bp.json"
   },
   "analyzed-urls" : {
@@ -20,7 +20,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 6.145101893938005E-12,
+  "vote-percentage" : 6.863358487304235E-12,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -31,8 +31,8 @@
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://lichang.io/bp.json",
-      "paragraphs" : [ "bp-json-invalid" ],
-      "error" : "read:'http://lichang.io/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "clj-http: status 404"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -41,6 +41,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 594,
-  "snapshot-date" : "2021-02-18T02:12:49.173Z"
+  "place" : 513,
+  "snapshot-date" : "2021-02-19T03:11:45.106Z"
 }
