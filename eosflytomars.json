@@ -1,18 +1,19 @@
 {
   "bp-header" : {
     "owner" : "eosflytomars",
-    "total_votes" : "7655609969591451648.00000000000000000",
+    "total_votes" : "7655267626287303680.00000000000000000",
     "producer_key" : "EOS6Agpfp38bTyRjJDmB4Qb1EpQSq7wnEAsALXgXE7KFSzKjokkFD",
     "is_active" : 1,
     "url" : "https://www.bitmars.one",
-    "unpaid_blocks" : 6420,
+    "unpaid_blocks" : 6900,
     "last_claim_time" : "2021-02-28T06:00:04.500",
     "location" : 156,
     "prepared-url" : "https://www.bitmars.one"
   },
   "bp-json-summary" : {
-    "dl-error" : "Read timed out",
-    "url" : "https://www.bitmars.one/bp.json"
+    "url" : "https://www.bitmars.one/bp.json",
+    "logo" : "https://api.bitmars.one/logo-256.png",
+    "code_of_conduct" : "https://medium.com/@bitmars/code-of-conduct-48b06093ff4c"
   },
   "analyzed-urls" : {
     "relative-links-count" : 15,
@@ -21,7 +22,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.03793085295694766,
+  "vote-percentage" : 0.03591996629374145,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -29,19 +30,23 @@
       "title" : "web",
       "url" : "https://www.bitmars.one"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://www.bitmars.one/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Read timed out"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://www.bitmars.one/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://medium.com/@bitmars/code-of-conduct-48b06093ff4c"
     }, {
       "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "title" : "t-coc-social",
+      "paragraphs" : [ "p-coc-social" ]
     } ],
-    "score" : 1,
+    "score" : 3,
     "max" : 3
   },
-  "place" : 3,
-  "snapshot-date" : "2021-03-01T00:46:26.656Z"
+  "place" : 4,
+  "snapshot-date" : "2021-03-01T02:10:56.842Z"
 }

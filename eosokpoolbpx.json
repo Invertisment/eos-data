@@ -16,12 +16,15 @@
     "code_of_conduct" : "https://steemit.com/eos/@okpool/okpool-code-of-conduct"
   },
   "analyzed-urls" : {
+    "relative-links-count" : 62,
     "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
+    "social-links" : [ "https://www.linkedin.com/company/okex/jobs" ],
+    "social-links-count" : 1,
+    "popularity-boosters" : [ "http://okex.com/crypto/ethereum-price" ],
+    "popularity-boosters-count" : 1
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 3.1117685196162935E-11,
+  "vote-percentage" : 2.94693132850402E-11,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -42,6 +45,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 282,
-  "snapshot-date" : "2021-03-01T00:46:26.656Z"
+  "place" : 421,
+  "snapshot-date" : "2021-03-01T02:10:56.842Z"
 }

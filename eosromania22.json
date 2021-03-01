@@ -14,22 +14,14 @@
     "read-error" : "read:'http://eos.romania22.com/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
     "url" : "http://eos.romania22.com/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 28,
-    "duplicate-urls" : null,
-    "social-links" : [ "http://l.facebook.com/l.php?u=http%3A%2F%2Feos.romania22.com%2F&h=AT1tAWbYl9zfTZf1IO6w2gmb37Nc8zdyM001Ue5XB5JvHPOBIijoBtD69_1_qDwl57sLWsAJMCiEnVkQ5-7nPyVbZfPqVotOy-5QvHtav3xpIyYcAsBb-qrSwbriLTw3P3Eg0pbN0MVBLBXe", "http://l.facebook.com/l.php?u=http%3A%2F%2Feos.romania22.com%2F&h=AT2ndkwuGmD4d_SCj2nhmELJT_BmtLl6fh-hX1c2egXfmrH5GI0YobNfzxKYQY9y4t6hyLytC3n8d7jXIy_8tD2BgIuSqU-0N45narWe6G4flTgZg8TAAy-ZXphsoiSlBRxWquz72ulhJaR4qcQ", "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.binance.com%2Fen%2Fregister%3Fref%3DJVKYCGY9&h=AT2kvpui4tePiInFY-NsdNmjPdm6kzeX9Ofh8tH6ROnsVaZf60jRg7uR1lIUjTD3bi8f8fK07v-WXhDjoSmyWzmmA1LnTPB891FUNI-QQ-RPLsF5SnNY8hwLzJmwVfSPnNPKdt_DKBsIjW2hxQIPhYgEaBD_7bgOAqjdX6Zs6VYj2A", "https://www.facebook.com/BazaSportivaHarau/?ref=py_c", "https://www.facebook.com/BrasovWalkingTours/?ref=py_c", "https://www.facebook.com/Cristian-Tocoian-141494345870166/?ref=py_c", "https://www.facebook.com/CyclingaOradea/?ref=py_c", "https://www.facebook.com/EOSro/?hc_ref=ARQ0CXImIl5Zwl0ADcLpigaysQ7-muAEKAlmHBz4exfCuj3f6xwXwngayflgYBFx2Sc&fref=nf", "https://www.facebook.com/EOSro/?hc_ref=ARTYUCBMfGp7cAdVLKj3g4cx7IlKkCUXKQHOPyGYl5i1XuK9Kx-GoVSUlGd5ZnvjX_c&fref=nf", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARSvVCdaKqwjMDWoSJKqVNo3-n28Rw_11uvbls5MX3h-GedNEv_8FMgV3irangcQLog", "https://www.facebook.com/EOSro/?ref=nf&hc_ref=ARTrRRKEu0EPDEcYEjvwMpWJ4Ufs8eipFnnnTiXvBwkXsMzhgAi8hW8OOwsPWkxwiNw", "https://www.facebook.com/EOSro/likes", "https://www.facebook.com/EOSro/likes?ref=page_internal", "https://www.facebook.com/EOSro/posts", "https://www.facebook.com/Expats-mums-in-Romania-1339595999509620/?ref=py_c", "https://www.facebook.com/MRRTSR/?ref=py_c", "https://www.facebook.com/MobilierPersonalizat/?ref=py_c", "https://www.facebook.com/Romanian-underground-metal-world-1899869253473438/?ref=py_c", "https://www.facebook.com/SWPNRO/?ref=py_c", "https://www.facebook.com/TheMoodsProject/?ref=py_c", "https://www.facebook.com/VisitRomania-2242235746025624/?ref=py_c", "https://www.facebook.com/Yonchim-Drive-SRL-123718561513183/?ref=py_c", "https://www.facebook.com/acestudiorehearsals/?ref=py_c", "https://www.facebook.com/ad_campaign/landing.php?placement=pf_rhc&campaign_id=242449722530626&nav_source=unknown&extra_1=auto", "https://www.facebook.com/astabimdesign/?ref=py_c", "https://www.facebook.com/bisericaana/?ref=py_c", "https://www.facebook.com/catehalatu/?ref=py_c", "https://www.facebook.com/certipro.ro/?ref=py_c", "https://www.facebook.com/help/568137493302217", "https://www.facebook.com/help/cookies?ref_type=sitefooter", "https://www.facebook.com/policies?ref=pf", "https://www.facebook.com/privacy/explanation", "https://www.facebook.com/recover/initiate?lwv=110&ars=royal_blue_bar", "https://www.facebook.com/romanialituania/?ref=py_c", "https://www.facebook.com/swishfitness/?ref=py_c", "https://www.facebook.com/takemetoromania/?ref=py_c" ],
-    "social-links-count" : 36,
-    "popularity-boosters" : [ "https://www.facebook.com/" ],
-    "popularity-boosters-count" : 1
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.629311274914155E-6,
+  "webpage-error" : "Read timed out",
+  "vote-percentage" : 1.5430030896133014E-6,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "http://eos.romania22.com"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Read timed out",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
@@ -41,9 +33,9 @@
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 129,
-  "snapshot-date" : "2021-03-01T00:46:26.656Z"
+  "place" : 151,
+  "snapshot-date" : "2021-03-01T02:10:56.842Z"
 }
