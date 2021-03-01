@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosnairobike",
-    "total_votes" : "152290571993628160.00000000000000000",
+    "total_votes" : "154783316815816512.00000000000000000",
     "producer_key" : "EOS8AUQK2XQo9StudQqDFn1riSHKaDwXiUjDPNGtDad6hLd2PnDGc",
     "is_active" : 1,
     "url" : "https://eosnairobi.io",
@@ -11,40 +11,31 @@
     "prepared-url" : "https://eosnairobi.io"
   },
   "bp-json-summary" : {
-    "url" : "https://eosnairobi.io/bp.json",
-    "logo" : "https://firebasestorage.googleapis.com/v0/b/eosnairobi-abe1d.appspot.com/o/eosnairobi256.png?alt=media&token=40d26e11-8125-43cb-ad8b-6ab73cec83bd",
-    "code_of_conduct" : "https://steemit.com/eos/@eosnairobi/eosnairobi-block-producer-code-of-conduct-v1-0"
+    "dl-error" : "Connection refused (Connection refused)",
+    "url" : "https://eosnairobi.io/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 7,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://medium.com/@eosnairobi/eos-nairobi-ownership-structure-and-disclosure-edd05ac4a07f", "https://t.me/eosnairobi", "https://twitter.com/EosNairobii", "https://twitter.com/eosnairobi", "https://www.medium.com/eosnairobi", "https://www.youtube.com/results?search_query=eos+nairobi", "https://www.youtube.com/watch?v=VIKD-spcC-U" ],
-    "social-links-count" : 7,
-    "popularity-boosters" : [ "https://blog.usejournal.com/why-i-think-eos-will-transform-the-african-continent-623b9e00d76", "https://github.com/", "https://www.eosstudio.io/" ],
-    "popularity-boosters-count" : 3
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 6.168852789045909E-4,
+  "webpage-error" : "Connection refused (Connection refused)",
+  "vote-percentage" : 8.636311804421078E-4,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://eosnairobi.io"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "Connection refused (Connection refused)",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://eosnairobi.io/bp.json"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://eosnairobi.io/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "Connection refused (Connection refused)"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://steemit.com/eos/@eosnairobi/eosnairobi-block-producer-code-of-conduct-v1-0"
+      "mood" : "warn",
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 3,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 68,
-  "snapshot-date" : "2021-02-19T03:11:45.106Z"
+  "place" : 48,
+  "snapshot-date" : "2021-03-01T00:40:33.897Z"
 }
