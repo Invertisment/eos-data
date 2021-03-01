@@ -8,12 +8,12 @@
         "weight" : 1
       } ]
     } ],
-    "unpaid_blocks" : 7836,
+    "unpaid_blocks" : 7872,
     "is_active" : 1,
     "producer_key" : "EOS7RsdDs8k8GDAdZrETnTjoGwiqAwwdNyxeH8q6fmHgpHjPPnyco",
     "url" : "https://eos.wiki",
     "last_claim_time" : "2021-02-28T01:44:46.500",
-    "total_votes" : "6196538219237041152.00000000000000000",
+    "total_votes" : "6196538693789504512.00000000000000000",
     "location" : 276,
     "owner" : "eosdotwikibp"
   },
@@ -28,7 +28,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.03457429215903376,
+  "vote-percentage" : 0.03070166831509957,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -48,6 +48,6 @@
     "score" : 2,
     "max" : 3
   },
-  "place" : 13,
-  "snapshot-date" : "2021-03-01T00:40:33.897Z"
+  "place" : 14,
+  "snapshot-date" : "2021-03-01T00:46:26.656Z"
 }

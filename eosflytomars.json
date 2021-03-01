@@ -1,46 +1,47 @@
 {
   "bp-header" : {
     "owner" : "eosflytomars",
-    "total_votes" : "7655609741131484160.00000000000000000",
+    "total_votes" : "7655609969591451648.00000000000000000",
     "producer_key" : "EOS6Agpfp38bTyRjJDmB4Qb1EpQSq7wnEAsALXgXE7KFSzKjokkFD",
     "is_active" : 1,
     "url" : "https://www.bitmars.one",
-    "unpaid_blocks" : 6384,
+    "unpaid_blocks" : 6420,
     "last_claim_time" : "2021-02-28T06:00:04.500",
     "location" : 156,
     "prepared-url" : "https://www.bitmars.one"
   },
   "bp-json-summary" : {
-    "url" : "https://www.bitmars.one/bp.json",
-    "logo" : "https://api.bitmars.one/logo-256.png",
-    "code_of_conduct" : "https://medium.com/@bitmars/code-of-conduct-48b06093ff4c"
+    "dl-error" : "Read timed out",
+    "url" : "https://www.bitmars.one/bp.json"
   },
-  "webpage-error" : "Read timed out",
-  "vote-percentage" : 0.04271534822842015,
+  "analyzed-urls" : {
+    "relative-links-count" : 15,
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.03793085295694766,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "Read timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
-    }, {
       "score" : "positive",
       "mood" : "good",
-      "title" : "bp-json",
-      "url" : "https://www.bitmars.one/bp.json"
+      "title" : "web",
+      "url" : "https://www.bitmars.one"
     }, {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "coc",
-      "url" : "https://medium.com/@bitmars/code-of-conduct-48b06093ff4c"
+      "title" : "bp-json-err",
+      "mood" : "warn",
+      "url" : "https://www.bitmars.one/bp.json",
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "Read timed out"
     }, {
       "mood" : "warn",
-      "title" : "t-coc-social",
-      "paragraphs" : [ "p-coc-social" ]
+      "title" : "cant-load-coc",
+      "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 2,
+    "score" : 1,
     "max" : 3
   },
   "place" : 3,
-  "snapshot-date" : "2021-03-01T00:40:33.897Z"
+  "snapshot-date" : "2021-03-01T00:46:26.656Z"
 }
