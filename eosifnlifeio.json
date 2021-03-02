@@ -11,23 +11,23 @@
     "prepared-url" : "https://ifnlife.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "unable to find valid certification path to requested target",
     "url" : "https://ifnlife.com/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 1.8329928444701603E-10,
+  "webpage-error" : "unable to find valid certification path to requested target",
+  "vote-percentage" : 1.9039410731867311E-10,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "unable to find valid certification path to requested target",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://ifnlife.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "unable to find valid certification path to requested target"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 396,
-  "snapshot-date" : "2021-03-01T02:10:56.842Z"
+  "place" : 338,
+  "snapshot-date" : "2021-03-02T02:10:23.235Z"
 }

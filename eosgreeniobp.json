@@ -11,23 +11,23 @@
     "prepared-url" : "https://eosgreen.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "SSL peer shut down incorrectly",
+    "dl-error" : "eosgreen.io",
     "url" : "https://eosgreen.io/bp.json"
   },
-  "webpage-error" : "SSL peer shut down incorrectly",
-  "vote-percentage" : 1.8597783235007688E-6,
+  "webpage-error" : "eosgreen.io: Name or service not known",
+  "vote-percentage" : 1.9317633169260944E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "SSL peer shut down incorrectly",
+      "error" : "eosgreen.io: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eosgreen.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "SSL peer shut down incorrectly"
+      "error" : "eosgreen.io"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 141,
-  "snapshot-date" : "2021-03-01T02:10:56.842Z"
+  "place" : 137,
+  "snapshot-date" : "2021-03-02T02:10:23.235Z"
 }

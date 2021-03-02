@@ -11,23 +11,23 @@
     "prepared-url" : "http://foc.shsoso.com:8888"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "foc.shsoso.com",
     "url" : "http://foc.shsoso.com:8888/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 5.228208440896848E-10,
+  "webpage-error" : "foc.shsoso.com: No address associated with hostname",
+  "vote-percentage" : 5.430572639623373E-10,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "foc.shsoso.com: No address associated with hostname",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://foc.shsoso.com:8888/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "foc.shsoso.com"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 366,
-  "snapshot-date" : "2021-03-01T02:10:56.842Z"
+  "place" : 324,
+  "snapshot-date" : "2021-03-02T02:10:23.235Z"
 }
