@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "1teamcanada1",
-    "total_votes" : "21242653772000.54296875000000000",
+    "total_votes" : "21291873183417.00781250000000000",
     "producer_key" : "EOS7gBHpJMaWo8uzcXRfBAhN9yLfVTLTbH4L2xA64B5HNMnZpVuKJ",
     "is_active" : 1,
     "url" : "http://can-play.ca",
@@ -11,11 +11,11 @@
     "prepared-url" : "http://can-play.ca"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 523",
+    "dl-error" : "Read timed out",
     "url" : "http://can-play.ca/bp.json"
   },
   "webpage-error" : "Read timed out",
-  "vote-percentage" : 1.0353258231599611E-7,
+  "vote-percentage" : 1.3506927839658483E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -27,7 +27,7 @@
       "mood" : "warn",
       "url" : "http://can-play.ca/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 523"
+      "error" : "Read timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 235,
-  "snapshot-date" : "2021-03-02T02:10:23.235Z"
+  "place" : 146,
+  "snapshot-date" : "2021-03-03T02:08:48.515Z"
 }
