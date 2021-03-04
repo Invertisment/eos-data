@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eoswtzeoswtz",
-    "total_votes" : "349700267036691.12500000000000000",
+    "total_votes" : "349647138106111.81250000000000000",
     "producer_key" : "EOS7temBEsAoxRtUNsy7M6XmZMDuxwKvg8EuBYZ9CMfnaiGDUyHwZ",
     "is_active" : 1,
     "url" : "http://www.eoswtz.com/",
@@ -11,11 +11,11 @@
     "prepared-url" : "http://www.eoswtz.com/"
   },
   "bp-json-summary" : {
-    "dl-error" : "Read timed out",
+    "dl-error" : "clj-http: status 500",
     "url" : "http://www.eoswtz.com/bp.json"
   },
   "webpage-error" : "clj-http: status 500",
-  "vote-percentage" : 1.7043714062987517E-6,
+  "vote-percentage" : 1.2370745431551458E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -27,7 +27,7 @@
       "mood" : "warn",
       "url" : "http://www.eoswtz.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Read timed out"
+      "error" : "clj-http: status 500"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 143,
-  "snapshot-date" : "2021-03-02T02:10:23.235Z"
+  "place" : 185,
+  "snapshot-date" : "2021-03-04T02:13:21.672Z"
 }

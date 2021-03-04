@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "hexlantttttt",
-    "total_votes" : "1503958309272796160.00000000000000000",
+    "total_votes" : "1528242388537410560.00000000000000000",
     "producer_key" : "EOS83xBpEBigshibgFNjbX3jqHZNDzcnJJrGZaq2ioYTjpGEfckXf",
     "is_active" : 1,
     "url" : "https://hexbp.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2021-02-18T10:30:41.000",
+    "last_claim_time" : "2021-03-03T10:34:00.000",
     "location" : 410,
     "prepared-url" : "https://hexbp.com"
   },
@@ -14,13 +14,13 @@
     "dl-error" : "hexbp.com",
     "url" : "https://hexbp.com/bp.json"
   },
-  "webpage-error" : "hexbp.com: No address associated with hostname",
-  "vote-percentage" : 0.006092102281390365,
+  "webpage-error" : "hexbp.com: Temporary failure in name resolution",
+  "vote-percentage" : 0.005407021961828548,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "hexbp.com: No address associated with hostname",
+      "error" : "hexbp.com: Temporary failure in name resolution",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 57,
-  "snapshot-date" : "2021-02-19T03:11:45.106Z"
+  "place" : 63,
+  "snapshot-date" : "2021-03-04T02:13:21.672Z"
 }

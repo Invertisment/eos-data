@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "eoshuobipool",
-    "total_votes" : "6470263491796714496.00000000000000000",
+    "total_votes" : "6476297542844898304.00000000000000000",
     "producer_key" : "EOS5XKswW26cR5VQeDGwgNb5aixv1AMcKkdDNrC59KzNSBfnH6TR7",
     "is_active" : 1,
     "url" : "https://www.eoshuobipool.com/",
-    "unpaid_blocks" : 7908,
-    "last_claim_time" : "2021-03-02T03:03:02.500",
+    "unpaid_blocks" : 7896,
+    "last_claim_time" : "2021-03-03T03:04:02.000",
     "location" : 0,
     "prepared-url" : "https://www.eoshuobipool.com/"
   },
@@ -20,7 +20,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.04104541734512139,
+  "vote-percentage" : 0.022913566138557228,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -40,6 +40,6 @@
     "score" : 2,
     "max" : 3
   },
-  "place" : 7,
-  "snapshot-date" : "2021-03-03T02:08:48.515Z"
+  "place" : 14,
+  "snapshot-date" : "2021-03-04T02:13:21.672Z"
 }

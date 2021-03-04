@@ -1,17 +1,24 @@
 {
   "bp-header" : {
-    "owner" : "eosnodeonebp",
-    "total_votes" : "1738552988674898432.00000000000000000",
-    "producer_key" : "EOS6xcmB3LnUwcjFu55hKFQwX8EHWWerwbHyAs3VpaJmbBFp4bmDs",
-    "is_active" : 1,
-    "url" : "http://www.nodeone.io",
+    "prepared-url" : "https://www.nodeone.io",
+    "producer_authority" : [ "block_signing_authority_v0", {
+      "threshold" : 1,
+      "keys" : [ {
+        "key" : "EOS6xcmB3LnUwcjFu55hKFQwX8EHWWerwbHyAs3VpaJmbBFp4bmDs",
+        "weight" : 1
+      } ]
+    } ],
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2021-03-01T16:11:28.500",
-    "location" : 7,
-    "prepared-url" : "http://www.nodeone.io"
+    "is_active" : 1,
+    "producer_key" : "EOS6xcmB3LnUwcjFu55hKFQwX8EHWWerwbHyAs3VpaJmbBFp4bmDs",
+    "url" : "https://www.nodeone.io",
+    "last_claim_time" : "2021-03-03T17:11:48.000",
+    "total_votes" : "1742124691005233920.00000000000000000",
+    "location" : 410,
+    "owner" : "eosnodeonebp"
   },
   "bp-json-summary" : {
-    "url" : "http://www.nodeone.io/bp.json",
+    "url" : "https://www.nodeone.io/bp.json",
     "logo" : "https://www.nodeone.io/resources/images/eosnodeone_logo_256.png",
     "code_of_conduct" : "https://steemit.com/eos/@eosnodeone/eos-nodeone-roadmap-and-stance-on-vote-buying"
   },
@@ -24,18 +31,18 @@
     "popularity-boosters-count" : 1
   },
   "p-ram-amounts" : [ "RAM" ],
-  "vote-percentage" : 0.008473370716419374,
+  "vote-percentage" : 0.0061637515980198085,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
       "mood" : "good",
       "title" : "web",
-      "url" : "http://www.nodeone.io"
+      "url" : "https://www.nodeone.io"
     }, {
       "score" : "positive",
       "mood" : "good",
       "title" : "bp-json",
-      "url" : "http://www.nodeone.io/bp.json"
+      "url" : "https://www.nodeone.io/bp.json"
     }, {
       "score" : "positive",
       "mood" : "good",
@@ -45,6 +52,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 38,
-  "snapshot-date" : "2021-03-02T02:10:23.235Z"
+  "place" : 53,
+  "snapshot-date" : "2021-03-04T02:13:21.672Z"
 }
