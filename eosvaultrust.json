@@ -1,14 +1,21 @@
 {
   "bp-header" : {
-    "owner" : "haydiobwguge",
-    "total_votes" : "3454274771835.52490234375000000",
-    "producer_key" : "EOS6ZPREbZjk2DXVZHzd2t9Lc1uRSXeZfXAtiwSqALRqpfxXGQocW",
-    "is_active" : 1,
-    "url" : "",
+    "prepared-url" : null,
+    "producer_authority" : [ "block_signing_authority_v0", {
+      "threshold" : 1,
+      "keys" : [ {
+        "key" : "EOS7rhd7kVTL81ftkjwp4i4dXMRn1QGQKTvBGFwAWASbmY1hvvEVK",
+        "weight" : 1
+      } ]
+    } ],
     "unpaid_blocks" : 0,
-    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "is_active" : 1,
+    "producer_key" : "EOS7rhd7kVTL81ftkjwp4i4dXMRn1QGQKTvBGFwAWASbmY1hvvEVK",
+    "url" : "",
+    "last_claim_time" : "2021-03-04T13:18:37.500",
+    "total_votes" : "0.00000000000000000",
     "location" : 0,
-    "prepared-url" : null
+    "owner" : "eosvaultrust"
   },
   "bp-json-summary" : null,
   "analyzed-urls" : {
@@ -17,7 +24,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.3742178202447603E-8,
+  "vote-percentage" : 0.0,
   "scoring" : {
     "comp" : [ {
       "title" : "no-web",
@@ -35,6 +42,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 312,
+  "place" : 540,
   "snapshot-date" : "2021-03-05T02:11:58.835Z"
 }

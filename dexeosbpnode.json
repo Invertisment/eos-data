@@ -1,46 +1,41 @@
 {
   "bp-header" : {
     "owner" : "dexeosbpnode",
-    "total_votes" : "1619594956180248320.00000000000000000",
+    "total_votes" : "1619359196023820032.00000000000000000",
     "producer_key" : "EOS5qraVVdEwHaouJEqpFWJfZuxQViDxP3WZ826wGwt2bxnfuEGRF",
     "is_active" : 1,
     "url" : "https://dexeos.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2021-03-04T00:23:15.000",
+    "last_claim_time" : "2021-03-05T00:23:18.000",
     "location" : 0,
     "prepared-url" : "https://dexeos.io"
   },
   "bp-json-summary" : {
-    "read-error" : "read:'https://dexeos.io/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]",
+    "dl-error" : "dexeos.io",
     "url" : "https://dexeos.io/bp.json"
   },
-  "analyzed-urls" : {
-    "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.0057302333471553075,
+  "webpage-error" : "dexeos.io: Temporary failure in name resolution",
+  "vote-percentage" : 0.006442313977734489,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://dexeos.io"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "dexeos.io: Temporary failure in name resolution",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://dexeos.io/bp.json",
-      "paragraphs" : [ "bp-json-invalid" ],
-      "error" : "read:'https://dexeos.io/bp.json': Unexpected character ('<' (code 60)): expected a valid value (number, String, array, object, 'true', 'false' or 'null')\n at [Source: (StringReader); line: 1, column: 2]"
+      "paragraphs" : [ "bp-json-policy" ],
+      "error" : "dexeos.io"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 57,
-  "snapshot-date" : "2021-03-04T02:13:21.672Z"
+  "place" : 51,
+  "snapshot-date" : "2021-03-05T02:11:58.835Z"
 }

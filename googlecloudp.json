@@ -17,13 +17,13 @@
   "analyzed-urls" : {
     "relative-links-count" : 282,
     "duplicate-urls" : null,
-    "social-links" : [ "https://www.youtube.com/watch?v=GoENAPIzwMk", "https://www.youtube.com/watch?v=Xd3DeFNMSks", "https://www.youtube.com/watch?v=kmpEOHpkDzs" ],
-    "social-links-count" : 3,
-    "popularity-boosters" : [ "https://chromeenterprise.google/", "https://cloud.withgoogle.com/partners/", "https://cloudonair.withgoogle.com/events/build-with-gke", "https://firebase.google.com/pricing/", "https://firebase.google.com/products/realtime-database/", "https://firebase.google.com/products/storage", "https://marketingplatform.google.com/about/data-studio/", "https://workspace.google.com/?skip_cache=true", "https://workspace.google.com/enterprise/", "https://workspace.google.com/essentials/", "https://workspace.google.com/pricing.html", "https://workspace.google.com/solutions/enterprise/?enterprise-benefits_activeEl=connect" ],
-    "popularity-boosters-count" : 12
+    "social-links" : [ "https://www.youtube.com/watch?v=GoENAPIzwMk", "https://www.youtube.com/watch?v=kmpEOHpkDzs" ],
+    "social-links-count" : 2,
+    "popularity-boosters" : [ "https://chromeenterprise.google/", "https://cloud.withgoogle.com/next/sf", "https://cloud.withgoogle.com/partners/", "https://cloudonair.withgoogle.com/events/build-with-gke", "https://firebase.google.com/pricing/", "https://firebase.google.com/products/realtime-database/", "https://firebase.google.com/products/storage", "https://marketingplatform.google.com/about/data-studio/", "https://workspace.google.com/?skip_cache=true", "https://workspace.google.com/enterprise/", "https://workspace.google.com/essentials/", "https://workspace.google.com/pricing.html", "https://workspace.google.com/solutions/enterprise/?enterprise-benefits_activeEl=connect" ],
+    "popularity-boosters-count" : 13
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 9.212976498348305E-6,
+  "vote-percentage" : 1.0359356203544988E-5,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -44,6 +44,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 112,
-  "snapshot-date" : "2021-03-04T02:13:21.672Z"
+  "place" : 101,
+  "snapshot-date" : "2021-03-05T02:11:58.835Z"
 }
