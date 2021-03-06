@@ -1,41 +1,49 @@
 {
   "bp-header" : {
     "owner" : "eos42freedom",
-    "total_votes" : "4005179047492739072.00000000000000000",
+    "total_votes" : "4005985863231131136.00000000000000000",
     "producer_key" : "EOS4tw7vH62TcVtMgm2tjXzn9hTuHEBbGPUK2eos42ssY7ip4LTzu",
     "is_active" : 1,
     "url" : "https://www.eos42.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2021-03-04T21:11:06.000",
+    "last_claim_time" : "2021-03-05T21:14:03.000",
     "location" : 826,
     "prepared-url" : "https://www.eos42.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "NotAfter: Thu Mar 04 15:22:04 UTC 2021",
-    "url" : "https://www.eos42.io/bp.json"
+    "url" : "https://www.eos42.io/bp.json",
+    "logo" : "https://www.eos42.io/static/img/eos42_logo_bp2.png",
+    "code_of_conduct" : "https://steemit.com/eos/@eos42/eos42-statement-of-ownership-and-code-of-conduct-v1-0"
   },
-  "webpage-error" : "NotAfter: Thu Mar 04 15:22:04 UTC 2021",
-  "vote-percentage" : 0.015933846563719538,
+  "analyzed-urls" : {
+    "relative-links-count" : 21,
+    "duplicate-urls" : null,
+    "social-links" : [ "https://github.com/eos42", "https://medium.com/@eos42", "https://steemit.com/eos/@eos42/eos42-statement-of-ownership-and-code-of-conduct-v1-0", "https://t.me/eos42", "https://twitter.com/eos42io" ],
+    "social-links-count" : 5,
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.019633270752263742,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "NotAfter: Thu Mar 04 15:22:04 UTC 2021",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://www.eos42.io"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://www.eos42.io/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "NotAfter: Thu Mar 04 15:22:04 UTC 2021"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://www.eos42.io/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/eos/@eos42/eos42-statement-of-ownership-and-code-of-conduct-v1-0"
     } ],
-    "score" : 0,
+    "score" : 3,
     "max" : 3
   },
-  "place" : 24,
-  "snapshot-date" : "2021-03-05T02:11:58.835Z"
+  "place" : 18,
+  "snapshot-date" : "2021-03-06T02:10:40.648Z"
 }

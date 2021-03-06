@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosmetaliobp",
-    "total_votes" : "4304438093035177.00000000000000000",
+    "total_votes" : "4303653556754456.50000000000000000",
     "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
     "is_active" : 0,
     "url" : "https://eosmetal.io",
@@ -11,7 +11,7 @@
     "prepared-url" : "https://eosmetal.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "SSL peer shut down incorrectly",
+    "dl-error" : "clj-http: status 403",
     "url" : "https://eosmetal.io/bp.json"
   },
   "analyzed-urls" : {
@@ -20,7 +20,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 1.7124392019474724E-5,
+  "vote-percentage" : 2.1092135216760763E-5,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -32,7 +32,7 @@
       "mood" : "warn",
       "url" : "https://eosmetal.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "SSL peer shut down incorrectly"
+      "error" : "clj-http: status 403"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -41,6 +41,6 @@
     "score" : 1,
     "max" : 3
   },
-  "place" : 94,
-  "snapshot-date" : "2021-03-05T02:11:58.835Z"
+  "place" : 75,
+  "snapshot-date" : "2021-03-06T02:10:40.648Z"
 }
