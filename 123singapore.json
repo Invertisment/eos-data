@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "123singapore",
-    "total_votes" : "1392812765572703.25000000000000000",
+    "total_votes" : "1393012852777497.25000000000000000",
     "producer_key" : "EOS71UbkZzuz55WNBpsEVQzkXrZAJ2XyLoQiEcS9WKwbYambhFxWb",
     "is_active" : 1,
     "url" : "http://eos.vote",
@@ -11,11 +11,11 @@
     "prepared-url" : "http://eos.vote"
   },
   "bp-json-summary" : {
-    "dl-error" : "Read timed out",
+    "dl-error" : "clj-http: status 404",
     "url" : "http://eos.vote/bp.json"
   },
   "webpage-error" : "Read timed out",
-  "vote-percentage" : 6.826152429714751E-6,
+  "vote-percentage" : 4.918219124739249E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -27,7 +27,7 @@
       "mood" : "warn",
       "url" : "http://eos.vote/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Read timed out"
+      "error" : "clj-http: status 404"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 93,
-  "snapshot-date" : "2021-03-06T02:10:40.648Z"
+  "place" : 128,
+  "snapshot-date" : "2021-03-07T02:12:40.954Z"
 }
