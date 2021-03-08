@@ -11,17 +11,20 @@
     "prepared-url" : "http://blockgenic.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
-    "url" : "http://blockgenic.io/bp.json"
+    "url" : "http://blockgenic.io/bp.json",
+    "logo" : "https://blockgenic.keybase.pub/blockgeniclogo.jpg",
+    "code_of_conduct" : "https://steemit.com/eos/@block21/blockgenic-code-of-conduct"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 2,
+    "relative-links-count" : 7,
     "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
+    "social-links" : [ "https://medium.com/@blockgenic", "https://medium.com/@blockgenic/blockgenic-releases-whitepaper-on-universal-basic-income-in-3-languages-6c41711885af", "https://medium.com/coinmonks/enterprise-security-frameworks-for-eos-block-producers-59bc9d1773e4", "https://twitter.com/blockgenic", "https://www.linkedin.com/in/bruce-tartaglia-72564220/", "https://www.linkedin.com/in/celambarasan-ramasamy-0b094b8/", "https://www.linkedin.com/in/jimhayden/", "https://www.linkedin.com/in/karthik-jaganathan-a5a0231/", "https://www.meetup.com/Seattle-EOS/", "https://www.youtube.com/channel/UCXTaehuAs3UWKnMVnT71MMQ" ],
+    "social-links-count" : 10,
+    "popularity-boosters" : [ "https://blockgenic.website", "https://blockgenic.website/", "https://blockgenic.website/contact/", "https://blockgenic.website/portfolio_type/celu-ramasamy-presentation-on-eos-community-march-29th-seattle/", "https://blockgenic.website/portfolio_type/celu-ramasamy-releasing-universal-basic-income-whitepaper/", "https://blockgenic.website/portfolio_type/eugene-luzgin-presentation-march-29th-seattle/", "https://blockgenic.website/portfolio_type/march-29th-seattle-event-2/", "https://blockgenic.website/portfolio_type/seoul-may-19th-2/", "https://blockgenic.website/portfolio_type/seoul-may-19th/", "https://blockgenic.website/portfolio_type/thinkspace-incubator-seattle/", "https://blockgenic.website/portfolio_type/thinkspace-seattle-2/", "https://blockgenic.website/portfolio_type/thinkspace-seattle/" ],
+    "popularity-boosters-count" : 12
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 2.373852374588135E-6,
+  "vote-percentage" : 2.3760164849016376E-6,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -29,19 +32,19 @@
       "title" : "web",
       "url" : "http://blockgenic.io"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "http://blockgenic.io/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "http://blockgenic.io/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/eos/@block21/blockgenic-code-of-conduct"
     } ],
-    "score" : 1,
+    "score" : 3,
     "max" : 3
   },
-  "place" : 159,
-  "snapshot-date" : "2021-03-07T02:12:40.954Z"
+  "place" : 158,
+  "snapshot-date" : "2021-03-08T02:13:07.865Z"
 }

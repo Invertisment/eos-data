@@ -14,13 +14,13 @@
     "dl-error" : "eosplane.top",
     "url" : "https://eosplane.top/bp.json"
   },
-  "webpage-error" : "eosplane.top: Name or service not known",
-  "vote-percentage" : 2.6588348490371197E-8,
+  "webpage-error" : "eosplane.top: Temporary failure in name resolution",
+  "vote-percentage" : 2.661258762158381E-8,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "eosplane.top: Name or service not known",
+      "error" : "eosplane.top: Temporary failure in name resolution",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 336,
-  "snapshot-date" : "2021-03-07T02:12:40.954Z"
+  "snapshot-date" : "2021-03-08T02:13:07.865Z"
 }
