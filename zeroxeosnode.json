@@ -11,23 +11,23 @@
     "prepared-url" : "https://zeroxeos.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "Certificate for <zeroxeos.com> doesn't match any of the subject alternative names: [eurogroupconsulting.it]",
+    "dl-error" : "connect timed out",
     "url" : "https://zeroxeos.com/bp.json"
   },
-  "webpage-error" : "Certificate for <zeroxeos.com> doesn't match any of the subject alternative names: [eurogroupconsulting.it]",
-  "vote-percentage" : 1.4066408275003946E-8,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 1.4024900652838686E-8,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Certificate for <zeroxeos.com> doesn't match any of the subject alternative names: [eurogroupconsulting.it]",
+      "error" : "connect timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://zeroxeos.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Certificate for <zeroxeos.com> doesn't match any of the subject alternative names: [eurogroupconsulting.it]"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 349,
-  "snapshot-date" : "2021-03-08T02:13:07.865Z"
+  "snapshot-date" : "2021-03-10T02:13:49.552Z"
 }

@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosgalaxybp1",
-    "total_votes" : "785165437413138.12500000000000000",
+    "total_votes" : "810265414275697.75000000000000000",
     "producer_key" : "EOS6yVYyJd5nrGG86FbM3BM7eV91pdykxqvbnHPWoYzCsMy2Uc16r",
     "is_active" : 1,
     "url" : "http://www.eosgalaxy.io",
@@ -11,31 +11,37 @@
     "prepared-url" : "http://www.eosgalaxy.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "www.eosgalaxy.io",
+    "dl-error" : "Connection reset",
     "url" : "http://www.eosgalaxy.io/bp.json"
   },
-  "webpage-error" : "www.eosgalaxy.io: Name or service not known",
-  "vote-percentage" : 3.6613854138884445E-6,
+  "analyzed-urls" : {
+    "relative-links-count" : 2,
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 2.8549096552627098E-6,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "www.eosgalaxy.io: Name or service not known",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "http://www.eosgalaxy.io"
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://www.eosgalaxy.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "www.eosgalaxy.io"
+      "error" : "Connection reset"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 0,
+    "score" : 1,
     "max" : 3
   },
-  "place" : 116,
-  "snapshot-date" : "2021-03-09T02:10:52.266Z"
+  "place" : 148,
+  "snapshot-date" : "2021-03-10T02:13:49.552Z"
 }
