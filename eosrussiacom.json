@@ -14,13 +14,13 @@
     "dl-error" : "No route to host (Host unreachable)",
     "url" : "http://eos.adenso.ru/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 2.9410378386183194E-6,
+  "webpage-error" : "No route to host (Host unreachable)",
+  "vote-percentage" : 2.934009654941793E-6,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "No route to host (Host unreachable)",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -37,5 +37,5 @@
     "max" : 3
   },
   "place" : 147,
-  "snapshot-date" : "2021-03-10T02:13:49.552Z"
+  "snapshot-date" : "2021-03-11T02:14:03.106Z"
 }

@@ -1,41 +1,47 @@
 {
   "bp-header" : {
     "owner" : "eoscannonchn",
-    "total_votes" : "6501852990031256576.00000000000000000",
+    "total_votes" : "6525218547634793472.00000000000000000",
     "producer_key" : "EOS73cTi9V7PNg4ujW5QzoTfRSdhH44MPiUJkUV6m3oGwj7RX7kML",
     "is_active" : 1,
     "url" : "https://eoscannon.io",
-    "unpaid_blocks" : 600,
-    "last_claim_time" : "2021-03-10T00:20:03.500",
+    "unpaid_blocks" : 612,
+    "last_claim_time" : "2021-03-11T00:20:04.000",
     "location" : 156,
     "prepared-url" : "https://eoscannon.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
-    "url" : "https://eoscannon.io/bp.json"
+    "url" : "https://eoscannon.io/bp.json",
+    "logo" : "https://raw.githubusercontent.com/eoscannon/website/master/eoscannon-logo-256x256.png",
+    "code_of_conduct" : "https://steemit.com/eos/@eoscannon/answers-for-two-more-criteria-of-block-producer-candidate"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 0.0229087932809422,
+  "analyzed-urls" : {
+    "duplicate-urls" : null,
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
+  },
+  "p-ram-amounts" : [ ],
+  "vote-percentage" : 0.02293617831088698,
   "scoring" : {
     "comp" : [ {
-      "mood" : "bad",
-      "title" : "no-web",
-      "error" : "connect timed out",
-      "paragraphs" : [ "web-fetch-failure" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "web",
+      "url" : "https://eoscannon.io"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://eoscannon.io/bp.json",
-      "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://eoscannon.io/bp.json"
     }, {
-      "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://steemit.com/eos/@eoscannon/answers-for-two-more-criteria-of-block-producer-candidate"
     } ],
-    "score" : 0,
+    "score" : 3,
     "max" : 3
   },
   "place" : 16,
-  "snapshot-date" : "2021-03-10T02:13:49.552Z"
+  "snapshot-date" : "2021-03-11T02:14:03.106Z"
 }
