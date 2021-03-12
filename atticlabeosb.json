@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "atticlabeosb",
-    "total_votes" : "6773862541672562688.00000000000000000",
+    "total_votes" : "6771476028889303040.00000000000000000",
     "producer_key" : "EOS7PfA3A4UdfMu2wKbuXdbHn8EWAxbMnFoFWui4X2zsr2oPwdQJP",
     "is_active" : 1,
     "url" : "https://atticlab.net",
     "unpaid_blocks" : 6900,
-    "last_claim_time" : "2021-03-10T05:58:04.000",
+    "last_claim_time" : "2021-03-11T05:59:03.000",
     "location" : 804,
     "prepared-url" : "https://atticlab.net"
   },
@@ -16,15 +16,12 @@
     "code_of_conduct" : "https://steemit.com/eos/@attic-lab/attic-lab-eos-block-producer-candidate"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 15,
     "duplicate-urls" : null,
-    "social-links" : [ " https://www.reddit.com/user/atticlab_it", "https://github.com/atticlab/", "https://medium.com/eosatticlab", "https://steemit.com/@attic-lab", "https://t.me/atticlabeosb", "https://twitter.com/atticlab_it", "https://www.facebook.com/atticlab/", "https://www.linkedin.com/in/attic-lab-5ab9a2129/", "https://www.reddit.com/user/atticlab_it" ],
-    "social-links-count" : 9,
-    "popularity-boosters" : [ "http://everstake.one/" ],
-    "popularity-boosters-count" : 1
+    "social-links" : [ ],
+    "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.023810163288025953,
+  "vote-percentage" : 0.04257501003493394,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -45,6 +42,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 11,
-  "snapshot-date" : "2021-03-11T02:14:03.106Z"
+  "place" : 6,
+  "snapshot-date" : "2021-03-12T02:09:48.342Z"
 }
