@@ -11,23 +11,23 @@
     "prepared-url" : "https://cryptokylin.io"
   },
   "bp-json-summary" : {
-    "dl-error" : "NotAfter: Fri Jun 26 00:04:24 UTC 2020",
+    "dl-error" : "NotAfter: Wed Mar 17 16:40:46 UTC 2021",
     "url" : "https://cryptokylin.io/bp.json"
   },
-  "webpage-error" : "NotAfter: Fri Jun 26 00:04:24 UTC 2020",
-  "vote-percentage" : 4.7006750567844567E-8,
+  "webpage-error" : "NotAfter: Wed Mar 17 16:40:46 UTC 2021",
+  "vote-percentage" : 9.218084548331718E-8,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "NotAfter: Fri Jun 26 00:04:24 UTC 2020",
+      "error" : "NotAfter: Wed Mar 17 16:40:46 UTC 2021",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://cryptokylin.io/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "NotAfter: Fri Jun 26 00:04:24 UTC 2020"
+      "error" : "NotAfter: Wed Mar 17 16:40:46 UTC 2021"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 319,
-  "snapshot-date" : "2021-03-13T04:22:50.219Z"
+  "place" : 144,
+  "snapshot-date" : "2021-04-01T01:36:48.060Z"
 }

@@ -1,21 +1,28 @@
 {
   "bp-header" : {
-    "owner" : "csxcommunity",
-    "total_votes" : "6963753612804745.00000000000000000",
-    "producer_key" : "EOS5ZrnXXhteBFTsgkPpX6r3ADLafQe3YaSjgEe1GTRZ6A8TT3wPt",
-    "is_active" : 1,
-    "url" : "https://csx.io",
+    "prepared-url" : "https://csx.io",
+    "producer_authority" : [ "block_signing_authority_v0", {
+      "threshold" : 1,
+      "keys" : [ {
+        "key" : "EOS6hGMcvqHaX8Gjsct5aEiUpAjTPBWabFWUfktFH8kmjVkJ3DpFu",
+        "weight" : 1
+      } ]
+    } ],
     "unpaid_blocks" : 0,
+    "is_active" : 1,
+    "producer_key" : "EOS6hGMcvqHaX8Gjsct5aEiUpAjTPBWabFWUfktFH8kmjVkJ3DpFu",
+    "url" : "https://csx.io",
     "last_claim_time" : "2019-10-31T23:00:02.500",
+    "total_votes" : "7773396093142740.00000000000000000",
     "location" : 276,
-    "prepared-url" : "https://csx.io"
+    "owner" : "csxcommunity"
   },
   "bp-json-summary" : {
     "dl-error" : "Connection refused (Connection refused)",
     "url" : "https://csx.io/bp.json"
   },
   "webpage-error" : "Connection refused (Connection refused)",
-  "vote-percentage" : 2.443037178661182E-5,
+  "vote-percentage" : 5.3478341908561026E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +43,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 96,
-  "snapshot-date" : "2021-03-13T04:22:50.219Z"
+  "place" : 40,
+  "snapshot-date" : "2021-04-01T01:36:48.060Z"
 }

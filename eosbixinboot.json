@@ -1,33 +1,33 @@
 {
   "bp-header" : {
     "owner" : "eosbixinboot",
-    "total_votes" : "1641620800032431104.00000000000000000",
+    "total_votes" : "1834117628777069824.00000000000000000",
     "producer_key" : "EOS7QC1XfAtkYeLjbHQjcDWVqUsxuSJ3YRhNyG93VAv2u3uHopGVp",
     "is_active" : 1,
     "url" : "https://www.eosbixin.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2021-03-12T14:30:07.000",
+    "last_claim_time" : "2021-03-31T06:55:04.000",
     "location" : 7,
     "prepared-url" : "https://www.eosbixin.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "NotAfter: Wed Aug 26 12:00:00 UTC 2020",
+    "dl-error" : "Connection refused (Connection refused)",
     "url" : "https://www.eosbixin.com/bp.json"
   },
-  "webpage-error" : "NotAfter: Wed Aug 26 12:00:00 UTC 2020",
-  "vote-percentage" : 0.005759165057718698,
+  "webpage-error" : "Connection refused (Connection refused)",
+  "vote-percentage" : 0.012618110344175695,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "NotAfter: Wed Aug 26 12:00:00 UTC 2020",
+      "error" : "Connection refused (Connection refused)",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://www.eosbixin.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "NotAfter: Wed Aug 26 12:00:00 UTC 2020"
+      "error" : "Connection refused (Connection refused)"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 59,
-  "snapshot-date" : "2021-03-13T04:22:50.219Z"
+  "place" : 25,
+  "snapshot-date" : "2021-04-01T01:36:48.060Z"
 }

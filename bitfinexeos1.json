@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "bitfinexeos1",
-    "total_votes" : "6661555931416998912.00000000000000000",
+    "total_votes" : "8924534840537978880.00000000000000000",
     "producer_key" : "EOS4tkw7LgtURT3dvG3kQ4D1sg3aAtPDymmoatpuFkQMc7wzZdKxc",
     "is_active" : 1,
     "url" : "https://www.bitfinex.com",
-    "unpaid_blocks" : 3059,
-    "last_claim_time" : "2021-03-12T19:20:43.000",
+    "unpaid_blocks" : 5268,
+    "last_claim_time" : "2021-03-31T10:10:18.000",
     "location" : 0,
     "prepared-url" : "https://www.bitfinex.com"
   },
@@ -19,11 +19,11 @@
     "relative-links-count" : 22,
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ "http://blog.bitfinex.com", "http://blog.bitfinex.com/newsletter/", "http://docs.bitfinex.com/", "https://bitfinex.statuspage.io/", "https://cs.bitfinex.com", "https://docs.bitfinex.com", "https://honey.bitfinex.com", "https://itunes.apple.com/us/app/bitfinex/id1436383182?ls=1&mt=8", "https://leaderboard.bitfinex.com", "https://leo.bitfinex.com", "https://pay.bitfinex.com", "https://play.google.com/store/apps/details?id=com.bitfinex.mobileapp&hl=en", "https://reporting.bitfinex.com/", "https://staking.bitfinex.com", "https://support.bitfinex.com/hc/en-us", "https://terminal.bitfinex.com", "https://tokensales.bitfinex.com" ],
-    "popularity-boosters-count" : 17
+    "popularity-boosters" : [ "http://blog.bitfinex.com", "http://blog.bitfinex.com/newsletter/", "http://docs.bitfinex.com/", "https://bitfinex.statuspage.io/", "https://cs.bitfinex.com", "https://docs.bitfinex.com", "https://honey.bitfinex.com", "https://itunes.apple.com/us/app/bitfinex/id1436383182?ls=1&mt=8", "https://leaderboard.bitfinex.com", "https://leo.bitfinex.com", "https://pay.bitfinex.com", "https://play.google.com/store/apps/details?id=com.bitfinex.mobileapp&hl=en", "https://pulse.bitfinex.com", "https://pulse.bitfinex.com/profile/Bitfinex", "https://reporting.bitfinex.com/", "https://staking.bitfinex.com", "https://support.bitfinex.com/hc/en-us", "https://terminal.bitfinex.com", "https://tokensales.bitfinex.com" ],
+    "popularity-boosters-count" : 19
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.02337019618020044,
+  "vote-percentage" : 0.06139778802706011,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -44,6 +44,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 13,
-  "snapshot-date" : "2021-03-13T04:22:50.219Z"
+  "place" : 1,
+  "snapshot-date" : "2021-04-01T01:36:48.060Z"
 }
