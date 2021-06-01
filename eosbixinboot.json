@@ -1,33 +1,33 @@
 {
   "bp-header" : {
     "owner" : "eosbixinboot",
-    "total_votes" : "1834117628777069824.00000000000000000",
+    "total_votes" : "2442639277373291008.00000000000000000",
     "producer_key" : "EOS7QC1XfAtkYeLjbHQjcDWVqUsxuSJ3YRhNyG93VAv2u3uHopGVp",
     "is_active" : 1,
     "url" : "https://www.eosbixin.com",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2021-03-31T06:55:04.000",
+    "last_claim_time" : "2021-05-31T15:05:05.000",
     "location" : 7,
     "prepared-url" : "https://www.eosbixin.com"
   },
   "bp-json-summary" : {
-    "dl-error" : "Connection refused (Connection refused)",
+    "dl-error" : "connect timed out",
     "url" : "https://www.eosbixin.com/bp.json"
   },
-  "webpage-error" : "Connection refused (Connection refused)",
-  "vote-percentage" : 0.012618110344175695,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 0.011232578872305629,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Connection refused (Connection refused)",
+      "error" : "connect timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://www.eosbixin.com/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Connection refused (Connection refused)"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 25,
-  "snapshot-date" : "2021-04-01T01:36:48.060Z"
+  "place" : 31,
+  "snapshot-date" : "2021-06-01T02:33:25.789Z"
 }

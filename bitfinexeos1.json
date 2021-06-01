@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "bitfinexeos1",
-    "total_votes" : "8924534840537978880.00000000000000000",
+    "total_votes" : "8444397066554999808.00000000000000000",
     "producer_key" : "EOS4tkw7LgtURT3dvG3kQ4D1sg3aAtPDymmoatpuFkQMc7wzZdKxc",
     "is_active" : 1,
     "url" : "https://www.bitfinex.com",
-    "unpaid_blocks" : 5268,
-    "last_claim_time" : "2021-03-31T10:10:18.000",
+    "unpaid_blocks" : 1464,
+    "last_claim_time" : "2021-05-31T22:11:16.000",
     "location" : 0,
     "prepared-url" : "https://www.bitfinex.com"
   },
@@ -16,14 +16,14 @@
     "code_of_conduct" : "https://steemit.com/eos/@bfx/bitfinex-block-producer-disclosure"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 22,
+    "relative-links-count" : 31,
     "duplicate-urls" : null,
     "social-links" : [ ],
-    "popularity-boosters" : [ "http://blog.bitfinex.com", "http://blog.bitfinex.com/newsletter/", "http://docs.bitfinex.com/", "https://bitfinex.statuspage.io/", "https://cs.bitfinex.com", "https://docs.bitfinex.com", "https://honey.bitfinex.com", "https://itunes.apple.com/us/app/bitfinex/id1436383182?ls=1&mt=8", "https://leaderboard.bitfinex.com", "https://leo.bitfinex.com", "https://pay.bitfinex.com", "https://play.google.com/store/apps/details?id=com.bitfinex.mobileapp&hl=en", "https://pulse.bitfinex.com", "https://pulse.bitfinex.com/profile/Bitfinex", "https://reporting.bitfinex.com/", "https://staking.bitfinex.com", "https://support.bitfinex.com/hc/en-us", "https://terminal.bitfinex.com", "https://tokensales.bitfinex.com" ],
+    "popularity-boosters" : [ "http://docs.bitfinex.com/", "https://bitfinex.statuspage.io/", "https://blog.bitfinex.com/", "https://blog.bitfinex.com/newsletter/", "https://cs.bitfinex.com?locale=en", "https://docs.bitfinex.com", "https://honey.bitfinex.com", "https://itunes.apple.com/us/app/bitfinex/id1436383182?ls=1&mt=8", "https://leaderboard.bitfinex.com/", "https://leo.bitfinex.com", "https://pay.bitfinex.com", "https://play.google.com/store/apps/details?id=com.bitfinex.mobileapp&hl=en", "https://pulse.bitfinex.com", "https://pulse.bitfinex.com/profile/Bitfinex", "https://reporting.bitfinex.com", "https://staking.bitfinex.com", "https://support.bitfinex.com/hc/en-us", "https://support.bitfinex.com/hc/en-us/articles/900001525006", "https://terminal.bitfinex.com" ],
     "popularity-boosters-count" : 19
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.06139778802706011,
+  "vote-percentage" : 0.038831913069516125,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -44,6 +44,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 1,
-  "snapshot-date" : "2021-04-01T01:36:48.060Z"
+  "place" : 3,
+  "snapshot-date" : "2021-06-01T02:33:25.789Z"
 }

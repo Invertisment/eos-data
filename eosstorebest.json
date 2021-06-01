@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosstorebest",
-    "total_votes" : "7521400926468456.00000000000000000",
+    "total_votes" : "6297124309677166.00000000000000000",
     "producer_key" : "EOS857vKqpcN7Tt7zCab47CCpjvGcaKbf7MpTwN3ktGsDToynSuTA",
     "is_active" : 1,
     "url" : "https://www.eosstore.co",
@@ -14,13 +14,13 @@
     "dl-error" : "www.eosstore.co",
     "url" : "https://www.eosstore.co/bp.json"
   },
-  "webpage-error" : "www.eosstore.co: Name or service not known",
-  "vote-percentage" : 2.638672061169938E-5,
+  "webpage-error" : "www.eosstore.co: Temporary failure in name resolution",
+  "vote-percentage" : 2.8957589494436142E-5,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "www.eosstore.co: Name or service not known",
+      "error" : "www.eosstore.co: Temporary failure in name resolution",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 93,
-  "snapshot-date" : "2021-03-13T04:22:50.219Z"
+  "place" : 70,
+  "snapshot-date" : "2021-06-01T02:33:25.789Z"
 }

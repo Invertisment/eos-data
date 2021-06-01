@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "bp.pizza",
-    "total_votes" : "2184878153564968704.00000000000000000",
+    "total_votes" : "2253654048199562496.00000000000000000",
     "producer_key" : "EOS8AZhG9bKGPYmoXGvBioZEJYqVj5xMfujivYnHhwJ3SB9oUWty2",
     "is_active" : 1,
     "url" : "https://pizza.finance",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2021-03-31T02:10:47.000",
+    "last_claim_time" : "2021-05-31T04:35:10.500",
     "location" : 156,
     "prepared-url" : "https://pizza.finance"
   },
@@ -20,7 +20,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.0150312243869788,
+  "vote-percentage" : 0.010363522392268421,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -40,6 +40,6 @@
     "score" : 2,
     "max" : 3
   },
-  "place" : 23,
-  "snapshot-date" : "2021-04-01T01:36:48.060Z"
+  "place" : 33,
+  "snapshot-date" : "2021-06-01T02:33:25.789Z"
 }

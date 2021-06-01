@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "guytmmrrgmge",
-    "total_votes" : "1608011761466.80566406250000000",
+    "total_votes" : "373656422026.58886718750000000",
     "producer_key" : "EOS8DBXfxE6EiKzp7KD1LYTENbvZtVZMHPhc91ehYEDxKhMFeMpdV",
     "is_active" : 1,
     "url" : "http://157.238.216.101",
@@ -11,23 +11,23 @@
     "prepared-url" : "http://157.238.216.101"
   },
   "bp-json-summary" : {
-    "dl-error" : "Connection refused (Connection refused)",
+    "dl-error" : "connect timed out",
     "url" : "http://157.238.216.101/bp.json"
   },
-  "webpage-error" : "Connection refused (Connection refused)",
-  "vote-percentage" : 5.6412571946318956E-9,
+  "webpage-error" : "connect timed out",
+  "vote-percentage" : 1.7182746836326096E-9,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Connection refused (Connection refused)",
+      "error" : "connect timed out",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "http://157.238.216.101/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Connection refused (Connection refused)"
+      "error" : "connect timed out"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 413,
-  "snapshot-date" : "2021-03-13T04:22:50.219Z"
+  "place" : 347,
+  "snapshot-date" : "2021-06-01T02:33:25.789Z"
 }

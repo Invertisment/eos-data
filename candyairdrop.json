@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "candyairdrop",
-    "total_votes" : "57544737868880.57031250000000000",
+    "total_votes" : "55879468009370.96093750000000000",
     "producer_key" : "EOS7igDXf5GeHjVXgyS6UtzYUJpbqBmvXhE6Mzw4DR2s6UvqoYDcR",
     "is_active" : 1,
     "url" : "https://chain.pro",
@@ -11,23 +11,23 @@
     "prepared-url" : "https://chain.pro"
   },
   "bp-json-summary" : {
-    "dl-error" : "connect timed out",
+    "dl-error" : "Connection refused (Connection refused)",
     "url" : "https://chain.pro/bp.json"
   },
-  "webpage-error" : "connect timed out",
-  "vote-percentage" : 3.9588837747573724E-7,
+  "webpage-error" : "Connection refused (Connection refused)",
+  "vote-percentage" : 2.569640706149245E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "connect timed out",
+      "error" : "Connection refused (Connection refused)",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://chain.pro/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "connect timed out"
+      "error" : "Connection refused (Connection refused)"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 112,
-  "snapshot-date" : "2021-04-01T01:36:48.060Z"
+  "place" : 204,
+  "snapshot-date" : "2021-06-01T02:33:25.789Z"
 }

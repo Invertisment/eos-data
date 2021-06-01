@@ -4,16 +4,16 @@
     "producer_authority" : [ "block_signing_authority_v0", {
       "threshold" : 1,
       "keys" : [ {
-        "key" : "EOS6xcmB3LnUwcjFu55hKFQwX8EHWWerwbHyAs3VpaJmbBFp4bmDs",
+        "key" : "EOS6hRwZ76vaDVwqEd9oiD2TPtr5HypxiXmiP34pkuicyFDFd6SLN",
         "weight" : 1
       } ]
     } ],
     "unpaid_blocks" : 0,
     "is_active" : 1,
-    "producer_key" : "EOS6xcmB3LnUwcjFu55hKFQwX8EHWWerwbHyAs3VpaJmbBFp4bmDs",
+    "producer_key" : "EOS6hRwZ76vaDVwqEd9oiD2TPtr5HypxiXmiP34pkuicyFDFd6SLN",
     "url" : "https://www.nodeone.io",
-    "last_claim_time" : "2021-03-12T18:17:58.000",
-    "total_votes" : "1753458416583245056.00000000000000000",
+    "last_claim_time" : "2021-05-31T22:13:51.000",
+    "total_votes" : "3705504629616144384.00000000000000000",
     "location" : 410,
     "owner" : "eosnodeonebp"
   },
@@ -31,7 +31,7 @@
     "popularity-boosters-count" : 1
   },
   "p-ram-amounts" : [ "RAM" ],
-  "vote-percentage" : 0.00615151589377369,
+  "vote-percentage" : 0.01703991800975865,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -52,6 +52,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 54,
-  "snapshot-date" : "2021-03-13T04:22:50.219Z"
+  "place" : 26,
+  "snapshot-date" : "2021-06-01T02:33:25.789Z"
 }

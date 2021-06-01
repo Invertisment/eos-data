@@ -1,18 +1,25 @@
 {
   "bp-header" : {
-    "owner" : "gerryduan123",
-    "total_votes" : "0.00000000000000000",
-    "producer_key" : "EOS1111111111111111111111111111111114T1Anm",
-    "is_active" : 0,
-    "url" : "https://eos.bitcoingod.org/",
+    "prepared-url" : "http://0",
+    "producer_authority" : [ "block_signing_authority_v0", {
+      "threshold" : 1,
+      "keys" : [ {
+        "key" : "EOS5Wpj2HDzq5wjZLp12usGKov6qGMn6fp8iq5j6dg6eFk64WxPLS",
+        "weight" : 1
+      } ]
+    } ],
     "unpaid_blocks" : 0,
-    "last_claim_time" : "1970-01-01T00:00:00.000",
+    "is_active" : 1,
+    "producer_key" : "EOS5Wpj2HDzq5wjZLp12usGKov6qGMn6fp8iq5j6dg6eFk64WxPLS",
+    "url" : "0",
+    "last_claim_time" : "2021-04-03T11:50:42.000",
+    "total_votes" : "0.00000000000000000",
     "location" : 0,
-    "prepared-url" : "https://eos.bitcoingod.org/"
+    "owner" : "basminerxxx5"
   },
   "bp-json-summary" : {
-    "dl-error" : "Connection refused (Connection refused)",
-    "url" : "https://eos.bitcoingod.org/bp.json"
+    "dl-error" : "no protocol: 0/bp.json",
+    "url" : "0/bp.json"
   },
   "webpage-error" : "Connection refused (Connection refused)",
   "vote-percentage" : 0.0,
@@ -25,9 +32,9 @@
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
-      "url" : "https://eos.bitcoingod.org/bp.json",
+      "url" : "0/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Connection refused (Connection refused)"
+      "error" : "no protocol: 0/bp.json"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +43,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 459,
+  "place" : 472,
   "snapshot-date" : "2021-06-01T02:33:25.789Z"
 }

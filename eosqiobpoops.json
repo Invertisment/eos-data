@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosqiobpoops",
-    "total_votes" : "7551081321257.47167968750000000",
+    "total_votes" : "7518260266241.19140625000000000",
     "producer_key" : "EOS8YMrPj8BbGP1LwAJjWKtiusjSGiHzLNZwsTTzTh78yhzFLzGQo",
     "is_active" : 1,
     "url" : "https://eosq.io",
@@ -14,13 +14,13 @@
     "dl-error" : "eosq.io",
     "url" : "https://eosq.io/bp.json"
   },
-  "webpage-error" : "eosq.io: Name or service not known",
-  "vote-percentage" : 2.6490845932580313E-8,
+  "webpage-error" : "eosq.io",
+  "vote-percentage" : 3.457303426066619E-8,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "eosq.io: Name or service not known",
+      "error" : "eosq.io",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 332,
-  "snapshot-date" : "2021-03-13T04:22:50.219Z"
+  "place" : 269,
+  "snapshot-date" : "2021-06-01T02:33:25.789Z"
 }

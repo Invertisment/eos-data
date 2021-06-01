@@ -1,18 +1,19 @@
 {
   "bp-header" : {
     "owner" : "eosflytomars",
-    "total_votes" : "6609483252480346112.00000000000000000",
+    "total_votes" : "6579362501930630144.00000000000000000",
     "producer_key" : "EOS6Agpfp38bTyRjJDmB4Qb1EpQSq7wnEAsALXgXE7KFSzKjokkFD",
     "is_active" : 1,
     "url" : "https://www.bitmars.one",
-    "unpaid_blocks" : 6696,
-    "last_claim_time" : "2021-03-31T06:02:11.000",
+    "unpaid_blocks" : 900,
+    "last_claim_time" : "2021-05-31T23:50:56.500",
     "location" : 156,
     "prepared-url" : "https://www.bitmars.one"
   },
   "bp-json-summary" : {
-    "read-error" : "read:'https://www.bitmars.one/bp.json': Unexpected character (',' (code 44)): was expecting a colon to separate field name and value\n at [Source: (StringReader); line: 36, column: 48]",
-    "url" : "https://www.bitmars.one/bp.json"
+    "url" : "https://www.bitmars.one/bp.json",
+    "logo" : "https://api.bitmars.one/logo-256.png",
+    "code_of_conduct" : "https://medium.com/@bitmars/code-of-conduct-48b06093ff4c"
   },
   "analyzed-urls" : {
     "relative-links-count" : 15,
@@ -21,7 +22,7 @@
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.04547101433913273,
+  "vote-percentage" : 0.0302554736251921,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -29,19 +30,23 @@
       "title" : "web",
       "url" : "https://www.bitmars.one"
     }, {
-      "title" : "bp-json-err",
-      "mood" : "warn",
-      "url" : "https://www.bitmars.one/bp.json",
-      "paragraphs" : [ "bp-json-invalid" ],
-      "error" : "read:'https://www.bitmars.one/bp.json': Unexpected character (',' (code 44)): was expecting a colon to separate field name and value\n at [Source: (StringReader); line: 36, column: 48]"
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "bp-json",
+      "url" : "https://www.bitmars.one/bp.json"
+    }, {
+      "score" : "positive",
+      "mood" : "good",
+      "title" : "coc",
+      "url" : "https://medium.com/@bitmars/code-of-conduct-48b06093ff4c"
     }, {
       "mood" : "warn",
-      "title" : "cant-load-coc",
-      "paragraphs" : [ "p-cant-load-bp-json" ]
+      "title" : "t-coc-social",
+      "paragraphs" : [ "p-coc-social" ]
     } ],
-    "score" : 1,
+    "score" : 3,
     "max" : 3
   },
   "place" : 9,
-  "snapshot-date" : "2021-04-01T01:36:48.060Z"
+  "snapshot-date" : "2021-06-01T02:33:25.789Z"
 }

@@ -8,12 +8,12 @@
         "weight" : 1
       } ]
     } ],
-    "unpaid_blocks" : 1235,
+    "unpaid_blocks" : 0,
     "is_active" : 1,
     "producer_key" : "EOS66Guagdf4FSN9diXivjeW5tV8yPqBrQFFusTaN7rLTWD5LsnSN",
     "url" : "https://bridgepool.lambda.im",
-    "last_claim_time" : "2021-03-13T00:38:18.000",
-    "total_votes" : "6487807588958359552.00000000000000000",
+    "last_claim_time" : "2021-05-31T04:48:42.000",
+    "total_votes" : "5081855435133926400.00000000000000000",
     "location" : 0,
     "owner" : "eoslambdacom"
   },
@@ -30,7 +30,7 @@
     "popularity-boosters-count" : 1
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.022760648967650156,
+  "vote-percentage" : 0.023369124750249968,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -52,5 +52,5 @@
     "max" : 3
   },
   "place" : 18,
-  "snapshot-date" : "2021-03-13T04:22:50.219Z"
+  "snapshot-date" : "2021-06-01T02:33:25.789Z"
 }

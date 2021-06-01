@@ -1,49 +1,41 @@
 {
   "bp-header" : {
     "owner" : "certikeosorg",
-    "total_votes" : "2651842755691934208.00000000000000000",
+    "total_votes" : "2535768400930210304.00000000000000000",
     "producer_key" : "EOS57kRcpx1QT4Wn4uA6agwYdJNGew4cfrzKnzrvQZiVE85huUBAB",
     "is_active" : 1,
     "url" : "https://certik.org",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2021-03-31T06:47:22.500",
+    "last_claim_time" : "2021-05-31T05:13:06.000",
     "location" : 840,
     "prepared-url" : "https://certik.org"
   },
   "bp-json-summary" : {
-    "dl-error" : "clj-http: status 404",
+    "dl-error" : "clj-http: status 308",
     "url" : "https://certik.org/bp.json"
   },
-  "analyzed-urls" : {
-    "relative-links-count" : 35,
-    "duplicate-urls" : null,
-    "social-links" : [ "https://discord.gg/CggeAUYfwx", "https://github.com/certikfoundation", "https://medium.com/certik-foundation", "https://t.me/certikfoundation", "https://twitter.com/certikorg" ],
-    "social-links-count" : 5,
-    "popularity-boosters" : [ "https://docs.certik.foundation/certik-chain/", "https://explorer.certik.foundation/", "https://shield.certik.foundation/", "https://wallet.certik.foundation/" ],
-    "popularity-boosters-count" : 4
-  },
-  "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.01824378326761662,
+  "webpage-error" : "clj-http: status 308",
+  "vote-percentage" : 0.01166083704179953,
   "scoring" : {
     "comp" : [ {
-      "score" : "positive",
-      "mood" : "good",
-      "title" : "web",
-      "url" : "https://certik.org"
+      "mood" : "bad",
+      "title" : "no-web",
+      "error" : "clj-http: status 308",
+      "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://certik.org/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "clj-http: status 404"
+      "error" : "clj-http: status 308"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
       "paragraphs" : [ "p-cant-load-bp-json" ]
     } ],
-    "score" : 1,
+    "score" : 0,
     "max" : 3
   },
-  "place" : 20,
-  "snapshot-date" : "2021-04-01T01:36:48.060Z"
+  "place" : 30,
+  "snapshot-date" : "2021-06-01T02:33:25.789Z"
 }

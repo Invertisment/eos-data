@@ -1,28 +1,29 @@
 {
   "bp-header" : {
     "owner" : "eosiodetroit",
-    "total_votes" : "3664951105031891968.00000000000000000",
+    "total_votes" : "2194743912481391104.00000000000000000",
     "producer_key" : "EOS8XCTx97A3ZBM5KgAZkZMb2k2feYK1ukJzMuEX7pUXW1TMG8spt",
     "is_active" : 1,
     "url" : "https://eosdetroit.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2021-03-12T19:57:03.500",
+    "last_claim_time" : "2021-05-31T08:22:03.000",
     "location" : 840,
     "prepared-url" : "https://eosdetroit.io"
   },
   "bp-json-summary" : {
     "url" : "https://eosdetroit.io/bp.json",
-    "logo" : "https://eosdetroit.io/images/eos_detroit_logo_transparent_256.png",
+    "logo" : "https://eosdetroit.io/images/EOSD_logo_transparent_256.png",
     "code_of_conduct" : "https://steemit.com/eos/@eos.detroit/eos-detroit-membership-guidelines"
   },
   "analyzed-urls" : {
-    "relative-links-count" : 10,
     "duplicate-urls" : null,
-    "social-links" : [ ],
-    "popularity-boosters" : [ ]
+    "social-links" : [ "https://eosdetroit.medium.com/it-is-easy-being-green-eco-friendly-options-for-nfts-3143ca1929ed", "https://t.me/eos_detroit", "https://twitter.com/@eosiodetroit" ],
+    "social-links-count" : 3,
+    "popularity-boosters" : [ "about.htm", "https://bit.ly/EOSDetProxyVol4", "https://eos.io/", "https://facings.io", "https://fioprotocol.io/", "https://newlife.ai", "https://telos.net/", "https://test.cudurru.io", "https://wax.io", "https://www.eosx.io/tools/vote?voteTo=eosiodetroit", "https://www.protonchain.com/", "news/new-eosdet-site.htm" ],
+    "popularity-boosters-count" : 12
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.012857450601216932,
+  "vote-percentage" : 0.01009262166944693,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -43,6 +44,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 32,
-  "snapshot-date" : "2021-03-13T04:22:50.219Z"
+  "place" : 36,
+  "snapshot-date" : "2021-06-01T02:33:25.789Z"
 }

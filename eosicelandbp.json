@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "eosicelandbp",
-    "total_votes" : "62985761262024.60156250000000000",
+    "total_votes" : "62734795358910.21875000000000000",
     "producer_key" : "EOS816tGGuqYWDTwdLFGGTx2SsD7xbzkhbVgFZQB9bLjvxs7gwoFD",
     "is_active" : 1,
     "url" : "https://eosiceland.is",
@@ -11,23 +11,23 @@
     "prepared-url" : "https://eosiceland.is"
   },
   "bp-json-summary" : {
-    "dl-error" : "Certificate for <eosiceland.is> doesn't match any of the subject alternative names: [*.squarespace.com, squarespace.com, *.campaign-preferences.com, campaign-preferences.com, *.engage.squarespace-mail.com, engage.squarespace-mail.com, sqsp.net, static1.1.sqspcdn.com, static2.1.sqspcdn.com, static1.2.sqspcdn.com, cdn1.1.sqspcdn.com]",
+    "dl-error" : "Certificate for <eosiceland.is> doesn't match any of the subject alternative names: [*.squarespace.com, *.campaign-preferences.com, *.engage.squarespace-mail.com, *.sqsp.net, *.sqspcdn.com, squarespace.com, campaign-preferences.com, engage.squarespace-mail.com, sqsp.net, static1.1.sqspcdn.com, static2.1.sqspcdn.com, static1.2.sqspcdn.com, cdn1.1.sqspcdn.com, sqspcdn.com]",
     "url" : "https://eosiceland.is/bp.json"
   },
-  "webpage-error" : "Certificate for <eosiceland.is> doesn't match any of the subject alternative names: [*.squarespace.com, squarespace.com, *.campaign-preferences.com, campaign-preferences.com, *.engage.squarespace-mail.com, engage.squarespace-mail.com, sqsp.net, static1.1.sqspcdn.com, static2.1.sqspcdn.com, static1.2.sqspcdn.com, cdn1.1.sqspcdn.com]",
-  "vote-percentage" : 2.209678358040406E-7,
+  "webpage-error" : "Certificate for <eosiceland.is> doesn't match any of the subject alternative names: [*.squarespace.com, *.campaign-preferences.com, *.engage.squarespace-mail.com, *.sqsp.net, *.sqspcdn.com, squarespace.com, campaign-preferences.com, engage.squarespace-mail.com, sqsp.net, static1.1.sqspcdn.com, static2.1.sqspcdn.com, static1.2.sqspcdn.com, cdn1.1.sqspcdn.com, sqspcdn.com]",
+  "vote-percentage" : 2.884885801331614E-7,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Certificate for <eosiceland.is> doesn't match any of the subject alternative names: [*.squarespace.com, squarespace.com, *.campaign-preferences.com, campaign-preferences.com, *.engage.squarespace-mail.com, engage.squarespace-mail.com, sqsp.net, static1.1.sqspcdn.com, static2.1.sqspcdn.com, static1.2.sqspcdn.com, cdn1.1.sqspcdn.com]",
+      "error" : "Certificate for <eosiceland.is> doesn't match any of the subject alternative names: [*.squarespace.com, *.campaign-preferences.com, *.engage.squarespace-mail.com, *.sqsp.net, *.sqspcdn.com, squarespace.com, campaign-preferences.com, engage.squarespace-mail.com, sqsp.net, static1.1.sqspcdn.com, static2.1.sqspcdn.com, static1.2.sqspcdn.com, cdn1.1.sqspcdn.com, sqspcdn.com]",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eosiceland.is/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Certificate for <eosiceland.is> doesn't match any of the subject alternative names: [*.squarespace.com, squarespace.com, *.campaign-preferences.com, campaign-preferences.com, *.engage.squarespace-mail.com, engage.squarespace-mail.com, sqsp.net, static1.1.sqspcdn.com, static2.1.sqspcdn.com, static1.2.sqspcdn.com, cdn1.1.sqspcdn.com]"
+      "error" : "Certificate for <eosiceland.is> doesn't match any of the subject alternative names: [*.squarespace.com, *.campaign-preferences.com, *.engage.squarespace-mail.com, *.sqsp.net, *.sqspcdn.com, squarespace.com, campaign-preferences.com, engage.squarespace-mail.com, sqsp.net, static1.1.sqspcdn.com, static2.1.sqspcdn.com, static1.2.sqspcdn.com, cdn1.1.sqspcdn.com, sqspcdn.com]"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 256,
-  "snapshot-date" : "2021-03-13T04:22:50.219Z"
+  "place" : 199,
+  "snapshot-date" : "2021-06-01T02:33:25.789Z"
 }

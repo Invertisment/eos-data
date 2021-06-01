@@ -11,23 +11,23 @@
     "prepared-url" : "https://eosarabia.one"
   },
   "bp-json-summary" : {
-    "dl-error" : "Connection refused (Connection refused)",
+    "dl-error" : "eosarabia.one",
     "url" : "https://eosarabia.one/bp.json"
   },
-  "webpage-error" : "Connection refused (Connection refused)",
-  "vote-percentage" : 9.280177615574124E-10,
+  "webpage-error" : "eosarabia.one: Name or service not known",
+  "vote-percentage" : 6.203107293623816E-10,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
       "title" : "no-web",
-      "error" : "Connection refused (Connection refused)",
+      "error" : "eosarabia.one: Name or service not known",
       "paragraphs" : [ "web-fetch-failure" ]
     }, {
       "title" : "bp-json-err",
       "mood" : "warn",
       "url" : "https://eosarabia.one/bp.json",
       "paragraphs" : [ "bp-json-policy" ],
-      "error" : "Connection refused (Connection refused)"
+      "error" : "eosarabia.one"
     }, {
       "mood" : "warn",
       "title" : "cant-load-coc",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 183,
-  "snapshot-date" : "2021-04-01T01:36:48.060Z"
+  "place" : 361,
+  "snapshot-date" : "2021-06-01T02:33:25.789Z"
 }

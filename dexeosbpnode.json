@@ -1,12 +1,12 @@
 {
   "bp-header" : {
     "owner" : "dexeosbpnode",
-    "total_votes" : "1603378077150876928.00000000000000000",
+    "total_votes" : "1575322264418747904.00000000000000000",
     "producer_key" : "EOS5qraVVdEwHaouJEqpFWJfZuxQViDxP3WZ826wGwt2bxnfuEGRF",
     "is_active" : 1,
     "url" : "https://dexeos.io",
     "unpaid_blocks" : 0,
-    "last_claim_time" : "2021-03-31T23:27:58.000",
+    "last_claim_time" : "2021-05-31T04:24:24.000",
     "location" : 0,
     "prepared-url" : "https://dexeos.io"
   },
@@ -15,7 +15,7 @@
     "url" : "https://dexeos.io/bp.json"
   },
   "webpage-error" : "dexeos.io: Temporary failure in name resolution",
-  "vote-percentage" : 0.011030700094416404,
+  "vote-percentage" : 0.007244185315570237,
   "scoring" : {
     "comp" : [ {
       "mood" : "bad",
@@ -36,6 +36,6 @@
     "score" : 0,
     "max" : 3
   },
-  "place" : 28,
-  "snapshot-date" : "2021-04-01T01:36:48.060Z"
+  "place" : 44,
+  "snapshot-date" : "2021-06-01T02:33:25.789Z"
 }

@@ -1,7 +1,7 @@
 {
   "bp-header" : {
     "owner" : "costaricaeos",
-    "total_votes" : "539223570405636992.00000000000000000",
+    "total_votes" : "617272764909849856.00000000000000000",
     "producer_key" : "EOS7phU8qE6nPCfpkCQ2T3HmRwGg6z4v61RTLvPBBVmPWmPisZoWY",
     "is_active" : 1,
     "url" : "https://eoscostarica.io",
@@ -16,12 +16,13 @@
     "code_of_conduct" : "https://eoscostarica.io/block-producer/#code-of-conduct"
   },
   "analyzed-urls" : {
+    "relative-links-count" : 1,
     "duplicate-urls" : null,
     "social-links" : [ ],
     "popularity-boosters" : [ ]
   },
   "p-ram-amounts" : [ ],
-  "vote-percentage" : 0.003709676197864907,
+  "vote-percentage" : 0.002838554624828647,
   "scoring" : {
     "comp" : [ {
       "score" : "positive",
@@ -42,6 +43,6 @@
     "score" : 3,
     "max" : 3
   },
-  "place" : 34,
-  "snapshot-date" : "2021-04-01T01:36:48.060Z"
+  "place" : 50,
+  "snapshot-date" : "2021-06-01T02:33:25.789Z"
 }
